@@ -1,0 +1,6 @@
+choice_data_export_tag,key,question_id,survey_id,text,is_deleted,_fivetran_synced,source_relation
+,2,QID4,SV_06auvDLqWENyV6t,Product,f,2023-06-05 03:04:30.892,""
+,1,QID4,SV_06auvDLqWENyV6t,QA,f,2023-06-05 03:04:30.892,""
+,3,QID4,SV_06auvDLqWENyV6t,Support,f,2023-06-05 03:04:30.892,""
+,1,QID6,SV_06auvDLqWENyV6t,Java,f,2023-06-05 03:04:30.893,""
+,3,QID6,SV_06auvDLqWENyV6t,C,f,2023-06-05 03:04:30.893,""

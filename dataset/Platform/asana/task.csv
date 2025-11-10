@@ -1,0 +1,2 @@
+id,assignee_id,completed,completed_at,completed_by_id,created_at,due_on,due_at,modified_at,name,parent_id,start_on,notes,workspace_id,_fivetran_synced
+1138074657603006,1126539287026862,t,2019-09-18 16:48:31.176,,2019-09-02 14:53:02.685,2019-09-25 00:00:00,,2021-12-18 14:01:40.058,cool name,,,many notes,2104505001950,2021-03-22 14:20:57

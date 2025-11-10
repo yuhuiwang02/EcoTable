@@ -1,0 +1,1 @@
+source_relation,schedule_id,schedule_id_index,time_zone,schedule_name,offset_minutes,start_time_utc,end_time_utc,schedule_valid_from,schedule_valid_until,schedule_starting_sunday,schedule_ending_sunday,change_type

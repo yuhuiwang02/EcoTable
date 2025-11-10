@@ -1,0 +1,38 @@
+ticket_id,field_name,valid_starting_at,valid_ending_at,value,user_id,source_relation
+95,status,2020-02-10 08:36:39,,solved,,zendesk.public
+102,status,2020-02-10 08:36:38,2020-02-10 08:36:38,solved,,zendesk.public
+102,status,2020-02-10 08:36:38,2020-02-10 08:36:38,solved,,zendesk.public
+102,status,2020-02-10 08:36:38,2020-02-10 08:36:38,solved,,zendesk.public
+102,status,2020-02-10 08:36:38,,solved,,zendesk.public
+103,status,2020-02-10 08:36:38,,solved,,zendesk.public
+107,status,2020-02-10 08:36:38,,solved,,zendesk.public
+108,assignee_id,2020-02-10 08:36:38,,1111,,zendesk.public
+141,status,2020-02-10 08:36:25,,solved,,zendesk.public
+226,status,2020-02-10 08:35:52,,solved,,zendesk.public
+229,status,2020-02-10 08:35:52,,solved,,zendesk.public
+312,status,2020-02-10 08:35:18,,solved,,zendesk.public
+974,status,2020-02-10 21:47:41,,solved,,zendesk.public
+980,priority,2020-02-10 22:06:57,,solved,,zendesk.public
+982,status,2020-02-10 22:32:56,,solved,,zendesk.public
+1192,status,2020-02-12 00:22:26,,solved,,zendesk.public
+6964,status,2020-06-01 21:11:59,,solved,,zendesk.public
+8205,status,2020-07-07 23:01:47,,solved,,zendesk.public
+11016,status,2020-09-02 15:53:15,,solved,,zendesk.public
+11071,assignee_id,2020-08-28 11:01:27,,1111,,zendesk.public
+11071,priority,2020-08-28 11:01:27,2020-09-30 11:01:27,normal,,zendesk.public
+11071,priority,2020-09-30 11:01:27,2020-10-15 11:01:27,medium,,zendesk.public
+11071,priority,2020-10-15 11:01:27,2020-11-02 11:01:27,high,,zendesk.public
+11071,priority,2020-11-02 11:01:27,,urgent,,zendesk.public
+11071,status,2020-08-28 11:01:27,2020-08-29 11:01:27,open,,zendesk.public
+11071,status,2020-08-29 11:01:27,2020-09-02 11:01:27,pending,,zendesk.public
+11071,status,2020-09-02 11:01:27,2020-09-05 11:01:27,on-hold,,zendesk.public
+11071,status,2020-09-05 11:01:27,2020-09-15 11:01:27,pending,,zendesk.public
+11071,status,2020-09-15 11:01:27,2020-09-30 11:01:27,open,,zendesk.public
+11071,status,2020-09-30 11:01:27,2020-10-01 11:01:27,pending,,zendesk.public
+11071,status,2020-10-01 11:01:27,2020-10-15 11:01:27,on-hold,,zendesk.public
+11071,status,2020-10-15 11:01:27,2020-10-17 11:01:27,open,,zendesk.public
+11071,status,2020-10-17 11:01:27,2020-10-20 11:01:27,on-hold,,zendesk.public
+11071,status,2020-10-20 11:01:27,2020-11-02 11:01:27,pending,,zendesk.public
+11071,status,2020-11-02 11:01:27,2020-11-14 11:01:27,open,,zendesk.public
+11071,status,2020-11-14 11:01:27,2020-11-15 11:01:27,solved,,zendesk.public
+11071,status,2020-11-15 11:01:27,,closed,,zendesk.public

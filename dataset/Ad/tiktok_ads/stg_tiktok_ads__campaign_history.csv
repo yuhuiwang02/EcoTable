@@ -1,0 +1,5 @@
+source_relation,campaign_id,updated_at,advertiser_id,campaign_name,campaign_type,split_test_variable,objective_type,status,budget,budget_mode,created_at,is_new_structure,is_most_recent_record
+"",1,2021-09-15 00:52:08,1,campaign name one,REGULAR_CAMPAIGN,,CONVERSIONS,,450,BUDGET_MODE_DAY,2021-08-16 20:40:15.000,t,t
+"",2,2021-09-15 01:33:37,2,campaign name two,REGULAR_CAMPAIGN,,CONVERSIONS,,300,BUDGET_MODE_DAY,2021-08-16 20:29:06.000,t,t
+"",3,2021-09-14 02:53:48,3,campaign name three,REGULAR_CAMPAIGN,,CONVERSIONS,,450,BUDGET_MODE_DAY,2021-08-16 20:40:15.000,t,t
+"",4,2021-09-14 02:59:01,4,campaign name four,REGULAR_CAMPAIGN,,CONVERSIONS,,300,BUDGET_MODE_DAY,2021-08-16 20:29:06.000,t,t

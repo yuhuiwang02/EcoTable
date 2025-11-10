@@ -1,0 +1,6 @@
+contact_id,contact_lookup_id,directory_id,mailing_list_id,name,owner_user_id,unsubscribed_at,is_unsubscribed,_fivetran_synced,source_relation
+CID_0VVnnbsmkvMGyrj,CGC_BH2ZlyV81xz5w1R,POOL_vw3p9mEAf692Aql,CG_T1Ppmm6s8WF9uRr,TestMl,UR_cYdNGsrFUemlDbD,,f,2023-06-05 03:06:31.111,""
+CID_0VVnnbsmkvMGyrj,CGC_bhc0s38kcQd67LH,POOL_vw3p9mEAf692Aql,CG_3GrJHnIL1pkJw1P,TodayML,UR_cYdNGsrFUemlDbD,,f,2023-06-05 03:06:31.111,""
+CID_d060swLlNUKGa1L,CGC_kVu3GCgKacGvOKf,POOL_vw3p9mEAf692Aql,CG_2B4IIbgp8ZC0NVn,MailAgain,UR_cYdNGsrFUemlDbD,,f,2023-06-05 03:06:31.668,""
+CID_0pkCodbTgpX4awd,CGC_RSisAWjzoEqI8Lr,POOL_vw3p9mEAf692Aql,CG_2B4IIbgp8ZC0NVn,MailAgain,UR_cYdNGsrFUemlDbD,,f,2023-06-05 03:06:31.145,""
+CID_6fEsreE9bM67AVv,CGC_TReR1yFov0IUarm,POOL_vw3p9mEAf692Aql,CG_2B4IIbgp8ZC0NVn,MailAgain,UR_cYdNGsrFUemlDbD,,f,2023-06-05 03:06:31.215,""

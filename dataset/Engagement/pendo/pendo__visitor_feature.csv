@@ -1,0 +1,3 @@
+visitor_id,feature_id,feature_name,product_area_id,product_area_name,first_click_at,last_click_at,sum_clicks,sum_minutes,avg_daily_minutes,count_active_days,count_click_events
+billy_idol_again,61muxsf-RhA7TGh34twJZxGGJ7U,Close Modal,,,2021-04-19 10:00:00,2021-04-19 10:00:00,2,2,2.000,1,1
+billy_idol_again,84eKv2U6eGlGgQ7NYYURCkfkSxU,Add New thing,_PENDO_DEFAULTGROUP_00_,shirts,2021-06-03 05:00:00,2021-06-03 05:00:00,1,1,1.000,1,1

@@ -1,0 +1,5 @@
+source_relation,ad_id,updated_at,ad_group_id,advertiser_id,campaign_id,ad_name,call_to_action,click_tracking_url,impression_tracking_url,base_url,url_host,url_path,utm_source,utm_medium,utm_campaign,utm_content,utm_term,landing_page_url,is_most_recent_record
+"",1,2021-09-15 04:26:28,1,1,1,ad name one,SIGN_UP,,,landing_page,landing_page,/landing_page,,,,,,landing_page,t
+"",2,2021-09-15 03:19:25,2,2,2,ad name two,SIGN_UP,,,landing_page,landing_page,/landing_page,,,,,,landing_page,t
+"",3,2021-09-15 03:54:51,3,3,3,ad name three,INTERESTED,,,landing_page,landing_page,/landing_page,,,,,,landing_page,t
+"",4,2021-09-15 04:26:26,4,4,4,ad name four,SUBSCRIBE,,,landing_page,landing_page,/landing_page,,,,,,landing_page,t

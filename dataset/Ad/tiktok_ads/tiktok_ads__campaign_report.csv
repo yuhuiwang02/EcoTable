@@ -1,0 +1,5 @@
+source_relation,date_day,advertiser_id,advertiser_name,campaign_id,campaign_name,currency,impressions,clicks,spend,reach,conversion,likes,comments,shares,profile_visits,follows,video_watched_2_s,video_watched_6_s,video_views_p_25,video_views_p_50,video_views_p_75,real_time_conversion,total_purchase_value,total_sales_lead_value,total_conversion_value,daily_cpc,daily_cpm,daily_ctr
+"",2021-09-15,1,US,1,campaign name one,USD,22222,22,222.12,22413,0,22,0,0,0,0,2222,322,233,222,222,0,0,0,0,10.096363636363636,9.99549995499955,0
+"",2021-09-15,,,3,campaign name three,,12222,222,222.22,0,2,22,0,2,0,0,3322,2222,2335,787,222,2,0,0,0,1.000990990990991,18.181966944853542,0
+"",2021-09-15,2,Canada,2,campaign name two,CAN,4,0,0.22,4,0,2,0,0,0,0,2,2,1,0,0,0,0.01,0.01,0.02,,55,0
+"",2021-09-15,,,4,campaign name four,,22,0,0.232,0,0,22,0,0,0,0,3,4,2,1,1,0,0,0,0,,10.545454545454545,0

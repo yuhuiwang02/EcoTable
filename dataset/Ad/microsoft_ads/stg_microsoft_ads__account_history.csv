@@ -1,0 +1,4 @@
+source_relation,account_id,account_name,modified_at,time_zone,currency_code,is_most_recent_record
+"",150175881,Fivetran,2021-07-02 19:13:42.87,PacificTimeUSCanadaTijuana,USD,t
+"",150175881,Fivetran,2019-06-13 07:02:50.96,PacificTimeUSCanadaTijuana,USD,f
+"",150175881,Fivetran,2019-06-13 07:02:50.096,PacificTimeUSCanadaTijuana,USD,f

@@ -1,0 +1,6 @@
+account_id,last_updated_at,account_id_hash,first_visit_at,last_visit_at,_fivetran_synced,latest_account_index,count_associated_visitors,min_nps_rating,max_nps_rating,avg_nps_rating,count_active_visitors,count_page_viewing_visitors,count_feature_clicking_visitors,count_active_days,count_active_months,sum_minutes,sum_events,count_event_records,average_daily_minutes,average_daily_events,first_event_on,last_event_on
+cabby_distinct,2021-07-28 04:49:01.997,2663127974,2021-07-27 18:27:45.117,2021-07-28 04:49:01.902,2021-07-28 08:16:15.51,1,0,,,,0,0,0,0,0,0,0,0,0,0,,
+lemur_quicker,2021-07-28 06:59:01.349,3356453224,2020-05-29 13:35:08.959,2021-04-02 20:54:26.826,2021-07-28 08:16:15.424,1,0,,,,0,0,0,0,0,0,0,0,0,0,,
+no_jitterbug,2021-07-28 07:09:00.047,2750985468,2021-07-28 04:49:27.833,2021-07-28 07:08:59.867,2021-07-28 08:16:15.653,1,0,,,,0,0,0,0,0,0,0,0,0,0,,
+true_opossum,2021-07-28 07:09:18.820,3291773115,2021-07-28 07:00:22.146,2021-07-28 07:09:18.785,2021-07-28 08:16:15.661,1,0,,,,0,0,0,0,0,0,0,0,0,0,,
+turtle_tortuous,2021-07-27 21:17:07.215,3852515384,2021-07-27 16:07:00.360,2021-07-27 21:17:07.181,2021-07-28 08:16:15.44,1,0,,,,0,0,0,0,0,0,0,0,0,0,,

@@ -1,0 +1,6 @@
+question_id,survey_id,key,recode_value,text,is_deleted,_fivetran_synced,source_relation
+QID1,SV_5vVBVUfSVz94szc,1,1,Testing 1,f,2023-06-05 03:05:08.604,""
+QID1,SV_08GFzuA5eDhxx53,1,1,Click to write Choice 1,f,2023-06-05 03:04:38.166,""
+QID1,SV_6zmBz8qb19bpMvH,1,1,Click to write Choice 1,f,2023-06-05 03:05:23.519,""
+QID1,SV_1XGe0Xykmeo0lyB,1,1,Click to write Choice 1,f,2023-06-05 03:05:01.276,""
+QID1,SV_0VZnz7EkhZquEKy,1,1,Click to write Choice 1,f,2023-06-05 03:04:45.576,""

@@ -1,0 +1,5 @@
+source_relation,date_day,advertiser_id,advertiser_name,campaign_id,campaign_name,ad_group_id,ad_group_name,ad_id,ad_name,currency,category,gender,audience_type,budget,impressions,clicks,spend,reach,conversion,likes,comments,shares,profile_visits,follows,video_watched_2_s,video_watched_6_s,video_views_p_25,video_views_p_50,video_views_p_75,real_time_conversion,total_purchase_value,total_sales_lead_value,total_conversion_value,daily_cpc,daily_cpm,daily_ctr
+"",2021-09-15,111,US,1,campaign name one,1,Ad group name one,1,ad name one,USD,0,GENDER_UNLIMITED,,500,23,0,2.22,0,0,0,0,0,0,0,2,22,22,2,2,0,0,0,0,,96.5217391304348,0
+"",2021-09-15,222,Canada,2,campaign name two,2,Ad group name two,2,ad name two,CAN,0,GENDER_UNLIMITED,,0,22,0,0.22,0,0,0,0,0,0,0,2,2,3,0,0,0,0.01,0.01,0.02,,10,0
+"",2021-09-15,333,,3,campaign name three,3,Ad group name three,3,ad name three,,0,GENDER_UNLIMITED,,900,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+"",2021-09-15,444,,4,campaign name four,4,Ad group name four,4,ad name four,,0,GENDER_UNLIMITED,,500,22,2,0.22,0,2,2,0,0,0,0,2,2,2,2,2,2,0,0,0,0.11,10,0

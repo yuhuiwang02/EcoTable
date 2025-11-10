@@ -1,0 +1,4 @@
+rclnt,ryear,docnr,rldnr,rbukrs,docln,activ,rmvct,rtcur,runit,awtyp,rrcty,rvers,logsys,racct,cost_elem,rcntr,prctr,rfarea,rbusa,kokrs,segment,scntr,pprctr,sfarea,sbusa,rassc,psegment,tsl,hsl,ksl,osl,msl,wsl,drcrk,poper,rwcur,gjahr,budat,belnr,buzei,bschl,bstat,faglflexa_timestamp,_fivetran_synced
+800,2007,0100002655,0l,3000,000002,rfbu,,usd,,bkpf,0,001,,0000113100,,,,,,2000,,,,,,,,-2949.00,-2949.00,-2286.05,-2949.00,0.000,-2949.00,h,006,usd,2006,20060601,0200001076,002,50,,20070525092226,2023-03-28 15:56:32
+800,2007,0100002658,0l,3000,000002,rfbu,,usd,,bkpf,0,001,,0000113100,,,,,,2000,,,,,,,,-655.50,-655.50,-508.14,-655.50,0.000,-655.50,h,006,usd,2006,20060601,0200001077,002,50,,20070525092228,2023-03-28 15:56:32
+800,2007,0100002659,0l,3000,000002,rfbu,,usd,,bkpf,0,001,,0000113100,,,,,,2000,,,,,,,,-1595.28,-1595.28,-1236.65,-1595.28,0.000,-1595.28,h,006,usd,2006,20060601,0200001078,002,50,,20070525092228,2023-03-28 15:56:32

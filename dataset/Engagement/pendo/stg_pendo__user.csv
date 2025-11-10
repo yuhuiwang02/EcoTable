@@ -1,0 +1,6 @@
+user_id,deleted_at,first_name,last_name,user_type,username,_fivetran_synced
+5748677122064384,,neeharika,bhartiya ,normal,bob@fivetran.com,2021-04-17 13:23:31.341
+5714545858969600,,Andrei,Lukianov,normal,linda@fivetran.com,2021-06-15 20:08:22.867
+5762648382242816,,Amy,Peterson,normal,jean@fivetran.com,2021-03-16 20:08:15.481
+6249029895323648,,Drew,Greene,normal,tina@fivetran.com,2021-07-29 09:23:52.985
+5753804796854272,,Cat,Origitano,normal,louise@fivetran.com,2021-07-07 20:08:35.998

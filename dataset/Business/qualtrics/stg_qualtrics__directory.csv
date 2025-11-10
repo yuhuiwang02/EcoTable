@@ -1,0 +1,2 @@
+is_deduped_on_email,is_deduped_on_ext_ref,is_deduped_on_first_name,is_deduped_on_last_name,is_deduped_on_phone,directory_id,is_default,name,is_deleted,_fivetran_synced,source_relation
+t,f,f,f,f,POOL_vw3p9mEAf692Aql,t,Test_directory,f,2023-06-05 03:06:29.007,""

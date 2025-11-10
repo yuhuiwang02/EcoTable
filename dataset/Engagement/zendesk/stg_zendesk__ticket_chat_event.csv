@@ -1,0 +1,9 @@
+source_relation,_fivetran_synced,actor_id,chat_id,chat_index,created_at,external_message_id,filename,is_history_context,message,message_id,message_source,mime_type,original_message_type,parent_message_id,reason,size,status,status_updated_at,type,url
+zendesk.public,,403969141094,4323.953441.TyDt23helloZt4E,3,2023-12-12 11:20:28.994,,,,,,,,,,,,,,ChatMessage,
+zendesk.public,,403959218893,4323.953441.TyDs6revFIOI0Y,5,2023-12-12 11:16:58.905,,,,Hi there. Got a question? I'm here to help.,,,,,,,,,,ChatDepartmentTransfer,
+zendesk.public,,403969141094,4323.953441.T6OrgbvMIqPplK,2,2023-12-08 05:07:51.946,,,,TALK TO A HUMAN,,,,,,,,,,ChatEmailChanged,
+zendesk.public,,403959218893,4323.953441.TyDs6revFIOI0Y,0,2023-12-12 11:16:29.19,,,,Thanks. Let me connect you with a customer support agent.,,,,,,,,,,ChatMessage,
+zendesk.public,,403969141094,4323.953441.TyDfrDh7BV3QA,0,2023-12-12 10:27:50.256,,,,,,,,,,,,,,ChatJoin,
+zendesk.public,,403959218893,4323.953441.T6OrgbvMIqPplK,0,2023-12-08 05:07:28.408,,,,No problem. Just share a few details and I'll connect you with someone from our team.,,,,,,,,,,ChatMessage,
+zendesk.public,,403969141094,4323.953441.TzkBGrapJoA,0,2023-12-28 14:22:12.84,,,,No problem. Just share a few details and I'll connect you with someone from our team.,,,,,,,,,,ChatMessage,
+zendesk.public,,403959218893,4323.953441.TzkArUd3CjKI,0,2023-12-28 14:20:35.032,,,,Hi there. Got a question? I'm here to help.,,,,,,,,,,ChatMessage,

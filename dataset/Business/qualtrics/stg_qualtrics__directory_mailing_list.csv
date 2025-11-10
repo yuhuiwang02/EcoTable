@@ -1,0 +1,6 @@
+created_at,directory_id,mailing_list_id,last_modified_at,name,owner_user_id,is_deleted,_fivetran_synced,source_relation
+2020-06-19 18:41:15.768,POOL_vw3p9mEAf692Aql,CG_3lVV6y8VRw0CovA,2020-06-19 18:41:15.768,TestMailingList2,UR_cYdNGsrFUemlDbD,f,2023-06-05 03:06:29.408,""
+2020-08-10 11:43:01.844,POOL_vw3p9mEAf692Aql,CG_2YVdk5sjpPIUfBW,2020-08-10 11:43:01.844,Test_0810,UR_cYdNGsrFUemlDbD,f,2023-06-05 03:06:29.408,""
+2020-08-07 09:48:18.474,POOL_vw3p9mEAf692Aql,CG_2TOcRsxw5QF7r8d,2020-08-07 09:48:18.474,New Contact List (8/7/20 3:17 PM),UR_cYdNGsrFUemlDbD,f,2023-06-05 03:06:29.408,""
+2020-08-06 05:52:13.64,POOL_vw3p9mEAf692Aql,CG_UPYDsHbOosxP51D,2020-08-06 05:52:13.64,Test060820,UR_cYdNGsrFUemlDbD,f,2023-06-05 03:06:29.408,""
+2023-02-24 10:47:53.81,POOL_vw3p9mEAf692Aql,CG_2Xamq59U7RFDz1a,2023-02-24 10:47:53.81,New Contact List (2/24/23 4:17 PM),UR_cYdNGsrFUemlDbD,f,2023-06-05 03:06:29.408,""

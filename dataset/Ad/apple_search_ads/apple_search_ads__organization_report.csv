@@ -1,0 +1,13 @@
+source_relation,date_day,organization_id,organization_name,currency,taps,new_downloads,tap_new_downloads,redownloads,tap_redownloads,total_downloads,tap_total_downloads,conversions,tap_installs,impressions,spend
+"",2021-12-20,3219110,Tip Tap Cat,USD,3,0,0,0,0,0,0,0,0,63,0.32
+"",2021-12-10,3219110,Tip Tap Cat,USD,27,6,6,0,0,6,6,6,6,1494,25.88
+"",2021-12-12,3219110,Tip Tap Cat,USD,7,2,2,0,0,2,2,2,2,249,5.56
+"",2021-12-17,3219110,Tip Tap Cat,USD,5,0,0,0,0,0,0,0,0,100,5.09
+"",2021-12-18,3219110,Tip Tap Cat,USD,9,2,2,0,0,2,2,2,2,403,5
+"",2021-12-09,3219110,Tip Tap Cat,USD,31,1,1,0,0,1,1,1,1,1605,25.08
+"",2021-12-19,3219110,Tip Tap Cat,USD,9,4,4,0,0,4,4,4,4,426,5.95
+"",2021-12-14,3219110,Tip Tap Cat,USD,11,4,4,0,0,4,4,4,4,350,5.03
+"",2021-12-16,3219110,Tip Tap Cat,USD,5,1,1,0,0,1,1,1,1,318,5.07
+"",2021-12-15,3219110,Tip Tap Cat,USD,10,3,3,0,0,3,3,3,3,546,6.05
+"",2021-12-13,3219110,Tip Tap Cat,USD,7,1,1,0,0,1,1,1,1,492,5.26
+"",2021-12-11,3219110,Tip Tap Cat,USD,5,1,1,0,0,1,1,1,1,290,5.71

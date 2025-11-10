@@ -1,0 +1,4 @@
+invoice_id,line_item_id,source_relation,region,department,location,project
+533adbeb-5ebb-43c1-9078-7db8c48a057c,52ac1d34-e292-41e9-8760-518f166c6f2d,"",North America,,,Client Project A
+b2e2a55c-2f15-472a-8dbc-2012ad19a793,81831b9f-daa9-4808-9b66-a41c3d6a2961,"",Europe,Engineering,New York,
+231940bd-bcdd-460f-83aa-05da8383e967,eb9d72ea-00e3-4b65-8e30-8e98a7177053,"",,Sales,,Internal Project B

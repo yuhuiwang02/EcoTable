@@ -1,0 +1,2 @@
+contact_id,mailing_list_id,first_name,last_name,email,email_domain,external_data_reference,language,is_unsubscribed,is_deleted,_fivetran_synced,source_relation
+hersanid,ML_553543t34t534,bing,bong,bingbong@gmail.com,gmail.com,bingo123,EN,f,f,2023-06-05 03:06:31.097,""

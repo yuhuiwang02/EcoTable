@@ -1,0 +1,11 @@
+source_relation,date_day,account_name,account_id,country_code,profile_id,portfolio_name,portfolio_id,campaign_name,campaign_id,ad_group_name,ad_group_id,serving_status,state,default_bid,campaign_bidding_strategy,cost,clicks,impressions,purchases_30_d,sales_30_d
+"",2022-12-03,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,88,,
+"",2022-12-01,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,252,,
+"",2022-12-07,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,3.76,2,335,,
+"",2022-11-25,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,289,,
+"",2022-12-11,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,2.01,2,502,,
+"",2022-12-02,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,116,,
+"",2022-11-18,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0.54,1,163,,
+"",2022-11-24,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,1.45,1,267,,
+"",2022-11-19,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,232,,
+"",2022-12-04,,,,,,,,,All,501,AD_GROUP_STATUS_ENABLED,enabled,1.45,legacy,0,0,111,,

@@ -1,0 +1,11 @@
+source_relation,date_day,account_name,account_id,country_code,profile_id,cost,clicks,impressions,purchases_30_d,sales_30_d,sales_7_d,purchases_alias,purchases_14_d
+"",2022-07-15,Palpatine,ENTITY31174,US,66,0,0,,,,0,0,0
+"",2022-08-28,Palpatine,ENTITY31174,US,66,0,0,,,,0,0,0
+"",2022-08-29,Palpatine,ENTITY31174,US,66,0,0,,,,0,0,0
+"",2022-07-27,Palpatine,ENTITY31174,US,66,0,0,,35,350,3,35,0
+"",2022-07-26,Palpatine,ENTITY31174,US,66,0,0,,44,54,12,44,0
+"",2022-09-06,Palpatine,ENTITY31174,US,66,0,0,,24,335,4,24,0
+"",2022-08-31,Palpatine,ENTITY31174,US,66,0,0,,,,0,0,0
+"",2022-07-11,Palpatine,ENTITY31174,US,66,1.67,2,1095,64,234,0,64,0
+"",2022-07-18,Palpatine,ENTITY31174,US,66,0,0,,,,0,0,0
+"",2022-07-21,Palpatine,ENTITY31174,US,66,0,0,,34,345,2,34,0

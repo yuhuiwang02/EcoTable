@@ -1,0 +1,4 @@
+source_relation,ad_id,ad_group_id,asin,campaign_id,creation_date,last_updated_date,serving_status,sku,state,is_most_recent_record
+"",77,421,DEF456,2187,2022-07-11 22:38:17.125000,2022-07-11 22:38:17.125000,CAMPAIGN_PAUSED,,enabled,t
+"",88,421,GHI789,2187,2022-07-11 22:38:17.125000,2022-07-11 22:38:17.125000,CAMPAIGN_PAUSED,,enabled,t
+"",8108,501,ABC123,5555,2022-11-09 14:37:06.258000,2022-11-09 14:37:06.258000,AD_STATUS_LIVE,,enabled,t

@@ -1,0 +1,6 @@
+occurred_on,account_id,count_active_visitors,sum_minutes,sum_events,count_event_records,count_pages_viewed,count_features_clicked,count_page_viewing_visitors,count_feature_clicking_visitors
+2021-07-18,1sk7ccaeau_acc,1,2,12,1,0,0,0,0
+2021-07-21,billy_idol,1,3,16,1,0,0,0,0
+2021-07-21,good_day,1,1,1,1,0,0,0,0
+2021-07-22,white_wedding,1,2,4,1,0,0,0,0
+2021-07-28,month_train,1,4,21,1,0,0,0,0

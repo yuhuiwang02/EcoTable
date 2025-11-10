@@ -1,0 +1,5 @@
+destination_id,measured_month,_fivetran_synced,amount
+ups_trampoline,2022-01,2022-03-30 10:46:11.937,671.77
+ups_trampoline,2022-02,2022-03-30 10:46:11.936,193.8
+television_trace,2022-03,2022-04-02 00:26:07.402,247.24
+television_trace,2022-04,2022-04-18 17:15:49.753,200.88

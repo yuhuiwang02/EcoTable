@@ -1,0 +1,5 @@
+source_relation,date_day,ad_account_id,ad_account_name,currency,swipes,impressions,spend,total_conversions,conversion_purchases_value,conversion_purchases
+"",2021-03-30,07da269a-5965-4b8c-8deb-c6b773b5fb9d,a21a74284f13d11781ecde24fac9d30b,,700,168981,1262.70,0,0.00,0
+"",2021-03-29,07da269a-5965-4b8c-8deb-c6b773b5fb9d,a21a74284f13d11781ecde24fac9d30b,,673,170146,1095.54,0,0.00,0
+"",2021-03-31,07da269a-5965-4b8c-8deb-c6b773b5fb9d,a21a74284f13d11781ecde24fac9d30b,,75,23325,155.21,1,0.00,1
+"",2021-04-01,07da269a-5965-4b8c-8deb-c6b773b5fb9d,a21a74284f13d11781ecde24fac9d30b,,0,0,0.00,0,0.00,0

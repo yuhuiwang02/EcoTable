@@ -1,0 +1,6 @@
+visitor_id,account_id,app_id,page_id,remote_ip,server_name,occurred_at,user_agent,num_events,num_minutes,_fivetran_synced,_fivetran_id,event_key
+psychosis_skeptical,month_train,-323232,allevents,2804:18:8b7:a18:1:0:d9e8:45d5,fivetran.com,2021-07-28 11:00:00,Mozilla/5.0 (Android 10; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0,21,4,2021-07-28 20:14:19.861,,2768b03ed3daf2909eae6f98839f09d8
+do_over,1sk7ccaeau_acc,-323232,allevents,37.19.197.209,fivetran.com,2021-07-18 14:00:00,Mozilla/5.0 (Android 11; Mobile; rv:89.0) Gecko/89.0 Firefox/89.0,12,2,2021-07-18 20:10:36.803,,2f3d9ac61a484195ef6854c18f2c4f3c
+foots_stool,billy_idol,-323232,allevents,97.118.51.167,fivetran.com,2021-07-21 04:00:00,Mozilla/5.0 (Android 11; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0,16,3,2021-07-21 08:17:20.908,,8aa7e5cd9247c38c56bb60f20011b05e
+foots_stool,good_day,-323232,allevents,97.118.51.167,fivetran.com,2021-07-21 02:00:00,Mozilla/5.0 (Android 11; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0,1,1,2021-07-21 08:17:20.908,,0fa567726a85e589123bc2271b31593e
+foots_stool,white_wedding,-323232,allevents,97.118.51.167,fivetran.com,2021-07-22 12:00:00,Mozilla/5.0 (Android 11; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0,4,2,2021-07-22 20:12:27.583,,c97157366535e5d872ad71ff9e4424ea

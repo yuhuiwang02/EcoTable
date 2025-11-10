@@ -1,0 +1,6 @@
+data_export_tag,is_data_hidden,is_data_private,question_id,next_answer_id,next_choice_id,question_description,question_description_option,question_text,question_text_unsafe,question_type,selector,sub_selector,survey_id,validation_setting_force_response,validation_setting_force_response_type,validation_setting_type,is_deleted,_fivetran_synced,source_relation
+Q21,,,QID26,1,4,Click to write the question text,UseText,Click to write the question text,Click to write the question text,CS,VRTL,TX,SV_djzINkbJIFJUs05,,,None,f,2023-06-05 03:06:14.697,""
+Q9,f,f,QID9,1,6,Marks,UseText,Marks,Marks,CS,VRTL,TX,SV_afWZKdnyaANAL5j,,,None,f,2023-06-05 03:05:52.723,""
+Q9,f,f,QID9,1,6,Marks,UseText,Marks,Marks,CS,VRTL,TX,SV_6Jcja72TpOiHjdX,,,None,f,2023-06-05 03:05:16.052,""
+Q9,f,f,QID9,1,6,Marks,UseText,Marks,Marks,CS,VRTL,TX,SV_06auvDLqWENyV6t,,,None,f,2023-06-05 03:04:30.889,""
+Q1,f,f,QID1,1,4,Tell About experience ? ,UseText,Tell About experience ?&nbsp;,Tell About experience ?&nbsp;,DB,TB,,SV_06auvDLqWENyV6t,,,None,f,2023-06-05 03:04:30.885,""

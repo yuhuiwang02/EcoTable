@@ -1,0 +1,11 @@
+source_relation,campaign_id,campaign_name,account_id,modified_at,type,time_zone,status,budget,budget_id,budget_type,language,is_most_recent_record
+"",349886458,3YxZ84+R8loZwfyM+dgb8A==,150175881,2020-08-17 07:22:59.557,Search,PacificTimeUSCanadaTijuana,Paused,200.00,3,BudgetDailyAccelerated,"English,German",t
+"",349886458,3YxZ84+R8loZwfyM+dgb8A==,150175881,2020-08-16 07:20:56.173,Search,PacificTimeUSCanadaTijuana,Paused,200.00,3,BudgetDailyAccelerated,"English,German",f
+"",349886462,bqIyTiSK0gUxfHUgrqLFOA==,150175881,2021-08-20 03:07:22.917,Search,PacificTimeUSCanadaTijuana,Paused,150.00,2,BudgetSharedStandard,"English,French",t
+"",349886462,bqIyTiSK0gUxfHUgrqLFOA==,150175881,2020-08-17 07:22:59.657,Search,PacificTimeUSCanadaTijuana,Paused,150.00,2,BudgetSharedStandard,English,f
+"",349886462,bqIyTiSK0gUxfHUgrqLFOA==,150175881,2020-08-16 07:20:56.173,Search,PacificTimeUSCanadaTijuana,Paused,150.00,2,BudgetSharedStandard,"English,French",f
+"",349886462,bqIyTiSK0gUxfHUgrqLFOA==,150175881,2020-07-01 14:34:34.48,Search,PacificTimeUSCanadaTijuana,Paused,150.00,2,BudgetSharedStandard,English,f
+"",359751135,PafijluKrvfPOb+f94eCDw==,150175881,2021-08-20 03:07:25.967,Search,PacificTimeUSCanadaTijuana,Paused,100.00,1,BudgetDailyStandard,"English,Spanish",t
+"",359751135,PafijluKrvfPOb+f94eCDw==,150175881,2020-08-17 07:26:27.743,Search,PacificTimeUSCanadaTijuana,Paused,100.00,1,BudgetDailyStandard,English,f
+"",359751135,PafijluKrvfPOb+f94eCDw==,150175881,2020-08-16 07:24:05.21,Search,PacificTimeUSCanadaTijuana,Paused,100.00,1,BudgetDailyStandard,English,f
+"",359751135,PafijluKrvfPOb+f94eCDw==,150175881,2020-07-01 14:24:17.563,Search,PacificTimeUSCanadaTijuana,Paused,100.00,1,BudgetDailyStandard,English,f

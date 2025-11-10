@@ -1,0 +1,6 @@
+designer_hint,page_id,page_last_updated_at,parsed_rule,rule,_fivetran_synced,latest_page_rule_index
+,0ZuEqUE4csSqpxpNU4CXIuillhM,2020-07-06 14:14:32.578,^https?://[^/]*/welcome/integrations/managed_big_query/?(?:;[^#]*)?(?:\?[^#]*)??$,//*/welcome/integrations/,2021-08-04 08:08:42.349,1
+,EM4EqRvm6l750T9hpPTyk9qj9GI,2021-03-08 16:36:00.813,^https?://[^/]*/dashboard/?(?:;[^#]*)?,//*/dashboard,2021-04-17 12:34:28.925,1
+,hLaNmwXopbNHATjg9TZub6Dutto,2021-01-15 23:53:51.895,^https?://[^/]*/dashboard/([^/#?;]+)/[^/#?;]+/logs/?(?:;[^#]*)?(?:\?[^#]*)?(?:#.*)?$,//*/dashboard/connectors/*parameter*/*/logs,2021-04-17 12:34:07.192,1
+,hLaNmwXopbNHATjg9TZub6Dutto,2021-01-15 23:53:51.895,^https?://[^/]*/dashboard/logs/?(?:;[^#]*)?(?:\?[^#]*),//*/dashboard/logs,2021-04-17 12:34:07.192,1
+,MhndMcBS3TD14daYe45awBDyR6E,2021-02-05 23:44:11.206,^https?://[^/]*/dashboard/connectors/??(?:#.*)?$,//*/dashboard/connectors,2021-07-29 09:23:52.962,1

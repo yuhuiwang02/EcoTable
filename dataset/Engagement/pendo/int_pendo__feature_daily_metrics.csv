@@ -1,0 +1,3 @@
+occurred_on,feature_id,sum_clicks,count_click_events,count_visitors,count_accounts,count_first_time_visitors,count_first_time_accounts,count_return_visitors,count_return_accounts,avg_daily_minutes_per_visitor,avg_daily_clicks_per_visitor,percent_of_daily_feature_clicks,percent_of_daily_feature_visitors,percent_of_daily_feature_accounts
+2021-04-19,61muxsf-RhA7TGh34twJZxGGJ7U,2,1,1,1,1,1,0,0,2.000,2.000,100.000,100.000,100.000
+2021-06-03,84eKv2U6eGlGgQ7NYYURCkfkSxU,1,1,1,1,1,1,0,0,1.000,1.000,100.000,100.000,100.000

@@ -1,0 +1,66 @@
+source_relation,ticket_id,field_name,value,is_public,user_id,valid_starting_at,valid_ending_at,ticket_created_date
+zendesk.public,95,status,solved,,,2020-02-10 08:36:39,,
+zendesk.public,102,status,solved,,,2020-02-10 08:36:38,2020-02-10 08:36:38,
+zendesk.public,102,status,solved,,,2020-02-10 08:36:38,2020-02-10 08:36:38,
+zendesk.public,102,status,solved,,,2020-02-10 08:36:38,2020-02-10 08:36:38,
+zendesk.public,102,status,solved,,,2020-02-10 08:36:38,,
+zendesk.public,103,status,solved,,,2020-02-10 08:36:38,,
+zendesk.public,107,status,solved,,,2020-02-10 08:36:38,,
+zendesk.public,108,assignee_id,1111,,,2020-02-10 08:36:38,,
+zendesk.public,141,status,solved,,,2020-02-10 08:36:25,,
+zendesk.public,226,status,solved,,,2020-02-10 08:35:52,,
+zendesk.public,229,status,solved,,,2020-02-10 08:35:52,,
+zendesk.public,312,status,solved,,,2020-02-10 08:35:18,,
+zendesk.public,974,status,solved,,,2020-02-10 21:47:41,,
+zendesk.public,980,priority,solved,,,2020-02-10 22:06:57,,
+zendesk.public,982,status,solved,,,2020-02-10 22:32:56,,
+zendesk.public,1192,status,solved,,,2020-02-12 00:22:26,,
+zendesk.public,6964,status,solved,,,2020-06-01 21:11:59,,
+zendesk.public,8205,status,solved,,,2020-07-07 23:01:47,,
+zendesk.public,11016,status,solved,,,2020-09-02 15:53:15,,
+zendesk.public,11071,assignee_id,1111,,,2020-08-28 11:01:27,,2020-08-28 18:06:36
+zendesk.public,11071,priority,normal,,,2020-08-28 11:01:27,2020-09-30 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,priority,medium,,,2020-09-30 11:01:27,2020-10-15 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,priority,high,,,2020-10-15 11:01:27,2020-11-02 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,priority,urgent,,,2020-11-02 11:01:27,,2020-08-28 18:06:36
+zendesk.public,11071,status,open,,,2020-08-28 11:01:27,2020-08-29 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,pending,,,2020-08-29 11:01:27,2020-09-02 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,on-hold,,,2020-09-02 11:01:27,2020-09-05 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,pending,,,2020-09-05 11:01:27,2020-09-15 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,open,,,2020-09-15 11:01:27,2020-09-30 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,pending,,,2020-09-30 11:01:27,2020-10-01 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,on-hold,,,2020-10-01 11:01:27,2020-10-15 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,open,,,2020-10-15 11:01:27,2020-10-17 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,on-hold,,,2020-10-17 11:01:27,2020-10-20 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,pending,,,2020-10-20 11:01:27,2020-11-02 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,open,,,2020-11-02 11:01:27,2020-11-14 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,solved,,,2020-11-14 11:01:27,2020-11-15 11:01:27,2020-08-28 18:06:36
+zendesk.public,11071,status,closed,,,2020-11-15 11:01:27,,2020-08-28 18:06:36
+zendesk.public,1077,comment,body1,t,402935450113,2020-02-11 07:49:14,,
+zendesk.public,7367,comment,body5,t,413068955393,2020-07-20 20:16:47,2020-07-21 17:07:54,
+zendesk.public,7367,comment,body4,t,413068955393,2020-07-21 17:07:54,2020-07-21 19:33:46,
+zendesk.public,7367,comment,body3,t,413068955393,2020-07-21 19:33:46,2020-07-21 19:43:27,
+zendesk.public,7367,comment,body8,t,413068955393,2020-07-21 19:43:27,2020-07-21 20:07:17,
+zendesk.public,7367,comment,body9,t,413068955393,2020-07-21 20:07:17,2020-07-22 16:41:28,
+zendesk.public,7367,comment,body7,t,413068955393,2020-07-22 16:41:28,,
+zendesk.public,7636,comment,body6,t,413068955393,2020-06-19 20:40:41,2020-06-26 20:47:27,
+zendesk.public,7636,comment,body2,t,413068955393,2020-06-26 20:47:27,,
+zendesk.public,13057,comment,body14,t,423362500353,2020-10-10 14:39:46,2020-10-10 15:40:36,
+zendesk.public,13057,comment,body13,t,423362500353,2020-10-10 15:40:36,2020-10-11 07:53:43,
+zendesk.public,13057,comment,body20,t,423362500353,2020-10-11 07:53:43,2020-10-11 08:05:48,
+zendesk.public,13057,comment,body19,t,423362500353,2020-10-11 08:05:48,,
+zendesk.public,13095,comment,body18,t,423362500353,2020-10-10 14:51:51,2020-10-11 08:02:56,
+zendesk.public,13095,comment,body15,t,423362500353,2020-10-11 08:02:56,2020-10-11 08:08:54,
+zendesk.public,13095,comment,body16,t,423362500353,2020-10-11 08:08:54,2020-10-11 13:13:55,
+zendesk.public,13095,comment,body12,t,423362500353,2020-10-11 13:13:55,,
+zendesk.public,13628,comment,body10,t,424142574593,2020-10-19 13:56:05,2020-10-21 09:08:41,
+zendesk.public,13628,comment,body11,t,424142574593,2020-10-21 09:08:41,,
+zendesk.public,14352,comment,body17,t,423362500353,2020-11-01 02:20:20,,
+zendesk.public,45,comment,,t,403969141094,2023-12-12 11:20:28.994,,
+zendesk.public,47,comment,No problem. Just share a few details and I'll connect you with someone from our team.,t,403969141094,2023-12-28 14:22:12.84,,
+zendesk.public,48,comment,Thanks. Let me connect you with a customer support agent.,t,403959218893,2023-12-12 11:16:29.19,,
+zendesk.public,49,comment,No problem. Just share a few details and I'll connect you with someone from our team.,t,403959218893,2023-12-08 05:07:28.408,,
+zendesk.public,50,comment,Thanks. Let me connect you with a customer support agent.,t,403959218893,2023-12-12 11:16:29.19,,
+zendesk.public,52,comment,Hi there. Got a question? I'm here to help.,t,403959218893,2023-12-28 14:20:35.032,,
+zendesk.public,54,comment,,t,403969141094,2023-12-12 11:20:28.994,,
+zendesk.public,6605,comment,No problem. Just share a few details and I'll connect you with someone from our team.,t,403959218893,2023-12-08 05:07:28.408,,2020-05-26 22:29:50

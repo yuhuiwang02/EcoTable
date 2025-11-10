@@ -1,0 +1,9 @@
+action_type,automation_email_id,member_id,list_id,activity_timestamp,ip_address,url,bounce_type,activity_id,automation_id,segment_id
+open,b63e7b8aff,4956ae6c75ac652fd9a32c7c5ed8083a,8e423a4179,2020-04-21 14:53:32,76.64.79.89,,,8abda8f5201e2e48505debcbe6e56571,71ad2ce945,
+open,b63e7b8aff,4d1bf0aa67690a2b483771ce00cfb6a7,8e423a4179,2020-04-21 14:52:06,76.64.79.89,,,2461363186f545f87fc5ab786f22660d,71ad2ce945,
+click,b63e7b8aff,4d1bf0aa67690a2b483771ce00cfb6a7,8e423a4179,2020-04-21 14:52:06,76.64.79.89,https://example.com/,,499338b5e3f74736699318fc07015cb7,71ad2ce945,
+click,b63e7b8aff,4956ae6c75ac652fd9a32c7c5ed8083a,8e423a4179,2020-04-21 14:53:34,76.64.79.89,https://example.com/,,b31cae1f1d145b07e8ce85f60e442aba,71ad2ce945,
+click,b63e7b8aff,4d1bf0aa67690a2b483771ce00cfb6a7,8e423a4179,2020-04-21 14:52:11,76.64.79.89,https://github.com/example,,58b50e29c45eacfdea1663453842a7ba,71ad2ce945,
+click,b63e7b8aff,4956ae6c75ac652fd9a32c7c5ed8083a,8e423a4179,2020-04-21 14:53:32,76.64.79.89,https://github.com/example,,fadbbda0a5bc4f1525cc0244b4ca83b0,71ad2ce945,
+click,b63e7b8aff,4956ae6c75ac652fd9a32c7c5ed8083a,8e423a4179,2020-04-21 14:53:37,76.64.79.89,https://join.slack.com/t/,,9788b125a910d61e1b90f119ebce3d5b,71ad2ce945,
+click,123,4956ae6c75ac652fd9a32c7c5ed8083a,8e423a4180,2020-04-21 14:53:37,76.64.79.89,https://join.slack.com/t/,,40967cab629427f1ad45d17dc22cb92a,12345,

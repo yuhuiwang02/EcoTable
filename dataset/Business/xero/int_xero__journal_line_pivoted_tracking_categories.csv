@@ -1,0 +1,5 @@
+journal_id,journal_line_id,source_relation,region,department,location,project
+b32a0846-d449-49b2-aadb-f5d0ffcabcb7,497ad00a-eaa6-4a2c-b6f6-00f3d778128f,"",,,New York,Client Project A
+4493d6b5-f7b1-4611-81c2-886d8b8f0527,288302bc-cfff-41d8-aea3-453750a7d1a9,"",North America,Engineering,Bay Area,
+aa00a5cb-829e-4a4c-93e9-d7413174eb62,94c68900-bc3c-41da-9d73-eeb604072b64,"",Europe,Sales,,Client Project A
+858cdb48-c970-4b88-87ea-89bb5dc8839d,4c592511-0a07-44c1-9cd4-edadbc1958f6,"",APAC,,,

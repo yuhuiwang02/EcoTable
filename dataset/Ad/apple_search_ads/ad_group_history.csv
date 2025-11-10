@@ -1,0 +1,5 @@
+id,modification_time,automated_keywords_opt_in,campaign_id,cpa_goal_amount,cpa_goal_currency,default_cpc_bid_amount,default_cpc_bid_currency,deleted,end_time,name,organization_id,serving_state_reasons,serving_status,start_time,status,storefronts
+976005125,2021-12-15 20:26:38.94,t,973923054,,,,,f,2022-01-31 23:59:00,Kitty Cat Tap,3219110,,RUNNING,2021-12-09 00:00:00,ENABLED,
+983960442,2021-12-15 20:27:55.112,t,973923054,,,,,f,2022-01-14 23:59:59.999,Bored Ad Group,3219110,,RUNNING,2021-12-14 00:00:00,ENABLED,
+976005125,2021-12-09 23:39:28.469,t,973923054,,,,,f,2022-01-31 23:59:00,Kitty Cat Tap,3219110,,RUNNING,2021-12-09 00:00:00,ENABLED,
+983960442,2021-12-14 22:20:08.559,t,973923054,,,,,f,2022-01-14 23:59:59.999,Bored Ad Group,3219110,,RUNNING,2021-12-14 00:00:00,ENABLED,

@@ -1,0 +1,4 @@
+connection_id,connection_name,connector_type,destination_id,destination_name,connection_health,last_successful_sync_completed_at,last_sync_started_at,last_sync_completed_at,set_up_at,number_of_schema_changes_last_month,number_errors_since_last_completed_sync,number_warnings_since_last_completed_sync
+aft_gleeful,test,s3,obtained_willow,dbt_package_testing_bigquery,paused,,,,2020-05-18 18:13:43.563198,0,0,0
+this_connection,this_connection,s3,television_trace,s_gcp,deleted,,,2021-12-10 14:27:00.504,2019-03-22 18:49:12.83391,0,0,0
+this_connection,this_connection,s3,ups_trampoline,s_test,paused,,,2021-12-10 14:27:00.504,2020-08-31 19:00:22.91363,0,0,0

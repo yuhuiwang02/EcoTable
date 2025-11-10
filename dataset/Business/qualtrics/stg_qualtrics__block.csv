@@ -1,0 +1,6 @@
+is_locked,block_visibility,description,block_id,randomize_questions,survey_id,type,is_deleted,_fivetran_synced,source_relation
+,,Block 1,BL_b8x54QK6VJE3A1f,,SV_8GsOFOOKnw9KAmx,Standard,f,2023-06-05 03:05:38.341,""
+,,Block 2,BL_9BOpMYC7bZTNZTn,,SV_8GsOFOOKnw9KAmx,Standard,f,2023-06-05 03:05:38.341,""
+,,Block 3,BL_797qWoQosqXXiJv,,SV_8GsOFOOKnw9KAmx,Standard,f,2023-06-05 03:05:38.341,""
+,,Block 3,BL_8pn7C2f84AUw3ZQ,,SV_afWZKdnyaANAL5j,Standard,f,2023-06-05 03:05:52.732,""
+,,Default Question Block,BL_3gZj0OfR5Qncg9T,,SV_1XGe0Xykmeo0lyB,Default,f,2023-06-05 03:05:01.276,""

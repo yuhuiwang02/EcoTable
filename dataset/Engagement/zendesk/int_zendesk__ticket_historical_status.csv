@@ -1,0 +1,31 @@
+source_relation,ticket_id,valid_starting_at,valid_ending_at,status_duration_calendar_minutes,status,ticket_status_counter,unique_status_counter
+zendesk.public,95,2020-02-10 08:36:39,,2970002,solved,1,1
+zendesk.public,102,2020-02-10 08:36:38,2020-02-10 08:36:38,0,solved,1,1
+zendesk.public,102,2020-02-10 08:36:38,2020-02-10 08:36:38,0,solved,2,2
+zendesk.public,102,2020-02-10 08:36:38,2020-02-10 08:36:38,0,solved,3,3
+zendesk.public,102,2020-02-10 08:36:38,,2970002,solved,4,4
+zendesk.public,103,2020-02-10 08:36:38,,2970002,solved,1,1
+zendesk.public,107,2020-02-10 08:36:38,,2970002,solved,1,1
+zendesk.public,141,2020-02-10 08:36:25,,2970002,solved,1,1
+zendesk.public,226,2020-02-10 08:35:52,,2970003,solved,1,1
+zendesk.public,229,2020-02-10 08:35:52,,2970003,solved,1,1
+zendesk.public,312,2020-02-10 08:35:18,,2970003,solved,1,1
+zendesk.public,974,2020-02-10 21:47:41,,2969211,solved,1,1
+zendesk.public,982,2020-02-10 22:32:56,,2969166,solved,1,1
+zendesk.public,1192,2020-02-12 00:22:26,,2967616,solved,1,1
+zendesk.public,6964,2020-06-01 21:11:59,,2807967,solved,1,1
+zendesk.public,8205,2020-07-07 23:01:47,,2756017,solved,1,1
+zendesk.public,11016,2020-09-02 15:53:15,,2674365,solved,1,1
+zendesk.public,11071,2020-08-28 11:01:27,2020-08-29 11:01:27,1440,open,1,1
+zendesk.public,11071,2020-08-29 11:01:27,2020-09-02 11:01:27,5760,pending,2,1
+zendesk.public,11071,2020-09-02 11:01:27,2020-09-05 11:01:27,4320,on-hold,3,1
+zendesk.public,11071,2020-09-05 11:01:27,2020-09-15 11:01:27,14400,pending,4,2
+zendesk.public,11071,2020-09-15 11:01:27,2020-09-30 11:01:27,21600,open,5,2
+zendesk.public,11071,2020-09-30 11:01:27,2020-10-01 11:01:27,1440,pending,6,3
+zendesk.public,11071,2020-10-01 11:01:27,2020-10-15 11:01:27,20160,on-hold,7,2
+zendesk.public,11071,2020-10-15 11:01:27,2020-10-17 11:01:27,2880,open,8,3
+zendesk.public,11071,2020-10-17 11:01:27,2020-10-20 11:01:27,4320,on-hold,9,3
+zendesk.public,11071,2020-10-20 11:01:27,2020-11-02 11:01:27,18720,pending,10,4
+zendesk.public,11071,2020-11-02 11:01:27,2020-11-14 11:01:27,17280,open,11,4
+zendesk.public,11071,2020-11-14 11:01:27,2020-11-15 11:01:27,1440,solved,12,1
+zendesk.public,11071,2020-11-15 11:01:27,,2568097,closed,13,1

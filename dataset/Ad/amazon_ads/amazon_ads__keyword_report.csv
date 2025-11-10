@@ -1,0 +1,11 @@
+source_relation,date_day,account_name,account_id,country_code,profile_id,portfolio_name,portfolio_id,campaign_name,campaign_id,ad_group_name,ad_group_id,keyword_id,keyword_text,serving_status,state,keyword_bid,keyword_type,match_type,cost,clicks,impressions,purchases_30_d,sales_30_d
+"",2022-07-12,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,1723.1,861,239619,,
+"",2022-08-19,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,63.7,23,10662,,
+"",2022-08-12,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,20.04,11,10435,,
+"",2022-08-22,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,43.88,18,14661,,
+"",2022-08-14,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,32.89,15,11175,,
+"",2022-08-24,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,52.46,19,9931,,
+"",2022-08-21,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,24.05,17,12960,,
+"",2022-08-23,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,30.91,18,12631,,
+"",2022-08-20,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,29.26,19,11740,,
+"",2022-07-14,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,9101112,x wing parts,CAMPAIGN_PAUSED,enabled,6,EXACT,EXACT,15.88,6,3036,,

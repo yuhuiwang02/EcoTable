@@ -1,0 +1,8 @@
+measured_month,destination_id,destination_name,credits_spent,dollars_spent,free_monthly_active_rows,paid_monthly_active_rows,total_monthly_active_rows,paid_model_runs,free_model_runs,total_model_runs,credits_spent_per_million_mar,mar_per_credit_spent,amount_spent_per_million_mar,mar_per_amount_spent
+2021-09-01,television_trace,s_gcp,,,0,0,0,,,,,,,
+2022-01-01,ups_trampoline,s_test,0,671.77,0,46,46,,,,,,14603695.65,0
+2022-02-01,ups_trampoline,s_test,0,193.8,0,1,1,,,,,,193800000.00,0
+2022-03-01,television_trace,s_gcp,,247.24,0,10,10,,,,,,24724000.00,0
+2022-05-01,television_trace,s_gcp,,,0,1,1,,,,,,,
+2022-06-01,television_trace,s_gcp,,,0,2,2,,,,,,,
+2022-07-01,television_trace,s_gcp,,,0,5,5,,,,,,,

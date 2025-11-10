@@ -1,0 +1,11 @@
+source_relation,date_day,account_name,account_id,country_code,profile_id,portfolio_name,portfolio_id,campaign_name,campaign_id,ad_group_name,ad_group_id,ad_id,serving_status,state,advertised_asin,advertised_sku,campaign_budget_amount,campaign_budget_currency_code,campaign_budget_type,cost,clicks,impressions,purchases_30_d,sales_30_d
+"",2022-08-24,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,9.34,3,1262,,
+"",2022-12-06,,,,,,,,5555,All,501,8108,AD_STATUS_LIVE,enabled,,,250,USD,DAILY_BUDGET,5.29,3,75,,
+"",2022-08-19,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,1.03,1,1359,,
+"",2022-07-12,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,172.54,62,42144,,
+"",2022-12-10,,,,,,,,5555,All,501,8108,AD_STATUS_LIVE,enabled,,,250,USD,DAILY_BUDGET,2.53,2,166,,
+"",2022-07-13,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,179.19,68,60317,,
+"",2022-08-16,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,4.95,4,1450,,
+"",2022-07-13,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,88,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,50.25,26,6111,,
+"",2022-08-20,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,3.79,3,1310,,
+"",2022-08-17,Palpatine,ENTITY31174,US,66,Empire,1138,Gold Leader,2187,Red 7,421,77,CAMPAIGN_PAUSED,enabled,,,2000,USD,DAILY_BUDGET,2.95,2,1345,,

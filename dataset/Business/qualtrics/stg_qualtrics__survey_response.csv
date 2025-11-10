@@ -1,0 +1,6 @@
+distribution_channel,duration_in_seconds,finished_at,is_finished,response_id,ip_address,last_modified_at,location_latitude,location_longitude,progress,recipient_email,recipient_first_name,recipient_last_name,recorded_date,started_at,status,survey_id,user_language,_fivetran_synced,source_relation
+email,9,2022-12-07 08:59:21,f,R_3e9aZTqhcgXRH0o,182.69.177.44,2022-12-14 09:02:00,,,20,jatin.aggarwal@fivetran.com,,,2022-12-14 09:02:00,2022-12-07 08:59:11,0,SV_6Jcja72TpOiHjdX,EN,2023-05-02 00:11:25.529,""
+anonymous,118,2022-10-17 10:52:34,f,R_2DUphVbjGZGkvkg,182.69.177.103,2022-10-24 10:52:34,,,12,,,,2022-10-24 10:52:34,2022-10-17 10:50:36,0,SV_6Jcja72TpOiHjdX,EN,2023-05-02 00:11:13.034,""
+anonymous,26,2022-12-07 10:04:28,f,R_1LIOcMY4EdVCU3r,182.69.177.44,2022-12-14 10:04:31,,,20,,,,2022-12-14 10:04:31,2022-12-07 10:04:01,0,SV_6Jcja72TpOiHjdX,EN,2023-05-02 00:11:25.566,""
+anonymous,8,2022-10-19 13:38:21,f,R_3q9HmgV7GfTQP6o,49.204.210.134,2022-12-07 07:58:37,,,32,,,,2022-10-26 14:47:34,2022-10-19 13:38:13,0,SV_6Jcja72TpOiHjdX,EN,2023-05-02 00:11:25.381,""
+email,32,2023-02-28 12:40:15,f,R_3lDZ9xxqR5Ptexd,122.162.147.254,2023-03-21 12:47:06,,,23,jatin.aggarwal1406@gmail.com,Jatin,Aggarwak=l,2023-02-28 12:44:17,2023-02-28 12:39:43,0,SV_6Jcja72TpOiHjdX,EN,2023-05-02 00:11:43.953,""

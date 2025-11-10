@@ -1,0 +1,5 @@
+source_relation,date_day,advertiser_id,advertiser_name,currency,clicks,impressions,spend,reach,conversion,likes,comments,shares,profile_visits,follows,video_watched_2_s,video_watched_6_s,video_views_p_25,video_views_p_50,video_views_p_75,real_time_conversion,total_purchase_value,total_sales_lead_value,total_conversion_value,daily_cpc,daily_cpm,daily_ctr
+"",2021-09-15,1,US,USD,0,23,2.22,0,0,0,0,0,0,0,2,22,22,2,2,0,0,0,0,,96.5217391304348,0
+"",2021-09-15,2,Canada,CAN,0,22,0.22,0,0,0,0,0,0,0,2,2,3,0,0,0,0.01,0.01,0.02,,10,0
+"",2021-09-15,3,,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+"",2021-09-15,4,,,2,22,0.22,0,2,2,0,0,0,0,2,2,2,2,2,2,0,0,0,0.11,10,0

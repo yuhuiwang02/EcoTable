@@ -1,0 +1,1153 @@
+{
+    "github": [
+        {
+            "query": "I need a weekly report on the total number of issues and pull requests created, closed, and merged, including the average and longest days issues and pull requests were open, broken down by repository and issue state, with filters for specific milestones and user contributions.",
+            "ground_truth": [
+                "issue",
+                "issue_merged",
+                "pull_request",
+                "pull_request_review",
+                "requested_reviewer_history"
+            ],
+            "edge_relation": [
+                [
+                    "pull_request",
+                    "requested_reviewer_history",
+                    "requested_reviewer_history.pull_request_id = pull_request.pull_request_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "pull_request",
+                    "pull_request_review",
+                    "pull_request_review.pull_request_id = pull_request.pull_request_id AND pull_request_review.submitted_at > requested_reviewer_history.created_at",
+                    "LEFT JOIN"
+                ],
+                [
+                    "issue",
+                    "pull_request",
+                    "pull_request.issue_id = issue.issue_id",
+                    "JOIN"
+                ],
+                [
+                    "issue_merged",
+                    "pull_request",
+                    "pull_request.issue_id = issue_merged.issue_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 1,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 1,
+                "label": 0,
+                "pull_request": 1,
+                "pull_request_review": 1,
+                "repo_team": 0,
+                "repository": 0,
+                "requested_reviewer_history": 1,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a daily report on the total number of issues and pull requests created, closed, and merged, including the average and longest days issues and pull requests were open, broken down by repository and issue state, with filters for specific time periods and repository teams.",
+            "ground_truth": [
+                "issue",
+                "issue_merged",
+                "pull_request",
+                "pull_request_review",
+                "requested_reviewer_history"
+            ],
+            "edge_relation": [
+                [
+                    "pull_request",
+                    "requested_reviewer_history",
+                    "requested_reviewer_history.pull_request_id = pull_request.pull_request_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "pull_request",
+                    "pull_request_review",
+                    "pull_request_review.pull_request_id = pull_request.pull_request_id AND pull_request_review.submitted_at > requested_reviewer_history.created_at",
+                    "LEFT JOIN"
+                ],
+                [
+                    "issue",
+                    "pull_request",
+                    "pull_request.issue_id = issue.issue_id",
+                    "JOIN"
+                ],
+                [
+                    "issue_merged",
+                    "pull_request",
+                    "pull_request.issue_id = issue_merged.issue_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 1,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 1,
+                "label": 0,
+                "pull_request": 1,
+                "pull_request_review": 1,
+                "repo_team": 0,
+                "repository": 0,
+                "requested_reviewer_history": 1,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on issue and pull request activity, including the total number of issues opened and closed, the average number of days issues remained open, and the total number of pull requests merged, broken down by repository and team involvement, with filters for specific milestones and issue states.",
+            "ground_truth": [
+                "repo_team",
+                "repository",
+                "team"
+            ],
+            "edge_relation": [
+                [
+                    "repository",
+                    "repo_team",
+                    "repository.repository_id = repo_teams.repository_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "repo_team",
+                    "team",
+                    "repo_teams.team_id = teams.team_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 0,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 0,
+                "label": 0,
+                "pull_request": 0,
+                "pull_request_review": 0,
+                "repo_team": 1,
+                "repository": 1,
+                "requested_reviewer_history": 0,
+                "team": 1,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on issue and pull request activity, including the total number of issues opened and closed, the average number of days issues remained open, and the total number of pull requests merged, broken down by repository and team involvement, with filters for specific milestones and issue states.",
+            "ground_truth": [
+                "repo_team",
+                "repository",
+                "team"
+            ],
+            "edge_relation": [
+                [
+                    "repository",
+                    "repo_team",
+                    "repository.repository_id = repo_teams.repository_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "repo_team",
+                    "team",
+                    "repo_teams.team_id = teams.team_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 0,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 0,
+                "label": 0,
+                "pull_request": 0,
+                "pull_request_review": 0,
+                "repo_team": 1,
+                "repository": 1,
+                "requested_reviewer_history": 0,
+                "team": 1,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on pull request review metrics, including the number of reviews, the list of reviewers, and the number of requested reviewers, broken down by repository and issue state, with filters for pull requests that have been merged and those that are still open.",
+            "ground_truth": [
+                "pull_request_review",
+                "requested_reviewer_history",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "pull_request_review",
+                    "user",
+                    "pull_request_review.user_id = github_user.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "requested_reviewer_history",
+                    "user",
+                    "requested_reviewer_history.requested_id = github_user.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 0,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 0,
+                "label": 0,
+                "pull_request": 0,
+                "pull_request_review": 1,
+                "repo_team": 0,
+                "repository": 0,
+                "requested_reviewer_history": 1,
+                "team": 0,
+                "user": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on pull request review metrics, including the number of reviews, the list of reviewers, and the number of requested reviewers, broken down by repository and issue state, with filters for pull requests that have been merged and those that are still open.",
+            "ground_truth": [
+                "pull_request_review",
+                "requested_reviewer_history",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "pull_request_review",
+                    "user",
+                    "pull_request_review.user_id = github_user.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "requested_reviewer_history",
+                    "user",
+                    "requested_reviewer_history.requested_id = github_user.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "issue": 0,
+                "issue_assignee": 0,
+                "issue_closed_history": 0,
+                "issue_comment": 0,
+                "issue_label": 0,
+                "issue_merged": 0,
+                "label": 0,
+                "pull_request": 0,
+                "pull_request_review": 1,
+                "repo_team": 0,
+                "repository": 0,
+                "requested_reviewer_history": 1,
+                "team": 0,
+                "user": 1
+            }
+        }
+    ],
+    "asana": [
+        {
+            "query": "I need a weekly report on project performance metrics, including the number of open tasks, the number of tasks completed, and the average close time for tasks, broken down by project name and user involvement, with filters for currently active projects and users currently working on tasks.",
+            "ground_truth": [
+                "int_asana__task_assignee",
+                "project",
+                "project_task"
+            ],
+            "edge_relation": [
+                [
+                    "project_task",
+                    "int_asana__task_assignee",
+                    "assigned_tasks.task_id = project_tasks.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project",
+                    "project_task",
+                    "project.project_id = project_tasks.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project",
+                    "int_asana__task_assignee",
+                    "project.project_id = project_tasks.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 1,
+                "project": 1,
+                "project_task": 1,
+                "section": 0,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section": 0,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task performance metrics, including the number of open tasks, completion rates, and average days open, broken down by project names and assignee names, with filters for tasks that are currently assigned and not completed.",
+            "ground_truth": [
+                "project",
+                "project_task",
+                "section",
+                "task_section"
+            ],
+            "edge_relation": [
+                [
+                    "project_task",
+                    "project",
+                    "project.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task",
+                    "task_section",
+                    "task_section.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section",
+                    "section",
+                    "section.section_id = task_section.section_id AND section.project_id = project.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project": 1,
+                "project_task": 1,
+                "section": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task performance metrics, including the number of open tasks, completion rates, and average days open, broken down by project names and assignee names, with filters for tasks that are currently assigned and not completed.",
+            "ground_truth": [
+                "project",
+                "project_task",
+                "section",
+                "task_section"
+            ],
+            "edge_relation": [
+                [
+                    "project_task",
+                    "project",
+                    "project.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task",
+                    "task_section",
+                    "task_section.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section",
+                    "section",
+                    "section.section_id = task_section.section_id AND section.project_id = project.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project": 1,
+                "project_task": 1,
+                "section": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task management metrics, including the number of projects associated with each task, the names of projects linked to tasks, and the total number of tasks completed, broken down by assignee and project sections, with filters for tasks that are currently open and not marked as completed.",
+            "ground_truth": [
+                "project",
+                "project_task",
+                "section",
+                "task_section"
+            ],
+            "edge_relation": [
+                [
+                    "project_task",
+                    "project",
+                    "project.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task",
+                    "task_section",
+                    "task_section.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section",
+                    "section",
+                    "section.section_id = task_section.section_id AND section.project_id = project.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project": 1,
+                "project_task": 1,
+                "section": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task management metrics, including the number of projects associated with each task, the names of those projects, and the total number of tasks completed, broken down by assignee and project sections, with filters for tasks that are currently open and not marked as completed.",
+            "ground_truth": [
+                "project",
+                "project_task",
+                "section",
+                "task_section"
+            ],
+            "edge_relation": [
+                [
+                    "project_task",
+                    "project",
+                    "project.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task",
+                    "task_section",
+                    "task_section.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section",
+                    "section",
+                    "section.section_id = task_section.section_id AND section.project_id = project.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project": 1,
+                "project_task": 1,
+                "section": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task performance metrics, including the number of open tasks, completion rates, and average days open, broken down by project_more_data names and assignee names, with filters for tasks that are currently assigned and not completed.",
+            "ground_truth": [
+                "project_more_data",
+                "project_task_more_data",
+                "section_more_data",
+                "task_section_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "project_task_more_data",
+                    "project_more_data",
+                    "project_more_data.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task_more_data",
+                    "task_section_more_data",
+                    "task_section_more_data.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section_more_data",
+                    "section_more_data",
+                    "section_more_data.section_id = task_section_more_data.section_id AND section_more_data.project_id = project_more_data.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project_more_data": 1,
+                "project_task_more_data": 1,
+                "section_more_data": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section_more_data": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task performance metrics, including the number of open tasks, completion rates, and average days open, broken down by project_more_data names and assignee names, with filters for tasks that are currently assigned and not completed.",
+            "ground_truth": [
+                "project_more_data",
+                "project_task_more_data",
+                "section_more_data",
+                "task_section_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "project_task_more_data",
+                    "project_more_data",
+                    "project_more_data.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task_more_data",
+                    "task_section_more_data",
+                    "task_section_more_data.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section_more_data",
+                    "section_more_data",
+                    "section_more_data.section_id = task_section_more_data.section_id AND section_more_data.project_id = project_more_data.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project_more_data": 1,
+                "project_task_more_data": 1,
+                "section_more_data": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section_more_data": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task management metrics, including the number of projects associated with each task, the names of projects linked to tasks, and the total number of tasks completed, broken down by assignee and project_more_data sections, with filters for tasks that are currently open and not marked as completed.",
+            "ground_truth": [
+                "project_more_data",
+                "project_task_more_data",
+                "section_more_data",
+                "task_section_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "project_task_more_data",
+                    "project_more_data",
+                    "project_more_data.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task_more_data",
+                    "task_section_more_data",
+                    "task_section_more_data.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section_more_data",
+                    "section_more_data",
+                    "section_more_data.section_id = task_section_more_data.section_id AND section_more_data.project_id = project_more_data.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project_more_data": 1,
+                "project_task_more_data": 1,
+                "section_more_data": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section_more_data": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on task management metrics, including the number of projects associated with each task, the names of those projects, and the total number of tasks completed, broken down by assignee and project_more_data sections, with filters for tasks that are currently open and not marked as completed.",
+            "ground_truth": [
+                "project_more_data",
+                "project_task_more_data",
+                "section_more_data",
+                "task_section_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "project_task_more_data",
+                    "project_more_data",
+                    "project_more_data.project_id = task_project.project_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "project_task_more_data",
+                    "task_section_more_data",
+                    "task_section_more_data.task_id = task_project.task_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "task_section_more_data",
+                    "section_more_data",
+                    "section_more_data.section_id = task_section_more_data.section_id AND section_more_data.project_id = project_more_data.project_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "int_asana__task_assignee": 0,
+                "project_more_data": 1,
+                "project_task_more_data": 1,
+                "section_more_data": 1,
+                "story": 0,
+                "tag": 0,
+                "task": 0,
+                "task_follower": 0,
+                "task_section_more_data": 1,
+                "task_tag": 0,
+                "team": 0,
+                "user": 0
+            }
+        }
+    ],
+    "fivetran_log": [
+        {
+            "query": "I need a daily report on user activity metrics, including the number of user-triggered actions, event types, and connection statuses, broken down by user roles and destination names, with filters for specific connection IDs and event subtypes.",
+            "ground_truth": [
+                "connection",
+                "destination",
+                "destination_membership",
+                "log",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "log",
+                    "connection",
+                    "user_logs.connection_id = connection.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "destination",
+                    "connection.destination_id = destination.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "log",
+                    "user",
+                    "lower(users.email) = lower(user_logs.actor_email)",
+                    "LEFT JOIN"
+                ],
+                [
+                    "destination",
+                    "destination_membership",
+                    "destination.destination_id = destination_membership.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "user",
+                    "destination_membership",
+                    "users.user_id = destination_membership.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 1,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 1,
+                "destination_membership": 1,
+                "incremental_mar": 0,
+                "log": 1,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on destination usage metrics, including total credits spent, total model runs, and the ratio of active rows to amount spent, broken down by destination name and connector type, with filters for destinations with a connection health status of 'connected' and those that had schema changes in the last month.",
+            "ground_truth": [
+                "fivetran_platform__mar_table_history",
+                "stg_fivetran_platform__credits_used",
+                "stg_fivetran_platform__transformation_runs",
+                "stg_fivetran_platform__usage_cost"
+            ],
+            "edge_relation": [
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.measured_month = credits_used.measured_month",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.destination_id = credits_used.destination_id",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.measured_month = cast(credits_used.measured_month as date)",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.destination_id = credits_used.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.measured_month = transformation_runs.measured_month",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.destination_id = transformation_runs.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 0,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 0,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 1,
+                "incremental_mar": 0,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 1,
+                "stg_fivetran_platform__transformation_runs": 1,
+                "stg_fivetran_platform__usage_cost": 1,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on destination usage metrics, including total active rows, credits spent, and model run counts, broken down by destination name and connector type, with filters for specific destinations and months of interest.",
+            "ground_truth": [
+                "fivetran_platform__mar_table_history",
+                "stg_fivetran_platform__credits_used",
+                "stg_fivetran_platform__transformation_runs",
+                "stg_fivetran_platform__usage_cost"
+            ],
+            "edge_relation": [
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.measured_month = credits_used.measured_month",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.destination_id = credits_used.destination_id",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.measured_month = cast(credits_used.measured_month as date)",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.destination_id = credits_used.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.measured_month = transformation_runs.measured_month",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.destination_id = transformation_runs.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 0,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 0,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 1,
+                "incremental_mar": 0,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 1,
+                "stg_fivetran_platform__transformation_runs": 1,
+                "stg_fivetran_platform__usage_cost": 1,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on destination usage metrics, including total credits spent, total model runs, and the ratio of credits spent per million active rows, broken down by destination name and connector type, with filters for specific destinations and months of interest.",
+            "ground_truth": [
+                "fivetran_platform__mar_table_history",
+                "stg_fivetran_platform__credits_used",
+                "stg_fivetran_platform__transformation_runs",
+                "stg_fivetran_platform__usage_cost"
+            ],
+            "edge_relation": [
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.measured_month = credits_used.measured_month",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.destination_id = credits_used.destination_id",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.measured_month = cast(credits_used.measured_month as date)",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.destination_id = credits_used.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.measured_month = transformation_runs.measured_month",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.destination_id = transformation_runs.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 0,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 0,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 1,
+                "incremental_mar": 0,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 1,
+                "stg_fivetran_platform__transformation_runs": 1,
+                "stg_fivetran_platform__usage_cost": 1,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on destination usage metrics, including credits spent, total active rows, and model run counts, broken down by destination name and connector type, with filters for specific months and connection statuses.",
+            "ground_truth": [
+                "fivetran_platform__mar_table_history",
+                "stg_fivetran_platform__credits_used",
+                "stg_fivetran_platform__transformation_runs",
+                "stg_fivetran_platform__usage_cost"
+            ],
+            "edge_relation": [
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.measured_month = credits_used.measured_month",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "stg_fivetran_platform__credits_used",
+                    "stg_fivetran_platform__usage_cost",
+                    "usage_cost.destination_id = credits_used.destination_id",
+                    "FULL OUTER JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.measured_month = cast(credits_used.measured_month as date)",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__credits_used",
+                    "table_mar.destination_id = credits_used.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.measured_month = transformation_runs.measured_month",
+                    "LEFT JOIN"
+                ],
+                [
+                    "fivetran_platform__mar_table_history",
+                    "stg_fivetran_platform__transformation_runs",
+                    "table_mar.destination_id = transformation_runs.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 0,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 0,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 1,
+                "incremental_mar": 0,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 1,
+                "stg_fivetran_platform__transformation_runs": 1,
+                "stg_fivetran_platform__usage_cost": 1,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on the total number of active rows, including both paid and free monthly active rows, along with the connection health status and last successful sync timestamps, broken down by connection name and destination, with filters for connector types and specific destinations.",
+            "ground_truth": [
+                "connection",
+                "destination",
+                "incremental_mar"
+            ],
+            "edge_relation": [
+                [
+                    "incremental_mar",
+                    "connection",
+                    "incremental_mar.connection_name = connection.connection_name",
+                    "LEFT JOIN"
+                ],
+                [
+                    "incremental_mar",
+                    "connection",
+                    "incremental_mar.destination_id = connection.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "incremental_mar",
+                    "destination",
+                    "incremental_mar.destination_id = destination.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 1,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 1,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 0,
+                "incremental_mar": 1,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 0,
+                "stg_fivetran_platform__transformation_runs": 0,
+                "stg_fivetran_platform__usage_cost": 0,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on the active row metrics for each table, including the number of free and paid active rows, total active rows, and connection health status, broken down by connection name and destination, with filters for specific connector types and last measurement dates.",
+            "ground_truth": [
+                "connection",
+                "destination",
+                "incremental_mar"
+            ],
+            "edge_relation": [
+                [
+                    "incremental_mar",
+                    "connection",
+                    "incremental_mar.connection_name = connection.connection_name",
+                    "LEFT JOIN"
+                ],
+                [
+                    "incremental_mar",
+                    "connection",
+                    "incremental_mar.destination_id = connection.destination_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "incremental_mar",
+                    "destination",
+                    "incremental_mar.destination_id = destination.destination_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 1,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 1,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 0,
+                "incremental_mar": 1,
+                "log": 0,
+                "stg_fivetran_platform__credits_used": 0,
+                "stg_fivetran_platform__transformation_runs": 0,
+                "stg_fivetran_platform__usage_cost": 0,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on connection performance metrics, including the number of successful syncs, connection health statuses, and the total number of schema changes, broken down by connection name and destination, with filters for connections that experienced errors or warnings since the last completed sync.",
+            "ground_truth": [
+                "connection",
+                "destination",
+                "log"
+            ],
+            "edge_relation": [
+                [
+                    "connection",
+                    "log",
+                    "transformation_removal.connection_id = connection.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "log",
+                    "transformation_removal.connection_id = connection.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "log",
+                    "connection.connection_id = schema_changes.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "destination",
+                    "destination.destination_id = connection.destination_id",
+                    "JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 1,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 1,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 0,
+                "incremental_mar": 0,
+                "log": 1,
+                "stg_fivetran_platform__credits_used": 0,
+                "stg_fivetran_platform__transformation_runs": 0,
+                "stg_fivetran_platform__usage_cost": 0,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on connection performance metrics, including the number of successful syncs, connection health statuses, and the total number of schema changes, broken down by connection name and destination, with filters for specific connector types and sync completion timestamps.",
+            "ground_truth": [
+                "connection",
+                "destination",
+                "log"
+            ],
+            "edge_relation": [
+                [
+                    "connection",
+                    "log",
+                    "transformation_removal.connection_id = connection.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "log",
+                    "transformation_removal.connection_id = connection.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "log",
+                    "connection.connection_id = schema_changes.connection_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "connection",
+                    "destination",
+                    "destination.destination_id = connection.destination_id",
+                    "JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 0,
+                "connection": 1,
+                "connector": 0,
+                "credits_used": 0,
+                "destination": 1,
+                "destination_membership": 0,
+                "fivetran_platform__mar_table_history": 0,
+                "incremental_mar": 0,
+                "log": 1,
+                "stg_fivetran_platform__credits_used": 0,
+                "stg_fivetran_platform__transformation_runs": 0,
+                "stg_fivetran_platform__usage_cost": 0,
+                "transformation_runs": 0,
+                "usage_cost": 0,
+                "user": 0
+            }
+        }
+    ]
+}

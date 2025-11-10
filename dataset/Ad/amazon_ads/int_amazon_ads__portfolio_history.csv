@@ -1,0 +1,2 @@
+source_relation,portfolio_id,budget_amount,budget_currency_code,budget_end_date,budget_policy,budget_start_date,creation_date,in_budget,last_updated_date,portfolio_name,profile_id,serving_status,state,is_most_recent_record
+"",1138,,,,,,2022-12-05 22:25:00.042000,t,2022-12-05 22:25:00.042000,Empire,66,PORTFOLIO_STATUS_ENABLED,enabled,t

@@ -1,0 +1,6 @@
+schedule_id,end_time,start_time,schedule_name,created_at,time_zone,source_relation
+360000310393,8400,7680,SupportCA,2019-11-18 20:23:34,Pacific Time (US & Canada),zendesk.public
+360000310393,5520,4800,SupportCA,2019-11-18 20:23:34,Pacific Time (US & Canada),zendesk.public
+360000310393,6960,6240,SupportCA,2019-11-18 20:23:34,Pacific Time (US & Canada),zendesk.public
+360000310393,2640,1920,SupportCA,2019-11-18 20:23:34,Pacific Time (US & Canada),zendesk.public
+360000310393,4080,3360,SupportCA,2019-11-18 20:23:34,Pacific Time (US & Canada),zendesk.public

@@ -1,0 +1,11 @@
+ticket_id,tags,source_relation
+123,customer,zendesk.public
+123,customer,zendesk.public
+123,customer,zendesk.public
+123,prospect,zendesk.public
+455,customer,zendesk.public
+455,customer,zendesk.public
+455,prospect,zendesk.public
+789,connector,zendesk.public
+1011,prospect,zendesk.public
+1012,customer,zendesk.public

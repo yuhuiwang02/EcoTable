@@ -1,0 +1,1942 @@
+{
+    "mailchimp": [
+        {
+            "query": "I need a monthly report on automation email performance, including total sends, unique opens, and unsubscribe rates, broken down by automation title and segment description, with filters for specific list IDs and automation statuses.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "unsubscribe"
+            ],
+            "edge_relation": [
+                [
+                    "unsubscribe",
+                    "automation_email",
+                    "unsubscribes.campaign_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 0,
+                "automation_recipient_activity": 0,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on automation email performance, including the number of automation sends, unique opens, and unsubscribes, broken down by automation title and segment description, with filters for specific list IDs and automation statuses.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "unsubscribe"
+            ],
+            "edge_relation": [
+                [
+                    "unsubscribe",
+                    "automation_email",
+                    "unsubscribes.campaign_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 0,
+                "automation_recipient_activity": 0,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on automation email performance, including the number of automation emails sent, unique opens, and click rates, broken down by automation title and segment details, with filters for specific automation statuses and member engagement levels.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "automation_recipient_activity"
+            ],
+            "edge_relation": [
+                [
+                    "automation_recipient_activity",
+                    "automation_email",
+                    "activities.automation_email_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 0,
+                "automation_recipient_activity": 1,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on automation email performance, including the number of sends, unique opens, and click rates, broken down by automation title and segment details, with filters for specific automation statuses and member engagement levels.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "automation_recipient_activity"
+            ],
+            "edge_relation": [
+                [
+                    "automation_recipient_activity",
+                    "automation_email",
+                    "activities.automation_email_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 0,
+                "automation_recipient_activity": 1,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on automation email performance metrics, including total sends, unique opens, and click rates, broken down by automation title and segment type, with filters for specific list IDs and automation statuses.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "automation_recipient"
+            ],
+            "edge_relation": [
+                [
+                    "automation_recipient",
+                    "automation_email",
+                    "recipients.automation_email_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 1,
+                "automation_recipient_activity": 0,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 0
+            }
+        },
+        {
+            "query": "I need a weekly report on automation email performance, including total sends, unique opens, and click rates, broken down by automation title and segment description, with filters for specific list IDs and automation statuses.",
+            "ground_truth": [
+                "automation",
+                "automation_email",
+                "automation_recipient"
+            ],
+            "edge_relation": [
+                [
+                    "automation_recipient",
+                    "automation_email",
+                    "recipients.automation_email_id = automation_emails.automation_email_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "automation_email",
+                    "automation",
+                    "automation_emails.automation_id = automations.automation_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "automation": 1,
+                "automation_email": 1,
+                "automation_recipient": 1,
+                "automation_recipient_activity": 0,
+                "campaign": 0,
+                "campaign_recipient": 0,
+                "campaign_recipient_activity": 0,
+                "list": 0,
+                "member": 0,
+                "segment": 0,
+                "segment_member": 0,
+                "unsubscribe": 0
+            }
+        }
+    ],
+    "pardot": [
+        {
+            "query": "I need a comprehensive report on the effectiveness of marketing campaigns, focusing on campaign reach and engagement metrics, broken down by campaign type and target audience demographics, with filters for active campaigns only.",
+            "ground_truth": [
+                "campaign",
+                "opportunity",
+                "prospect"
+            ],
+            "edge_relation": [
+                [
+                    "campaign",
+                    "opportunity",
+                    "campaigns.campaign_id = opportunities.campaign_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "campaign",
+                    "prospect",
+                    "campaigns.campaign_id = prospects.campaign_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "campaign": 1,
+                "list": 0,
+                "list_membership": 0,
+                "opportunity": 1,
+                "opportunity_prospect": 0,
+                "prospect": 1,
+                "visitor": 0,
+                "visitor_activity": 0
+            }
+        },
+        {
+            "query": "I need a comprehensive report on the effectiveness of marketing campaigns, focusing on campaign engagement metrics and audience reach, broken down by campaign type and target demographics, with filters for specific campaign durations and performance thresholds.",
+            "ground_truth": [
+                "campaign",
+                "opportunity",
+                "prospect"
+            ],
+            "edge_relation": [
+                [
+                    "campaign",
+                    "opportunity",
+                    "campaigns.campaign_id = opportunities.campaign_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "campaign",
+                    "prospect",
+                    "campaigns.campaign_id = prospects.campaign_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "campaign": 1,
+                "list": 0,
+                "list_membership": 0,
+                "opportunity": 1,
+                "opportunity_prospect": 0,
+                "prospect": 1,
+                "visitor": 0,
+                "visitor_activity": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on the number of email activities and website visits associated with each marketing list, broken down by list identifier, with filters for lists that have a significant number of email interactions.",
+            "ground_truth": [
+                "list_membership",
+                "pardot__prospects"
+            ],
+            "edge_relation": [
+                [
+                    "list_membership",
+                    "pardot__prospects",
+                    "list_membership.prospect_id = prospects.prospect_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "campaign": 0,
+                "list": 0,
+                "list_membership": 1,
+                "opportunity": 0,
+                "opportunity_prospect": 0,
+                "pardot__prospects": 1,
+                "prospect": 0,
+                "visitor": 0,
+                "visitor_activity": 0
+            }
+        }
+    ],
+    "pendo": [
+        {
+            "query": "I need a weekly report on feature usage insights, including the identification of core events and the stability of feature versions, broken down by application platform and product area, with filters for features created or updated by specific users.",
+            "ground_truth": [
+                "application_history",
+                "feature_history",
+                "page_history",
+                "stg_pendo__group_tmp",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "feature_history",
+                    "page_history",
+                    "feature.page_id = page.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_history",
+                    "stg_pendo__group_tmp",
+                    "feature.group_id = product_area.group_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_history",
+                    "application_history",
+                    "feature.app_id = application.application_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_history",
+                    "user",
+                    "feature.created_by_user_id = pendo_user.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 1,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 1,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "page_event": 0,
+                "page_history": 1,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 1,
+                "user": 1,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on guide creation activity, including the number of steps in guides and the platforms they are created on, broken down by the creator's full name and username, with filters for guides last updated by specific users.",
+            "ground_truth": [
+                "application_history",
+                "guide_history",
+                "guide_step_history",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "guide_history",
+                    "guide_step_history",
+                    "guide.guide_id = agg_guide_steps.guide_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "application_history",
+                    "guide.app_id = application.application_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "user",
+                    "guide.created_by_user_id = creator.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "user",
+                    "guide.last_updated_by_user_id = updater.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 1,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 1,
+                "guide_step_history": 1,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 1,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a report on the creation and update activities of guides, including the number of steps in each guide, broken down by application platform and creator's full name, with filters for specific application display names and user involvement in guide updates.",
+            "ground_truth": [
+                "application_history",
+                "guide_history",
+                "guide_step_history",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "guide_history",
+                    "guide_step_history",
+                    "guide.guide_id = agg_guide_steps.guide_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "application_history",
+                    "guide.app_id = application.application_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "user",
+                    "guide.created_by_user_id = creator.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_history",
+                    "user",
+                    "guide.last_updated_by_user_id = updater.user_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 1,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 1,
+                "guide_step_history": 1,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 1,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on account engagement metrics, including the number of associated visitors, active visitors, and page-viewing visitors, as well as the average daily minutes and events, broken down by account ID, with insights into NPS ratings and event activity trends over time.",
+            "ground_truth": [
+                "account_history",
+                "int_pendo__account_daily_metrics",
+                "int_pendo__latest_nps_rating",
+                "visitor_account_history"
+            ],
+            "edge_relation": [
+                [
+                    "account_history",
+                    "visitor_account_history",
+                    "account.account_id = visitor_account.account_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "account_history",
+                    "int_pendo__latest_nps_rating",
+                    "account.account_id = nps_ratings.account_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "account_history",
+                    "int_pendo__account_daily_metrics",
+                    "account.account_id = daily_metrics.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 1,
+                "int_pendo__latest_nps_rating": 1,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 1,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a report on user interactions with application features, detailing the transition between current and previous features, broken down by feature name, page name, and product area, with filters for specific application platforms and display names.",
+            "ground_truth": [
+                "account_history",
+                "feature_event",
+                "int_pendo__feature_info",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "feature_event",
+                    "int_pendo__feature_info",
+                    "feature_event.feature_id = current_feature.feature_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "feature_event",
+                    "int_pendo__feature_info",
+                    "feature_event.previous_feature_id = previous_feature.feature_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event",
+                    "visitor_history",
+                    "visitor.visitor_id = feature_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event",
+                    "account_history",
+                    "account.account_id = feature_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on feature usage metrics, including the number of events and minutes spent on features, broken down by account, feature name, and application platform, with filters for specific product areas and previous feature interactions.",
+            "ground_truth": [
+                "account_history",
+                "feature_event",
+                "int_pendo__feature_info",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "feature_event",
+                    "int_pendo__feature_info",
+                    "feature_event.feature_id = current_feature.feature_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "feature_event",
+                    "int_pendo__feature_info",
+                    "feature_event.previous_feature_id = previous_feature.feature_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event",
+                    "visitor_history",
+                    "visitor.visitor_id = feature_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event",
+                    "account_history",
+                    "account.account_id = feature_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on visitor engagement metrics, including the average daily minutes spent and the number of events recorded, broken down by the number of associated accounts and active months, with filters for visitors who have provided an NPS rating and have activity within a specific date range.",
+            "ground_truth": [
+                "int_pendo__latest_nps_rating",
+                "visitor_account_history",
+                "visitor_daily_metrics",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "visitor_history",
+                    "visitor_account_history",
+                    "visitor.visitor_id = visitor_account.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "visitor_history",
+                    "int_pendo__latest_nps_rating",
+                    "visitor.visitor_id = nps_rating.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "visitor_history",
+                    "visitor_daily_metrics",
+                    "visitor.visitor_id = daily_metrics.visitor_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__latest_nps_rating": 1,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 1,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a report on user navigation patterns, including transitions between pages and product areas, broken down by application platform and display name, with filters for specific page rules and previous page interactions.",
+            "ground_truth": [
+                "account_history",
+                "int_pendo__page_info",
+                "page_event",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "page_event",
+                    "int_pendo__page_info",
+                    "page_event.page_id = current_page.page_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "page_event",
+                    "int_pendo__page_info",
+                    "page_event.previous_page_id = previous_page.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event",
+                    "visitor_history",
+                    "visitor.visitor_id = page_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event",
+                    "account_history",
+                    "account.account_id = page_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 1,
+                "page_event": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on user navigation patterns, including time spent and events on previous pages, broken down by account, page, and product area, with filters for specific app platforms and page names.",
+            "ground_truth": [
+                "account_history",
+                "int_pendo__page_info",
+                "page_event",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "page_event",
+                    "int_pendo__page_info",
+                    "page_event.page_id = current_page.page_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "page_event",
+                    "int_pendo__page_info",
+                    "page_event.previous_page_id = previous_page.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event",
+                    "visitor_history",
+                    "visitor.visitor_id = page_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event",
+                    "account_history",
+                    "account.account_id = page_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 1,
+                "page_event": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a detailed report on user interactions with in-app guides, focusing on engagement metrics such as guide views and completion rates, broken down by user segments and guide types, with filters for specific time periods and user demographics.",
+            "ground_truth": [
+                "account_history",
+                "guide_event",
+                "int_pendo__guide_info",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "guide_event",
+                    "int_pendo__guide_info",
+                    "guide.guide_id = guide_event.guide_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "guide_event",
+                    "visitor_history",
+                    "visitor.visitor_id = guide_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_event",
+                    "account_history",
+                    "account.account_id = guide_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 1,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a report on user interactions with guides, focusing on engagement metrics such as view counts and completion rates, broken down by guide type and user demographics, with filters for specific event timestamps and user segments.",
+            "ground_truth": [
+                "account_history",
+                "guide_event",
+                "int_pendo__guide_info",
+                "visitor_history"
+            ],
+            "edge_relation": [
+                [
+                    "guide_event",
+                    "int_pendo__guide_info",
+                    "guide.guide_id = guide_event.guide_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "guide_event",
+                    "visitor_history",
+                    "visitor.visitor_id = guide_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_event",
+                    "account_history",
+                    "account.account_id = guide_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 1,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 1
+            }
+        },
+        {
+            "query": "I need a daily report on account engagement metrics, including the number of pages viewed, features clicked, and visitors viewing pages, broken down by account, with filters for specific dates.",
+            "ground_truth": [
+                "event",
+                "feature_event",
+                "page_event"
+            ],
+            "edge_relation": [
+                [
+                    "event",
+                    "page_event",
+                    "events.occurred_on = page_event.occurred_on AND events.account_id = page_event.account_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "event",
+                    "feature_event",
+                    "events.occurred_on = feature_event.occurred_on AND events.account_id = feature_event.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 0,
+                "event": 1,
+                "feature_event": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a report on the number of active features within each product area, broken down by application platform and application display name, with filters for the user who created or last updated the page information.",
+            "ground_truth": [
+                "application_history",
+                "feature_history",
+                "page_history",
+                "page_rule_history",
+                "stg_pendo__group_tmp",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "page_history",
+                    "application_history",
+                    "page.app_id = application.application_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "user",
+                    "page.created_by_user_id = creator.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "user",
+                    "page.last_updated_by_user_id = updater.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "stg_pendo__group_tmp",
+                    "page.group_id = product_area.group_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "page_rule_history",
+                    "page.page_id = agg_page_rule.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "feature_history",
+                    "page.page_id = active_features.page_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 1,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 1,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 0,
+                "page_history": 1,
+                "page_rule_history": 1,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 1,
+                "user": 1,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a report on the number of active features across different product areas and application platforms, broken down by the creator's full name and username, with filters for specific application display names and rules.",
+            "ground_truth": [
+                "application_history",
+                "feature_history",
+                "page_history",
+                "page_rule_history",
+                "stg_pendo__group_tmp",
+                "user"
+            ],
+            "edge_relation": [
+                [
+                    "page_history",
+                    "application_history",
+                    "page.app_id = application.application_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "user",
+                    "page.created_by_user_id = creator.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "user",
+                    "page.last_updated_by_user_id = updater.user_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "stg_pendo__group_tmp",
+                    "page.group_id = product_area.group_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "page_rule_history",
+                    "page.page_id = agg_page_rule.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_history",
+                    "feature_history",
+                    "page.page_id = active_features.page_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 1,
+                "event": 0,
+                "feature_event": 0,
+                "feature_history": 1,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 0,
+                "page_history": 1,
+                "page_rule_history": 1,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 1,
+                "user": 1,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a daily report on visitor engagement metrics, including total minutes spent, total events, pages viewed, and features clicked, broken down by visitor ID, with filters for specific dates.",
+            "ground_truth": [
+                "event",
+                "feature_event",
+                "page_event"
+            ],
+            "edge_relation": [
+                [
+                    "event",
+                    "feature_event",
+                    "events.occurred_on = feature_event.occurred_on AND events.visitor_id = feature_event.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "event",
+                    "page_event",
+                    "events.occurred_on = page_event.occurred_on AND events.visitor_id = page_event.visitor_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history": 0,
+                "application_history": 0,
+                "event": 1,
+                "feature_event": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info": 0,
+                "int_pendo__guide_info": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info": 0,
+                "page_event": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history": 0
+            }
+        },
+        {
+            "query": "I need a report on user interactions with application features, detailing the transition between current and previous features, broken down by feature name, page name, and product area, with filters for specific application platforms and display names.",
+            "ground_truth": [
+                "account_history_more_data",
+                "feature_event_more_data",
+                "int_pendo__feature_info_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "feature_event_more_data",
+                    "int_pendo__feature_info_more_data",
+                    "feature_event_more_data.feature_id = current_feature.feature_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "int_pendo__feature_info_more_data",
+                    "feature_event_more_data.previous_feature_id = previous_feature.feature_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = feature_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = feature_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "page_event_more_data": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on feature usage metrics, including the number of events and minutes spent on features, broken down by account, feature name, and application platform, with filters for specific product areas and previous feature interactions.",
+            "ground_truth": [
+                "account_history_more_data",
+                "feature_event_more_data",
+                "int_pendo__feature_info_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "feature_event_more_data",
+                    "int_pendo__feature_info_more_data",
+                    "feature_event_more_data.feature_id = current_feature.feature_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "int_pendo__feature_info_more_data",
+                    "feature_event_more_data.previous_feature_id = previous_feature.feature_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = feature_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "feature_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = feature_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 1,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "page_event_more_data": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        },
+        {
+            "query": "I need a detailed report on user interactions with in-app guides, focusing on engagement metrics such as guide views and completion rates, broken down by user segments and guide types, with filters for specific time periods and user demographics.",
+            "ground_truth": [
+                "account_history_more_data",
+                "guide_event_more_data",
+                "int_pendo__guide_info_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "guide_event_more_data",
+                    "int_pendo__guide_info_more_data",
+                    "guide.guide_id = guide_event_more_data.guide_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "guide_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = guide_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = guide_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 1,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 0,
+                "int_pendo__guide_info_more_data": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info_more_data": 0,
+                "page_event_more_data": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        },
+        {
+            "query": "I need a report on user interactions with guides, focusing on engagement metrics such as view counts and completion rates, broken down by guide type and user demographics, with filters for specific event timestamps and user segments.",
+            "ground_truth": [
+                "account_history_more_data",
+                "guide_event_more_data",
+                "int_pendo__guide_info_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "guide_event_more_data",
+                    "int_pendo__guide_info_more_data",
+                    "guide.guide_id = guide_event_more_data.guide_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "guide_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = guide_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "guide_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = guide_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 1,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 0,
+                "int_pendo__guide_info_more_data": 1,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info_more_data": 0,
+                "page_event_more_data": 0,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        },
+        {
+            "query": "I need a report on user navigation patterns, including transitions between pages and product areas, broken down by application platform and display name, with filters for specific page rules and previous page interactions.",
+            "ground_truth": [
+                "account_history_more_data",
+                "int_pendo__page_info_more_data",
+                "page_event_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "page_event_more_data",
+                    "int_pendo__page_info_more_data",
+                    "page_event_more_data.page_id = current_page.page_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "int_pendo__page_info_more_data",
+                    "page_event_more_data.previous_page_id = previous_page.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = page_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = page_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info_more_data": 1,
+                "page_event_more_data": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        },
+        {
+            "query": "I need a weekly report on user navigation patterns, including time spent and events on previous pages, broken down by account, page, and product area, with filters for specific app platforms and page names.",
+            "ground_truth": [
+                "account_history_more_data",
+                "int_pendo__page_info_more_data",
+                "page_event_more_data",
+                "visitor_history_more_data"
+            ],
+            "edge_relation": [
+                [
+                    "page_event_more_data",
+                    "int_pendo__page_info_more_data",
+                    "page_event_more_data.page_id = current_page.page_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "int_pendo__page_info_more_data",
+                    "page_event_more_data.previous_page_id = previous_page.page_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "visitor_history_more_data",
+                    "visitor.visitor_id = page_event_more_data.visitor_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "page_event_more_data",
+                    "account_history_more_data",
+                    "account.account_id = page_event_more_data.account_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account_history_more_data": 1,
+                "application_history": 0,
+                "event": 0,
+                "feature_event_more_data": 0,
+                "feature_history": 0,
+                "group": 0,
+                "guide_event_more_data": 0,
+                "guide_history": 0,
+                "guide_step_history": 0,
+                "int_pendo__account_daily_metrics": 0,
+                "int_pendo__feature_info_more_data": 0,
+                "int_pendo__latest_nps_rating": 0,
+                "int_pendo__page_info_more_data": 1,
+                "page_event_more_data": 1,
+                "page_history": 0,
+                "page_rule_history": 0,
+                "poll": 0,
+                "poll_event": 0,
+                "stg_pendo__group": 0,
+                "stg_pendo__group_tmp": 0,
+                "user": 0,
+                "visitor_account_history": 0,
+                "visitor_history_more_data": 1
+            }
+        }
+    ],
+    "zendesk": [
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total count of new, open, and solved tickets, average first reply times, and SLA breach occurrences, broken down by ticket status and assignee roles, with filters for specific ticket types and priority levels.",
+            "ground_truth": [
+                "brand",
+                "ticket",
+                "ticket_tag"
+            ],
+            "edge_relation": [
+                [
+                    "ticket",
+                    "ticket_tag",
+                    "tickets.ticket_id = ticket_tags.ticket_id AND tickets.source_relation = ticket_tags.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "brand",
+                    "brands.brand_id = tickets.brand_id AND brands.source_relation = tickets.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 1,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 0,
+                "ticket_chat_event": 0,
+                "ticket_comment": 0,
+                "ticket_field_history": 0,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 1,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total count of new, open, and solved tickets, along with SLA breach occurrences and average response times, broken down by ticket status and assignee role, with filters for specific ticket types and priority levels.",
+            "ground_truth": [
+                "brand",
+                "ticket",
+                "ticket_tag"
+            ],
+            "edge_relation": [
+                [
+                    "ticket",
+                    "ticket_tag",
+                    "tickets.ticket_id = ticket_tags.ticket_id AND tickets.source_relation = ticket_tags.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "brand",
+                    "brands.brand_id = tickets.brand_id AND brands.source_relation = tickets.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 1,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 0,
+                "ticket_chat_event": 0,
+                "ticket_comment": 0,
+                "ticket_field_history": 0,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 1,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total number of tickets created, the count of tickets in various statuses such as new, open, and solved, as well as SLA breach occurrences, broken down by ticket priority and assignee role, with filters for specific timeframes and ticket types.",
+            "ground_truth": [
+                "ticket",
+                "ticket_chat",
+                "ticket_chat_event",
+                "ticket_comment",
+                "ticket_field_history"
+            ],
+            "edge_relation": [
+                [
+                    "ticket_chat_event",
+                    "ticket_chat",
+                    "ticket_chat_event.chat_id = ticket_chat.chat_id AND ticket_chat_event.source_relation = ticket_chat.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_field_history",
+                    "tickets.ticket_id = ticket_history.ticket_id AND tickets.source_relation = ticket_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_comment",
+                    "tickets.ticket_id = ticket_comment.ticket_id AND tickets.source_relation = ticket_comment.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_chat_event",
+                    "tickets.ticket_id = ticket_chat_event.ticket_id AND tickets.source_relation = ticket_chat_event.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 1,
+                "ticket_chat_event": 1,
+                "ticket_comment": 1,
+                "ticket_field_history": 1,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total number of tickets created, the count of tickets in various statuses (new, open, pending, solved), and SLA breach occurrences, broken down by ticket priority and assignee role, with filters for specific time periods and ticket types.",
+            "ground_truth": [
+                "ticket",
+                "ticket_chat",
+                "ticket_chat_event",
+                "ticket_comment",
+                "ticket_field_history"
+            ],
+            "edge_relation": [
+                [
+                    "ticket_chat_event",
+                    "ticket_chat",
+                    "ticket_chat_event.chat_id = ticket_chat.chat_id AND ticket_chat_event.source_relation = ticket_chat.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_field_history",
+                    "tickets.ticket_id = ticket_history.ticket_id AND tickets.source_relation = ticket_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_comment",
+                    "tickets.ticket_id = ticket_comment.ticket_id AND tickets.source_relation = ticket_comment.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_chat_event",
+                    "tickets.ticket_id = ticket_chat_event.ticket_id AND tickets.source_relation = ticket_chat_event.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 1,
+                "ticket_chat_event": 1,
+                "ticket_comment": 1,
+                "ticket_field_history": 1,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the number of tickets created, the average first reply time, and the total number of SLA breaches, broken down by ticket status and assignee role, with filters for specific priority levels and ticket types.",
+            "ground_truth": [
+                "ticket",
+                "ticket_chat",
+                "ticket_chat_event",
+                "ticket_comment",
+                "ticket_field_history"
+            ],
+            "edge_relation": [
+                [
+                    "ticket_chat_event",
+                    "ticket_chat",
+                    "ticket_chat_event.chat_id = ticket_chat.chat_id AND ticket_chat_event.source_relation = ticket_chat.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_field_history",
+                    "tickets.ticket_id = ticket_history.ticket_id AND tickets.source_relation = ticket_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_comment",
+                    "tickets.ticket_id = ticket_comment.ticket_id AND tickets.source_relation = ticket_comment.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_chat_event",
+                    "tickets.ticket_id = ticket_chat_event.ticket_id AND tickets.source_relation = ticket_chat_event.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 1,
+                "ticket_chat_event": 1,
+                "ticket_comment": 1,
+                "ticket_field_history": 1,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total number of tickets created, the count of tickets in various statuses such as new, open, and solved, as well as SLA breach occurrences, broken down by ticket priority and assignee role, with filters for specific timeframes and ticket types.",
+            "ground_truth": [
+                "ticket",
+                "ticket_chat",
+                "ticket_chat_event",
+                "ticket_comment",
+                "ticket_field_history"
+            ],
+            "edge_relation": [
+                [
+                    "ticket_chat_event",
+                    "ticket_chat",
+                    "ticket_chat_event.chat_id = ticket_chat.chat_id AND ticket_chat_event.source_relation = ticket_chat.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_field_history",
+                    "tickets.ticket_id = ticket_history.ticket_id AND tickets.source_relation = ticket_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_comment",
+                    "tickets.ticket_id = ticket_comment.ticket_id AND tickets.source_relation = ticket_comment.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ticket",
+                    "ticket_chat_event",
+                    "tickets.ticket_id = ticket_chat_event.ticket_id AND tickets.source_relation = ticket_chat_event.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 0,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 0,
+                "schedule_holiday": 0,
+                "ticket": 1,
+                "ticket_chat": 1,
+                "ticket_chat_event": 1,
+                "ticket_comment": 1,
+                "ticket_field_history": 1,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total number of tickets created, the count of tickets in various statuses such as new, open, and solved, and the average response times, broken down by assignee and ticket priority, with filters for specific time zones and SLA breaches.",
+            "ground_truth": [
+                "audit_log",
+                "int_zendesk__timezone_daylight",
+                "schedule"
+            ],
+            "edge_relation": [
+                [
+                    "audit_log",
+                    "schedule",
+                    "schedule_id_timezone.schedule_id = schedule_history.schedule_id AND schedule_id_timezone.source_relation = schedule_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "int_zendesk__timezone_daylight",
+                    "audit_log",
+                    "split_timezones.time_zone = reset_schedule_start.time_zone AND split_timezones.source_relation = reset_schedule_start.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 1,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "int_zendesk__timezone_daylight": 1,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 1,
+                "schedule_holiday": 0,
+                "ticket": 0,
+                "ticket_chat": 0,
+                "ticket_chat_event": 0,
+                "ticket_comment": 0,
+                "ticket_field_history": 0,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        },
+        {
+            "query": "I need a daily report on ticket performance metrics, including the total number of tickets created, the count of tickets in various statuses (new, open, pending, solved), and SLA breach occurrences, broken down by assignee and ticket priority, with filters for specific time zones and ticket types.",
+            "ground_truth": [
+                "audit_log",
+                "int_zendesk__timezone_daylight",
+                "schedule"
+            ],
+            "edge_relation": [
+                [
+                    "audit_log",
+                    "schedule",
+                    "schedule_id_timezone.schedule_id = schedule_history.schedule_id AND schedule_id_timezone.source_relation = schedule_history.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "int_zendesk__timezone_daylight",
+                    "audit_log",
+                    "split_timezones.time_zone = reset_schedule_start.time_zone AND split_timezones.source_relation = reset_schedule_start.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "audit_log": 1,
+                "brand": 0,
+                "daylight_time": 0,
+                "domain_name": 0,
+                "group": 0,
+                "int_zendesk__timezone_daylight": 1,
+                "organization": 0,
+                "organization_tag": 0,
+                "schedule": 1,
+                "schedule_holiday": 0,
+                "ticket": 0,
+                "ticket_chat": 0,
+                "ticket_chat_event": 0,
+                "ticket_comment": 0,
+                "ticket_field_history": 0,
+                "ticket_form_history": 0,
+                "ticket_schedule": 0,
+                "ticket_tag": 0,
+                "time_zone": 0,
+                "user": 0,
+                "user_tag": 0
+            }
+        }
+    ]
+}

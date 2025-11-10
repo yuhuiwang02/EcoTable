@@ -1,0 +1,16 @@
+source_relation,ticket_id,last_status_assignment_date,ticket_deleted_count,agent_wait_time_in_calendar_minutes,requester_wait_time_in_calendar_minutes,solve_time_in_calendar_minutes,agent_work_time_in_calendar_minutes,on_hold_time_in_calendar_minutes,new_status_duration_in_calendar_minutes,open_status_duration_in_calendar_minutes,total_ticket_recoveries
+zendesk.public,6964,2020-06-01 21:11:59,0,0,0,0,0,0,0,0,0
+zendesk.public,982,2020-02-10 22:32:56,0,0,0,0,0,0,0,0,0
+zendesk.public,1192,2020-02-12 00:22:26,0,0,0,0,0,0,0,0,0
+zendesk.public,102,2020-02-10 08:36:38,0,0,0,0,0,0,0,0,0
+zendesk.public,141,2020-02-10 08:36:25,0,0,0,0,0,0,0,0,0
+zendesk.public,11071,2020-11-15 11:01:27,0,40320,43200,83520,43200,0,0,43200,0
+zendesk.public,226,2020-02-10 08:35:52,0,0,0,0,0,0,0,0,0
+zendesk.public,974,2020-02-10 21:47:41,0,0,0,0,0,0,0,0,0
+zendesk.public,229,2020-02-10 08:35:52,0,0,0,0,0,0,0,0,0
+zendesk.public,95,2020-02-10 08:36:39,0,0,0,0,0,0,0,0,0
+zendesk.public,103,2020-02-10 08:36:38,0,0,0,0,0,0,0,0,0
+zendesk.public,312,2020-02-10 08:35:18,0,0,0,0,0,0,0,0,0
+zendesk.public,107,2020-02-10 08:36:38,0,0,0,0,0,0,0,0,0
+zendesk.public,11016,2020-09-02 15:53:15,0,0,0,0,0,0,0,0,0
+zendesk.public,8205,2020-07-07 23:01:47,0,0,0,0,0,0,0,0,0

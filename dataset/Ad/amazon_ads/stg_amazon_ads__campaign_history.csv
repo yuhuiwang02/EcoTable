@@ -1,0 +1,7 @@
+source_relation,campaign_id,last_updated_date,bidding_strategy,creation_date,end_date,campaign_name,portfolio_id,profile_id,serving_status,start_date,state,targeting_type,budget,budget_type,effective_budget,is_most_recent_record
+"",2187,2022-08-25 15:36:51.687000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_PAUSED,2022-07-11,paused,manual,2000,daily,,t
+"",2187,2022-08-09 12:31:52.823000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,2000,daily,,f
+"",2187,2022-07-14 11:58:58.857000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_PAUSED,2022-07-11,paused,manual,2000,daily,,f
+"",2187,2022-07-12 21:19:35.684000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,2000,daily,,f
+"",2187,2022-07-12 16:31:38.031000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,1000,daily,,f
+"",2187,2022-07-11 22:38:16.327000,autoForSales,2022-07-11 22:38:16.327000,,Red Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,300,daily,,f

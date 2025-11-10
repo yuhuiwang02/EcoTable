@@ -1,0 +1,1597 @@
+{
+    "sage_intacct": [
+        {
+            "query": "I need a monthly report on total amounts due, total amounts paid, and the number of items for each invoice or bill, broken down by customer name, vendor name, and department name, with filters for specific entry dates and document types.",
+            "ground_truth": [
+                "ap_bill",
+                "ap_bill_item",
+                "ar_invoice",
+                "ar_invoice_item"
+            ],
+            "edge_relation": [
+                [
+                    "ap_bill_item",
+                    "ap_bill",
+                    "ap_bill_item.bill_id = ap_bill.bill_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ar_invoice_item",
+                    "ar_invoice",
+                    "ar_invoice_item.invoice_id = ar_invoice.invoice_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "ap_bill": 1,
+                "ap_bill_item": 1,
+                "ar_invoice": 1,
+                "ar_invoice_item": 1,
+                "gl_account": 0,
+                "gl_batch": 0,
+                "gl_detail": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on total amounts due, total amounts paid, and the number of items for each invoice or bill, broken down by customer name, vendor name, and department name, with filters for specific entry dates and document types.",
+            "ground_truth": [
+                "ap_bill",
+                "ap_bill_item",
+                "ar_invoice",
+                "ar_invoice_item"
+            ],
+            "edge_relation": [
+                [
+                    "ap_bill_item",
+                    "ap_bill",
+                    "ap_bill_item.bill_id = ap_bill.bill_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ar_invoice_item",
+                    "ar_invoice",
+                    "ar_invoice_item.invoice_id = ar_invoice.invoice_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "ap_bill": 1,
+                "ap_bill_item": 1,
+                "ar_invoice": 1,
+                "ar_invoice_item": 1,
+                "gl_account": 0,
+                "gl_batch": 0,
+                "gl_detail": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on total amounts due, total amounts paid, and the number of items for each invoice or bill, broken down by customer name, vendor name, and department name, with filters for specific document types and due dates.",
+            "ground_truth": [
+                "ap_bill",
+                "ap_bill_item",
+                "ar_invoice",
+                "ar_invoice_item"
+            ],
+            "edge_relation": [
+                [
+                    "ap_bill_item",
+                    "ap_bill",
+                    "ap_bill_item.bill_id = ap_bill.bill_id",
+                    "LEFT JOIN"
+                ],
+                [
+                    "ar_invoice_item",
+                    "ar_invoice",
+                    "ar_invoice_item.invoice_id = ar_invoice.invoice_id",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "ap_bill": 1,
+                "ap_bill_item": 1,
+                "ar_invoice": 1,
+                "ar_invoice_item": 1,
+                "gl_account": 0,
+                "gl_batch": 0,
+                "gl_detail": 0
+            }
+        }
+    ],
+    "xero": [
+        {
+            "query": "I need a monthly report on net amounts and account balances from the profit and loss report and balance sheet, including invoice line item details such as line amounts and tax amounts, broken down by account type and account class, with filters for specific account codes and invoice statuses.",
+            "ground_truth": [
+                "account",
+                "contact",
+                "int_xero__invoice_line_item_pivoted_tracking_categories",
+                "invoice",
+                "invoice_line_item"
+            ],
+            "edge_relation": [
+                [
+                    "invoice_line_item",
+                    "invoice",
+                    "line_items.invoice_id = invoices.invoice_id AND line_items.source_relation = invoices.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "account",
+                    "line_items.account_code = accounts.account_code AND line_items.source_relation = accounts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice",
+                    "contact",
+                    "invoices.contact_id = contacts.contact_id AND invoices.source_relation = contacts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "int_xero__invoice_line_item_pivoted_tracking_categories",
+                    "line_items.line_item_id = pivoted_tracking_categories.line_item_id AND line_items.invoice_id = pivoted_tracking_categories.invoice_id AND line_items.source_relation = pivoted_tracking_categories.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 1,
+                "bank_transaction": 0,
+                "contact": 1,
+                "credit_note": 0,
+                "int_xero__invoice_line_item_pivoted_tracking_categories": 1,
+                "invoice": 1,
+                "invoice_line_item": 1,
+                "invoice_line_item_has_tracking_category": 0,
+                "journal": 0,
+                "journal_line": 0,
+                "journal_line_has_tracking_category": 0,
+                "organization": 0,
+                "tracking_category": 0,
+                "tracking_category_has_option": 0,
+                "tracking_category_option": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on invoice performance metrics, including total line item amounts, discount rates, and tax amounts, broken down by account name, invoice status, and contact name, with filters for specific invoice dates and payment statuses.",
+            "ground_truth": [
+                "account",
+                "contact",
+                "int_xero__invoice_line_item_pivoted_tracking_categories",
+                "invoice",
+                "invoice_line_item"
+            ],
+            "edge_relation": [
+                [
+                    "invoice_line_item",
+                    "invoice",
+                    "line_items.invoice_id = invoices.invoice_id AND line_items.source_relation = invoices.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "account",
+                    "line_items.account_code = accounts.account_code AND line_items.source_relation = accounts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice",
+                    "contact",
+                    "invoices.contact_id = contacts.contact_id AND invoices.source_relation = contacts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "int_xero__invoice_line_item_pivoted_tracking_categories",
+                    "line_items.line_item_id = pivoted_tracking_categories.line_item_id AND line_items.invoice_id = pivoted_tracking_categories.invoice_id AND line_items.source_relation = pivoted_tracking_categories.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 1,
+                "bank_transaction": 0,
+                "contact": 1,
+                "credit_note": 0,
+                "int_xero__invoice_line_item_pivoted_tracking_categories": 1,
+                "invoice": 1,
+                "invoice_line_item": 1,
+                "invoice_line_item_has_tracking_category": 0,
+                "journal": 0,
+                "journal_line": 0,
+                "journal_line_has_tracking_category": 0,
+                "organization": 0,
+                "tracking_category": 0,
+                "tracking_category_has_option": 0,
+                "tracking_category_option": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on invoice line item performance, including total line amounts, tax amounts, and discount rates, broken down by account type, contact name, and invoice status, with filters for specific invoice dates and account classes.",
+            "ground_truth": [
+                "account",
+                "contact",
+                "int_xero__invoice_line_item_pivoted_tracking_categories",
+                "invoice",
+                "invoice_line_item"
+            ],
+            "edge_relation": [
+                [
+                    "invoice_line_item",
+                    "invoice",
+                    "line_items.invoice_id = invoices.invoice_id AND line_items.source_relation = invoices.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "account",
+                    "line_items.account_code = accounts.account_code AND line_items.source_relation = accounts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice",
+                    "contact",
+                    "invoices.contact_id = contacts.contact_id AND invoices.source_relation = contacts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "int_xero__invoice_line_item_pivoted_tracking_categories",
+                    "line_items.line_item_id = pivoted_tracking_categories.line_item_id AND line_items.invoice_id = pivoted_tracking_categories.invoice_id AND line_items.source_relation = pivoted_tracking_categories.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 1,
+                "bank_transaction": 0,
+                "contact": 1,
+                "credit_note": 0,
+                "int_xero__invoice_line_item_pivoted_tracking_categories": 1,
+                "invoice": 1,
+                "invoice_line_item": 1,
+                "invoice_line_item_has_tracking_category": 0,
+                "journal": 0,
+                "journal_line": 0,
+                "journal_line_has_tracking_category": 0,
+                "organization": 0,
+                "tracking_category": 0,
+                "tracking_category_has_option": 0,
+                "tracking_category_option": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on the net amounts and account balances from the profit and loss report and balance sheet, including invoice line item details such as line item descriptions and discount rates, broken down by account type and contact name, with filters for specific invoice statuses and due dates.",
+            "ground_truth": [
+                "account",
+                "contact",
+                "int_xero__invoice_line_item_pivoted_tracking_categories",
+                "invoice",
+                "invoice_line_item"
+            ],
+            "edge_relation": [
+                [
+                    "invoice_line_item",
+                    "invoice",
+                    "line_items.invoice_id = invoices.invoice_id AND line_items.source_relation = invoices.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "account",
+                    "line_items.account_code = accounts.account_code AND line_items.source_relation = accounts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice",
+                    "contact",
+                    "invoices.contact_id = contacts.contact_id AND invoices.source_relation = contacts.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "invoice_line_item",
+                    "int_xero__invoice_line_item_pivoted_tracking_categories",
+                    "line_items.line_item_id = pivoted_tracking_categories.line_item_id AND line_items.invoice_id = pivoted_tracking_categories.invoice_id AND line_items.source_relation = pivoted_tracking_categories.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 1,
+                "bank_transaction": 0,
+                "contact": 1,
+                "credit_note": 0,
+                "int_xero__invoice_line_item_pivoted_tracking_categories": 1,
+                "invoice": 1,
+                "invoice_line_item": 1,
+                "invoice_line_item_has_tracking_category": 0,
+                "journal": 0,
+                "journal_line": 0,
+                "journal_line_has_tracking_category": 0,
+                "organization": 0,
+                "tracking_category": 0,
+                "tracking_category_has_option": 0,
+                "tracking_category_option": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on net amounts and account balances from the profit and loss report, general ledger, and balance sheet, broken down by account type and account class, with filters for specific regions and departments.",
+            "ground_truth": [
+                "account",
+                "bank_transaction",
+                "contact",
+                "credit_note",
+                "int_xero__journal_line_pivoted_tracking_categories",
+                "invoice",
+                "journal",
+                "journal_line"
+            ],
+            "edge_relation": [
+                [
+                    "journal",
+                    "journal_line",
+                    "journals.journal_id = journal_lines.journal_id AND journals.source_relation = journal_lines.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal_line",
+                    "account",
+                    "accounts.account_id = journal_lines.account_id AND accounts.source_relation = journal_lines.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal_line",
+                    "int_xero__journal_line_pivoted_tracking_categories",
+                    "journal_lines.journal_line_id = pivoted_tracking_categories.journal_line_id AND journals.journal_id = pivoted_tracking_categories.journal_id AND journals.source_relation = pivoted_tracking_categories.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal",
+                    "invoice",
+                    "joined.invoice_id = invoices.invoice_id AND joined.source_relation = invoices.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal",
+                    "bank_transaction",
+                    "joined.bank_transaction_id = bank_transactions.bank_transaction_id AND joined.source_relation = bank_transactions.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal",
+                    "credit_note",
+                    "joined.credit_note_id = credit_notes.credit_note_id AND joined.source_relation = credit_notes.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "journal",
+                    "contact",
+                    "first_contact.contact_id = contacts.contact_id AND first_contact.source_relation = contacts.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "account": 1,
+                "bank_transaction": 1,
+                "contact": 1,
+                "credit_note": 1,
+                "int_xero__invoice_line_item_pivoted_tracking_categories": 0,
+                "int_xero__journal_line_pivoted_tracking_categories": 1,
+                "invoice": 1,
+                "invoice_line_item": 0,
+                "invoice_line_item_has_tracking_category": 0,
+                "journal": 1,
+                "journal_line": 1,
+                "journal_line_has_tracking_category": 0,
+                "organization": 0,
+                "tracking_category": 0,
+                "tracking_category_has_option": 0,
+                "tracking_category_option": 0
+            }
+        }
+    ],
+    "sap": [
+        {
+            "query": "I need a monthly report on sales order delivery performance, including overall delivery status, item delivery status, and any outstanding delivery issues, broken down by delivery status and overall status categories, with filters for specific order types and regions.",
+            "ground_truth": [
+                "vbak",
+                "vbap",
+                "vbuk",
+                "vbup"
+            ],
+            "edge_relation": [
+                [
+                    "vbak",
+                    "vbap",
+                    "sales_document_header.sales_document_id = sales_document_item.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbak",
+                    "vbuk",
+                    "sales_document_header.sales_document_id = sales_document_header_status.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbap",
+                    "vbup",
+                    "sales_document_item.sales_document_id = sales_document_item_status.sales_document_id AND sales_document_item.sales_document_item_id = sales_document_item_status.sd_item_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "acdoca": 0,
+                "bkpf": 0,
+                "bseg": 0,
+                "dd07l": 0,
+                "dd07t": 0,
+                "ekbe": 0,
+                "eket": 0,
+                "ekko": 0,
+                "ekpo": 0,
+                "faglflexa": 0,
+                "faglflext": 0,
+                "finsc_cmp_versnd": 0,
+                "finsc_ld_cmp": 0,
+                "finsc_ledger_rep": 0,
+                "kna1": 0,
+                "lfa1": 0,
+                "makt": 0,
+                "mara": 0,
+                "marc": 0,
+                "matdoc": 0,
+                "matdoc_extract": 0,
+                "mchb": 0,
+                "mchp": 0,
+                "pa0000": 0,
+                "pa0001": 0,
+                "pa0007": 0,
+                "pa0008": 0,
+                "pa0031": 0,
+                "sapsll_clsnr": 0,
+                "sapsll_maritc": 0,
+                "sapsll_nosca": 0,
+                "sapsll_tunos": 0,
+                "ska1": 0,
+                "t000": 0,
+                "t001": 0,
+                "t001w": 0,
+                "t024": 0,
+                "t024e": 0,
+                "t134": 0,
+                "t134t": 0,
+                "t161": 0,
+                "t161t": 0,
+                "t503": 0,
+                "t880": 0,
+                "tj01": 0,
+                "tka01": 0,
+                "tvag": 0,
+                "tvagt": 0,
+                "vbak": 1,
+                "vbap": 1,
+                "vbuk": 1,
+                "vbup": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on sales performance metrics, including total order quantity and net value of sales, broken down by sales organization and document date, with filters for specific delivery statuses and overall order statuses.",
+            "ground_truth": [
+                "vbak",
+                "vbap",
+                "vbuk",
+                "vbup"
+            ],
+            "edge_relation": [
+                [
+                    "vbak",
+                    "vbap",
+                    "sales_document_header.sales_document_id = sales_document_item.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbak",
+                    "vbuk",
+                    "sales_document_header.sales_document_id = sales_document_header_status.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbap",
+                    "vbup",
+                    "sales_document_item.sales_document_id = sales_document_item_status.sales_document_id AND sales_document_item.sales_document_item_id = sales_document_item_status.sd_item_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "acdoca": 0,
+                "bkpf": 0,
+                "bseg": 0,
+                "dd07l": 0,
+                "dd07t": 0,
+                "ekbe": 0,
+                "eket": 0,
+                "ekko": 0,
+                "ekpo": 0,
+                "faglflexa": 0,
+                "faglflext": 0,
+                "finsc_cmp_versnd": 0,
+                "finsc_ld_cmp": 0,
+                "finsc_ledger_rep": 0,
+                "kna1": 0,
+                "lfa1": 0,
+                "makt": 0,
+                "mara": 0,
+                "marc": 0,
+                "matdoc": 0,
+                "matdoc_extract": 0,
+                "mchb": 0,
+                "mchp": 0,
+                "pa0000": 0,
+                "pa0001": 0,
+                "pa0007": 0,
+                "pa0008": 0,
+                "pa0031": 0,
+                "sapsll_clsnr": 0,
+                "sapsll_maritc": 0,
+                "sapsll_nosca": 0,
+                "sapsll_tunos": 0,
+                "ska1": 0,
+                "t000": 0,
+                "t001": 0,
+                "t001w": 0,
+                "t024": 0,
+                "t024e": 0,
+                "t134": 0,
+                "t134t": 0,
+                "t161": 0,
+                "t161t": 0,
+                "t503": 0,
+                "t880": 0,
+                "tj01": 0,
+                "tka01": 0,
+                "tvag": 0,
+                "tvagt": 0,
+                "vbak": 1,
+                "vbap": 1,
+                "vbuk": 1,
+                "vbup": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on sales order performance, including total order quantities, net values, and gross weights, broken down by material group and delivery status, with filters for specific plants and rejection reasons.",
+            "ground_truth": [
+                "vbak",
+                "vbap",
+                "vbuk",
+                "vbup"
+            ],
+            "edge_relation": [
+                [
+                    "vbak",
+                    "vbap",
+                    "sales_document_header.sales_document_id = sales_document_item.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbak",
+                    "vbuk",
+                    "sales_document_header.sales_document_id = sales_document_header_status.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbap",
+                    "vbup",
+                    "sales_document_item.sales_document_id = sales_document_item_status.sales_document_id AND sales_document_item.sales_document_item_id = sales_document_item_status.sd_item_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "acdoca": 0,
+                "bkpf": 0,
+                "bseg": 0,
+                "dd07l": 0,
+                "dd07t": 0,
+                "ekbe": 0,
+                "eket": 0,
+                "ekko": 0,
+                "ekpo": 0,
+                "faglflexa": 0,
+                "faglflext": 0,
+                "finsc_cmp_versnd": 0,
+                "finsc_ld_cmp": 0,
+                "finsc_ledger_rep": 0,
+                "kna1": 0,
+                "lfa1": 0,
+                "makt": 0,
+                "mara": 0,
+                "marc": 0,
+                "matdoc": 0,
+                "matdoc_extract": 0,
+                "mchb": 0,
+                "mchp": 0,
+                "pa0000": 0,
+                "pa0001": 0,
+                "pa0007": 0,
+                "pa0008": 0,
+                "pa0031": 0,
+                "sapsll_clsnr": 0,
+                "sapsll_maritc": 0,
+                "sapsll_nosca": 0,
+                "sapsll_tunos": 0,
+                "ska1": 0,
+                "t000": 0,
+                "t001": 0,
+                "t001w": 0,
+                "t024": 0,
+                "t024e": 0,
+                "t134": 0,
+                "t134t": 0,
+                "t161": 0,
+                "t161t": 0,
+                "t503": 0,
+                "t880": 0,
+                "tj01": 0,
+                "tka01": 0,
+                "tvag": 0,
+                "tvagt": 0,
+                "vbak": 1,
+                "vbap": 1,
+                "vbuk": 1,
+                "vbup": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on sales order performance, including total order quantity, net value, and gross weight, broken down by sales organization and delivery status, with filters for specific document categories and order reasons.",
+            "ground_truth": [
+                "vbak",
+                "vbap",
+                "vbuk",
+                "vbup"
+            ],
+            "edge_relation": [
+                [
+                    "vbak",
+                    "vbap",
+                    "sales_document_header.sales_document_id = sales_document_item.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbak",
+                    "vbuk",
+                    "sales_document_header.sales_document_id = sales_document_header_status.sales_document_id",
+                    "INNER JOIN"
+                ],
+                [
+                    "vbap",
+                    "vbup",
+                    "sales_document_item.sales_document_id = sales_document_item_status.sales_document_id AND sales_document_item.sales_document_item_id = sales_document_item_status.sd_item_id",
+                    "INNER JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "acdoca": 0,
+                "bkpf": 0,
+                "bseg": 0,
+                "dd07l": 0,
+                "dd07t": 0,
+                "ekbe": 0,
+                "eket": 0,
+                "ekko": 0,
+                "ekpo": 0,
+                "faglflexa": 0,
+                "faglflext": 0,
+                "finsc_cmp_versnd": 0,
+                "finsc_ld_cmp": 0,
+                "finsc_ledger_rep": 0,
+                "kna1": 0,
+                "lfa1": 0,
+                "makt": 0,
+                "mara": 0,
+                "marc": 0,
+                "matdoc": 0,
+                "matdoc_extract": 0,
+                "mchb": 0,
+                "mchp": 0,
+                "pa0000": 0,
+                "pa0001": 0,
+                "pa0007": 0,
+                "pa0008": 0,
+                "pa0031": 0,
+                "sapsll_clsnr": 0,
+                "sapsll_maritc": 0,
+                "sapsll_nosca": 0,
+                "sapsll_tunos": 0,
+                "ska1": 0,
+                "t000": 0,
+                "t001": 0,
+                "t001w": 0,
+                "t024": 0,
+                "t024e": 0,
+                "t134": 0,
+                "t134t": 0,
+                "t161": 0,
+                "t161t": 0,
+                "t503": 0,
+                "t880": 0,
+                "tj01": 0,
+                "tka01": 0,
+                "tvag": 0,
+                "tvagt": 0,
+                "vbak": 1,
+                "vbap": 1,
+                "vbuk": 1,
+                "vbup": 1
+            }
+        }
+    ],
+    "qualtrics": [
+        {
+            "query": "I need a monthly report on survey distribution effectiveness, including the number of surveys sent, opened, and completed, along with the total count of contacts and mailing lists, broken down by directory name and survey status, with filters for deleted records and specific timeframes for survey engagement.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total count of distinct emails and phones, the number of surveys sent and opened in the last 30 days, and the total count of contacts, broken down by directory name and contact status, with filters for unsubscribed contacts and deleted directories.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on survey distribution effectiveness, including the total number of surveys sent, the count of distinct contacts engaged, and the number of surveys completed, broken down by directory name and survey status, with filters for active directories and surveys not marked as deleted.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total number of distinct emails and phones, the count of contacts created in the last 30 days, and the total number of surveys sent in the last 30 days, broken down by directory name and mailing list subscriptions, with filters for active contacts only.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total count of distinct emails and phones, the number of surveys sent and opened in the last 30 days, and the total count of contacts, broken down by directory name and contact status, with filters for unsubscribed contacts and deleted directories.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total count of distinct emails and phones, the number of contacts created in the last 30 days, and the count of surveys sent in the last 30 days, broken down by directory name and contact status, with filters for unsubscribed contacts and deleted directories.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total number of distinct emails and phones, the count of contacts created in the last 30 days, and the number of surveys sent in the past month, broken down by directory name and mailing list subscriptions, with filters for active contacts only.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on contact engagement metrics, including the total count of distinct emails and phones, the number of contacts created in the last 30 days, and the count of surveys sent and opened in the last 30 days, broken down by directory name and contact status, with filters for unsubscribed contacts and deleted directories.",
+            "ground_truth": [
+                "directory",
+                "directory_contact",
+                "directory_mailing_list",
+                "distribution",
+                "distribution_contact"
+            ],
+            "edge_relation": [
+                [
+                    "distribution_contact",
+                    "directory_contact",
+                    "distribution_contact.contact_id = directory_contact.contact_id AND distribution_contact.source_relation = directory_contact.source_relation",
+                    "INNER JOIN"
+                ],
+                [
+                    "distribution_contact",
+                    "distribution",
+                    "distribution_contact.distribution_id = distribution.distribution_id AND distribution_contact.source_relation = distribution.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_contact",
+                    "directory.directory_id = directory_contact.directory_id AND directory.source_relation = directory_contact.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "directory",
+                    "directory_mailing_list",
+                    "directory.directory_id = directory_mailing_list.directory_id AND directory.source_relation = directory_mailing_list.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "block": 0,
+                "block_question": 0,
+                "contact_mailing_list_membership": 0,
+                "core_contact": 0,
+                "core_mailing_list": 0,
+                "directory": 1,
+                "directory_contact": 1,
+                "directory_mailing_list": 1,
+                "distribution": 1,
+                "distribution_contact": 1,
+                "int_qualtrics__contacts": 0,
+                "question": 0,
+                "question_option": 0,
+                "question_response": 0,
+                "sub_question": 0,
+                "survey": 0,
+                "survey_embedded_data": 0,
+                "survey_response": 0,
+                "survey_version": 0,
+                "user": 0
+            }
+        }
+    ],
+    "amazon_selling_partner": [
+        {
+            "query": "I need a monthly report on order performance metrics, including total order amounts, total item prices, and total shipping costs, broken down by payment methods and order statuses, with filters for specific marketplaces and promotion usage.",
+            "ground_truth": [
+                "order_item",
+                "order_item_promotion_id",
+                "orders",
+                "payment_method_detail_item"
+            ],
+            "edge_relation": [
+                [
+                    "orders",
+                    "order_item",
+                    "orders.amazon_order_id = order_item.amazon_order_id AND orders.source_relation = order_item.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "orders",
+                    "order_item_promotion_id",
+                    "orders.amazon_order_id = order_item_promotion_id.amazon_order_id AND orders.source_relation = order_item_promotion_id.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "orders",
+                    "payment_method_detail_item",
+                    "orders.amazon_order_id = payment_method_detail_item.amazon_order_id AND orders.source_relation = payment_method_detail_item.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 1,
+                "order_item_promotion_id": 1,
+                "orders": 1,
+                "payment_method_detail_item": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on total order amounts, item prices, and shipping costs from Amazon orders, including the count of order items and promotions used, broken down by payment methods and order statuses, with filters for specific marketplaces and purchase dates.",
+            "ground_truth": [
+                "order_item",
+                "order_item_promotion_id",
+                "orders",
+                "payment_method_detail_item"
+            ],
+            "edge_relation": [
+                [
+                    "orders",
+                    "order_item",
+                    "orders.amazon_order_id = order_item.amazon_order_id AND orders.source_relation = order_item.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "orders",
+                    "order_item_promotion_id",
+                    "orders.amazon_order_id = order_item_promotion_id.amazon_order_id AND orders.source_relation = order_item_promotion_id.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "orders",
+                    "payment_method_detail_item",
+                    "orders.amazon_order_id = payment_method_detail_item.amazon_order_id AND orders.source_relation = payment_method_detail_item.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 1,
+                "order_item_promotion_id": 1,
+                "orders": 1,
+                "payment_method_detail_item": 1
+            }
+        },
+        {
+            "query": "I need a monthly report on total order amounts, item quantities, and shipping costs from Amazon orders, broken down by product type and order status, with filters for specific marketplaces and payment methods.",
+            "ground_truth": [
+                "item_classification_sales_rank",
+                "item_dimension",
+                "item_display_group_sales_rank",
+                "item_identifier",
+                "item_image",
+                "item_product_type",
+                "item_relationship",
+                "item_summary"
+            ],
+            "edge_relation": [
+                [
+                    "item_summary",
+                    "item_product_type",
+                    "item_summary.asin = item_product_type.asin AND item_summary.marketplace_id = item_product_type.marketplace_id AND item_summary.source_relation = item_product_type.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_image",
+                    "item_summary.asin = item_image.asin AND item_summary.marketplace_id = item_image.marketplace_id AND item_summary.source_relation = item_image.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_display_group_sales_rank",
+                    "item_summary.asin = item_display_group_sales_rank.asin AND item_summary.website_display_group = item_display_group_sales_rank.website_display_group AND item_summary.source_relation = item_display_group_sales_rank.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_classification_sales_rank",
+                    "item_summary.asin = item_classification_sales_rank.asin AND item_summary.classification_id = item_classification_sales_rank.classification_id AND item_summary.source_relation = item_classification_sales_rank.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_relationship",
+                    "item_summary.asin = item_relationship.child_asin AND item_summary.source_relation = item_relationship.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_dimension",
+                    "item_summary.asin = item_dimension.asin AND item_summary.marketplace_id = item_dimension.marketplace_id AND item_summary.source_relation = item_dimension.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_identifier",
+                    "item_summary.asin = item_identifier.asin AND item_summary.marketplace_id = item_identifier.marketplace_id AND item_summary.source_relation = item_identifier.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "item_classification_sales_rank": 1,
+                "item_dimension": 1,
+                "item_display_group_sales_rank": 1,
+                "item_identifier": 1,
+                "item_image": 1,
+                "item_product_type": 1,
+                "item_relationship": 1,
+                "item_summary": 1,
+                "order_item": 0,
+                "order_item_promotion_id": 0,
+                "orders": 0,
+                "payment_method_detail_item": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on inventory levels and sales performance, including total quantity available, total quantity sold, and sales rank metrics, broken down by product type and brand, with filters for specific marketplaces and release dates.",
+            "ground_truth": [
+                "item_classification_sales_rank",
+                "item_dimension",
+                "item_display_group_sales_rank",
+                "item_identifier",
+                "item_image",
+                "item_product_type",
+                "item_relationship",
+                "item_summary"
+            ],
+            "edge_relation": [
+                [
+                    "item_summary",
+                    "item_product_type",
+                    "item_summary.asin = item_product_type.asin AND item_summary.marketplace_id = item_product_type.marketplace_id AND item_summary.source_relation = item_product_type.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_image",
+                    "item_summary.asin = item_image.asin AND item_summary.marketplace_id = item_image.marketplace_id AND item_summary.source_relation = item_image.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_display_group_sales_rank",
+                    "item_summary.asin = item_display_group_sales_rank.asin AND item_summary.website_display_group = item_display_group_sales_rank.website_display_group AND item_summary.source_relation = item_display_group_sales_rank.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_classification_sales_rank",
+                    "item_summary.asin = item_classification_sales_rank.asin AND item_summary.classification_id = item_classification_sales_rank.classification_id AND item_summary.source_relation = item_classification_sales_rank.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_relationship",
+                    "item_summary.asin = item_relationship.child_asin AND item_summary.source_relation = item_relationship.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_dimension",
+                    "item_summary.asin = item_dimension.asin AND item_summary.marketplace_id = item_dimension.marketplace_id AND item_summary.source_relation = item_dimension.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "item_summary",
+                    "item_identifier",
+                    "item_summary.asin = item_identifier.asin AND item_summary.marketplace_id = item_identifier.marketplace_id AND item_summary.source_relation = item_identifier.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "item_classification_sales_rank": 1,
+                "item_dimension": 1,
+                "item_display_group_sales_rank": 1,
+                "item_identifier": 1,
+                "item_image": 1,
+                "item_product_type": 1,
+                "item_relationship": 1,
+                "item_summary": 1,
+                "order_item": 0,
+                "order_item_promotion_id": 0,
+                "orders": 0,
+                "payment_method_detail_item": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on total order values and item quantities, including total amounts and currency codes from order items, broken down by order status and marketplace, with filters for specific brands and promotional usage.",
+            "ground_truth": [
+                "int_amazon_selling_partner__item",
+                "order_item",
+                "order_item_promotion_id",
+                "orders"
+            ],
+            "edge_relation": [
+                [
+                    "order_item",
+                    "int_amazon_selling_partner__item",
+                    "order_item.asin = item.asin AND order_item.source_relation = item.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "order_item",
+                    "orders",
+                    "order_item.amazon_order_id = orders.amazon_order_id AND order_item.source_relation = orders.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "order_item",
+                    "order_item_promotion_id",
+                    "order_item.amazon_order_id = order_item_promotion_id.amazon_order_id AND order_item.order_item_id = order_item_promotion_id.order_item_id AND order_item.source_relation = order_item_promotion_id.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "int_amazon_selling_partner__item": 1,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 1,
+                "order_item_promotion_id": 1,
+                "orders": 1,
+                "payment_method_detail_item": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on total order amounts, item prices, and promotion discounts from Amazon orders, broken down by order status, item classification, and marketplace, with filters for specific brands and product types.",
+            "ground_truth": [
+                "int_amazon_selling_partner__item",
+                "order_item",
+                "order_item_promotion_id",
+                "orders"
+            ],
+            "edge_relation": [
+                [
+                    "order_item",
+                    "int_amazon_selling_partner__item",
+                    "order_item.asin = item.asin AND order_item.source_relation = item.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "order_item",
+                    "orders",
+                    "order_item.amazon_order_id = orders.amazon_order_id AND order_item.source_relation = orders.source_relation",
+                    "LEFT JOIN"
+                ],
+                [
+                    "order_item",
+                    "order_item_promotion_id",
+                    "order_item.amazon_order_id = order_item_promotion_id.amazon_order_id AND order_item.order_item_id = order_item_promotion_id.order_item_id AND order_item.source_relation = order_item_promotion_id.source_relation",
+                    "LEFT JOIN"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 0,
+                "fba_inventory_summary": 0,
+                "int_amazon_selling_partner__item": 1,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 1,
+                "order_item_promotion_id": 1,
+                "orders": 1,
+                "payment_method_detail_item": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on inventory levels and sales performance, including total quantity available, total reserved quantity, and classification sales rank, broken down by product type and brand, with filters for specific marketplaces and item classifications.",
+            "ground_truth": [
+                "fba_inventory_researching_quantity_entry",
+                "fba_inventory_summary",
+                "int_amazon_selling_partner__item"
+            ],
+            "edge_relation": [
+                [
+                    "int_amazon_selling_partner__item",
+                    "fba_inventory_summary",
+                    "fba_inventory_summary.asin = item.asin AND fba_inventory_summary.source_relation = item.source_relation",
+                    "left join"
+                ],
+                [
+                    "fba_inventory_summary",
+                    "fba_inventory_researching_quantity_entry",
+                    "fba_inventory_summary.inventory_summary_id = pivot_researching_quantity.inventory_summary_id AND fba_inventory_summary.source_relation = pivot_researching_quantity.source_relation",
+                    "left join"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 1,
+                "fba_inventory_summary": 1,
+                "int_amazon_selling_partner__item": 1,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 0,
+                "order_item_promotion_id": 0,
+                "orders": 0,
+                "payment_method_detail_item": 0
+            }
+        },
+        {
+            "query": "I need a monthly report on inventory levels and order fulfillment metrics, including total quantity available, total reserved quantity, and total unfulfillable quantity from the inventory data, alongside order totals and shipping statuses from the order data, broken down by product type and brand, with filters for specific marketplaces and conditions of the items.",
+            "ground_truth": [
+                "fba_inventory_researching_quantity_entry",
+                "fba_inventory_summary",
+                "int_amazon_selling_partner__item"
+            ],
+            "edge_relation": [
+                [
+                    "int_amazon_selling_partner__item",
+                    "fba_inventory_summary",
+                    "fba_inventory_summary.asin = item.asin AND fba_inventory_summary.source_relation = item.source_relation",
+                    "left join"
+                ],
+                [
+                    "fba_inventory_summary",
+                    "fba_inventory_researching_quantity_entry",
+                    "fba_inventory_summary.inventory_summary_id = pivot_researching_quantity.inventory_summary_id AND fba_inventory_summary.source_relation = pivot_researching_quantity.source_relation",
+                    "left join"
+                ]
+            ],
+            "table_relevance": {
+                "fba_inventory_researching_quantity_entry": 1,
+                "fba_inventory_summary": 1,
+                "int_amazon_selling_partner__item": 1,
+                "item_classification_sales_rank": 0,
+                "item_dimension": 0,
+                "item_display_group_sales_rank": 0,
+                "item_identifier": 0,
+                "item_image": 0,
+                "item_product_type": 0,
+                "item_relationship": 0,
+                "item_summary": 0,
+                "order_item": 0,
+                "order_item_promotion_id": 0,
+                "orders": 0,
+                "payment_method_detail_item": 0
+            }
+        }
+    ]
+}

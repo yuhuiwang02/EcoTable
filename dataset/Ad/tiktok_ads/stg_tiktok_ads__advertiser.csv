@@ -1,0 +1,3 @@
+source_relation,advertiser_id,address,balance,company,contacter,country,currency,description,email,industry,language,advertiser_name,cellphone_number,telephone_number,timezone
+"",1,222 address,32.12,Comany X,,US,USD,hello,fake-email,123,en,US,001-002-0003,111-222-3333,Etc/GMT+5
+"",2,111 address,321.22,Company Y,,CAN,CAN,world,fake-email,321,en,Canada,001-003-0004,222-333-4444,Etc/GMT+5

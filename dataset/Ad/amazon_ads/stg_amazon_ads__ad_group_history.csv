@@ -1,0 +1,3 @@
+source_relation,ad_group_id,campaign_id,creation_date,default_bid,last_updated_date,ad_group_name,serving_status,state,is_most_recent_record
+"",421,2187,2022-07-11 22:38:16.551000,1.75,2022-07-11 22:38:16.551000,Red 7,CAMPAIGN_PAUSED,enabled,t
+"",501,5555,2022-11-09 14:37:05.332000,1.45,2022-11-09 14:37:05.332000,All,AD_GROUP_STATUS_ENABLED,enabled,t

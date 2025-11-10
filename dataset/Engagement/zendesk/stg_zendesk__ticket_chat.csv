@@ -1,0 +1,11 @@
+source_relation,_fivetran_synced,is_authenticated,backend,channel,chat_id,conversation_id,integration_id,ticket_id,user_id,visitor_id
+zendesk.public,2024-03-19 16:51:27.753,f,chat,chat,4323.953441.TyDt23helloZt4E,,,45,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:27.748,f,chat,chat,4323.953441.TyDs6revFIOI0Y,,,48,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:11.713,f,chat,chat,4323.953441.T6OrgbvMIqPplK,,,6605,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:27.764,f,chat,chat,4323.953441.TyDs6revFIOI0Y,,,50,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:30.989,f,chat,chat,4323.953441.TyDfrDh7BV3QA,,,44,21652596,9421471-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:27.756,f,chat,chat,4323.953441.T6OrgbvMIqPplK,,,49,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:29.274,f,chat,chat,4323.953441.TzkBGrapJoA,,,47,387066542,21432-1JDmGTcw35VtqY
+zendesk.public,2024-03-19 16:51:25.454,f,chat,chat,4323.953441.TzkArUd3CjKI,,,52,221276,9421471-1JRmMeNdc68s72a
+zendesk.public,2024-03-19 16:51:21.717,f,chat,native_messaging,4323.953441.TzAcedetjkcKyq,465895dda,6427a8897416c83,53,223438084,9471-1J4223fqJrp
+zendesk.public,2024-03-19 16:51:21.712,f,chat,native_messaging,4323.953441.TyDt23helloZt4E,423dac0843a,658d883,54,2253454356,94271-1JXmgdg45wSDKy92

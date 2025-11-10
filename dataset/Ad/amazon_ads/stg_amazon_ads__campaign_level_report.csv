@@ -1,0 +1,11 @@
+source_relation,campaign_applicable_budget_rule_id,campaign_applicable_budget_rule_name,campaign_bidding_strategy,campaign_budget_amount,campaign_budget_currency_code,campaign_budget_type,campaign_id,campaign_rule_based_budget_amount,clicks,cost,date_day,impressions,purchases_30_d,sales_30_d,sales_7_d,purchases_alias,purchases_14_d
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-07-26,,44,54,12,44,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-07-21,,34,345,2,34,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-08-29,,,,0,0,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-08-31,,,,0,0,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-07-27,,35,350,3,35,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-08-28,,,,0,0,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-09-06,,24,335,4,24,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET0.0,2187,,2,1.67,2022-07-11,1095,64,234,0,64,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-07-15,,,,0,0,0
+"",,,optimizeForSales,2000,USD,DAILY_BUDGET,2187,,0,0,2022-07-18,,,,0,0,0
