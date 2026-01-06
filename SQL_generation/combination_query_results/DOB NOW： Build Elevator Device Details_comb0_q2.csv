@@ -1,6 +1,0 @@
-elevator_type,elevator_operation,total,average,count
-Escalator,,,,1
-Passenger,Power,3656.0,104.45714285714286,35
-Passenger,,,,4
-Passenger,Manual,5.0,1.25,4
-,Power,,,1

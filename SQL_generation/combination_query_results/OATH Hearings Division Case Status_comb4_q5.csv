@@ -1,7 +1,0 @@
-violation_location_borough,hearing_result,compliance_status,hearing_status,violation_date,base_infraction_amount,base_paid_amount,count,total
-BRONX,,Penalty Due,NEW ISSUANCE,2025-12-20 00:00:00,0.0,0.0,2,0.0
-QUEENS,NONE,All Terms Met,PAID IN FULL,2025-12-19 00:00:00,0.0,1000.0,1,0.0
-QUEENS,,Penalty Due,NEW ISSUANCE,2025-12-22 00:00:00,0.0,0.0,8,0.0
-BROOKLYN,,Penalty Due,NEW ISSUANCE,2025-12-19 00:00:00,0.0,0.0,18,0.0
-QUEENS,,All Terms Met,PAID IN FULL,2025-12-20 00:00:00,0.0,4000.0,1,0.0
-BROOKLYN,,Penalty Due,NEW ISSUANCE,2025-12-22 00:00:00,0.0,0.0,6,0.0

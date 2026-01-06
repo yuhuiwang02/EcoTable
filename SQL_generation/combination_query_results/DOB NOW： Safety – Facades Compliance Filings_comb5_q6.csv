@@ -1,8 +1,0 @@
-filing_type,category,count,avg_value,total_value,max_value
-Amended,High Late Penalty,1,26000.0,26000.0,26000.0
-Auto-Generated,Low Late Penalty,17,1876.4705882352941,31900.0,5000.0
-Auto-Generated,Medium Late Penalty,22,11397.727272727272,250750.0,18000.0
-Initial,Low Late Penalty,3,2500.0,7500.0,3750.0
-Amended,Low Late Penalty,2,0.0,0.0,0.0
-Auto-Generated,High Late Penalty,17,42667.64705882353,725350.0,112000.0
-Initial,High Late Penalty,1,39950.0,39950.0,39950.0

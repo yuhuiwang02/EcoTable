@@ -1,9 +1,0 @@
-serving_areas,vehicle_safety_technology_used,industry_sector,book_ahead_service,category,count,avg_value,total_value,max_value
-New York City,False,livery,Not Reported,no fatality,25,0.0,0.0,0.0
-New York City,True,luxury limo,Yes,no fatality,2,0.0,0.0,0.0
-New York City,True,livery,Not Reported,no fatality,1,0.0,0.0,0.0
-New York City,False,luxury limo,Not Reported,no fatality,7,0.0,0.0,0.0
-New York City,True,black car,Yes,no fatality,1,0.0,0.0,0.0
-New York City,True,livery,Yes,no fatality,1,0.0,0.0,0.0
-New York City,False,black car,Not Reported,no fatality,16,0.0,0.0,0.0
-New York City,True,black car,No,no fatality,28,0.0,0.0,0.0
