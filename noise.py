@@ -669,11 +669,11 @@ class EdgeBasedNoiseInjector:
                     df.drop(columns=['original_index']) if has_original_index else df,
                     value_vars=cols_to_unpivot,
                     var_name='pivot-metric',
-                    value_name='pivot-alue'
+                    value_name='pivot-value'
                 )
             
             # 重新排列列顺序：metric, value, 然后是其他列
-            new_col_order = ['pivot-etric', 'pivot-value'] + id_vars
+            new_col_order = ['pivot-metric', 'value'] + id_vars
             result_df = melted[new_col_order]
             
             self.noise_records.append({
@@ -1040,7 +1040,7 @@ class EdgeBasedNoiseInjector:
         selected_cell_edge_ids = set()
         
         # 3.1 选择单元格级别加噪的边
-        cell_count = min(random.randint(50, 100), len(cell_candidates))
+        cell_count = min(random.randint(160, 180), len(cell_candidates))
         cell_edges = self.select_edge_for_noise(cell_candidates, cell_count)
         selected_cell_edge_ids.update(self.get_edge_unique_id(e) for e in cell_edges)
         
