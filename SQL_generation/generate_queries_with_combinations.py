@@ -26,7 +26,7 @@ MAX_TABLES = None  # 处理所有表
 
 # LLM配置
 LLM_API_ENDPOINT = "https://www.dmxapi.com/v1/chat/completions"
-LLM_API_KEY = "sk-VTOqNlWBMvz6Hg5CK6uwUhctIRGpA5TZ0eGJ0KaVIyLtZwTD"
+LLM_API_KEY = ""
 LLM_MODEL = "gpt-5.1"
 
 
