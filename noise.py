@@ -673,7 +673,7 @@ class EdgeBasedNoiseInjector:
                 )
             
             # 重新排列列顺序：metric, value, 然后是其他列
-            new_col_order = ['pivot-metric', 'value'] + id_vars
+            new_col_order = ['pivot-metric', 'pivot-value'] + id_vars
             result_df = melted[new_col_order]
             
             self.noise_records.append({
@@ -1176,7 +1176,7 @@ class EdgeBasedNoiseInjector:
 
 if __name__ == "__main__":
     path_a = "./dataset"
-    path_b = "./noise_new"
+    path_b = "./noisy_dataset_nyc"
     json_filename = "split_statistics.json"
     
     injector = EdgeBasedNoiseInjector(path_a, path_b)
