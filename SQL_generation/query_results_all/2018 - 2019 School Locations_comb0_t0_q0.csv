@@ -1,0 +1,30 @@
+beds_number,open_date,school_support_team_name,location_category_description,grades_final_text,field_support_center_name,fiscal_year,field_support_center_leader,admin_district_location_code
+320700011600,1932-07-01,School Support Team 2- Affinity Group,High school,"09,10,11,12",Affinity Group,2019,,HS07
+320900011260,2005-07-01,School Support Team 2- Affinity Group,High school,"09,10,11,12",Affinity Group,2019,,HS07
+310100011458,2010-07-01,School Support Team 5- Affinity Group,High school,"09,10,11,12",Affinity Group,2019,,HS10
+320700011259,2013-07-01,School Support Team 1- Affinity Group,High school,"09,10,11,12,13,14",Affinity Group,2019,,HS03
+320900011260,2005-07-01,School Support Team 2- Affinity Group,High school,"09,10,11,12",Affinity Group,2019,,HS07
+321000010008,1958-07-01,School Support Team 3- Bronx,Elementary,"0K,01,02,03,04,05",Field Support Center - Bronx,2019,"SAFFER, NANCY",X810
+320700010043,1906-07-01,School Support Team 6- Bronx,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Bronx,2019,"SAFFER, NANCY",X807
+320900010114,1941-07-01,School Support Team 8- Bronx,Elementary,"0K,01,02,03,04",Field Support Center - Bronx,2019,"SAFFER, NANCY",X809
+320800010424,2008-07-01,School Support Team 7- Bronx,Junior High-Intermediate-Middle,"06,07,08",Field Support Center - Bronx,2019,"SAFFER, NANCY",X808
+320700011221,2004-09-08,School Support Team 1- Bronx,Secondary School,"06,07,08,09,10,11,12",Field Support Center - Bronx,2019,"SAFFER, NANCY",HS02
+331800010115,1922-07-01,School Support Team 3- Brooklyn South,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Brooklyn South,2019,Mauriciere de Govia,K818
+331800011567,2007-07-01,School Support Team 1- Brooklyn South,High school,"09,10,11,12",Field Support Center - Brooklyn South,2019,Mauriciere de Govia,HS06
+331800011633,2008-07-01,School Support Team 1- Brooklyn South,High school,"09,10,11,12",Field Support Center - Brooklyn South,2019,Mauriciere de Govia,HS06
+331700010181,1922-07-01,School Support Team 2- Brooklyn South,K-8,"PK,0K,01,02,03,04,05,06,07,08",Field Support Center - Brooklyn South,2019,Mauriciere de Govia,K817
+331800010276,1964-07-01,School Support Team 3- Brooklyn South,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Brooklyn South,2019,Mauriciere de Govia,K818
+307500011138,1989-06-26,Children First Network 751,K-12 all grades,"01,02,03,04,05,06,07,08,09,10,11,12,SE",D75 CITYWIDE FSC,2019,Tillman Roberto,DA75
+320800861074,2014-07-01,,Elementary,"0K,01,02,03,04,05",,2019,,
+310600861111,2017-04-26,,Elementary,"0K,01,02,03,04,05",,2019,,
+310300860963,2010-06-01,,Elementary,"0K,01,02,03,04,05,06,07,08,09,10,11,12",,2019,,
+331500860935,2009-07-01,,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",,2019,,
+310400860919,2008-07-01,,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",,2019,,
+331500010024,1997-07-01,School Support Team 5- Brooklyn North,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Brooklyn North,2019,,K815
+331900010218,1964-07-01,School Support Team 6- Brooklyn North,Junior High-Intermediate-Middle,"06,07,08",Field Support Center - Brooklyn North,2019,,K819
+331600010025,1942-07-01,School Support Team 7- Brooklyn North,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Brooklyn North,2019,,K816
+310200011580,1996-06-05,School Support Team 2- Manhattan,High school,"09,10,11,12",Field Support Center - Manhattan,2019,"CHU, YUET",HS04
+310200010167,1956-07-01,School Support Team 4- Manhattan,Junior High-Intermediate-Middle,"06,07,08",Field Support Center - Manhattan,2019,"CHU, YUET",M802
+310200010077,1999-07-01,School Support Team 4- Manhattan,Elementary,"0K,01,02,03,04,05",Field Support Center - Manhattan,2019,"CHU, YUET",M802
+310600010115,1914-07-01,School Support Team 7- Manhattan,Elementary,"0K,01,02,03,04,05",Field Support Center - Manhattan,2019,"CHU, YUET",M806
+310400010155,1961-07-01,School Support Team 6- Manhattan,Elementary,"PK,0K,01,02,03,04,05",Field Support Center - Manhattan,2019,"CHU, YUET",M804

@@ -1,0 +1,251 @@
+address,st_senate,inf_shoes,y_sp,longitude,bin,wire_other,inf_lights,wire_htap,horz_other,cncldist,boroname,tree_dbh,nta_name,pit_type,soil_lvl,boro_ct
+1918 1 AVENUE,29,No,225273,-73.94344365,1052997.0,No,No,No,No,8,Manhattan,12,East Harlem South,Sidewalk Pit,Below,1016200.0
+100 BEDFORD STREET,27,No,206199,-74.00556387,1010058.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1007300.0
+1198 1 AVENUE,28,No,217340,-73.95933476,1083904.0,No,No,No,No,5,Manhattan,4,Lenox Hill-Roosevelt Island,Sidewalk Pit,Level,1011600.0
+421 EAST  106 STREET,30,No,226864,-73.93939168,1052999.0,No,No,No,No,8,Manhattan,11,East Harlem South,Sidewalk Pit,Below,1016200.0
+125 BARCLAY STREET,26,No,199480,-74.01289581,1001417.0,No,No,No,No,1,Manhattan,5,SoHo-TriBeCa-Civic Center-Little Italy,Continuous Pit,Level,1002100.0
+401 EAST   96 STREET,29,No,224627,-73.94461511,1000000.0,No,No,No,No,8,Manhattan,17,East Harlem South,Sidewalk Pit,Level,1016200.0
+101 MURRAY STREET,26,No,199796,-74.0122611,1001542.0,Yes,No,No,No,1,Manhattan,10,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+510 AMSTERDAM AVENUE,31,No,225906,-73.97572224,1033112.0,No,No,No,No,6,Manhattan,5,Upper West Side,Sidewalk Pit,Above,1017100.0
+101 MURRAY STREET,26,No,199796,-74.0122611,1001542.0,No,No,No,No,1,Manhattan,6,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+300 MANHATTAN AVENUE,30,No,231783,-73.95840753,1055804.0,No,No,No,No,9,Manhattan,3,Central Harlem South,Sidewalk Pit,Above,1019702.0
+3755 BROADWAY,31,No,242891,-73.94541898,1063250.0,No,No,No,No,7,Manhattan,21,Washington Heights South,Continuous Pit,Below,1024100.0
+25 BROADWAY,26,No,196398,-74.01338109,1000045.0,No,No,No,No,1,Manhattan,2,Battery Park City-Lower Manhattan,Sidewalk Pit,Level,1001300.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,12,East Harlem South,Sidewalk Pit,Below,1016200.0
+295 GREENWICH STREET,26,No,200138,-74.01101314,1066187.0,No,No,No,No,1,Manhattan,8,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+1930 1 AVENUE,29,No,225626,-73.94273505,1000000.0,No,No,No,Yes,8,Manhattan,3,East Harlem South,Sidewalk Pit,Level,1016200.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,18,East Harlem South,Sidewalk Pit,Above,1016200.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,7,East Harlem South,Continuous Pit,Level,1016200.0
+54 WEST   91 STREET,30,No,226770,-73.96851687,1031612.0,No,No,No,No,6,Manhattan,9,Upper West Side,Sidewalk Pit,Level,1017700.0
+524 WEST   57 STREET,27,No,219641,-73.98958813,1027069.0,No,No,No,No,6,Manhattan,5,Clinton,Sidewalk Pit,Level,1013500.0
+342 PLEASANT AVENUE,29,No,229505,-73.93201725,1000000.0,No,No,No,No,8,Manhattan,21,East Harlem North,Sidewalk Pit,Level,1017800.0
+633 BROADWAY,26,No,203842,-73.99615401,1008235.0,No,No,No,No,1,Manhattan,12,West Village,Sidewalk Pit,Level,1005501.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,8,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+1930 1 AVENUE,29,No,225626,-73.94273505,1000000.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016200.0
+437 MANHATTAN AVENUE,30,No,233134,-73.95571411,1059094.0,No,No,No,No,9,Manhattan,9,Central Harlem South,Sidewalk Pit,Below,1025700.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,7,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+456 EAST  116 STREET,29,No,229097,-73.93417453,1081445.0,No,No,No,No,8,Manhattan,7,East Harlem North,Continuous Pit,Level,1017800.0
+88 7 AVENUE SOUTH,27,No,206212,-74.00332317,1010180.0,No,No,No,No,3,Manhattan,14,West Village,Sidewalk Pit,Above,1007300.0
+28 WEST   91 STREET,30,No,226687,-73.9679789,1081762.0,No,No,No,No,6,Manhattan,3,Upper West Side,Continuous Pit,Above,1017700.0
+60 WEST   91 STREET,30,No,226789,-73.96864324,1031614.0,No,No,No,No,6,Manhattan,13,Upper West Side,Sidewalk Pit,Level,1017700.0
+2220 BERGEN AVENUE,19,No,165205,-73.9014528,3238037.0,No,No,No,No,46,Brooklyn,6,Georgetown-Marine Park-Bergen Beach-Mill Basin,Sidewalk Pit,Level,3070600.0
+179 RIVINGTON STREET,26,No,201176,-73.98436161,1087316.0,No,No,No,No,1,Manhattan,14,Lower East Side,Sidewalk Pit,Level,1001402.0
+137 WEST   86 STREET,29,No,225996,-73.97332434,1032192.0,No,No,No,No,6,Manhattan,8,Upper West Side,Sidewalk Pit,Level,1017300.0
+167 CHAMBERS STREET,26,No,200193,-74.01062718,1066317.0,No,No,No,No,1,Manhattan,2,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+3755 BROADWAY,31,No,242891,-73.94541898,1063250.0,No,No,No,No,7,Manhattan,16,Washington Heights South,Sidewalk Pit,Above,1024100.0
+137 RIVINGTON STREET,26,No,201399,-73.98637445,1004304.0,No,No,No,No,1,Manhattan,2,Lower East Side,Sidewalk Pit,Level,1001402.0
+456 EAST  116 STREET,29,No,229097,-73.93417453,1081445.0,No,No,No,No,8,Manhattan,7,East Harlem North,Continuous Pit,Level,1017800.0
+411 EAST  118 STREET,30,No,229691,-73.93394899,1054809.0,No,No,No,No,8,Manhattan,3,East Harlem North,Sidewalk Pit,Level,1017800.0
+175 WEST   90 STREET,30,No,227049,-73.97222895,1032489.0,No,No,No,No,6,Manhattan,9,Upper West Side,Sidewalk Pit,Level,1017700.0
+2130 1 AVENUE,30,No,227802,-73.93837091,1083955.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Below,1016200.0
+426-430 EAST  115 STREET,29,No,228920,-73.93515736,1053026.0,No,No,No,No,8,Manhattan,4,East Harlem North,Continuous Pit,Level,1017800.0
+400 EAST   96 STREET,29,No,224622,-73.94462234,1089516.0,No,No,No,No,5,Manhattan,9,Yorkville,Continuous Pit,Level,1015200.0
+28 WEST   91 STREET,30,No,226687,-73.9679789,1081762.0,No,No,No,No,6,Manhattan,4,Upper West Side,Continuous Pit,Above,1017700.0
+2100 1 AVENUE,30,No,227507,-73.93896393,1083954.0,No,No,No,No,8,Manhattan,2,East Harlem South,Sidewalk Pit,Below,1016200.0
+125 BARCLAY STREET,26,No,199480,-74.01289581,1001417.0,No,No,No,No,1,Manhattan,11,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+48 WEST   91 STREET,30,No,226751,-73.96839411,1031610.0,No,No,No,No,6,Manhattan,4,Upper West Side,Continuous Pit,Level,1017700.0
+401 EAST  106 STREET,30,No,226911,-73.93969852,,No,No,No,No,8,Manhattan,18,East Harlem South,Sidewalk Pit,Below,1016200.0
+493 MANHATTAN AVENUE,30,No,233624,-73.95473067,1059149.0,No,Yes,No,No,9,Manhattan,6,Central Harlem South,Sidewalk Pit,Level,1025700.0
+231 1 AVENUE,27,No,205635,-73.98277116,1006524.0,No,No,No,No,2,Manhattan,7,East Village,Sidewalk Pit,Level,1004000.0
+2090 1 AVENUE,30,No,227383,-73.93921343,1083954.0,No,No,No,No,8,Manhattan,10,East Harlem South,Sidewalk Pit,Level,1016200.0
+40 WEST   91 STREET,30,No,226726,-73.96822803,1081769.0,No,No,No,No,6,Manhattan,2,Upper West Side,Sidewalk Pit,Level,1017700.0
+63 WEST   92 STREET,30,No,227031,-73.96823124,1031631.0,No,No,No,No,6,Manhattan,14,Upper West Side,Sidewalk Pit,Level,1017700.0
+800 RIVERSIDE DRIVE,31,No,243492,-73.94674749,1063275.0,No,No,No,No,7,Manhattan,8,Washington Heights South,Sidewalk Pit,Level,1024100.0
+570-572 AMSTERDAM AVENUE,31,No,226634,-73.97426256,1033213.0,No,No,No,No,6,Manhattan,2,Upper West Side,Sidewalk Pit,Level,1017500.0
+401 EAST  106 STREET,30,No,226911,-73.93969852,,No,No,No,No,8,Manhattan,18,East Harlem South,Sidewalk Pit,Below,1016200.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,5,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+490 HUDSON STREET,27,No,206180,-74.00646592,1009872.0,No,No,No,No,3,Manhattan,8,West Village,Sidewalk Pit,Level,1007300.0
+490 HUDSON STREET,27,No,206180,-74.00646592,1009872.0,No,No,No,No,3,Manhattan,6,West Village,Sidewalk Pit,Level,1007300.0
+600 west 59th street,27,No,220459,-73.99088389,1027178.0,No,No,No,No,6,Manhattan,8,Lincoln Square,Sidewalk Pit,Level,1015100.0
+280 PLEASANT AVENUE,29,No,228733,-73.93356516,1053152.0,No,No,No,No,8,Manhattan,17,East Harlem North,Sidewalk Pit,Level,1017800.0
+151 READE STREET,26,No,200313,-74.00989495,1075706.0,No,No,No,No,1,Manhattan,11,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+74A TRINITY PLACE,26,No,197349,-74.01258449,1001036.0,No,No,No,No,1,Manhattan,6,Battery Park City-Lower Manhattan,Sidewalk Pit,Above,1001300.0
+412 EAST  116 STREET,29,No,229205,-73.93488212,1053069.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+90 WASHINGTON STREET,26,No,197250,-74.01444559,1000793.0,No,No,No,No,1,Manhattan,4,Battery Park City-Lower Manhattan,Sidewalk Pit,Above,1001300.0
+515 EAST  118 STREET,29,No,229350,-73.93173597,1054894.0,No,No,No,No,8,Manhattan,8,East Harlem North,Sidewalk Pit,Level,1017800.0
+456 EAST  116 STREET,29,No,229097,-73.93417453,1081445.0,No,No,No,No,8,Manhattan,6,East Harlem North,Continuous Pit,Level,1017800.0
+435 EAST  105 STREET,30,No,226578,-73.93961991,1079369.0,No,No,No,No,8,Manhattan,3,East Harlem South,Sidewalk Pit,Level,1016200.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,9,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+11 GREENWICH STREET,26,No,196263,-74.01469748,1000044.0,No,No,No,No,1,Manhattan,2,Battery Park City-Lower Manhattan,Sidewalk Pit,Level,1001300.0
+2090 1 AVENUE,30,No,227383,-73.93921343,1083954.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016200.0
+271 PLEASANT AVENUE,29,No,228596,-73.93386891,1053020.0,No,No,No,No,8,Manhattan,9,East Harlem North,Sidewalk Pit,Below,1017800.0
+215 EAST    4 STREET,27,No,202952,-73.98355955,1005034.0,No,No,No,No,2,Manhattan,0,East Village,Sidewalk Pit,Level,1003200.0
+68 WEST   91 STREET,30,No,226815,-73.96880933,1085074.0,No,No,No,No,6,Manhattan,4,Upper West Side,Continuous Pit,Above,1017700.0
+428 EAST  117 STREET,29,No,229413,-73.93413033,1079400.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+223 1 AVENUE,27,No,205556,-73.98292997,1006528.0,No,No,No,No,2,Manhattan,2,East Village,Sidewalk Pit,Level,1004000.0
+515 WEST   57 STREET,27,No,219606,-73.98931377,1027075.0,No,Yes,No,No,6,Manhattan,5,Clinton,Sidewalk Pit,Level,1013500.0
+107 WEST   86 STREET,29,No,225903,-73.97271415,1032199.0,No,No,No,No,6,Manhattan,9,Upper West Side,Sidewalk Pit,Level,1017300.0
+2299 BROADWAY,31,No,225760,-73.97814545,1032755.0,No,No,No,No,6,Manhattan,1,Upper West Side,Continuous Pit,Level,1017100.0
+1901 1 AVENUE,29,No,225117,-73.94377984,1083929.0,No,No,No,No,8,Manhattan,22,East Harlem South,Lawn,Level,1015602.0
+59 WEST   90 STREET,30,No,226565,-73.9690516,1031597.0,No,No,No,No,6,Manhattan,17,Upper West Side,Sidewalk Pit,Above,1017700.0
+185 RIVERSIDE BOULEVARD,0,No,0,-73.98892532,1085805.0,No,No,No,No,0,Manhattan,3, ,Sidewalk Pit,Level,
+296 MANHATTAN AVENUE,30,No,231747,-73.95847622,1055782.0,No,No,No,No,9,Manhattan,27,Central Harlem South,Sidewalk Pit,Level,1019702.0
+74 WEST   92 STREET,30,No,227061,-73.96847316,1031623.0,No,No,No,No,6,Manhattan,24,Upper West Side,Continuous Pit,Level,1017700.0
+1966 1 AVENUE,29,No,225889,-73.94221081,1083931.0,No,No,No,No,8,Manhattan,9,East Harlem South,Sidewalk Pit,Below,1016400.0
+401 EAST  106 STREET,30,No,226911,-73.93969852,,No,No,No,No,8,Manhattan,5,East Harlem South,Sidewalk Pit,Level,1016200.0
+3755 BROADWAY,31,No,242891,-73.94541898,1063250.0,No,No,No,No,7,Manhattan,5,Washington Heights South,Continuous Pit,Below,1024100.0
+2360 BERGEN AVENUE,19,No,164445,-73.89911096,3238299.0,No,No,Yes,Yes,46,Brooklyn,13,Georgetown-Marine Park-Bergen Beach-Mill Basin,Continuous Pit,Level,3070600.0
+446 EAST  118 STREET,29,No,229597,-73.93338221,1053124.0,No,No,No,No,8,Manhattan,2,East Harlem North,Sidewalk Pit,Level,1017800.0
+61 WEST   90 STREET,30,No,226571,-73.96909132,1031596.0,No,No,No,No,6,Manhattan,17,Upper West Side,Sidewalk Pit,Level,1017700.0
+1918 1 AVENUE,29,No,225273,-73.94344365,1052997.0,No,No,No,No,8,Manhattan,19,East Harlem South,Sidewalk Pit,Level,1016200.0
+32 WEST   91 STREET,30,No,226700,-73.96806194,1081765.0,No,No,No,No,6,Manhattan,7,Upper West Side,Sidewalk Pit,Level,1017700.0
+215 EAST    4 STREET,27,No,202952,-73.98355955,1005034.0,No,No,No,No,2,Manhattan,3,East Village,Sidewalk Pit,Level,1003200.0
+100 WEST   64 STREET,0,No,0,-73.98257856,,No,No,No,No,0,Manhattan,21, ,Sidewalk Pit,Level,
+413 EAST  114 STREET,29,No,228718,-73.93570325,1053008.0,No,No,No,No,8,Manhattan,4,East Harlem North,Sidewalk Pit,Level,1017800.0
+101 WEST   90 STREET,30,No,226820,-73.9707233,1032490.0,No,No,No,No,6,Manhattan,2,Upper West Side,Sidewalk Pit,Level,1017700.0
+311 GREENWICH STREET,26,No,200406,-74.01086175,1075706.0,No,No,No,No,1,Manhattan,13,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+494 MANHATTAN AVENUE,30,No,233637,-73.95468007,1059167.0,Yes,No,No,No,9,Manhattan,4,Central Harlem South,Sidewalk Pit,Below,1025700.0
+506 EAST  118 STREET,29,No,229369,-73.93190205,,No,No,No,No,8,Manhattan,8,East Harlem North,Sidewalk Pit,Above,1017800.0
+35 WEST   92 STREET,30,No,226944,-73.96766077,1031635.0,No,No,No,No,6,Manhattan,9,Upper West Side,Sidewalk Pit,Above,1017700.0
+137 RIVINGTON STREET,26,No,201399,-73.98637445,1004304.0,No,No,No,No,1,Manhattan,13,Lower East Side,Sidewalk Pit,Level,1001402.0
+302 PLEASANT AVENUE,29,No,228980,-73.93307331,1053154.0,No,No,No,No,8,Manhattan,7,East Harlem North,Sidewalk Pit,Level,1017800.0
+104-106 BEDFORD STREET,27,No,206231,-74.0056144,1010033.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1007300.0
+800 RIVERSIDE DRIVE,31,No,243492,-73.94674749,1063275.0,No,No,No,No,7,Manhattan,13,Washington Heights South,Sidewalk Pit,Level,1024100.0
+131 SUFFOLK STREET,26,No,201543,-73.98565287,1004323.0,No,No,No,No,1,Manhattan,3,Chinatown,Sidewalk Pit,Level,1003001.0
+302 PLEASANT AVENUE,29,No,228980,-73.93307331,1053154.0,No,No,No,No,8,Manhattan,13,East Harlem North,Sidewalk Pit,Level,1017800.0
+513 EAST  118 STREET,29,No,229356,-73.93177207,1054892.0,No,No,No,No,8,Manhattan,13,East Harlem North,Sidewalk Pit,Level,1017800.0
+345 MANHATTAN AVENUE,30,No,232207,-73.95757602,1055863.0,No,No,Yes,No,9,Manhattan,9,Central Harlem South,Sidewalk Pit,Level,1020102.0
+71 WEST   92 STREET,30,No,227055,-73.96839372,1031628.0,No,No,No,No,6,Manhattan,19,Upper West Side,Sidewalk Pit,Level,1017700.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,8,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+35 WEST   90 STREET,30,No,226490,-73.96856418,1031605.0,No,No,No,No,6,Manhattan,14,Upper West Side,Sidewalk Pit,Level,1017700.0
+425 EAST  106 STREET,30,No,226854,-73.9393267,,No,No,No,No,8,Manhattan,17,East Harlem South,Continuous Pit,Level,1016200.0
+90 WASHINGTON STREET,26,No,197250,-74.01444559,1000793.0,No,No,No,No,1,Manhattan,4,Battery Park City-Lower Manhattan,Sidewalk Pit,Above,1001300.0
+139 CHRISTOPHER STREET,27,No,206299,-74.00720203,1011732.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1007500.0
+1918 1 AVENUE,29,No,225273,-73.94344365,1052997.0,No,No,No,No,8,Manhattan,17,East Harlem South,Sidewalk Pit,Above,1016200.0
+275 GREENWICH STREET,26,No,199848,-74.01122945,1081076.0,No,No,No,No,1,Manhattan,5,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+517 EAST  118 STREET,29,No,229344,-73.93169626,1054895.0,No,No,No,No,8,Manhattan,17,East Harlem North,Sidewalk Pit,Level,1017800.0
+504 MANHATTAN AVENUE,30,No,233690,-73.9545716,1059146.0,No,No,No,No,9,Manhattan,3,Central Harlem South,Sidewalk Pit,Level,1025700.0
+300 MANHATTAN AVENUE,30,No,231783,-73.95840753,1055804.0,Yes,No,No,No,9,Manhattan,4,Central Harlem South,Sidewalk Pit,Level,1019702.0
+173 1 AVENUE,27,No,204934,-73.98417518,1006451.0,No,No,No,No,2,Manhattan,6,East Village,Sidewalk Pit,Level,1004000.0
+65 WEST   90 STREET,30,No,226583,-73.96917436,1031595.0,No,No,No,No,6,Manhattan,10,Upper West Side,Sidewalk Pit,Level,1017700.0
+15 WEST   90 STREET,30,No,226428,-73.96815619,1081755.0,No,No,No,No,6,Manhattan,16,Upper West Side,Sidewalk Pit,Level,1017700.0
+255 WEST   77 STREET,29,No,224434,-73.98130982,1030880.0,No,No,No,No,6,Manhattan,15,Upper West Side,Sidewalk Pit,Above,1016300.0
+780 RIVERSIDE DRIVE,31,No,243243,-73.94798393,1063247.0,No,No,No,No,7,Manhattan,10,Washington Heights South,Sidewalk Pit,Above,1024100.0
+101 BARCLAY STREET,26,No,199320,-74.01191818,1001416.0,No,No,No,No,1,Manhattan,6,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+328 PLEASANT AVENUE,29,No,229331,-73.93236807,1053175.0,No,Yes,No,No,8,Manhattan,4,East Harlem North,Sidewalk Pit,Level,1017800.0
+425 EAST  106 STREET,30,No,226854,-73.9393267,,No,No,No,No,8,Manhattan,18,East Harlem South,Continuous Pit,Level,1016200.0
+295 CENTRAL PARK WEST,30,No,226244,-73.96761114,1031569.0,No,No,No,No,6,Manhattan,10,Upper West Side,Sidewalk Pit,Level,1017300.0
+2299 BROADWAY,31,No,225760,-73.97814545,1032755.0,No,No,No,No,6,Manhattan,4,Upper West Side,Continuous Pit,Level,1017100.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,24,East Harlem South,Sidewalk Pit,Level,1016200.0
+530 WEST   57 STREET,27,No,219669,-73.98976863,1076216.0,No,No,No,No,6,Manhattan,8,Clinton,Sidewalk Pit,Level,1013500.0
+446 EAST  117 STREET,29,No,229368,-73.93384152,1053089.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+2130 1 AVENUE,30,No,227802,-73.93837091,1083955.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Below,1016200.0
+401 EAST   96 STREET,29,No,224627,-73.94461511,1000000.0,No,No,No,No,8,Manhattan,15,East Harlem South,Continuous Pit,Level,1016200.0
+3755 BROADWAY,31,No,242891,-73.94541898,1063250.0,No,No,No,No,7,Manhattan,12,Washington Heights South,Continuous Pit,Level,1024100.0
+401 EAST   96 STREET,29,No,224627,-73.94461511,1000000.0,No,No,No,No,8,Manhattan,16,East Harlem South,Continuous Pit,Below,1016200.0
+533 WEST   57 STREET,27,No,219698,-73.98990942,1027073.0,No,Yes,No,No,6,Manhattan,4,Clinton,Sidewalk Pit,Level,1013500.0
+343 PLEASANT AVENUE,30,No,229471,-73.93211125,1054854.0,No,No,No,No,8,Manhattan,3,East Harlem North,Sidewalk Pit,Level,1017800.0
+2130 1 AVENUE,30,No,227802,-73.93837091,1083955.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016200.0
+541 AMSTERDAM AVENUE,29,No,226305,-73.97489848,1032218.0,No,No,No,No,6,Manhattan,5,Upper West Side,Sidewalk Pit,Level,1017300.0
+1901 1 AVENUE,29,No,225117,-73.94377984,1083929.0,No,No,No,No,8,Manhattan,17,East Harlem South,Sidewalk Pit,Level,1015602.0
+503 EAST  118 STREET,29,No,229385,-73.93196341,1054910.0,No,No,No,No,8,Manhattan,2,East Harlem North,Sidewalk Pit,Below,1017800.0
+125 BARCLAY STREET,26,No,199480,-74.01289581,1001417.0,No,No,No,No,1,Manhattan,4,SoHo-TriBeCa-Civic Center-Little Italy,Continuous Pit,Level,1002100.0
+102 BEDFORD STREET,27,No,206215,-74.00558913,1010032.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1007300.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,12,East Harlem South,Sidewalk Pit,Level,1016200.0
+800 RIVERSIDE DRIVE,31,No,243492,-73.94674749,1063275.0,No,No,No,No,7,Manhattan,7,Washington Heights South,Sidewalk Pit,Level,1024100.0
+111 SUFFOLK STREET,26,No,201237,-73.98608594,1004301.0,No,No,No,No,1,Manhattan,3,Lower East Side,Sidewalk Pit,Level,1001402.0
+1999 1 AVENUE,29,No,226210,-73.94158892,1086440.0,No,No,No,No,8,Manhattan,3,East Harlem South,Sidewalk Pit,Level,1016400.0
+2289-91 BROADWAY,31,No,225669,-73.9783297,1032755.0,No,No,No,No,6,Manhattan,1,Upper West Side,Continuous Pit,Level,1017100.0
+300 CENTRAL PARK WEST,30,No,226391,-73.96731483,1031607.0,No,No,No,No,6,Manhattan,7,Upper West Side,Sidewalk Pit,Level,1017700.0
+1198 1 AVENUE,28,No,217340,-73.95933476,1083904.0,No,No,No,No,5,Manhattan,4,Lenox Hill-Roosevelt Island,Sidewalk Pit,Level,1011600.0
+50009-21 BROADWAY,0,No,0,0.0,,No,No,No,No,0,Manhattan,2, ,Sidewalk Pit,Above,
+295 GREENWICH STREET,26,No,200138,-74.01101314,1066187.0,No,No,No,No,1,Manhattan,5,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+322 CENTRAL PARK WEST,30,No,226839,-73.96697115,1031636.0,No,No,No,No,6,Manhattan,3,Upper West Side,Sidewalk Pit,Level,1017700.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,11,East Harlem South,Continuous Pit,Level,1016200.0
+418 EAST  118 STREET,29,No,229666,-73.93383348,1053146.0,No,No,No,No,8,Manhattan,2,East Harlem North,Sidewalk Pit,Level,1017800.0
+417 EAST  114 STREET,29,No,228698,-73.93556968,1053009.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+518 WEST   58 STREET,27,No,219917,-73.98929197,1027074.0,No,No,No,No,6,Manhattan,8,Clinton,Continuous Pit,Level,1013500.0
+170 RIVINGTON STREET,26,No,201219,-73.98468986,1004123.0,No,No,No,No,1,Manhattan,4,Lower East Side,Sidewalk Pit,Below,1002201.0
+400 EAST   96 STREET,29,No,224622,-73.94462234,1089516.0,No,No,No,No,5,Manhattan,3,Yorkville,Continuous Pit,Level,1015200.0
+2289-91 BROADWAY,31,No,225669,-73.9783297,1032755.0,No,No,No,No,6,Manhattan,16,Upper West Side,Continuous Pit,Level,1017100.0
+87 7 AVENUE SOUTH,27,No,206211,-74.00330152,1010190.0,No,No,No,No,3,Manhattan,6,West Village,Sidewalk Pit,Below,1007300.0
+151 READE STREET,26,No,200313,-74.00989495,1075706.0,No,No,No,No,1,Manhattan,13,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+600 WEST   57 STREET,27,No,219982,-73.99182996,1027167.0,No,Yes,No,No,6,Manhattan,5,Clinton,Sidewalk Pit,Above,1013500.0
+233 EAST    4 STREET,27,No,202871,-73.98304009,1077640.0,No,No,No,No,2,Manhattan,8,East Village,Sidewalk Pit,Level,1003200.0
+533 WEST   57 STREET,27,No,219698,-73.98990942,1027073.0,No,Yes,No,No,6,Manhattan,6,Clinton,Sidewalk Pit,Level,1013500.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,14,East Harlem South,Sidewalk Pit,Above,1016200.0
+230 EAST    4 STREET,27,No,202891,-73.98321324,1004991.0,No,No,No,Yes,2,Manhattan,5,East Village,Sidewalk Pit,Level,1003200.0
+320 CENTRAL PARK WEST,30,No,226738,-73.96663183,1031626.0,No,No,No,No,6,Manhattan,7,Upper West Side,Sidewalk Pit,Level,1017700.0
+151 1 AVENUE,27,No,204654,-73.9847346,1075923.0,No,No,No,No,2,Manhattan,11,East Village,Sidewalk Pit,Above,1004000.0
+3755 BROADWAY,31,No,242891,-73.94541898,1063250.0,No,No,No,No,7,Manhattan,19,Washington Heights South,Continuous Pit,Level,1024100.0
+504 WEST   57 STREET,27,No,219549,-73.98898166,1027070.0,No,No,No,No,6,Manhattan,11,Clinton,Sidewalk Pit,Level,1013500.0
+2033 1 AVENUE,29,No,226684,-73.94063802,1052720.0,No,No,No,No,8,Manhattan,5,East Harlem South,Sidewalk Pit,Below,1017000.0
+90 WASHINGTON STREET,26,No,197250,-74.01444559,1000793.0,No,No,No,No,1,Manhattan,4,Battery Park City-Lower Manhattan,Sidewalk Pit,Above,1001300.0
+295 GREENWICH STREET,26,No,200138,-74.01101314,1066187.0,No,No,No,No,1,Manhattan,11,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+125 WEST   86 STREET,29,No,225959,-73.97308243,1032196.0,No,No,No,No,6,Manhattan,6,Upper West Side,Continuous Pit,Level,1017300.0
+160 CHRISTOPHER STREET,27,No,206174,-74.0090025,1010421.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1006900.0
+110 BEDFORD STREET,27,No,206280,-74.00569379,1010034.0,No,No,No,No,3,Manhattan,2,West Village,Sidewalk Pit,Level,1007300.0
+300 WEST END AVENUE,29,No,223895,-73.98343342,1030718.0,No,No,No,No,6,Manhattan,7,Upper West Side,Sidewalk Pit,Above,1016300.0
+1481 EAST   63 STREET,19,No,164610,-73.9158994,3321594.0,No,No,No,No,46,Brooklyn,11,Georgetown-Marine Park-Bergen Beach-Mill Basin,Lawn,Level,3069800.0
+101 BARCLAY STREET,26,No,199320,-74.01191818,1001416.0,No,No,No,No,1,Manhattan,7,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+428 EAST  117 STREET,29,No,229413,-73.93413033,1079400.0,No,No,No,No,8,Manhattan,2,East Harlem North,Sidewalk Pit,Level,1017800.0
+425 EAST  114 STREET,29,No,228658,-73.93530614,1053013.0,No,No,No,No,8,Manhattan,6,East Harlem North,Sidewalk Pit,Below,1017800.0
+13 HUDSON STREET,26,No,200257,-74.00919871,1001511.0,No,No,No,No,1,Manhattan,16,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1003900.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,11,East Harlem South,Sidewalk Pit,Level,1016200.0
+55 WEST   92 STREET,30,No,227006,-73.96806876,1031632.0,No,No,No,No,6,Manhattan,19,Upper West Side,Sidewalk Pit,Level,1017700.0
+300 CENTRAL PARK WEST,30,No,226391,-73.96731483,1031607.0,No,No,No,No,6,Manhattan,15,Upper West Side,Sidewalk Pit,Level,1017700.0
+101 MURRAY STREET,26,No,199796,-74.0122611,1001542.0,No,No,No,No,1,Manhattan,6,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+2299 BROADWAY,31,No,225760,-73.97814545,1032755.0,No,No,No,No,6,Manhattan,3,Upper West Side,Continuous Pit,Level,1017100.0
+143 CHRISTOPHER STREET,27,No,206266,-74.00769274,1078233.0,No,No,No,No,3,Manhattan,9,West Village,Sidewalk Pit,Level,1007500.0
+211 EAST    4 STREET,27,No,202970,-73.98367498,1005035.0,No,No,No,No,2,Manhattan,0,East Village,Sidewalk Pit,Level,1003200.0
+147 CHAMBERS STREET,26,No,200068,-74.00986959,1085521.0,No,No,No,No,1,Manhattan,5,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Below,1002100.0
+450 EAST  115 STREET,29,No,228862,-73.93476747,1000000.0,No,No,No,No,8,Manhattan,3,East Harlem North,Sidewalk Pit,Level,1017800.0
+159 1 AVENUE,27,No,204740,-73.98456497,1006417.0,No,No,No,No,2,Manhattan,3,East Village,Sidewalk Pit,Level,1004000.0
+295 GREENWICH STREET,26,No,200138,-74.01101314,1066187.0,No,No,No,No,1,Manhattan,9,SoHo-TriBeCa-Civic Center-Little Italy,Sidewalk Pit,Level,1002100.0
+295 CENTRAL PARK WEST,30,No,226244,-73.96761114,1031569.0,No,No,No,No,6,Manhattan,13,Upper West Side,Sidewalk Pit,Level,1017300.0
+174 1 AVENUE,27,No,204918,-73.9841824,1082526.0,No,No,No,No,2,Manhattan,9,East Village,Sidewalk Pit,Level,1004000.0
+1901 1 AVENUE,29,No,225117,-73.94377984,1083929.0,No,No,No,No,8,Manhattan,16,East Harlem South,Sidewalk Pit,Level,1015602.0
+600 WEST  157 STREET,31,No,243266,-73.94560605,1063255.0,No,No,No,No,7,Manhattan,3,Washington Heights South,Sidewalk Pit,Below,1024100.0
+178 1 AVENUE,27,No,204956,-73.98410661,1005933.0,No,No,No,No,2,Manhattan,15,East Village,Sidewalk Pit,Level,1004000.0
+300 CENTRAL PARK WEST,30,No,226391,-73.96731483,1031607.0,No,No,No,No,6,Manhattan,5,Upper West Side,Sidewalk Pit,Level,1017700.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,12,East Harlem South,Sidewalk Pit,Level,1016200.0
+223 EAST    4 STREET,27,No,202916,-73.98332868,1005031.0,No,No,No,No,2,Manhattan,6,East Village,Sidewalk Pit,Level,1003200.0
+100 BEDFORD STREET,27,No,206199,-74.00556387,1010058.0,No,No,No,No,3,Manhattan,8,West Village,Sidewalk Pit,Level,1007300.0
+320 CENTRAL PARK WEST,30,No,226738,-73.96663183,1031626.0,No,No,No,No,6,Manhattan,8,Upper West Side,Sidewalk Pit,Level,1017700.0
+633 COLUMBUS AVENUE,30,No,226907,-73.96997927,1031595.0,No,No,No,No,6,Manhattan,13,Upper West Side,Sidewalk Pit,Level,1017700.0
+217 EAST    4 STREET,27,No,202943,-73.98350183,1005033.0,No,No,No,No,2,Manhattan,8,East Village,Sidewalk Pit,Level,1003200.0
+1930 1 AVENUE,29,No,225626,-73.94273505,1000000.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016200.0
+665 11 AVENUE,31,No,217904,-73.99545145,1080992.0,Yes,No,No,No,3,Manhattan,5,Clinton,Sidewalk Pit,Level,1012900.0
+1918 1 AVENUE,29,No,225273,-73.94344365,1052997.0,No,No,No,No,8,Manhattan,18,East Harlem South,Sidewalk Pit,Level,1016200.0
+6 WEST   90 STREET,30,No,226392,-73.96796485,1031590.0,No,No,No,No,6,Manhattan,14,Upper West Side,Sidewalk Pit,Level,1017300.0
+2076 EAST   63 STREET,19,No,163403,-73.91225129,3236927.0,No,No,No,No,46,Brooklyn,26,Georgetown-Marine Park-Bergen Beach-Mill Basin,Sidewalk Pit,Level,3069800.0
+248 EAST    2 STREET,26,No,202074,-73.98176716,1004601.0,No,No,No,No,2,Manhattan,7,Lower East Side,Sidewalk Pit,Level,1002202.0
+1999 1 AVENUE,29,No,226210,-73.94158892,1086440.0,No,No,No,No,8,Manhattan,3,East Harlem South,Sidewalk Pit,Level,1016400.0
+2299 BROADWAY,31,No,225760,-73.97814545,1032755.0,No,No,No,No,6,Manhattan,1,Upper West Side,Continuous Pit,Level,1017100.0
+441 EAST  118 STREET,30,No,229617,-73.93346523,1054819.0,No,No,No,No,8,Manhattan,7,East Harlem North,Sidewalk Pit,Level,1017800.0
+800 RIVERSIDE DRIVE,31,No,243492,-73.94674749,1063275.0,No,No,No,No,7,Manhattan,14,Washington Heights South,Sidewalk Pit,Level,1024100.0
+2130 1 AVENUE,30,No,227802,-73.93837091,1083955.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016200.0
+336 WEST END AVENUE,29,No,224270,-73.9826857,1030848.0,No,No,No,No,6,Manhattan,11,Upper West Side,Sidewalk Pit,Level,1016300.0
+214 EAST    2 STREET,26,No,202246,-73.982889,1004609.0,No,No,No,No,2,Manhattan,8,Lower East Side,Sidewalk Pit,Level,1002202.0
+29 BROADWAY,26,No,196495,-74.01315031,1000802.0,No,No,No,No,1,Manhattan,7,Battery Park City-Lower Manhattan,Sidewalk Pit,Level,1001300.0
+102 BEDFORD STREET,27,No,206215,-74.00558913,1010032.0,No,No,No,No,3,Manhattan,7,West Village,Sidewalk Pit,Level,1007300.0
+1139 57 STREET,17,No,169769,-74.00024499,3140038.0,No,No,No,No,44,Brooklyn,6,Borough Park,Sidewalk Pit,Level,3021600.0
+1198 1 AVENUE,28,No,217340,-73.95933476,1083904.0,No,No,No,No,5,Manhattan,12,Lenox Hill-Roosevelt Island,Sidewalk Pit,Below,1011600.0
+401 EAST   96 STREET,29,No,224627,-73.94461511,1000000.0,No,No,No,No,8,Manhattan,13,East Harlem South,Continuous Pit,Level,1016200.0
+185 1 AVENUE,27,No,205108,-73.98382508,1006478.0,No,No,No,No,2,Manhattan,3,East Village,Sidewalk Pit,Level,1004000.0
+229 EAST    4 STREET,27,No,202889,-73.98315552,1005029.0,No,No,No,No,2,Manhattan,4,East Village,Sidewalk Pit,Above,1003200.0
+609 COLUMBUS AVENUE,30,No,226644,-73.97050323,1031543.0,No,No,No,No,6,Manhattan,6,Upper West Side,Sidewalk Pit,Level,1017300.0
+533 WEST   57 STREET,27,No,219698,-73.98990942,1027073.0,No,Yes,No,No,6,Manhattan,4,Clinton,Sidewalk Pit,Level,1013500.0
+35 WEST   90 STREET,30,No,226490,-73.96856418,1031605.0,No,No,No,No,6,Manhattan,4,Upper West Side,Sidewalk Pit,Level,1017700.0
+1966 1 AVENUE,29,No,225889,-73.94221081,1083931.0,No,No,No,No,8,Manhattan,13,East Harlem South,Sidewalk Pit,Below,1016400.0
+430 EAST  118 STREET,29,No,229636,-73.93363853,1079410.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+295 PLEASANT AVENUE,29,No,228870,-73.93331559,1053053.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Below,1017800.0
+524-528 WEST   57 STREET,27,No,219641,-73.98958813,1027069.0,No,No,No,No,6,Manhattan,9,Clinton,Sidewalk Pit,Level,1013500.0
+1930 1 AVENUE,29,No,225626,-73.94273505,1000000.0,No,No,No,No,8,Manhattan,5,East Harlem South,Sidewalk Pit,Level,1016200.0
+280 PLEASANT AVENUE,29,No,228733,-73.93356516,1053152.0,No,No,No,No,8,Manhattan,16,East Harlem North,Sidewalk Pit,Level,1017800.0
+434 EAST  116 STREET,29,No,229151,-73.93452832,1053056.0,No,No,No,No,8,Manhattan,7,East Harlem North,Sidewalk Pit,Level,1017800.0
+306 PLEASANT AVENUE,29,No,229023,-73.93298651,1053156.0,No,No,No,No,8,Manhattan,5,East Harlem North,Sidewalk Pit,Level,1017800.0
+125 BARCLAY STREET,26,No,199480,-74.01289581,1001417.0,No,No,No,No,1,Manhattan,4,SoHo-TriBeCa-Civic Center-Little Italy,Continuous Pit,Level,1002100.0
+2289-91 BROADWAY,31,No,225669,-73.9783297,1032755.0,No,No,No,No,6,Manhattan,11,Upper West Side,Continuous Pit,Level,1017100.0
+69 WEST   92 STREET,30,No,227049,-73.96835039,1031629.0,No,No,No,No,6,Manhattan,7,Upper West Side,Sidewalk Pit,Level,1017700.0
+2100 1 AVENUE,30,No,227507,-73.93896393,1083954.0,No,No,No,No,8,Manhattan,11,East Harlem South,Sidewalk Pit,Above,1016200.0
+47 WEST   90 STREET,30,No,226528,-73.96880609,1031601.0,No,No,No,No,6,Manhattan,15,Upper West Side,Sidewalk Pit,Level,1017700.0
+8 WEST   90 STREET,30,No,226399,-73.96800456,1031572.0,No,No,No,No,6,Manhattan,14,Upper West Side,Sidewalk Pit,Level,1017300.0
+420 EAST  111 STREET,30,No,227925,-73.93653237,1083956.0,No,No,No,No,8,Manhattan,11,East Harlem South,Sidewalk Pit,Level,1016200.0
+500 AMSTERDAM AVENUE,31,No,225825,-73.97588121,1033109.0,No,No,No,No,6,Manhattan,8,Upper West Side,Sidewalk Pit,Level,1017100.0
+249 EAST    2 STREET,26,No,202057,-73.98169863,1004585.0,No,No,No,No,2,Manhattan,5,Lower East Side,Sidewalk Pit,Level,1002202.0
+345 EAST  101 STREET,29,No,226001,-73.94366223,1079340.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Below,1016400.0
+600 west 59th street,27,No,220459,-73.99088389,1027178.0,No,No,No,No,6,Manhattan,8,Lincoln Square,Sidewalk Pit,Level,1015100.0
+617 WEST  155 STREET,31,No,242787,-73.94652499,1063245.0,No,No,No,No,7,Manhattan,13,Hamilton Heights,Sidewalk Pit,Level,1023700.0
+110 BEDFORD STREET,27,No,206280,-74.00569379,1010034.0,No,No,No,No,3,Manhattan,9,West Village,Sidewalk Pit,Level,1007300.0
+1999 1 AVENUE,29,No,226210,-73.94158892,1086440.0,No,No,No,No,8,Manhattan,4,East Harlem South,Sidewalk Pit,Level,1016400.0

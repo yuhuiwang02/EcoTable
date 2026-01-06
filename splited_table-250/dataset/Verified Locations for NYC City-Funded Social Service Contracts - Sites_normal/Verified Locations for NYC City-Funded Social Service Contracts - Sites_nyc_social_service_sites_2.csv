@@ -1,0 +1,209 @@
+address_1,agency_name,community_district,service_setting_taxonomy,city,bin,language_taxonomy,accepts_dropins,program_id,bp_category,capacity_units,site_budget,catchment_zone
+290 St Marks Place,MOCJ,501.0,,staten island,5000314.0,,False,115,,,,
+388 WILLIS AVENUE,DYCD,201.0,,bronx,2102176.0,,False,264,,seats,,"[""bx01""]"
+198 E 161 St,MOCJ,204.0,,bronx,2099027.0,,False,111,,,,
+,MOCJ,,,,,,False,102,,,,
+370 Fountain Ave,MOCJ,305.0,,brooklyn,3095977.0,,False,115,,,,
+,MOCJ,,,,,,False,115,,,,
+109-29 Sutphin Boulevard,DYCD,412.0,,jamaica,4586007.0,,False,264,,seats,,"[""qn12""]"
+1620 BRUCKNER BOULEVARD,DSS,209.0,,bronx,2118950.0,,False,121,,,,
+199 WATER STREET,DSS,101.0,,new york,1001162.0,,False,122,,,,
+2 Allen Street,DYCD,103.0,,new york,1088837.0,,False,264,,seats,,"[""mn03""]"
+,DSS,,,,,,False,130,,,,"[""brooklyn""]"
+,MOCJ,,,,,,False,115,,,,
+100 Centre St.,MOCJ,101.0,,new york,1079000.0,,False,110,,,,
+150 Court Street,DYCD,306.0,,brooklyn,3003069.0,,False,264,,seats,,"[""bk06""]"
+36-46 37th Street,MOCJ,401.0,,long island city,4009552.0,,False,109,,,,
+825 EAST 233 STREET,DOP,212.0,,bronx,2068259.0,,False,140,,,129400.0,
+321 Palmetto Street,DYCD,304.0,"[""school""]",brooklyn,3413715.0,"[""english"",""spanish""]",False,279,,seats,,"[""bk04""]"
+70 OCEAN PARKWAY,DYCD,307.0,,brooklyn,3124019.0,,False,264,,seats,,"[""bk07""]"
+120 Schermerhorn Street,MOCJ,302.0,,brooklyn,3000534.0,,False,109,,,,
+,MOCJ,,,,,,False,115,,,,
+,MOCJ,,,,,,False,115,,,,
+60 EAST TREMONT AVENUE,DSS,205.0,,bronx,2007915.0,,False,122,,,,
+715 Ocean Terrace,MOCJ,502.0,,staten island,5113169.0,,False,115,,,,
+400 EAST FORDHAM ROAD,SBS,206.0,,bronx,2116415.0,,False,229,,,,
+423 Gates Ave,MOCJ,303.0,,brooklyn,3050909.0,,False,102,,,,
+299 Broadway,MOCJ,101.0,,new york,1001648.0,,False,109,,,,
+2021 BERGEN STREET,DYCD,316.0,"[""school""]",brooklyn,3038939.0,,False,279,,seats,,"[""bk16""]"
+301 Henry Street,DYCD,103.0,,new york,1003737.0,,False,270,,seats,,"[""mn03""]"
+225 ADELPHI STREET,DYCD,302.0,"[""school""]",brooklyn,3058531.0,,False,279,,seats,,"[""bk02""]"
+133-04 39 Avenue,DYCD,407.0,,flushing,4000000.0,,False,276,,seats,,"[""qn07""]"
+1510 WATERS PLACE,DOHMH,211.0,,bronx,2115332.0,,False,181,,,,
+127 WEST 127 STREET,DOP,110.0,,new york,1057904.0,,False,136,,,,
+,MOCJ,,,,,,False,102,,,,
+150 Richmond Terrace,DSS,501.0,,staten island,5000104.0,,False,235,,,,
+1150 Carroll Street,MOCJ,309.0,,brooklyn,3337869.0,,False,204,,,,
+692 BLAKE AVENUE,DOP,305.0,,brooklyn,3338955.0,,False,136,,,,
+,MOCJ,,,,,,False,107,,,,
+,MOCJ,,,,,,False,204,,,,"[""all boroughs""]"
+43-15 Beach Channel Drive,MOCJ,414.0,,far rockaway,4301817.0,,False,102,,,,
+8310 Rockaway Blvd,DYCD,409.0,,ozone park,4187297.0,,False,264,,seats,,"[""qn09""]"
+441 Manhattan Ave,MOCJ,110.0,,new york,1088138.0,,False,115,,,,
+40 RECTOR STREET,DSS,101.0,,new york,1088750.0,,False,122,,,,
+17 Ft. George Hill,DYCD,112.0,,new york,1064067.0,,False,264,,seats,,"[""mn12""]"
+32 Penn Street,MOCJ,301.0,,brooklyn,3335305.0,,False,204,,,,
+50 BROADWAY,DOP,101.0,,new york,1000813.0,,False,240,,,,
+1600 avenue L,DYCD,314.0,,brooklyn,3180673.0,,False,264,,seats,,"[""bk14""]"
+2255 Webster Ave,MOCJ,205.0,,bronx,2013329.0,,False,115,,,,
+2120 Ryer Ave,MOCJ,205.0,,bronx,2013535.0,,False,110,,,,
+200-214 W 135th St,MOCJ,110.0,,new york,1058843.0,,False,102,,,,
+779 Garden St,MOCJ,206.0,,bronx,2012787.0,,False,102,,,,
+,MOCJ,,,,,,False,102,,,,
+1215-17 Stratford Ave,MOCJ,209.0,,bronx,2090513.0,,False,110,,,,
+,MOCJ,,,,,,False,102,,,,
+126-02 82nd Ave,MOCJ,409.0,,kew gardens,4458616.0,,False,111,,,,
+,MOCJ,,,,,,False,102,,,,
+100 Richmond Terrace,MOCJ,501.0,,staten island,5000090.0,,False,108,,,,
+2800 OCEAN PARKWAY,DYCD,313.0,,brooklyn,3196293.0,,False,277,,seats,,"[""bk13""]"
+,DSS,,"[""unspecified""]",,,"[""english"",""spanish""]",True,134,"[""food""]",,7000.0,"[""brooklyn"",""queens""]"
+37-61 84th Street,DYCD,403.0,,jackson heights,4036234.0,,False,284,,seats,,"[""qn03""]"
+2500 Nostrand Avenue,DYCD,314.0,"[""school""]",brooklyn,3208638.0,"[""english""]",False,279,,seats,,"[""bk14""]"
+50 Broadway,MOCJ,101.0,,new york,1000813.0,,False,230,,,,
+273 BOWERY,DYCD,103.0,,new york,1087241.0,"[""english"",""bengali"",""korean"",""polish"",""russian"",""spanish"",""arabic"",""chinese-cantonese"",""chinese-mandarin""]",False,272,,seats,,"[""mn03""]"
+126-02 82nd Ave,MOCJ,409.0,,kew gardens,4458616.0,,False,111,,,,
+151 LAWRENCE STREET,DOP,302.0,,brooklyn,3000404.0,,False,147,,,,
+40 RECTOR STREET,DSS,101.0,"[""clinical - outpatient""]",new york,1088750.0,"[""english""]",True,135,"[""family services""]",,792556.53,
+,MOCJ,,,,,,False,230,,,,
+40-11 Warren St.,MOCJ,404.0,,elmhurst,4314502.0,,False,110,,,,
+630 JACKSON AVENUE,DSS,201.0,"[""office""]",bronx,2004558.0,,True,120,"[""housing""]",,2746657.53,
+,MOCJ,,,,,,False,107,,,,
+,MOCJ,,,,,,False,102,,,,
+760 EAST 160 STREET,DYCD,201.0,,bronx,2004691.0,,False,273,,seats,,"[""bx01""]"
+198 EAST 161 STREET,DOP,204.0,,bronx,2099027.0,,False,143,,,,
+156-10 Baisley Blvd,MOCJ,412.0,,jamaica,4265978.0,,False,102,,,,
+100 Richmond Terrace,MOCJ,501.0,,staten island,5000090.0,,False,109,,,,
+350 Jay St.,MOCJ,302.0,,brooklyn,3000259.0,,False,101,,,,
+199 WATER STREET,DSS,101.0,,new york,1001162.0,,False,119,,,,
+44 Union Street,MOCJ,,,,,,False,204,,,,
+77 WATER STREET,DSS,101.0,,new york,1000863.0,,False,119,,,5000.0,
+625 W. 140th St,MOCJ,109.0,,new york,1089154.0,,False,101,,,,
+2001 Oriental Blvd,DYCD,315.0,,brooklyn,3326937.0,,False,264,,seats,,"[""bk15""]"
+1995 Jerome Avenue,DYCD,205.0,,bronx,2008405.0,,False,264,,seats,,"[""bx05""]"
+804 EAST 138 STREET,DOHMH,201.0,,bronx,2004004.0,,False,181,,,,
+105 COURT STREET,DSS,302.0,,brooklyn,3002702.0,,False,122,,,,
+37-05 Union Street,DYCD,407.0,,flushing,4113348.0,,False,264,,seats,,"[""qn07""]"
+151 West   30 Street,DYCD,105.0,,new york,1015157.0,,False,264,,seats,,"[""mn05""]"
+1065 Elton St,MOCJ,305.0,,brooklyn,3413878.0,,False,102,,,,
+120 Wall St,DYCD,101.0,,new york,1000871.0,,False,264,,seats,,"[""mn01""]"
+3155 AMBOY ROAD,DSS,503.0,"[""home""]",staten island,5107641.0,"[""english""]",True,132,"[""enrichment"",""people with disabilities"",""health""]",people,0.0,
+111 Division Street,DYCD,103.0,,new york,1003612.0,,False,264,,seats,,"[""mn03""]"
+47-16 AUSTELL PLACE,SBS,402.0,,long island city,4000742.0,,True,184,,,,
+314 W 54th St,MOCJ,104.0,,new york,1025397.0,,False,109,,,,
+1875 Broadway,DSS,304.0,"[""office""]",brooklyn,3000000.0,,True,120,,,2520032.83,
+6809 20th Avenue,DYCD,311.0,,brooklyn,3135071.0,,False,283,,seats,,"[""bk11""]"
+,MOCJ,,,,,,False,102,,,,"[""all boroughs""]"
+,MOCJ,,,,,,False,102,,,,"[""all boroughs""]"
+5712 Church Ave,MOCJ,317.0,,brooklyn,3103150.0,,False,102,,,,
+2118 Vyse Avenue,DYCD,206.0,,bronx,2013263.0,,False,264,,seats,,"[""bx06""]"
+1 Smith St,MOCJ,302.0,,brooklyn,3000438.0,,False,230,,,,
+530 West 166 Street,DYCD,112.0,,new york,1062988.0,,False,264,,seats,,"[""mn12""]"
+10-45 NAMEOKE STREET,DYCD,414.0,"[""school""]",far rockaway,4298234.0,,False,279,,seats,,"[""qn14""]"
+1700 MACOMBS ROAD,DYCD,205.0,,bronx,2008460.0,,False,264,,seats,,"[""bx05""]"
+78-31 Parsons Boulevard,DYCD,408.0,,fresh meadows,4147931.0,,False,264,,seats,,"[""qn08""]"
+175 Friendship Lane,DYCD,502.0,,staten island,5000000.0,"[""english"",""russian"",""spanish""]",False,272,,seats,,"[""si02""]"
+815 BURKE AVENUE,DSS,212.0,"[""office""]",bronx,2056409.0,"[""english""]",True,120,"[""housing""]",people,4962588.09,
+,MOCJ,,,,,,False,102,,,,
+26 Central Ave,MOCJ,501.0,,staten island,5151735.0,,False,101,,,,
+809 Westchester Ave.,MOCJ,201.0,,bronx,2004795.0,,False,101,,,,
+20 New York Avenue,DYCD,303.0,,brooklyn,3053759.0,,False,264,,seats,,"[""bk03""]"
+349 Myrtle Ave,MOCJ,302.0,,brooklyn,3058078.0,,False,102,,,,
+89 BARTLETT STREET,DSS,301.0,"[""home""]",brooklyn,3424167.0,"[""english"",""russian"",""spanish""]",True,132,"[""enrichment"",""people with disabilities"",""health""]",people,0.0,
+1980 Lafayette Avenue,DYCD,209.0,"[""school""]",bronx,2022205.0,,False,279,,seats,,"[""bx09""]"
+675 4th Avenue,DYCD,307.0,,brooklyn,3336817.0,,False,264,,seats,,"[""bk07""]"
+977 Fox Street,DYCD,202.0,,bronx,2005660.0,"[""english"",""spanish""]",False,263,,seats,,"[""bx02""]"
+3170 WEBSTER AVENUE,DYCD,207.0,,bronx,2124445.0,,False,279,,seats,,"[""bx07""]"
+5604 7th Avenue,DYCD,307.0,,brooklyn,3015465.0,,False,272,,seats,,"[""bk07""]"
+,MOCJ,,,,,,False,115,,,,
+2362 Atlantic Avenue,MOCJ,316.0,,brooklyn,3038655.0,,False,230,,,,
+2090 Adam Clayton Powell Jr. Blvd.,MOCJ,110.0,,new york,1058640.0,,False,101,,,,
+,MOCJ,,,,,,False,107,,,,
+1600 Central Ave,MOCJ,414.0,,far rockaway,4297967.0,,False,102,,,,
+,DSS,,"[""court"",""home""]",,,"[""english"",""arabic"",""chinese-cantonese"",""chinese-mandarin"",""haitian creole"",""hindi"",""korean"",""russian"",""spanish""]",False,116,"[""housing"",""people with disabilities""]",people,,"[""manhattan""]"
+,MOCJ,,,,,,False,230,,,,
+30-14 30 STREET,DYCD,401.0,"[""school""]",astoria,4007619.0,"[""english"",""bengali"",""french"",""italian"",""korean"",""portuguese"",""spanish"",""arabic""]",False,279,,seats,,"[""qn01""]"
+60 Bay St,MOCJ,501.0,,staten island,5000025.0,,False,100,,,,
+151 LAWRENCE STREET,DOP,302.0,,brooklyn,3000404.0,,False,146,,,,
+985 Rockaway Avenue,MOCJ,316.0,,brooklyn,3082940.0,,False,115,,,,
+2200 GRAVESEND NECK ROAD,DYCD,315.0,,brooklyn,3201080.0,,False,264,,seats,,"[""bk15""]"
+1775 THIRD AVENUE,DOP,111.0,,new york,1079203.0,,False,140,,,,
+630 Riverside Drive,MOCJ,109.0,,new york,1076736.0,,False,101,,,,
+108-25 62 DRIVE,DSS,406.0,,forest hills,4432108.0,,False,122,,,,
+1770 Lacombe Avenue,DYCD,209.0,,bronx,2020646.0,,False,264,,seats,,"[""bx09""]"
+76-05 51 AVENUE,DYCD,404.0,,elmhurst,4056455.0,,False,271,,seats,,"[""qn04""]"
+26 Central Ave,MOCJ,501.0,,staten island,5151735.0,,False,110,,,,
+2950 W 25th St,MOCJ,313.0,,brooklyn,3189538.0,,False,102,,,,
+2 Allen Street,DYCD,103.0,,new york,1088837.0,,False,264,,seats,,"[""mn03""]"
+111 Division Street,DYCD,103.0,,new york,1003612.0,,False,264,,seats,,"[""mn03""]"
+247 WEST 37 STREET,DSS,105.0,"[""home"",""court""]",new york,1014454.0,"[""english"",""arabic"",""chinese-cantonese"",""chinese-mandarin"",""haitian creole"",""korean"",""russian"",""spanish""]",False,116,"[""people with disabilities""]",people,,
+260 BROADWAY,DSS,301.0,,brooklyn,3059650.0,,False,122,,,,
+911 Flatbush Avenue,DYCD,314.0,"[""school""]",brooklyn,3336215.0,,False,279,,seats,,"[""bk14""]"
+800 Van Siclen Ave,MOCJ,305.0,,brooklyn,3097675.0,,False,102,,,,
+1406 Townsend Ave,DYCD,204.0,,bronx,2008097.0,,False,264,,seats,,"[""bx04""]"
+890 GARRISON AVENUE,DSS,202.0,"[""office""]",bronx,2005939.0,,True,120,,,3673954.33,
+1110 Boston Road,DYCD,203.0,,bronx,2004526.0,,False,278,,seats,,"[""bx03""]"
+,MOCJ,,,,,,False,115,,,,
+120 Schermerhorn St.,MOCJ,302.0,,brooklyn,3000534.0,,False,101,,,,
+8225 5 Avenue,DYCD,310.0,,brooklyn,3152153.0,,False,264,,seats,,"[""bk10""]"
+80 Centre St.,MOCJ,101.0,,new york,1001830.0,,False,111,,,,
+,MOCJ,,,,,,False,107,,,,
+199 Water Street,MOCJ,101.0,,new york,1001162.0,,False,114,,,,
+1368 Fulton Street,DYCD,303.0,,brooklyn,3053786.0,"[""english"",""spanish""]",False,266,,seats,,"[""bk03""]"
+130 STUYVESANT PLACE,DOP,501.0,,staten island,5000085.0,,False,136,,,,
+2780 Reservoir Avenue,MOCJ,207.0,,bronx,2015241.0,,False,102,,,,
+411 Ovington Avenue,DYCD,310.0,,brooklyn,3145772.0,,False,264,,seats,,"[""bk10""]"
+2322 Third Avenue,DYCD,111.0,,new york,1054497.0,,False,274,,seats,,"[""mn11""]"
+1980 Lafayette Avenue,DYCD,209.0,,bronx,2022205.0,,False,280,,seats,,"[""bx09""]"
+,MOCJ,,,,,,False,107,,,,
+,MOCJ,,,,,,False,115,,,,
+120 East 32nd St,DSS,105.0,,new york,1018469.0,,False,235,,,,
+809 WESTCHESTER AVENUE,DOP,201.0,,bronx,2004795.0,,False,140,,,,
+,MOCJ,,,,,,False,107,,,,
+216 Fort Washington Ave,MOCJ,112.0,,new york,1063381.0,,False,115,,,,
+160-18 121 Avenue,DYCD,412.0,,jamaica,4442279.0,,False,264,,seats,,"[""qn12""]"
+77 WATER STREET,DSS,101.0,,new york,1000863.0,,False,119,,,10000.0,
+100 Centre St.,MOCJ,101.0,,new york,1079000.0,,False,101,,,,
+301 GROVE STREET,DSS,304.0,,brooklyn,3075926.0,,False,122,,,,
+2010 Fulton Street,DYCD,303.0,,brooklyn,3042111.0,,False,274,,seats,,"[""bk03""]"
+,MOCJ,,,,,,False,107,,,,
+221 E 123rd St,MOCJ,111.0,,new york,1087233.0,,False,110,,,,
+4912 14th Avenue,DYCD,312.0,,brooklyn,3328617.0,,False,264,,seats,,"[""bk12""]"
+45 WADSWORTH AVENUE,DSS,112.0,,new york,1089928.0,,False,122,,,,
+369 E 148th St,MOCJ,201.0,,bronx,2097041.0,,False,112,,,,
+3540 Bivona Street,DYCD,212.0,"[""community center""]",bronx,2093877.0,"[""english"",""spanish""]",False,281,,seats,,"[""bx12""]"
+888 East Sixth Street,DYCD,103.0,"[""community center""]",new york,1078051.0,,False,264,,seats,,"[""mn03""]"
+,MOCJ,,,,,,False,115,,,,
+74-09 37 AVENUE,DSS,403.0,,jackson heights,4029563.0,,False,118,,,,
+,MOCJ,,,,,,False,115,,,,
+43-15 BEACH CHANNEL DRIVE,DOP,414.0,,far rockaway,4301817.0,,False,140,,,,
+429-35 SECOND AVENUE,DOHMH,106.0,,new york,1019792.0,,False,181,,,,
+260 EAST 161 STREET,DOHMH,204.0,,bronx,2002457.0,,False,181,,,,
+,MOCJ,,,,,,False,102,,,,
+2155 BLACKROCK AVENUE,DSS,209.0,,bronx,2119153.0,,True,120,,,0.0,
+3750 BAYCHESTER AVENUE,DYCD,212.0,,bronx,2066190.0,,False,264,,seats,,"[""bx12""]"
+217 WYCKOFF AVENUE,DSS,304.0,,brooklyn,3326375.0,,False,122,,,,
+50 Court St,MOCJ,302.0,,brooklyn,3002549.0,,False,110,,,,
+302 WEST 124 STREET,DOP,110.0,,new york,1059275.0,,False,137,,,,
+1368 Fulton Street,DYCD,303.0,,brooklyn,3053786.0,,False,283,,seats,,"[""bk03""]"
+845 3 Avenue,DYCD,106.0,,new york,1038464.0,,False,264,,seats,,"[""mn06""]"
+4-05 Astoria Blvd,DYCD,401.0,"[""community center""]",astoria,4430787.0,,False,281,,seats,,"[""qn01""]"
+1529 WILLIAMSBRIDGE ROAD,DOP,211.0,,bronx,2044075.0,,False,144,,,,
+862 PARK AVENUE,DOP,303.0,,brooklyn,3324728.0,,False,137,,,,
+126-02 82nd Ave,MOCJ,409.0,,kew gardens,4458616.0,,False,111,,,,
+,MOCJ,,,,,,False,102,,,,
+1 Halleck St,MOCJ,202.0,,bronx,2128421.0,,False,230,,,,
+809 Westchester Ave,MOCJ,201.0,,bronx,2004795.0,,False,230,,,,
+911 Flatbush Avenue,DYCD,314.0,"[""school""]",brooklyn,3336215.0,,False,279,,seats,,"[""bk14""]"
+3603 Quentin RD,DYCD,318.0,,brooklyn,3212428.0,,False,264,,seats,,"[""bk18""]"
+7111 5th Ave,MOCJ,310.0,,brooklyn,3146649.0,,False,204,,,,
+177 LIVINGSTON STREET,DSS,302.0,,brooklyn,3391746.0,,False,122,,,,
+2139 ADAM CLAYTON POWELL BOULEVARD,DOP,110.0,,new york,1090253.0,,False,136,,,,
+8964 163rd St,MOCJ,412.0,,jamaica,4208888.0,,False,112,,,,
+1716 MERMAID AVENUE,DOP,313.0,,brooklyn,3189576.0,,False,140,,,,
+888 East Sixth Street,DYCD,103.0,"[""community center""]",new york,1078051.0,,False,271,,seats,,"[""mn03""]"
+215 EAST 161 STREET,MOCJ,204.0,,bronx,2002704.0,,False,109,,,,
+,MOCJ,,,,,,False,102,,,,"[""all boroughs""]"
+2139 ADAM CLAYTON POWELL BOULEVARD,DOP,110.0,,new york,1090253.0,,False,144,,,,
+850 KENT AVENUE,DYCD,303.0,,brooklyn,3054671.0,,False,264,,seats,,"[""bk03""]"
+500 West 138 Street,MOCJ,109.0,,new york,1084132.0,,False,115,,,,
+,MOCJ,,,,,,False,115,,,,

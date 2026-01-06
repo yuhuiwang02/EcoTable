@@ -1,0 +1,41 @@
+bis_nyc_device_id,physical_address,elevator_type,elevator_operation,category,count,avg_value,total_value,max_value
+2P4966,1010 EAST  163 STREET,Passenger,Power,medium_travel,1,60.0,60.0,60.0
+4P3077,167-15 12 AVENUE,Passenger,Power,medium_travel,1,80.0,80.0,80.0
+1P3256,53 5 AVENUE,Passenger,Power,high_travel,1,300.0,300.0,300.0
+1P26568,1206 6 AVENUE,Passenger,Power,high_travel,1,117.7,117.7,117.7
+1P19799,30 MONROE STREET,Passenger,Power,high_travel,1,118.0,118.0,118.0
+4P11428,83-30 KEW GARDENS ROAD,Passenger,Power,low_travel,1,50.0,50.0,50.0
+1P20419,104 POST AVENUE,Passenger,Power,medium_travel,1,60.0,60.0,60.0
+3P11459,104 LUQUER STREET,Passenger,Power,low_travel,1,49.0,49.0,49.0
+1P371,303 WEST 86 STREET,Passenger,Power,high_travel,1,160.0,160.0,160.0
+1P24315,66 OVERLOOK TERRACE,Passenger,Power,medium_travel,1,100.0,100.0,100.0
+3P12156,47 NORTH 8 STREET,Passenger,Manual,medium_travel,1,70.0,70.0,70.0
+1P1809,600 WEST 165 STREET,Passenger,Manual,medium_travel,1,65.0,65.0,65.0
+2P1813,114 WEST 183 STREET,Passenger,Power,medium_travel,1,84.0,84.0,84.0
+1P37080,686 BROADWAY,Passenger,Power,low_travel,1,13.0,13.0,13.0
+1P28681,41 EAST 89 STREET,Passenger,Power,high_travel,1,385.0,385.0,385.0
+1P21006,1 EAST 75 STREET,Passenger,Manual,low_travel,1,30.0,30.0,30.0
+1P46370,50 DOWNING STREET,Passenger,Power,medium_travel,1,76.0,76.0,76.0
+3P7312,2316 SURF AVENUE,Passenger,Power,low_travel,1,30.0,30.0,30.0
+1P27261,321 EAST 16 STREET,Passenger,Power,high_travel,1,120.0,120.0,120.0
+1P1000467,219 CANAL STREET,Passenger,Power,low_travel,1,43.0,43.0,43.0
+3W0997347,55 WATER STREET,,Power,low_travel,1,2.07,2.07,2.07
+1P25582,280 PARK AVENUE,Passenger,Power,high_travel,1,332.0,332.0,332.0
+4P15525,121-22 ROOSEVELT AVENUE,Passenger,Power,low_travel,1,11.6,11.6,11.6
+1P35609,268 CANAL STREET,Passenger,Power,medium_travel,1,60.0,60.0,60.0
+5P0997182,75 BENNETT STREET,Passenger,Power,low_travel,1,12.2,12.2,12.2
+1P43008,112 BENNETT AVENUE,Passenger,Power,medium_travel,1,65.0,65.0,65.0
+3P13822,874 JEFFERSON AVENUE,Passenger,Power,low_travel,1,48.0,48.0,48.0
+1P19021,338 5 AVENUE,Passenger,Power,high_travel,1,960.0,960.0,960.0
+1P11985,268 PARK AVENUE SOUTH,Passenger,Power,high_travel,1,139.0,139.0,139.0
+1P718,115 BROADWAY,Passenger,Power,high_travel,1,280.0,280.0,280.0
+4P5917,108-15 48 AVENUE,Passenger,Power,medium_travel,1,60.0,60.0,60.0
+1P45731,540 WEST  120 STREET,Passenger,Power,high_travel,1,162.0,162.0,162.0
+1P28868,77 WATER STREET,Passenger,Power,high_travel,1,167.0,167.0,167.0
+1P26912,777 3 AVENUE,Passenger,Power,low_travel,1,10.0,10.0,10.0
+4P1877,40-50 DENMAN STREET,Passenger,Manual,medium_travel,1,74.0,74.0,74.0
+3P0995329,88 LINDEN BOULEVARD,Passenger,Power,medium_travel,1,93.08,93.08,93.08
+1P47939,112 EAST 73 STREET,Passenger,Power,low_travel,1,0.0,0.0,0.0
+3P13796,236 ATLANTIC AVENUE,Passenger,Power,medium_travel,1,60.0,60.0,60.0
+1P40720,34 RIVER TERRACE,Passenger,Power,high_travel,1,350.0,350.0,350.0
+3P12779,128 BRIGHTON BEACH AVENUE,Passenger,Power,low_travel,1,45.0,45.0,45.0

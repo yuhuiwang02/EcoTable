@@ -1,0 +1,4 @@
+group_column1,group_column2,total,average,count
+New York,up,110.0,2.558139534883721,44
+New York,down,12.0,4.0,3
+New York,,4.0,2.0,3

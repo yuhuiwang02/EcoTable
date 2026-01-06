@@ -1,0 +1,3 @@
+location_1,location_2,program_type,record_count,total_amount,avg_amount,max_amount,min_amount
+4715 18th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",District School,5,3.84,0.96,1.0,0.91
+211 8th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",District School,7,5.640000000000001,0.9400000000000001,1.0,0.81

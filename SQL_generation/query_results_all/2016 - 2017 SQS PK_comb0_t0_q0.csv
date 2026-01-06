@@ -1,0 +1,7 @@
+length_of_pre_k_day,program_type,category,count,avg_value,total_value,max_value
+Full day,NYCEEC,Low engagement,9,0.13599999999999998,0.6799999999999999,0.29
+Full day,District School,Low engagement,19,0.18285714285714286,2.56,0.29
+Full day,District School,Moderate engagement,42,0.44857142857142857,18.84,0.59
+Full day,District School,High engagement,13,0.81,10.530000000000001,1.0
+Full day,NYCEEC,Moderate engagement,18,0.44611111111111107,8.03,0.59
+Full day,NYCEEC,High engagement,14,0.8092857142857143,11.33,1.0

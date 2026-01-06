@@ -1,0 +1,21 @@
+provider,type,ntacode,category,count,avg_value,total_value,max_value
+SPECTRUM,Limited Free,QN54,medium density,1,28.0,28.0,28.0
+ALTICEUSA,Limited Free,BK99,medium density,1,39.0,39.0,39.0
+Downtown Brooklyn,Free,BK38,medium density,1,33.0,33.0,33.0
+SPECTRUM,Limited Free,QN10,medium density,1,32.0,32.0,32.0
+BPL,Free,BK37,medium density,1,39.0,39.0,39.0
+BPL,Free,BK82,high density,1,42.0,42.0,42.0
+Transit Wireless,Free,MN35,low density,1,10.0,10.0,10.0
+SPECTRUM,Limited Free,MN14,low density,1,6.0,6.0,6.0
+SPECTRUM,Limited Free,SI36,high density,3,50.0,150.0,50.0
+Transit Wireless,Free,MN17,low density,1,4.0,4.0,4.0
+Manhattan Down Alliance,Free,MN25,low density,1,1.0,1.0,1.0
+Transit Wireless,Free,QN61,medium density,1,27.0,27.0,27.0
+AT&T,Free,MN34,low density,1,9.0,9.0,9.0
+Transit Wireless,Free,MN34,low density,1,8.0,8.0,8.0
+Chelsea,Free,MN13,low density,1,3.0,3.0,3.0
+NYPL,Free,MN24,low density,1,1.0,1.0,1.0
+Harlem,Free,MN11,low density,1,9.0,9.0,9.0
+ALTICEUSA,Limited Free,BX99,low density,1,16.0,16.0,16.0
+Harlem,Free,MN03,low density,1,9.0,9.0,9.0
+NYPL,Free,MN13,low density,1,3.0,3.0,3.0

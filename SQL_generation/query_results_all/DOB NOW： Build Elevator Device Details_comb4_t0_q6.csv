@@ -1,0 +1,46 @@
+elevator_type,elevator_landing,bis_nyc_device_id,machine_model,total_travel_feet,cargovernor_tripping_speed,elevator_operation,rank,dense_rank
+Passenger,"L,2-6,R",3P12156,,70.0,115.0,Manual,1,1
+Passenger,7,1P1809,39-MC,65.0,175.0,Manual,1,2
+Passenger,7,4P1877,,74.0,,Manual,1,3
+Passenger,4,1P21006,Existing,30.0,,Manual,1,3
+Passenger,,1P47065,,,,,1,1
+Escalator,,4E6067,,,,,1,1
+Passenger,,4P10596,,,,,1,1
+Passenger,,1P15372,,,,,1,1
+Passenger,,2P10367,,,,,1,1
+Passenger,6,2P4966,,60.0,175.0,Power,1,1
+Passenger,5,3P13822,,48.0,175.0,Power,1,1
+Passenger,"L,2,3,4,5",3P12779,Existing,45.0,210.0,Power,1,2
+Passenger,10,1P24315,44OH,100.0,210.0,Power,1,2
+Passenger,3,5P0997182,TPM3,12.2,210.0,Power,1,2
+Passenger,9,4P3077,1,80.0,210.0,Power,1,2
+Passenger,7,1P43008,Existing,65.0,280.0,Power,1,3
+Passenger,"C, B, 1-8, R",3P0995329,TPM3,93.08,280.0,Power,1,3
+Passenger,"C,*1,2,3,4",1P1000467,GL100-20L,43.0,280.0,Power,1,3
+Passenger,"B, 1-4",1P19799,OH worm gear,118.0,337.0,Power,1,4
+Passenger,11,1P3256,63OH,300.0,395.0,Power,1,5
+Passenger,17,1P371,54 OD,160.0,395.0,Power,1,5
+Passenger,12,1P11985,,139.0,452.0,Power,1,6
+Passenger,7,1P46370,,76.0,452.0,Power,1,6
+Passenger,"B,L,M THRU 12",1P28868,627D104G1,167.0,618.0,Power,1,7
+Passenger,12,1P26568,,117.7,625.0,Power,1,8
+Passenger,L-80,1P19021,30T,960.0,850.0,Power,1,9
+Passenger,"LL, L, 11-21",1P718,GTE427,280.0,855.0,Power,1,10
+Passenger,16,1P45731,525A,162.0,855.0,Power,1,10
+Passenger,38,1P28681,219 HT,385.0,855.0,Power,1,10
+Passenger,15,1P25582,TX R5,332.0,970.0,Power,1,11
+Passenger,7,2P1813,,84.0,,Power,1,12
+Passenger,2,1P26912,existing,10.0,,Power,1,12
+Passenger,"B,L,OR,2-11",1P27261,,120.0,,Power,1,12
+Passenger,1-2-3,3P7312,TYPE - 01,30.0,,Power,1,12
+Passenger,6,4P11428,existing,50.0,,Power,1,12
+Passenger,2,4P15525,existing,11.6,,Power,1,12
+Passenger,"B, 1-6",1P20419,,60.0,,Power,1,12
+Passenger,6,3P13796,,60.0,,Power,1,12
+Passenger,C-PH,1P40720,,350.0,,Power,1,12
+Passenger,6,4P5917,inground hydro ce13,60.0,,Power,1,12
+Passenger,"1,2",1P37080,,13.0,,Power,1,12
+Passenger,6,3P11459,,49.0,,Power,1,12
+Passenger,"L,1-6",1P35609,,60.0,,Power,1,12
+Passenger,6,1P47939,,0.0,,Power,1,12
+,,3W0997347,Express II,2.07,,Power,1,12

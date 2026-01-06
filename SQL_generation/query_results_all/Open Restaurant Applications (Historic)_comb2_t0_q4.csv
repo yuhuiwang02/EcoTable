@@ -1,0 +1,13 @@
+legal_business_name,doing_business_as_dba,landmark_district_or_building,business_address,sla_license_type,seating_interest_sidewalk,total,count,average
+SWEETGREEN NEW YORK LLC,SWEETGREEN,False,"2460 BROADWAY, Manhattan, NY",,sidewalk,210.0,6,35.0
+"LEGENDARY NIGHT SPOTS, INC",THE DUPLEX,False,"61 CHRISTOPHER STREET, Manhattan, NY",OP,sidewalk,95.0,1,95.0
+Carra LLC,Carra LLC,False,"338  3rd Avenue , Manhattan, NY",OP,sidewalk,65.0,1,65.0
+"SDJR SYSTEMS 3, LLC",MCDONALD'S,False,"16 WESTCHESTER SQ, Bronx, NY",,sidewalk,45.0,1,45.0
+KEUR COUMBA RESTAURANT INC,KEUR COUMBA RESTAURANT,False,"125 WEST  116 STREET, Manhattan, NY",,sidewalk,44.0,1,44.0
+G & J Restaurant Corp,TOSOCCHON,False,"45-30  Bell Blvd, Queens, NY",RW,sidewalk,43.0,1,43.0
+"RF Broadway, LLC",RedFarm,False,"2170 Broadway, Manhattan, NY",OP,sidewalk,34.0,1,34.0
+FRESH SUBWAY 168 INC,Fresh Sub 168 Inc,False,"18524A HORACE HARDING EXPY, Queens, NY",,sidewalk,30.0,1,30.0
+LOS CAFETALES RESTAURANT CORP,LOS CAFETALES RESTAURANT CORP,False,"78-17 ROOSEVELT AVE, Queens, NY",,sidewalk,28.0,2,14.0
+Paris Oven Inc,Paris Oven Inc,False,"38-12 30th avenue, Queens, NY",,sidewalk,20.0,1,20.0
+Springbone 90 West 3rd LLC,Springbone Kitchen,True,"90 West 3rd Street, Manhattan, NY",,sidewalk,19.0,1,19.0
+TROPILYZ B RESTAURANT INC,TROPILYZ B RESTAURANT INC,False,"2462 GRAND CONCOURSE, Bronx, NY",,sidewalk,15.0,1,15.0

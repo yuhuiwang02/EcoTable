@@ -1,0 +1,334 @@
+tree_id,boro_ct,borocode,brch_shoe,sidewalk,health,trunk_wire,nta_name,spc_common,cb_num,brch_other,brch_light
+210541,3057100,3,No,Damage,Good,No,Greenpoint,American linden,301,No,No
+201655,3005100,3,No,NoDamage,Good,No,Carroll Gardens-Columbia Street-Red Hook,American linden,306,No,No
+185163,4095400,4,No,NoDamage,Fair,No,Hammels-Arverne-Edgemere,sweetgum,414,No,No
+201933,4093800,4,No,Damage,Good,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,honeylocust,414,No,No
+183489,4059500,4,No,Damage,Good,No,Ridgewood,Sophora,405,No,Yes
+178515,4000400,4,No,Damage,Poor,No,Woodhaven,Norway maple,409,No,No
+178185,3015700,3,No,NoDamage,Good,No,Park Slope-Gowanus,Norway maple,306,No,No
+204417,3030400,3,No,Damage,Good,No,Bensonhurst East,Callery pear,311,No,No
+179759,3077000,3,No,Damage,Good,No,Flatbush,northern red oak,314,No,No
+196015,1013000,1,No,NoDamage,Fair,No,Upper East Side-Carnegie Hill,Callery pear,108,Yes,No
+187448,4044302,4,No,Damage,Good,No,Corona,Norway maple,404,No,No
+189469,3019100,3,No,NoDamage,Good,No,Clinton Hill,honeylocust,302,No,No
+161339,3051200,3,No,Damage,Good,No,Flatbush,honeylocust,314,No,No
+178506,1004000,1,No,NoDamage,Good,No,East Village,Norway maple,103,No,No
+189903,3015900,3,No,Damage,Good,No,Park Slope-Gowanus,ginkgo,306,No,No
+173727,1007700,1,No,Damage,Good,No,West Village,Ohio buckeye,102,No,No
+201811,4093800,4,No,NoDamage,Fair,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,honeylocust,414,No,No
+164685,2037504,2,No,NoDamage,Fair,No,East Tremont,Norway maple,206,Yes,No
+196089,4014000,4,No,Damage,Good,No,Kew Gardens,London planetree,409,No,No
+179259,4071900,4,No,NoDamage,Poor,No,Forest Hills,Norway maple,406,No,No
+186060,2038302,2,No,Damage,Good,No,Fordham South,honeylocust,206,No,No
+171066,3079400,3,No,NoDamage,Good,No,Erasmus,white oak,314,No,No
+203769,4010500,4,No,NoDamage,Good,No,Steinway,London planetree,401,No,No
+200371,1009600,1,No,NoDamage,Good,No,Midtown-Midtown South,pin oak,105,No,No
+178265,3013300,3,No,NoDamage,Good,No,Park Slope-Gowanus,Norway maple,306,No,No
+151575,4069702,4,No,NoDamage,Good,No,Rego Park,silver maple,406,No,No
+199777,3063600,3,No,NoDamage,Fair,No,Georgetown-Marine Park-Bergen Beach-Mill Basin,Norway maple,318,No,No
+184031,2023502,2,No,NoDamage,Good,No,Mount Hope,red maple,205,No,No
+200604,4084900,4,No,Damage,Good,No,Flushing,honeylocust,407,No,Yes
+181988,3076200,3,No,Damage,Fair,No,Midwood,scarlet oak,314,No,No
+197862,1008000,1,No,Damage,Good,No,Murray Hill-Kips Bay,Sophora,106,No,No
+162756,2018900,2,No,NoDamage,Good,No,Highbridge,Norway maple,204,No,Yes
+189417,3013900,3,No,NoDamage,Good,No,Park Slope-Gowanus,Japanese zelkova,306,No,No
+203326,4028500,4,No,NoDamage,Good,No,Jackson Heights,honeylocust,403,No,No
+189465,3019100,3,No,NoDamage,Good,No,Clinton Hill,London planetree,302,No,No
+166852,4129102,4,No,NoDamage,Poor,No,Oakland Gardens,Norway maple,411,No,No
+195995,1007400,1,No,NoDamage,Fair,No,Midtown-Midtown South,honeylocust,105,Yes,No
+203386,4072900,4,No,Damage,Good,No,Forest Hills,London planetree,406,No,Yes
+178575,1008000,1,No,NoDamage,Good,No,Murray Hill-Kips Bay,ginkgo,106,No,No
+190395,1012600,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,honeylocust,108,Yes,No
+173517,1007300,1,No,,,No,West Village,,102,No,No
+145912,4032700,4,No,NoDamage,Good,No,Jackson Heights,Norway maple,403,No,No
+196496,3066600,3,No,NoDamage,Good,No,Madison,scarlet oak,318,No,No
+161141,1007700,1,No,NoDamage,Fair,No,West Village,Sophora,102,No,No
+176839,1006600,1,No,Damage,Good,No,Murray Hill-Kips Bay,American linden,106,No,No
+193583,4013700,4,No,NoDamage,Good,No,Steinway,Norway maple,401,No,Yes
+204118,5013800,5,No,NoDamage,Good,No,Oakwood-Oakwood Beach,London planetree,503,No,No
+180286,4019900,4,No,NoDamage,Good,No,Hunters Point-Sunnyside-West Maspeth,Sophora,402,No,No
+161140,1007700,1,No,Damage,Fair,No,West Village,Sophora,102,No,No
+185678,2023900,2,No,NoDamage,Good,No,Fordham South,American elm,205,No,No
+209919,1020500,1,No,NoDamage,Good,No,Morningside Heights,London planetree,109,No,No
+172663,4101001,4,No,NoDamage,Fair,No,Far Rockaway-Bayswater,Sophora,414,No,No
+178599,5015602,5,No,Damage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,pin oak,503,No,Yes
+163122,3013700,3,No,NoDamage,Good,Yes,Park Slope-Gowanus,swamp white oak,306,No,No
+208760,1011000,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,ginkgo,108,No,No
+181202,3030500,3,No,NoDamage,Good,No,Crown Heights North,Sophora,308,No,No
+169991,3082600,3,No,Damage,Good,No,Erasmus,Sophora,317,No,No
+170671,4100801,4,No,NoDamage,Good,No,Far Rockaway-Bayswater,tulip-poplar,414,No,No
+192086,3005201,3,No,Damage,Good,No,Bay Ridge,London planetree,310,No,No
+178434,4150701,4,No,NoDamage,Good,No,Douglas Manor-Douglaston-Little Neck,Norway maple,411,No,Yes
+187268,3152200,3,No,Damage,Good,No,Flatbush,pignut hickory,314,No,No
+131183,1018900,1,No,NoDamage,Poor,No,Upper West Side,swamp white oak,107,Yes,No
+170419,3044200,3,No,Damage,Good,No,Ocean Parkway South,Norway maple,312,No,No
+140990,3018100,3,No,NoDamage,Good,No,Fort Greene,Norway maple,302,No,No
+199062,1014500,1,No,NoDamage,Good,No,Lincoln Square,crab apple,107,No,No
+186501,2038900,2,No,NoDamage,Good,No,Belmont,honeylocust,206,No,No
+177062,5009602,5,No,Damage,Good,No,Old Town-Dongan Hills-South Beach,Norway maple,502,No,No
+157640,4013700,4,No,Damage,Good,No,Steinway,Norway maple,401,No,Yes
+169659,4085500,4,No,Damage,Fair,Yes,Flushing,Norway maple,407,No,Yes
+198018,1008800,1,No,Damage,Poor,No,Turtle Bay-East Midtown,ginkgo,106,No,No
+196373,1001600,1,No,NoDamage,Good,No,Chinatown,London planetree,103,No,No
+198330,4121500,4,No,NoDamage,Good,No,Queensboro Hill,swamp white oak,407,No,No
+185896,2037300,2,No,NoDamage,Fair,No,East Tremont,Sophora,206,No,No
+190241,1016900,1,No,NoDamage,Good,No,Upper West Side,honeylocust,107,No,No
+189619,3019100,3,No,NoDamage,Good,No,Clinton Hill,honeylocust,302,No,No
+204224,3048100,3,No,Damage,Good,No,East Williamsburg,honeylocust,301,No,No
+180251,1014500,1,No,Damage,Good,No,Lincoln Square,honeylocust,107,No,No
+206413,4043702,4,No,NoDamage,Good,No,Corona,ginkgo,404,No,No
+145913,4032700,4,No,NoDamage,Good,No,Jackson Heights,Norway maple,403,No,No
+196477,3066600,3,No,NoDamage,Good,No,Madison,scarlet oak,318,No,No
+167121,4013800,4,No,NoDamage,Fair,No,Kew Gardens,Norway maple,409,No,No
+159750,2011800,2,No,Damage,Good,No,Schuylerville-Throgs Neck-Edgewater Park,Norway maple,210,No,No
+175294,1013500,1,No,NoDamage,Good,No,Clinton,Sophora,104,No,No
+145909,4032700,4,No,NoDamage,Good,No,Jackson Heights,Norway maple,403,No,No
+172058,4075702,4,No,NoDamage,Good,No,Forest Hills,Chinese fringetree,406,No,No
+208787,1011800,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,ginkgo,108,No,No
+198195,4121500,4,No,NoDamage,Good,No,Queensboro Hill,Sophora,407,No,No
+200210,5029102,5,No,NoDamage,Good,No,New Springville-Bloomfield-Travis,Callery pear,502,No,No
+184278,2037504,2,No,Damage,Good,No,East Tremont,Kentucky yellowwood,206,No,No
+159759,3069800,3,No,NoDamage,Good,No,Georgetown-Marine Park-Bergen Beach-Mill Basin,Norway maple,318,No,No
+189414,1020701,1,No,Damage,Good,No,Morningside Heights,ginkgo,109,No,No
+165611,3057100,3,No,NoDamage,Good,No,Greenpoint,sweetgum,301,No,No
+205672,2026900,2,No,NoDamage,Good,No,Kingsbridge Heights,honeylocust,207,No,No
+178005,5017600,5,No,NoDamage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,Norway maple,503,No,No
+201934,4093800,4,No,Damage,Good,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,honeylocust,414,No,No
+193394,4028500,4,No,NoDamage,Good,No,Jackson Heights,honeylocust,403,No,No
+159704,4010300,4,No,Damage,Good,No,Steinway,Norway maple,401,No,No
+201486,4092800,4,No,NoDamage,Good,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,honeylocust,414,No,No
+190196,5019800,5,No,NoDamage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,Callery pear,503,No,No
+183359,3022100,3,No,Damage,Good,No,Crown Heights North,Sophora,308,No,No
+189401,3015900,3,No,Damage,Fair,No,Park Slope-Gowanus,honeylocust,306,No,No
+198290,4088901,4,No,Damage,Good,No,Flushing,honeylocust,407,No,No
+191379,1006800,1,No,Damage,Fair,No,Gramercy,Japanese zelkova,105,Yes,No
+204208,3030400,3,No,Damage,Fair,No,Bensonhurst East,ginkgo,311,No,No
+190437,1014500,1,No,NoDamage,Good,No,Lincoln Square,honeylocust,107,No,No
+179877,4075701,4,No,NoDamage,Good,No,Forest Hills,American linden,406,No,No
+194919,3044000,3,No,NoDamage,Good,No,Ocean Parkway South,Callery pear,312,No,No
+200590,4134100,4,No,NoDamage,Good,No,Fresh Meadows-Utopia,ginkgo,408,No,No
+189839,4079900,4,No,NoDamage,Good,No,Queensboro Hill,Callery pear,407,No,Yes
+131288,3032700,3,No,Damage,Fair,No,Prospect Lefferts Gardens-Wingate,Norway maple,309,No,No
+181446,3062000,3,No,Damage,Good,No,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,ginkgo,315,No,No
+181198,3030500,3,No,NoDamage,Good,No,Crown Heights North,Sophora,308,No,No
+195035,3076200,3,No,NoDamage,Good,No,Midwood,Norway maple,314,No,No
+163146,3013500,3,No,Damage,Good,No,Park Slope-Gowanus,white oak,306,Yes,No
+193183,4076901,4,No,NoDamage,Good,No,Forest Hills,Amur maple,406,No,No
+208200,3018300,3,No,Damage,Good,No,Fort Greene,ginkgo,302,No,No
+198020,1008800,1,No,Damage,Poor,No,Turtle Bay-East Midtown,ginkgo,106,No,No
+167929,2045600,2,No,Damage,Good,No,Eastchester-Edenwald-Baychester,Norway maple,212,No,No
+188739,4010500,4,No,Damage,Good,No,Steinway,honeylocust,401,No,Yes
+208396,4053900,4,No,,,No,Ridgewood,,405,No,No
+198121,1007200,1,No,Damage,Fair,No,Murray Hill-Kips Bay,pin oak,105,Yes,No
+191374,5013800,5,No,,,No,Oakwood-Oakwood Beach,,503,No,No
+176850,1006400,1,No,Damage,Fair,No,Gramercy,ginkgo,106,No,No
+176166,4101002,4,No,NoDamage,Fair,No,Far Rockaway-Bayswater,Sophora,414,No,No
+186324,2038900,2,No,Damage,Fair,No,Belmont,London planetree,206,No,No
+190203,4007500,4,No,Damage,Good,Yes,Astoria,honeylocust,401,No,Yes
+187057,1014900,1,No,NoDamage,Good,No,Lincoln Square,honeylocust,107,No,No
+185008,2038302,2,No,NoDamage,Good,No,Fordham South,swamp white oak,205,No,No
+189249,3015900,3,No,Damage,Good,No,Park Slope-Gowanus,American linden,306,No,No
+208821,1011800,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,honeylocust,108,No,No
+184166,2038500,2,No,Damage,Good,No,Claremont-Bathgate,ginkgo,206,No,No
+177285,3119800,3,No,NoDamage,Good,No,East New York,Sophora,305,No,No
+157515,4112900,4,No,Damage,Good,No,Bayside-Bayside Hills,sweetgum,411,No,No
+170915,4114100,4,No,NoDamage,Good,No,Murray Hill,Norway maple,407,No,No
+204220,3048100,3,No,NoDamage,Good,No,East Williamsburg,honeylocust,301,No,No
+187629,4041100,4,No,NoDamage,Fair,No,Corona,Norway maple,404,No,No
+189412,1020701,1,No,,,No,Morningside Heights,,109,No,No
+145907,4032700,4,No,NoDamage,Good,No,Jackson Heights,Norway maple,403,No,No
+186884,2041900,2,No,Damage,Good,No,Norwood,Callery pear,207,No,No
+191989,1004900,1,No,NoDamage,Good,No,SoHo-TriBeCa-Civic Center-Little Italy,willow oak,102,No,No
+204202,5013800,5,No,Damage,Fair,No,Oakwood-Oakwood Beach,London planetree,503,No,No
+203996,1020101,1,No,NoDamage,Good,No,Morningside Heights,Callery pear,109,Yes,No
+200654,4084900,4,No,Damage,Fair,No,Flushing,Amur maple,407,No,No
+190377,1012800,1,No,Damage,Fair,No,Upper East Side-Carnegie Hill,Callery pear,108,Yes,No
+209334,3044100,3,No,NoDamage,Good,No,Bushwick North,honeylocust,304,No,No
+204209,3030400,3,No,Damage,Poor,No,Bensonhurst East,ginkgo,311,No,No
+208974,5012806,5,No,NoDamage,Good,No,Oakwood-Oakwood Beach,red maple,503,No,No
+198220,4079702,4,No,NoDamage,Good,No,Flushing,willow oak,407,No,No
+180966,4069000,4,No,NoDamage,Good,No,Springfield Gardens South-Brookville,Norway maple,413,No,No
+165046,5017008,5,No,NoDamage,Good,No,Arden Heights,Callery pear,503,No,Yes
+191466,4077300,4,No,,,No,Kew Gardens,,409,No,No
+194654,5014607,5,No,NoDamage,Good,No,Great Kills,pin oak,503,No,No
+198180,3042000,3,No,NoDamage,Good,No,Homecrest,Callery pear,315,No,No
+142211,4068000,4,No,Damage,Good,No,Springfield Gardens South-Brookville,swamp white oak,413,No,No
+182059,4017900,4,No,Damage,Fair,No,Hunters Point-Sunnyside-West Maspeth,London planetree,402,No,No
+189599,3016500,3,No,NoDamage,Good,No,Park Slope-Gowanus,American linden,306,No,No
+155427,3054900,3,No,NoDamage,Good,No,North Side-South Side,sawtooth oak,301,No,No
+193690,3044000,3,No,Damage,Good,No,Ocean Parkway South,London planetree,312,No,No
+138199,3031300,3,No,Damage,Poor,No,Crown Heights North,Norway maple,308,No,No
+165265,4054700,4,No,Damage,Good,No,Ridgewood,Norway maple,405,No,No
+190154,4005900,4,No,NoDamage,Good,Yes,Astoria,honeylocust,401,No,Yes
+196440,1020500,1,No,NoDamage,Fair,No,Morningside Heights,American elm,109,No,No
+161193,5027704,5,No,NoDamage,Good,No,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,willow oak,502,No,No
+164882,4013500,4,No,NoDamage,Good,No,Steinway,Norway maple,401,No,Yes
+191378,1006800,1,No,NoDamage,Good,No,Gramercy,honeylocust,105,Yes,No
+179888,3057300,3,No,NoDamage,Good,No,Greenpoint,American linden,301,No,No
+179127,4073900,4,No,NoDamage,Good,No,Forest Hills,tulip-poplar,406,No,No
+179209,4075702,4,No,NoDamage,Fair,No,Forest Hills,Norway maple,406,No,No
+189403,1020701,1,No,Damage,Fair,No,Morningside Heights,Callery pear,109,No,No
+200225,1017500,1,No,NoDamage,Good,No,Upper West Side,pin oak,107,No,No
+204024,3044900,3,No,NoDamage,Good,No,East Williamsburg,honeylocust,301,No,No
+192294,4038400,4,No,Damage,Good,No,St. Albans,London planetree,412,No,No
+200503,3056800,3,No,NoDamage,Good,No,Madison,Callery pear,315,No,No
+203721,4010500,4,No,NoDamage,Good,No,Steinway,London planetree,401,No,No
+193395,4028500,4,No,NoDamage,Good,No,Jackson Heights,honeylocust,403,No,No
+185604,2039700,2,No,Damage,Good,No,Belmont,Callery pear,206,No,No
+179994,3057100,3,No,NoDamage,Good,No,Greenpoint,honeylocust,301,No,No
+209610,5006400,5,No,NoDamage,Good,No,Grasmere-Arrochar-Ft. Wadsworth,honeylocust,502,No,No
+196080,4014000,4,No,NoDamage,Good,No,Kew Gardens,London planetree,409,No,Yes
+178385,1006000,1,No,Damage,Fair,No,Stuyvesant Town-Cooper Village,London planetree,106,No,No
+187059,1014900,1,No,NoDamage,Good,No,Lincoln Square,honeylocust,107,Yes,No
+167402,5012200,5,No,NoDamage,Good,No,New Dorp-Midland Beach,Norway maple,502,No,No
+135634,4109700,4,No,Damage,Fair,No,Bayside-Bayside Hills,Norway maple,411,No,No
+193189,4076901,4,No,Damage,Good,No,Forest Hills,silver linden,406,No,No
+190025,3019100,3,No,NoDamage,Good,No,Clinton Hill,Norway maple,302,No,No
+189243,3015900,3,No,Damage,Good,No,Park Slope-Gowanus,American linden,306,No,No
+209441,2021502,2,No,NoDamage,Poor,No,University Heights-Morris Heights,American elm,205,No,No
+198296,3094600,3,No,NoDamage,Good,No,Rugby-Remsen Village,London planetree,317,No,No
+145055,1004100,1,No,NoDamage,Poor,No,SoHo-TriBeCa-Civic Center-Little Italy,Sophora,102,Yes,No
+201654,3005100,3,No,NoDamage,Good,No,Carroll Gardens-Columbia Street-Red Hook,pin oak,306,No,No
+182283,5017012,5,No,Damage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,sweetgum,503,No,Yes
+208818,1011800,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,honeylocust,108,No,No
+186807,3021900,3,No,NoDamage,Good,No,Crown Heights North,Sophora,308,No,No
+173208,4101002,4,No,NoDamage,Poor,No,Far Rockaway-Bayswater,Norway maple,414,No,No
+189570,3016500,3,No,Damage,Fair,No,Park Slope-Gowanus,pin oak,306,Yes,No
+186883,2041900,2,No,NoDamage,Good,No,Norwood,Callery pear,207,No,No
+205970,4031700,4,No,NoDamage,Good,No,Steinway,ginkgo,401,No,No
+164568,2037504,2,No,NoDamage,Poor,Yes,East Tremont,Norway maple,206,Yes,No
+188609,1013600,1,No,,,No,Yorkville,,108,No,No
+189962,1011000,1,No,Damage,Good,No,Lenox Hill-Roosevelt Island,Sophora,108,No,No
+159673,4024300,4,No,NoDamage,Fair,No,Elmhurst-Maspeth,Norway maple,402,No,No
+208555,3019300,3,No,Damage,Good,No,Clinton Hill,London planetree,302,No,No
+156323,2025400,2,No,Damage,Fair,No,Van Nest-Morris Park-Westchester Square,Norway maple,211,No,Yes
+208977,5012806,5,No,NoDamage,Good,No,Oakwood-Oakwood Beach,red maple,503,No,No
+183689,5017600,5,No,Damage,Fair,No,Annadale-Huguenot-Prince's Bay-Eltingville,Callery pear,503,No,Yes
+192888,3054800,3,No,NoDamage,Fair,No,Madison,London planetree,315,No,Yes
+194180,1002201,1,No,NoDamage,Good,No,Lower East Side,Japanese zelkova,103,No,No
+173647,3052600,3,No,NoDamage,Good,No,Flatbush,Norway maple,314,No,No
+189902,3015900,3,No,Damage,Good,No,Park Slope-Gowanus,ginkgo,306,No,No
+205734,1016300,1,No,NoDamage,Good,No,Upper West Side,honeylocust,107,No,No
+205830,3072800,3,No,NoDamage,Good,No,Flatlands,honeylocust,318,No,No
+186509,2038500,2,No,NoDamage,Fair,No,Claremont-Bathgate,white oak,206,Yes,No
+178930,4058900,4,No,Damage,Good,No,Ridgewood,Sophora,405,No,Yes
+205683,1015900,1,No,NoDamage,Good,No,Lincoln Square,Callery pear,107,No,No
+170023,1001300,1,No,NoDamage,Good,No,Battery Park City-Lower Manhattan,honeylocust,101,No,No
+167573,4030903,4,No,Damage,Good,No,Jackson Heights,Norway maple,403,No,No
+191336,3006300,3,No,Damage,Fair,No,Carroll Gardens-Columbia Street-Red Hook,Norway maple,306,No,No
+205829,3072800,3,No,Damage,Good,No,Flatlands,honeylocust,318,No,No
+159649,4094700,4,No,NoDamage,Good,No,College Point,eastern redcedar,407,No,Yes
+179202,4075702,4,No,NoDamage,Poor,No,Forest Hills,Norway maple,406,No,No
+169605,4085500,4,No,NoDamage,Good,No,Flushing,Norway maple,407,No,Yes
+178303,4000400,4,No,NoDamage,Fair,No,Woodhaven,Norway maple,409,No,No
+206326,4031700,4,No,Damage,Good,No,Steinway,London planetree,401,No,No
+178415,3119800,3,No,NoDamage,Good,No,East New York,honeylocust,305,No,No
+189237,3015900,3,No,Damage,Fair,No,Park Slope-Gowanus,honeylocust,306,Yes,No
+200676,3053200,3,No,Damage,Good,No,Midwood,London planetree,314,No,No
+208520,1013300,1,No,NoDamage,Good,No,Clinton,American linden,104,No,No
+188328,4029100,4,No,NoDamage,Poor,No,Jackson Heights,Norway maple,403,Yes,No
+179350,3053000,3,No,Damage,Good,No,Midwood,Sophora,314,No,No
+134320,4058200,4,No,NoDamage,Good,No,Queens Village,honeylocust,413,No,No
+176842,1006600,1,No,Damage,Good,No,Murray Hill-Kips Bay,mulberry,106,No,No
+210540,3057100,3,No,NoDamage,Fair,No,Greenpoint,American linden,301,No,No
+191988,1004900,1,No,NoDamage,Good,No,SoHo-TriBeCa-Civic Center-Little Italy,willow oak,102,No,No
+166242,5019700,5,No,Damage,Good,No,Westerleigh,sweetgum,501,No,No
+153902,3051900,3,No,NoDamage,Good,No,North Side-South Side,sawtooth oak,301,No,No
+208832,3019300,3,No,NoDamage,Poor,No,Clinton Hill,London planetree,302,Yes,No
+183664,4021600,4,No,Damage,Good,No,Kew Gardens,Norway maple,409,No,No
+200673,3053200,3,No,NoDamage,Good,No,Midwood,London planetree,314,No,Yes
+173452,5013800,5,No,Damage,Fair,No,Oakwood-Oakwood Beach,Norway maple,503,No,Yes
+191351,4072900,4,No,NoDamage,Good,No,Forest Hills,honeylocust,406,No,Yes
+196492,3066600,3,No,NoDamage,Good,No,Madison,pin oak,318,No,No
+179748,4075701,4,No,,,No,Forest Hills,,406,No,No
+179547,1001800,1,No,NoDamage,Good,No,Chinatown,honeylocust,103,No,No
+192223,5013800,5,No,Damage,Good,No,Oakwood-Oakwood Beach,London planetree,503,No,Yes
+187260,1021800,1,No,NoDamage,Good,No,Central Harlem South,American linden,110,Yes,No
+208989,4009700,4,No,NoDamage,Good,No,Steinway,American linden,401,No,No
+178756,1015700,1,No,NoDamage,Good,No,Lincoln Square,honeylocust,107,No,No
+121884,4093900,4,No,NoDamage,Fair,No,College Point,Norway maple,407,No,Yes
+169383,4031700,4,No,NoDamage,Good,Yes,Steinway,Norway maple,401,No,Yes
+170551,4101001,4,No,Damage,Fair,No,Far Rockaway-Bayswater,Sophora,414,No,Yes
+200699,3057100,3,No,NoDamage,Good,No,Greenpoint,ginkgo,301,No,No
+178550,1019701,1,No,NoDamage,Good,No,Morningside Heights,Norway maple,109,No,No
+180861,4041100,4,No,NoDamage,Good,No,Corona,Norway maple,404,No,No
+206435,3037000,3,No,Damage,Good,No,Brighton Beach,sycamore maple,315,No,No
+178659,5007000,5,No,NoDamage,Good,No,Old Town-Dongan Hills-South Beach,honeylocust,502,No,No
+163144,3013500,3,No,Damage,Good,No,Park Slope-Gowanus,white oak,306,Yes,No
+178373,5015603,5,No,Damage,Good,No,Great Kills,sweetgum,503,No,No
+193092,3014900,3,No,Damage,Good,No,Park Slope-Gowanus,honeylocust,307,No,No
+187807,2042500,2,No,,,No,Norwood,,207,No,No
+155836,3020700,3,No,Damage,Fair,No,Prospect Heights,Norway maple,308,No,No
+170500,3079200,3,No,NoDamage,Poor,No,Erasmus,Norway maple,317,No,No
+200540,4097300,4,No,Damage,Fair,No,Whitestone,pin oak,407,No,No
+187263,1021800,1,No,Damage,Fair,No,Central Harlem South,American linden,110,No,No
+165941,4001400,4,No,NoDamage,Fair,No,Woodhaven,Sophora,409,No,No
+198166,5017009,5,No,Damage,Good,No,Arden Heights,Callery pear,503,No,Yes
+203268,1004800,1,No,NoDamage,Good,No,Gramercy,honeylocust,106,No,No
+196132,3043600,3,No,NoDamage,Good,No,Bensonhurst East,London planetree,311,No,No
+169625,4086500,4,No,NoDamage,Good,No,Flushing,sweetgum,407,No,No
+193094,3014900,3,No,NoDamage,Good,No,Park Slope-Gowanus,honeylocust,307,No,No
+190291,5019800,5,No,Damage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,London planetree,503,No,No
+163121,3013700,3,No,NoDamage,Good,Yes,Park Slope-Gowanus,swamp white oak,306,No,No
+208919,4009700,4,No,NoDamage,Good,No,Steinway,honeylocust,401,No,Yes
+196510,3066600,3,No,NoDamage,Good,No,Madison,scarlet oak,318,No,No
+179717,3056100,3,No,NoDamage,Good,No,Greenpoint,Callery pear,301,No,No
+172840,3023800,3,No,NoDamage,Fair,No,Borough Park,Norway maple,312,No,No
+140593,4011100,4,No,NoDamage,Good,No,Steinway,Norway maple,401,No,No
+201555,1003601,1,No,NoDamage,Good,No,Chinatown,honeylocust,103,No,No
+201670,2044200,2,No,Damage,Good,No,Woodlawn-Wakefield,pin oak,212,No,Yes
+203336,4028500,4,No,NoDamage,Good,No,Jackson Heights,London planetree,403,No,No
+208762,1011000,1,No,NoDamage,Good,No,Lenox Hill-Roosevelt Island,honeylocust,108,No,No
+208530,1013300,1,No,NoDamage,Good,No,Clinton,Callery pear,104,No,No
+196205,3043600,3,No,NoDamage,Good,No,Bensonhurst East,London planetree,311,No,No
+175793,4030902,4,No,NoDamage,Fair,No,Jackson Heights,Norway maple,403,No,No
+203759,4010500,4,No,Damage,Good,No,Steinway,London planetree,401,No,No
+195309,1007100,1,No,Damage,Good,No,West Village,Sophora,102,Yes,No
+180547,3053800,3,No,NoDamage,Good,No,Midwood,Norway maple,314,Yes,No
+159650,4094700,4,No,NoDamage,Good,No,College Point,Norway maple,407,No,Yes
+190359,1012800,1,No,Damage,Fair,No,Upper East Side-Carnegie Hill,London planetree,108,Yes,No
+180341,3076400,3,No,NoDamage,Good,No,Flatbush,white oak,314,No,No
+173453,5013800,5,No,NoDamage,Good,No,Oakwood-Oakwood Beach,Norway maple,503,Yes,Yes
+163280,1013400,1,No,Damage,Good,No,Lenox Hill-Roosevelt Island,honeylocust,108,No,No
+189351,3015500,3,No,NoDamage,Good,No,Park Slope-Gowanus,honeylocust,306,No,No
+203726,4010500,4,No,NoDamage,Poor,No,Steinway,London planetree,401,No,No
+208859,3019300,3,No,NoDamage,Good,Yes,Clinton Hill,honeylocust,302,No,No
+192584,5013800,5,No,NoDamage,Good,No,Oakwood-Oakwood Beach,red maple,503,Yes,No
+160554,2011800,2,No,Damage,Good,No,Schuylerville-Throgs Neck-Edgewater Park,Norway maple,210,No,Yes
+192133,3005800,3,No,NoDamage,Good,No,Bay Ridge,pin oak,310,No,No
+181473,1017300,1,No,NoDamage,Good,No,Upper West Side,London planetree,107,No,No
+208813,4028300,4,No,NoDamage,Fair,No,Jackson Heights,ginkgo,403,No,No
+208371,1016500,1,No,NoDamage,Good,No,Upper West Side,London planetree,107,No,No
+200440,1002700,1,No,,,No,Chinatown,,103,No,No
+199737,3076800,3,No,Damage,Poor,No,Midwood,Japanese zelkova,314,No,No
+189459,3019100,3,No,Damage,Good,Yes,Clinton Hill,honeylocust,302,No,No
+183791,5017600,5,No,NoDamage,Good,No,Annadale-Huguenot-Prince's Bay-Eltingville,sweetgum,503,No,Yes
+194842,4036700,4,No,NoDamage,Good,No,East Elmhurst,pin oak,403,No,No
+198127,4121500,4,No,NoDamage,Fair,No,Queensboro Hill,Norway maple,407,No,Yes
+208863,3019300,3,No,NoDamage,Good,No,Clinton Hill,honeylocust,302,No,No
+184318,2038700,2,No,Damage,Fair,No,Belmont,honeylocust,206,No,No
+179494,4074500,4,No,Damage,Fair,No,Forest Hills,American elm,406,No,No
+193943,2021800,2,No,Damage,Good,No,West Farms-Bronx River,silver linden,209,No,Yes
+198323,5017009,5,No,Damage,Good,No,Arden Heights,sweetgum,503,No,No
+187232,3003500,3,No,Damage,Good,No,Fort Greene,ginkgo,302,No,No
+163896,3022100,3,No,Damage,Good,No,Crown Heights North,Sophora,308,No,Yes
+147189,4035800,4,No,Damage,Fair,No,Laurelton,Norway maple,413,No,No
+175281,1013500,1,No,NoDamage,Good,No,Clinton,Norway maple,104,No,No
+179530,3053200,3,No,NoDamage,Good,No,Midwood,scarlet oak,314,No,No
+173925,3025200,3,No,NoDamage,Good,No,Bensonhurst West,honeylocust,311,No,No
+180306,4094201,4,No,NoDamage,Good,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,ginkgo,414,No,No
+196497,3066600,3,No,NoDamage,Good,No,Madison,scarlet oak,318,No,No
+162814,1002602,1,No,NoDamage,Fair,No,Lower East Side,Sophora,103,No,No
+196627,4021600,4,No,NoDamage,Fair,No,Kew Gardens,pin oak,409,No,No
+183942,2038100,2,No,NoDamage,Fair,No,Mount Hope,honeylocust,205,No,No
+178387,1006000,1,No,NoDamage,Good,No,Stuyvesant Town-Cooper Village,London planetree,106,No,No
+189317,4071304,4,No,NoDamage,Good,No,Forest Hills,Sophora,406,No,No
+178264,3013300,3,No,NoDamage,Good,No,Park Slope-Gowanus,Norway maple,306,No,No
+204033,1019100,1,No,NoDamage,Good,No,Upper West Side,honeylocust,107,No,No
+195252,1007100,1,No,NoDamage,Good,No,West Village,pin oak,102,No,No
+167938,2045600,2,No,NoDamage,Good,No,Eastchester-Edenwald-Baychester,Norway maple,212,No,No
+189582,3018700,3,No,NoDamage,Good,No,Fort Greene,ginkgo,302,No,No
+187336,4044302,4,No,Damage,Fair,No,Corona,Norway maple,404,No,Yes
+208458,4114100,4,No,NoDamage,Good,No,Murray Hill,London planetree,407,No,No
+201490,4092800,4,No,NoDamage,Good,No,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,honeylocust,414,No,No
+182264,3034000,3,No,Damage,Good,No,Seagate-Coney Island,Sophora,313,No,No

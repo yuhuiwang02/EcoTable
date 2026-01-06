@@ -1,0 +1,25 @@
+school_name,code1,fax_number,phone_number,attendance_rate,category,count,avg_value,total_value,max_value
+Queens Metropolitan High School,Q39Z,718-286-3601,718-286-3600,0.92,high attendance,1,0.92,0.92,0.92
+Brooklyn Studio Secondary School,K90H,718-266-5093,718-266-5032,0.87,medium attendance,1,0.87,0.87,0.87
+Gotham Professional Arts Academy,L35A,718-574-3971,718-455-0746,0.78,low attendance,1,0.78,0.78,0.78
+"Brooklyn Latin School, The",NO CODE,718-381-3012,718-366-0154,0.97,high attendance,2,0.97,1.94,0.97
+Longwood Preparatory Academy,X94A,718-860-1934,718-860-1242,0.8,low attendance,1,0.8,0.8,0.8
+Robert F. Kennedy Community High School,Q70A,718-969-5524,718-969-5510,0.9,medium attendance,1,0.9,0.9,0.9
+High School of Economics and Finance,M79A,212-346-0712,212-346-0708,0.88,medium attendance,1,0.88,0.88,0.88
+The Urban Assembly School for Green Careers,A13A,212-787-1455,212-787-1189,0.84,medium attendance,1,0.84,0.84,0.84
+Hillside Arts & Letters Academy,Q46A,718-658-1613,718-658-1249,0.85,medium attendance,1,0.85,0.85,0.85
+Frederick Douglass Academy VII High School,K80X,718-922-2761,718-485-3789,0.82,medium attendance,1,0.82,0.82,0.82
+Talent Unlimited High School,M42J,212-737-2863,212-737-1530,0.93,high attendance,1,0.93,0.93,0.93
+High School for Excellence and Innovation,A24A,212-569-1190,212-569-1022,0.68,low attendance,1,0.68,0.68,0.68
+Cambria Heights Academy,Q44A,718-736-7325,718-736-7320,0.86,medium attendance,1,0.86,0.86,0.86
+"Metropolitan Soundview High School, The",Y55A,718-860-8232,718-860-8240,0.79,low attendance,1,0.79,0.79,0.79
+"Brooklyn Latin School, The",NO CODE,718-381-3012,718-366-0154,0.95,high attendance,1,0.95,0.95,0.95
+Hudson High School of Learning Technologies,A18A,212-488-3335,212-488-3330,0.79,low attendance,1,0.79,0.79,0.79
+FDNY-Captain Vernon A. Richard High School for Fire and Life Safety,K62X,718-922-0593,718-688-7930,0.8,low attendance,1,0.8,0.8,0.8
+High School for Law Enforcement and Public Safety,Q21A,718-977-4802,718-977-4800,0.89,medium attendance,1,0.89,0.89,0.89
+Transit Tech Career and Technical Education High School,K69B,718-647-4458,718-647-5204,0.84,medium attendance,1,0.84,0.84,0.84
+George Westinghouse Career and Technical Education High School,K70C,718-596-9434,718-625-6130,0.88,medium attendance,1,0.88,0.88,0.88
+"Brooklyn Latin School, The",NO CODE,718-381-3012,718-366-0154,0.93,high attendance,1,0.93,0.93,0.93
+"Brooklyn Latin School, The",NO CODE,718-381-3012,718-366-0154,0.96,high attendance,1,0.96,0.96,0.96
+Energy Tech High School,Q61A,718-472-0490,718-472-0536,0.94,high attendance,1,0.94,0.94,0.94
+Brooklyn Preparatory High School,K07X,718-486-2505,718-486-2550,0.86,medium attendance,1,0.86,0.86,0.86

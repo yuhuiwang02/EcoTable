@@ -1,0 +1,109 @@
+location_name,url,:@computed_region_f5dn_yrer,access_requirements,productivity_tools_ex_using,:@computed_region_yeji_bk3q,digital_literacy,wheelchair_accessible,certifications_ex_in_software,location_1,sun_open,tue_open
+High Bridge Library,{'url': 'http://nypl.org/techconnect'},50.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9235476, 40.8379658]}",Closed,10:00 AM - 7:00 PM
+Jacob A. Riis Neighborhood Settlement Community Center,{'url': 'http://riissettlement.org'},39.0,,N,3.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.9445698, 40.7556163]}",Closed,1:00 AM - 9:00 AM
+Scheuer House of Coney Island Older Adult Center,{'url': 'http://jasa.org'},21.0,Y,N,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-74.00235239999999, 40.5736461]}",Closed,9:00 AM - 5:00 PM
+Coney Island Library,{'url': 'https://www.bklynlibrary.org/locations/coney-island'},21.0,N,N,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.98610459999999, 40.5767798]}",Closed,1:00PM - 8:00PM
+South Jamaica Cornerstone Community Center,{'url': 'http://sqpa.org'},41.0,,N,3.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.7920635, 40.6936896]}",Closed,9:00 AM - 11:00 PM
+Club Holliswood Older Adult Center,{'url': 'https://www.jasa.org/services/older-adult-centers'},25.0,Y,N,3.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.764817, 40.7250606]}",Closed,8:00 AM - 4:00 PM
+Cypress Hills Adult Social Club,{'url': 'https://dftavirtualprogramfinder.cityofnewyork.us/providers/cypress-hills-adult-social-club-208'},45.0,Y,N,2.0,N,Partially,N,"{'type': 'Point', 'coordinates': [-73.87293489999999, 40.6681668]}",Closed,8:15 AM - 4:15 PM
+Saint Nicholas Social Club,{'url': 'http://www.chscc.org'},18.0,Y,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.94628039999999, 40.8132605]}",Closed,9:00 AM - 5:00 PM
+Greenbelt Media Lab,{'url': 'https://www.nycgovparks.org/facilities/recreationcenters/r129'},30.0,Y,N,1.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.1392587, 40.59177820000001]}",Closed,6:30am-8:30pm
+Harry Belafonte 115th Street Library,{'url': 'http://nypl.org/techconnect'},18.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9535293, 40.8030902]}",Closed,11:00 AM - 7:00 PM
+Sue Ginsburg Older Adult Center,{'url': 'https://jasa.org/'},59.0,Y,Y,5.0,N,Y,Y,"{'type': 'Point', 'coordinates': [-73.8594416, 40.8614942]}",Closed,8:30 AM - 4:30 PM
+SAGE Center Harlem,{'url': 'http://sageserves.org'},18.0,Y,N,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.94103009999999, 40.82115719999999]}",Closed,10:00 AM - 6:00 PM
+North Forest Park Library,{'url': 'https://www.queenslibrary.org/about-us/locations/north-forest-park'},40.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.8536863, 40.7111911]}",Closed,1pm - 6pm
+Stanley M. Isaacs Neighborhood Community Center,{'url': 'http://isaacscenter.org'},23.0,,N,4.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.9458387, 40.7809304]}",Closed,9:00 AM - 9:00 PM
+Melrose Mott Haven Neighborhood Senior Center,{'url': 'https://www.eastsidehouse.org/programs/seniors/'},49.0,Y,Y,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9177493, 40.8182828]}",Closed,9:00 AM - 3:00 PM
+Independence Plaza Older Adult Center,{'url': 'https://greenwichhouse.org/network-of-older-adult-centers/'},56.0,Y,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-74.0106018, 40.7165872]}",Closed,9:00 AM - 3:00 PM
+Carver Neighborhood Older Adults Center,{'url': 'http://acacianetwork.org'},7.0,Y,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.95035589999999, 40.7910818]}",Closed,9:00 AM - 5:00 PM
+St Charles Neighborhood Senior Center,{'url': 'https://www.ccbq.org/older-adult-centers/st-charles-jubilee-older-adult-center/'},68.0,Y,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9951007, 40.6959779]}",Closed,9:00 AM - 5:00 PM
+McCarren Media Lab,{'url': 'https://www.nycgovparks.org/facilities/recreationcenters/B058/schedule#MediaLab'},36.0,Y,N,2.0,N,Y,Y,"{'type': 'Point', 'coordinates': [-73.9496702, 40.7201776]}",Closed,10am-6pm
+Rugby Library,{'url': 'http://bklynlibrary.org/locations/rugby'},61.0,N,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.93038709999999, 40.6486442]}",Closed,1:00PM - 8:00PM
+Broad Channel Library,{'url': 'https://www.queenslibrary.org/about-us/locations/broad-channel'},51.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.8200576, 40.60074480000001]}",Closed,1pm - 6pm
+Lenox Hill Neighborhood House,{'url': 'https://www.lenoxhill.org/center-lenox-hill-neighborhood-house'},23.0,Y,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.95778299999999, 40.7666347]}",Varies,8:00 AM - 6:00 PM
+George Bruce Library,{'url': 'http://nypl.org/techconnect'},37.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9569684, 40.8138465]}",Closed,12:00 PM - 7:00 PM
+Baychester Library,{'url': 'http://nypl.org/techconnect'},43.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.8291754, 40.8708616]}",Closed,10:00 AM - 7:00 PM
+Roundtable Neighborhood Senior Center,{'url': 'http://www.riseboro.org'},42.0,N,N,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9201765, 40.69178970000001]}",9:00 AM - 5:00 PM,9:00 AM - 5:00 PM
+Mott Haven Library,{'url': 'http://nypl.org/techconnect'},49.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.92436289999999, 40.8115937]}",Closed,10:00 AM - 7:00 PM
+PSS City Island Older Adult Center (OAC),{'url': 'http://www.pssusa.org'},43.0,Y,N,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.7842813, 40.8408627]}",Closed,8:00 AM - 3:00 PM
+Fort Washington Library,{'url': 'http://nypl.org/techconnect'},47.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9338466, 40.8478792]}",Closed,10:00 AM - 6:00 PM
+Young Israel Senior Services Neighborhood Senior Center,{'url': 'http://youngisrael.org'},25.0,Y,N,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.8197589, 40.7215347]}",Closed,8:30 AM - 4:30 PM
+Central Harlem Kennedy Senior Center,{'url': 'http://www.chscc.org'},18.0,N,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.94036779999999, 40.8123898]}",Closed,9:00 AM - 5:00 PM
+Ulmer Park Library,{'url': 'http://bklynlibrary.org/locations/ulmer-park'},21.0,N,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9886502, 40.5926124]}",Closed,1:00PM - 8:00PM
+Mitchell-Linden Library,{'url': 'https://www.queenslibrary.org/about-us/locations/mitchell-linden'},22.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.82688449999999, 40.7691277]}",Closed,1pm - 6pm
+Sheepshead Bay Cornerstone Community Center,{'url': 'http://www.camba.org'},32.0,Y,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.94038359999999, 40.594262]}",10am-5pm,2pm-10pm
+Francis Martin Library,{'url': 'http://nypl.org/techconnect'},6.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.90939019999999, 40.8574551]}",Closed,11:00 AM - 7:00 PM
+Chelsea Media Lab,{'url': 'https://www.nycgovparks.org/facilities/recreationcenters/M260/schedule#MediaLab'},12.0,Y,N,4.0,N,Y,Y,"{'type': 'Point', 'coordinates': [-74.00208099999999, 40.7482428]}",Closed,10am-5:30pm
+Parkside Neighborhood Senior Center,{'url': 'http://ccbq.org'},59.0,Y,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.8691797, 40.869175]}",Closed,8:00 AM - 4:00 PM
+Allen Community Neighborhood Senior Center,{'url': 'http://acsccny.org'},41.0,Y,N,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.7831321, 40.6903713]}",Closed,8:00 AM - 4:00 PM
+Clinton Older Adult Center,{'url': 'http://projectfind.org'},12.0,Y,N,4.0,N,,N,"{'type': 'Point', 'coordinates': [-73.9908083, 40.7682628]}",Closed,9:00 AM - 5:00 PM
+Mill Basin Older Adult Center,{'url': 'http://milldev.org'},5.0,Y,Y,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9100124, 40.6184497]}",Closed,8:30AM - 4:30PM
+Hanac Ravenswood Neighborhood Senior Center,{'url': 'https://hanac.org/programs-services/senior-programs/senior-centers/ravenswood-senior-center/'},39.0,N,N,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.93732159999999, 40.7632358]}",Closed,8:00 AM - 4:00 PM
+Riis II Cornerstone Community Center,{'url': 'http://henrystreet.org'},70.0,,N,4.0,N,,N,"{'type': 'Point', 'coordinates': [-73.97625090000001, 40.7225217]}",Closed,3:00 PM - 10:00 PM
+Dyckman Cornerstone Community Center,{'url': 'http://caswkids.org'},47.0,,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9214014, 40.8616397]}",12:00 PM - 5:00 PM,1:00 PM - 10:00 PM
+Anderson Neighborhood Older Adult Center,,4.0,Y,N,1.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-74.1343091, 40.6348833]}",Closed,7:00 AM - 3:00 PM
+JASA Van Cortlandt Older Adult Center (OAC),{'url': 'http://www.jasa.org'},48.0,Y,N,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9043147, 40.8784447]}",Closed,9:00 AM - 5:00 PM
+Battery Park City Library,{'url': 'http://nypl.org/techconnect'},56.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.01574049999999, 40.7157419]}",Closed,11:00 AM - 7:00 PM
+Alfred E. Smith Media Lab,{'url': 'https://www.nycgovparks.org/facilities/recreationcenters/M194'},70.0,,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9976028, 40.7098338]}",Closed,10am-6pm
+Brower Park Library at Brooklyn Children's Museum,{'url': 'https://www.bklynlibrary.org/locations/brower-park'},16.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.944374, 40.6744275]}",Closed,1:00PM - 8:00PM
+Woodside Cornerstone Community Center,{'url': 'http://scsny.org'},39.0,,N,3.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.9104761, 40.7551885]}",Closed,2:30 PM - 10:00 PM
+East Flatbush Library,{'url': 'https://www.bklynlibrary.org/locations/east-flatbush'},61.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9150768, 40.6556496]}",Closed,1:00PM - 8:00PM
+Webster Library,{'url': 'http://nypl.org/techconnect'},23.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.95127529999999, 40.7706234]}",Closed,11:00 AM - 7:00 PM
+Richmond Hill Library,{'url': 'https://www.queenslibrary.org/about-us/locations/richmond-hill'},46.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.8316261, 40.700774]}",Closed,1pm - 6pm
+Penn Wortman Older Adult Center,,45.0,Y,N,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.8886386, 40.6573246]}",Closed,8:00 AM - 4:00 PM
+Castle Hill Library,{'url': 'http://nypl.org/techconnect'},58.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.8501557, 40.8265806]}",Closed,10:00 AM - 6:00 PM
+Canarsie Library,{'url': 'https://www.bklynlibrary.org/locations/canarsie'},5.0,N,N,2.0,N,Partially,N,"{'type': 'Point', 'coordinates': [-73.8995607, 40.6422167]}",Closed,1:00PM - 8:00PM
+Harlem Neighborhood Senior Center (Presbyterian Senior Services),{'url': 'https://pssusa.org/harlem/'},18.0,Y,N,4.0,Y,Partially,N,"{'type': 'Point', 'coordinates': [-73.94599529999999, 40.8094862]}",Closed,9:00 AM - 5:00 PM
+IPRHE Corona Senior Center,,66.0,Y,Y,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.8560141, 40.7513414]}",Closed,8:00 AM - 4:00 PM
+Pete Mc Guinness Older Adult Center,{'url': 'https://www.ccbq.org/older-adult-centers/pete-mcguinness-older-adult-center/'},36.0,Y,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.95301359999999, 40.7289711]}",Closed,8:00 AM - 4:00 PM
+Woodhaven Neighborhood Senior Center,{'url': 'https://www.ccbq.org'},46.0,Y,N,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.85328609999999, 40.6904151]}",Closed,8:30 AM - 4:30 PM
+Woodside Library,{'url': 'https://www.queenslibrary.org/about-us/locations/woodside'},53.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.9098168, 40.7453438]}",Closed,1pm - 6pm
+New Utrecht Library,{'url': 'http://bklynlibrary.org/locations/new-utrecht'},1.0,N,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.0033411, 40.6080187]}",Closed,1:00PM - 8:00PM
+Hudson Guild Older Adult Center,{'url': 'https://hudsonguild.org/'},12.0,Y,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-74.0041055, 40.7433306]}",Closed,8:00 AM - 4:00 PM
+Midwood Library,{'url': 'http://bklynlibrary.org/locations/midwood'},60.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.96040049999999, 40.625907]}",1:00PM - 5:00 PM,1:00PM - 8:00PM
+Arturo Schomburg Older Adult Center,{'url': 'https://acacianetwork.org/senior-services/'},34.0,Y,N,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9012541, 40.8321222]}",Closed,9:00 AM - 5:00 PM
+Forest Community Center,{'url': 'http://sebnc.org'},34.0,,N,5.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.90324790000001, 40.8233194]}",Closed,9:00 AM - 5:00 PM
+Coffeehouse Older Adult Center,{'url': 'http://projectfind.org'},12.0,Y,N,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.99122799999999, 40.7580844]}",Closed,8:00 AM - 4:00 PM
+Sumner Cornerstone Community Center,{'url': 'http://stnicksalliance.org'},69.0,,N,2.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.9404644, 40.69835680000001]}",Closed,3:00 PM - 10:00 PM
+Digital Van 1,{'url': 'https://www.nyc.gov/site/nycha/residents/digital-van.page'},56.0,Y,Y,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-74.0059728, 40.7127753]}",,9:00 AM - 3:00 PM
+Steinway Library,{'url': 'https://www.queenslibrary.org/about-us/locations/steinway'},39.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.9094996, 40.7768721]}",Closed,1pm - 6pm
+Brighton Beach Library,{'url': 'https://www.bklynlibrary.org/locations/brighton-beach'},21.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9667995, 40.5761784]}",Closed,1:00PM - 8:00PM
+Whitestone Library,{'url': 'https://www.queenslibrary.org/about-us/locations/whitestone'},22.0,N,Y,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.8106143, 40.7886117]}",Closed,1pm - 6pm
+Westchester Square Library,{'url': 'http://nypl.org/techconnect'},43.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.84677239999999, 40.8409356]}",Closed,10:00 AM - 6:00 PM
+Sedgwick Social Club,{'url': 'http://www.bronxworks.org'},6.0,Y,N,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9212569, 40.8463029]}",Closed,9:00 AM - 5:00 PM
+St. Albans Library,{'url': 'https://www.queenslibrary.org/about-us/locations/st.albans'},41.0,N,Y,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.760122, 40.692524]}",Closed,1pm - 6pm
+Morris Park Library,{'url': 'http://nypl.org/techconnect'},59.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.8568162, 40.8480268]}",Closed,10:00 AM - 7:00 PM
+Our Lady of Pompei Church,{'url': 'https://greenwichhouse.org/network-of-older-adult-centers/'},57.0,N,N,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.00297870000001, 40.7303171]}",Closed,9:00 AM - 5:00 PM
+Parkchester Library,{'url': 'http://nypl.org/techconnect'},58.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.8583618, 40.833768]}",Closed,10:00 AM - 8:00 PM
+Greenpoint Library,{'url': 'http://bklynlibrary.org/locations/greenpoint'},36.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9506351, 40.7260429]}",1:00PM - 5:00 PM,1:00PM - 8:00PM
+Tilden  Cornerstone Community Center,{'url': 'http://mec.cuny.edu'},55.0,,N,2.0,Y,,N,"{'type': 'Point', 'coordinates': [-73.9056933, 40.6634803]}",9:00 AM - 10:00 PM,9:00 AM - 10:00 PM
+Albany Neighborhood Senior Center,{'url': 'https://www.fortgreenecouncil.org/'},16.0,Y,Y,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9392427, 40.6739208]}",Closed,9:00 AM - 5:00 PM
+Tottenville Library,{'url': 'http://nypl.org/techconnect'},15.0,N,Y,1.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.24413729999999, 40.5095196]}",Closed,11:00 AM - 6:00 PM
+Inwood Library,{'url': 'http://nypl.org/techconnect'},47.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.92436289999999, 40.8670001]}",Closed,10:00 AM - 7:00 PM
+Washington Heights Neighborhood Senior Center,{'url': 'http://starseniorcenter.org'},47.0,Y,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9328342, 40.8536665]}",Closed,8:00 AM - 4:00 PM
+Woodside Neighborhood Senior Center,{'url': 'https://www.samaritanvillage.org/special-population-services/'},39.0,Y,Y,3.0,Y,Y,Y,"{'type': 'Point', 'coordinates': [-73.9104811, 40.7534226]}",Closed,7:45 AM - 3:45 PM
+Parkchester Neighborhood Senior Center,{'url': 'http://raininc.org'},58.0,Y,N,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.8605196, 40.8353109]}",Closed,8:00 AM - 4:00 PM
+Kings Bay Library,{'url': 'http://bklynlibrary.org/locations/kings-bay'},32.0,N,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9411322, 40.5948114]}",Closed,1:00PM - 8:00PM
+Corsi House Neighborhood Senior Center,{'url': 'https://dftavirtualprogramfinder.cityofnewyork.us/'},7.0,Y,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9370768, 40.7969304]}",Closed,8:30 AM - 4:30 PM
+Dongan Hills Library,{'url': 'http://nypl.org/techconnect'},30.0,N,Y,1.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.1011386, 40.5904088]}",Closed,11:00 AM - 6:00 PM
+Jackie Robinson Media Lab,{'url': 'https://www.nycgovparks.org/parks/jackie-robinson-park_manhattan/'},18.0,,N,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9424573, 40.8242705]}",Closed,10am-6pm
+Van Cortlandt Jewish Center,{'url': 'http://jasa.org'},48.0,Y,N,5.0,N,Partially,N,"{'type': 'Point', 'coordinates': [-73.8937317, 40.8825575]}",Closed,9:00 AM - 5:00 PM
+Flatlands Library,{'url': 'http://bklynlibrary.org/locations/flatlands'},5.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9331807, 40.6197853]}",Closed,1:00PM - 8:00PM
+Roy Wilkins Recreation Center,{'url': 'http://sqpa.org'},41.0,,N,3.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.7688356, 40.6867439]}",Closed,9:00 AM - 9:00 PM
+Detective Keith Williams Media Lab,{'url': 'https://www.nycgovparks.org/parks/detective-keith-l-williams-park-liberty-park/'},41.0,Y,N,3.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.7831781, 40.7016128]}",Closed,12pm-6pm
+J. Hood Wright Media Lab,{'url': 'https://www.nycgovparks.org/facilities/recreationcenters/m099'},47.0,Y,N,4.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9408546, 40.84656640000001]}",Closed,10:30am-6pm
+Port Richmond Library,{'url': 'http://nypl.org/techconnect'},4.0,N,Y,1.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.1311071, 40.6375611]}",Closed,11:00 AM - 6:00 PM
+Bronx Library Center,{'url': 'http://nypl.org/techconnect'},24.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.894508, 40.863047]}",Closed,09:00 AM - 9:00 PM
+Independence Neighborhood Center,{'url': 'http://www.milldev.org'},36.0,Y,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.96377559999999, 40.7054818]}",8:00 AM - 4:00 PM,8:00 AM - 4:00 PM
+Flatbush Library,{'url': 'http://bklynlibrary.org/locations/flatbush'},60.0,N,N,2.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.95824449999999, 40.6519356]}",Closed,1:00PM - 8:00PM
+Saint Mary's Park Cornerstone Community Center,{'url': 'http://bronxworks.org'},49.0,,N,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9097998, 40.8151284]}",Closed,8:30 AM - 4:30 PM
+125th Street Library,{'url': 'http://nypl.org/techconnect'},7.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9350089, 40.8030055]}",Closed,10:00 AM - 6:00 PM
+East Elmhurst Library,{'url': 'https://www.queenslibrary.org/about-us/locations/east-elmhurst'},65.0,N,N,3.0,N,,N,"{'type': 'Point', 'coordinates': [-73.87386990000002, 40.7624201]}",Closed,1pm - 6pm
+Hudson Park Library,{'url': 'http://nypl.org/techconnect'},57.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-74.0052932, 40.7300378]}",Closed,10:00 AM - 6:00 PM
+Bedford Library,{'url': 'https://www.bklynlibrary.org/locations/bedford'},69.0,N,N,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9561944, 40.6818421]}",Closed,1:00PM - 8:00PM
+Hope Senior Center,{'url': 'http://www.hopeseniorcenter.org'},50.0,Y,Y,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.9219437, 40.8321445]}",Closed,Closed
+Riverdale Library,{'url': 'http://nypl.org/techconnect'},48.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.90275559999999, 40.90370679999999]}",Closed,10:00 AM - 6:00 PM
+Ingersoll Community Center,{'url': 'https://www.universitysettlement.org/'},68.0,Y,Y,2.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9820439, 40.6938415]}",Closed,9am-10pm
+Morningside Heights Library,{'url': 'http://nypl.org/techconnect'},37.0,N,Y,4.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9647098, 40.8060839]}",Closed,10:00 AM - 6:00 PM
+Woodstock Library,{'url': 'http://nypl.org/techconnect'},49.0,N,Y,5.0,N,Y,N,"{'type': 'Point', 'coordinates': [-73.9046339, 40.820651]}",Closed,10:00 AM - 6:00 PM
+Gun Hill Cornerstone Community Center,{'url': 'http://mmcc.org'},29.0,,Y,5.0,Y,Y,N,"{'type': 'Point', 'coordinates': [-73.8653373, 40.87520420000001]}",3:00 PM - 11:00 PM,8:00 AM - 11:00 PM

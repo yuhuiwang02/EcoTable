@@ -1,0 +1,53 @@
+seg_ind,intcity,intempname,schedule,occupation,total,average,count
+N,,,ABC,BASEBALL COACH/ PE,0.0,0.0,1
+N,,,ABC,President and CEO,0.0,0.0,1
+N,,,ABC,VP,0.0,0.0,2
+N,,,ABC,Chairman & CEO,0.0,0.0,1
+N,,,ABC,Executive Vice President,0.0,0.0,1
+N,Brooklyn,ConEdison,ABC,VP,0.0,0.0,2
+N,,,ABC,Vice President,0.0,0.0,2
+N,New York,Cushman & Wakefield Inc.,ABC,Vice President,0.0,0.0,1
+N,,,ABC,Project Advisor,0.0,0.0,1
+N,East Williston,"Milrose Consultants, Inc.",ABC,Professional Engineer,0.0,0.0,1
+N,Brooklyn,ConEdison,ABC,Corp Officer,0.0,0.0,2
+N,,,ABC,Analyst,0.0,0.0,1
+N,,,ABC,Corp Officer,0.0,0.0,2
+N,,,ABC,"EVP, Construction",0.0,0.0,4
+N,,,ABC,General Manager,0.0,0.0,2
+N,,,ABC,Executive VP,0.0,0.0,1
+N,,,ABC,Principal,0.0,0.0,2
+N,New York,Cushman & Wakefield Inc.,ABC,Principal,0.0,0.0,1
+N,,,ABC,CEO,0.0,0.0,4
+N,,,ABC,External Affairs,0.0,0.0,4
+N,,,ABC,Executive,0.0,0.0,3
+N,,,ABC,Professional Engineer,0.0,0.0,1
+N,,,ABC,Attorney,0.0,0.0,6
+N,,,ABC,principal,0.0,0.0,1
+N,New York,Cushman & Wakefield Inc.,ABC,CEO,0.0,0.0,1
+N,,,ABC,Unemployed,0.0,0.0,1
+N,,,ABC,,0.0,0.0,5
+N,,,ABC,Staff,0.0,0.0,2
+N,Warren,Choice New York Managment LLC,ABC,pest control,0.0,0.0,1
+N,,,ABC,Real Estate Exec,0.0,0.0,4
+N,New York,Cushman & Wakefield Inc.,ABC,Real Estate Exec,0.0,0.0,2
+N,,,ABC,Inner Force,0.0,0.0,6
+N,,,ABC,Consultant,0.0,0.0,4
+N,,,ABC,Real Estate,0.0,0.0,1
+N,,,ABC,Not Employed,0.0,0.0,33
+N,,,ABC,Management and Attorney,0.0,0.0,60
+N,,,ABC,arts in ed,0.0,0.0,2
+N,,,ABC,Executive Director,0.0,0.0,3
+N,,,ABC,Sr. Directore of Org. Effectiv,0.0,0.0,2
+N,,,ABC,NFP Executive Director,0.0,0.0,1
+N,,,ABC,Secretary/Treasurer,0.0,0.0,2
+N,Brooklyn,ConEdison,ABC,Executive,0.0,0.0,2
+N,,,ABC,Arts Administrator,0.0,0.0,1
+N,,,ABC,President,0.0,0.0,1
+N,,,ABC,Not employed,40.0,5.0,8
+N,,,ABC,MANAGER,0.0,0.0,1
+N,,,ABC,COO,0.0,0.0,1
+N,,,ABC,attorney,0.0,0.0,6
+N,,,ABC,Finance,0.0,0.0,1
+N,Brooklyn,ConEdison,ABC,Staff,0.0,0.0,2
+N,,,ABC,Political and Community Organi,0.0,0.0,2
+N,,,ABC,Entertainer,0.0,0.0,3
