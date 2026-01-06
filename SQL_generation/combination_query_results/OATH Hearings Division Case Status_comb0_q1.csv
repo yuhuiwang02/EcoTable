@@ -1,0 +1,8 @@
+violation_location_borough,compliance_status,scheduled_hearing_location,category,count,avg_value,total_value,max_value
+BRONX,Penalty Due,BRONX,Medium balance,2,50.0,100.0,50.0
+QUEENS,All Terms Met,QUEENS,No balance,1,0.0,0.0,0.0
+QUEENS,Penalty Due,,Medium balance,6,191.66666666666666,1150.0,500.0
+QUEENS,Penalty Due,,High balance,2,1250.0,2500.0,1250.0
+QUEENS,All Terms Met,,No balance,1,0.0,0.0,0.0
+BROOKLYN,Penalty Due,BROOKLYN,Medium balance,12,1000.0,12000.0,1000.0
+BROOKLYN,Penalty Due,BROOKLYN,High balance,12,1200.0,14400.0,1200.0

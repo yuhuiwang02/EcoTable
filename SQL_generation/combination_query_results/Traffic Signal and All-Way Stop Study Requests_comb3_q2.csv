@@ -1,0 +1,33 @@
+oldreferencenumber,schoolhold,studyunit,locationtype,requesttype,statusdescription,rank,dense_rank
+,False,SE,,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,1
+,False,SE,Stretch,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,2
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,5
+,False,SE,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,5
+,False,SE,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,5
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,6
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,6
+,False,SE,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,6
+,False,SE,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,6
+,False,SE,,Traffic Signal,Engineering Study Completed     (Signals Engineering),2,7
+,False,SE,Intersection,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),1,3
+,False,SE,Stretch,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),2,4
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,Stretch,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,Stretch,,Engineering Study Completed     (Signals Engineering),2,1
+,False,SE,Stretch,,Engineering Study Completed     (Signals Engineering),2,1

@@ -1,0 +1,41 @@
+location,t4_location,latitude,longitude,industry_sector,category,count,avg_value,total_value,max_value
+"{'latitude': '40.807098', 'longitude': '-73.952675'}","{'latitude': '40.807098', 'longitude': '-73.952675'}",40.807098,-73.952675,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.737289', 'longitude': '-73.89592'}","{'latitude': '40.737289', 'longitude': '-73.89592'}",40.737289,-73.89592,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.922042', 'longitude': '-74.069773'}","{'latitude': '40.922042', 'longitude': '-74.069773'}",40.922042,-74.069773,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.779966', 'longitude': '-73.898038'}","{'latitude': '40.779966', 'longitude': '-73.898038'}",40.779966,-73.898038,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.592698', 'longitude': '-73.948855'}","{'latitude': '40.592698', 'longitude': '-73.948855'}",40.592698,-73.948855,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.752792', 'longitude': '-73.88013'}","{'latitude': '40.752792', 'longitude': '-73.88013'}",40.752792,-73.88013,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.681771', 'longitude': '-73.98047'}","{'latitude': '40.681771', 'longitude': '-73.98047'}",40.681771,-73.98047,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.733779', 'longitude': '-73.635348'}","{'latitude': '40.733779', 'longitude': '-73.635348'}",40.733779,-73.635348,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.764583', 'longitude': '-73.83384'}","{'latitude': '40.764583', 'longitude': '-73.83384'}",40.764583,-73.83384,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.871273', 'longitude': '-73.847835'}","{'latitude': '40.871273', 'longitude': '-73.847835'}",40.871273,-73.847835,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.615053', 'longitude': '-73.98053'}","{'latitude': '40.615053', 'longitude': '-73.98053'}",40.615053,-73.98053,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.819497', 'longitude': '-73.88907'}","{'latitude': '40.819497', 'longitude': '-73.88907'}",40.819497,-73.88907,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.756839', 'longitude': '-73.999141'}","{'latitude': '40.756839', 'longitude': '-73.999141'}",40.756839,-73.999141,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.803251', 'longitude': '-73.90843'}","{'latitude': '40.803251', 'longitude': '-73.90843'}",40.803251,-73.90843,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.625703', 'longitude': '-73.939761'}","{'latitude': '40.625703', 'longitude': '-73.939761'}",40.625703,-73.939761,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.680078', 'longitude': '-73.958011'}","{'latitude': '40.680078', 'longitude': '-73.958011'}",40.680078,-73.958011,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.765944', 'longitude': '-73.912989'}","{'latitude': '40.765944', 'longitude': '-73.912989'}",40.765944,-73.912989,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.59092', 'longitude': '-73.961'}","{'latitude': '40.59092', 'longitude': '-73.961'}",40.59092,-73.961,black car,low,8,0.0,0.0,0.0
+"{'latitude': '40.735627', 'longitude': '-73.93612'}","{'latitude': '40.735627', 'longitude': '-73.93612'}",40.735627,-73.93612,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.756839', 'longitude': '-73.999141'}","{'latitude': '40.756839', 'longitude': '-73.999141'}",40.756839,-73.999141,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.701122', 'longitude': '-73.83138'}","{'latitude': '40.701122', 'longitude': '-73.83138'}",40.701122,-73.83138,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.752235', 'longitude': '-73.85365'}","{'latitude': '40.752235', 'longitude': '-73.85365'}",40.752235,-73.85365,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.782137', 'longitude': '-73.826104'}","{'latitude': '40.782137', 'longitude': '-73.826104'}",40.782137,-73.826104,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.82848', 'longitude': '-73.394994'}","{'latitude': '40.82848', 'longitude': '-73.394994'}",40.82848,-73.394994,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.688403', 'longitude': '-73.819306'}","{'latitude': '40.688403', 'longitude': '-73.819306'}",40.688403,-73.819306,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.74393', 'longitude': '-73.98819'}","{'latitude': '40.74393', 'longitude': '-73.98819'}",40.74393,-73.98819,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.59092', 'longitude': '-73.961'}","{'latitude': '40.59092', 'longitude': '-73.961'}",40.59092,-73.961,livery,low,8,0.0,0.0,0.0
+"{'latitude': '40.711192', 'longitude': '-73.951373'}","{'latitude': '40.711192', 'longitude': '-73.951373'}",40.711192,-73.951373,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.75273', 'longitude': '-74.00641'}","{'latitude': '40.75273', 'longitude': '-74.00641'}",40.75273,-74.00641,black car,low,24,0.0,0.0,0.0
+"{'latitude': '40.717166', 'longitude': '-73.857354'}","{'latitude': '40.717166', 'longitude': '-73.857354'}",40.717166,-73.857354,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.751777', 'longitude': '-73.930235'}","{'latitude': '40.751777', 'longitude': '-73.930235'}",40.751777,-73.930235,livery,low,2,0.0,0.0,0.0
+"{'latitude': '40.602225', 'longitude': '-73.99315'}","{'latitude': '40.602225', 'longitude': '-73.99315'}",40.602225,-73.99315,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.75273', 'longitude': '-74.006408'}","{'latitude': '40.75273', 'longitude': '-74.006408'}",40.75273,-74.006408,black car,low,4,0.0,0.0,0.0
+"{'latitude': '40.740878', 'longitude': '-73.942043'}","{'latitude': '40.740878', 'longitude': '-73.942043'}",40.740878,-73.942043,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.823087', 'longitude': '-74.155516'}","{'latitude': '40.823087', 'longitude': '-74.155516'}",40.823087,-74.155516,luxury limo,low,1,0.0,0.0,0.0
+"{'latitude': '40.864833', 'longitude': '-73.92718'}","{'latitude': '40.864833', 'longitude': '-73.92718'}",40.864833,-73.92718,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.675852', 'longitude': '-73.96356'}","{'latitude': '40.675852', 'longitude': '-73.96356'}",40.675852,-73.96356,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.592698', 'longitude': '-73.948855'}","{'latitude': '40.592698', 'longitude': '-73.948855'}",40.592698,-73.948855,black car,low,1,0.0,0.0,0.0
+"{'latitude': '40.617782', 'longitude': '-74.101897'}","{'latitude': '40.617782', 'longitude': '-74.101897'}",40.617782,-74.101897,livery,low,1,0.0,0.0,0.0
+"{'latitude': '40.830027', 'longitude': '-73.9723'}","{'latitude': '40.830027', 'longitude': '-73.9723'}",40.830027,-73.9723,luxury limo,low,1,0.0,0.0,0.0

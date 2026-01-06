@@ -1,0 +1,6 @@
+phone,police_precinct,dsny_zone,categoriesaccepted,hours,categoriesavailable,record_count,total_amount,avg_amount,max_amount,min_amount
+(111) 111-1111,90.0,BKN,Books/Media,,Books/Media,2,180.0,90.0,90.0,90.0
+(718) 353-1549,109.0,QE,"Clothing/Personal Accessories, Footwear",,,3,327.0,109.0,109.0,109.0
+(718) 808-1840,122.0,SI,,"Monday 12:00 PM-07:00 PM, Tuesday 12:00 PM-07:00 PM, Wednesday 12:00 PM-07:00 PM, Thursday 12:00 PM-07:00 PM, Friday 12:00 PM-07:00 PM, Saturday 12:00 PM-07:00 PM, Sunday 12:00 PM-07:00 PM",Food/Beverage,3,366.0,122.0,122.0,122.0
+(718) 943-1200,,SI,Clothing/Personal Accessories,,,2,,,,
+(718) 273-7139,120.0,SI,,"Monday Closed, Tuesday 11:00 AM-07:00 PM, Wednesday 11:00 AM-07:00 PM, Thursday 11:00 AM-07:00 PM, Friday 11:00 AM-07:00 PM, Saturday 11:00 AM-07:00 PM, Sunday 11:00 AM-04:00 PM","Clothing/Personal Accessories, Footwear",2,240.0,120.0,120.0,120.0

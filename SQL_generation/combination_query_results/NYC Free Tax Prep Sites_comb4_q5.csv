@@ -1,0 +1,10 @@
+providername,opendateiso,s1,itin,closedateiso,mappedaddress,fridayopen,rank,dense_rank
+MMCC,2019-01-11 00:00:00,"""In Person, Drop Off""",Non-CAA ITIN,2019-04-08 00:00:00,"""1150 EAST 229 STREET, Bronx NY, 10466""",,1,1
+Food Bank For New York City,2019-01-28 00:00:00,Drop Off,Non-CAA ITIN,2019-04-10 00:00:00,"""632 Flushing Avenue, Brooklyn NY, 11206""",9:30 AM,1,2
+Food Bank For New York City,2019-01-28 00:00:00,Drop Off,Non-CAA ITIN,2019-04-10 00:00:00,"""228 York Street, Brooklyn NY, 11201""",11:00 AM,2,2
+Food Bank For New York City,2019-01-28 00:00:00,Assisted Self-Preparation,Non-CAA ITIN,2019-04-15 00:00:00,"""1866 Washington Avenue, Bronx NY, 10457""",10:00 AM,3,2
+Food Bank For New York City,2019-01-28 00:00:00,In Person,Non-CAA ITIN,2019-04-15 00:00:00,"""45 Wadsworth Avenue, Manhattan NY, 10033""",9:00 AM,4,2
+Grow Brooklyn,2019-01-22 00:00:00,"""In Person, Drop Off""",,2019-04-15 00:00:00,"""2401 Avenue U,, Brooklyn NY, 11229""",,1,1
+Grow Brooklyn,2019-01-23 00:00:00,"""In Person, Drop Off""",,2019-04-15 00:00:00,"""451 Clarkson Ave, Brooklyn NY, 11203""",11:00 AM,2,2
+AARP Tax Aide,2019-01-29 00:00:00,In Person,,2019-04-09 00:00:00,"""238 Bleecker Street, Manhattan NY, 10014""",,1,3
+Urban Upbound,2019-02-06 00:00:00,In Person,,2019-04-10 00:00:00,"""43-31 39th Street, Queens NY, 11104""",,1,4

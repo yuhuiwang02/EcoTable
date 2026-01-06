@@ -1,0 +1,9 @@
+respondent_address_city,hearing_result,compliance_status,scheduled_hearing_location,total,count,average
+BROOKLYN,,Penalty Due,BROOKLYN,28800.0,24,1200.0
+BROOKLYN,,All Terms Met,,4000.0,1,4000.0
+QUEENS,,Penalty Due,,2000.0,4,500.0
+NEW YORK,NONE,All Terms Met,QUEENS,1000.0,1,1000.0
+BRONX,,Penalty Due,BRONX,100.0,2,50.0
+COLLEGE POINT,,Penalty Due,,75.0,1,75.0
+FLUSHING,,Penalty Due,,50.0,2,25.0
+WILLISTON PARK,,Penalty Due,,25.0,1,25.0

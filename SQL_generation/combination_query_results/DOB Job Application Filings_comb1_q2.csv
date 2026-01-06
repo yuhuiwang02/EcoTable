@@ -1,0 +1,50 @@
+other_description,existing_occupancy,paid,category,count,avg_value,total_value,max_value
+ANTENNA,RES,2016-12-30,no_construction_area,1,0.0,0,0
+GEN. CONSTR.,COM,2018-05-01,no_construction_area,1,0.0,0,0
+CABINETS/ANT,,2004-10-19,no_construction_area,1,0.0,0,0
+FACADE,RES,2016-11-15,no_construction_area,1,0.0,0,0
+BPP,,2020-04-01,no_construction_area,1,0.0,0,0
+GC,J-3,2003-07-09,small_project,1,2230.0,2230,2230
+STRUCTURAL,RES,2019-07-12,no_construction_area,1,0.0,0,0
+ENL,RES,2004-02-13,no_construction_area,1,0.0,0,0
+BPP,,2021-05-04,no_construction_area,1,0.0,0,0
+,COM,2004-07-16,no_construction_area,1,0.0,0,0
+WALL TIES INSTA,RES,2021-08-23,no_construction_area,1,0.0,0,0
+GC,RES,2004-11-19,no_construction_area,1,0.0,0,0
+,RES,2013-09-24,no_construction_area,1,0.0,0,0
+ENL,J-3,2004-03-22,no_construction_area,1,0.0,0,0
+GC,COM,2004-07-02,no_construction_area,1,0.0,0,0
+PARTITIONS,J-1,2009-02-20,no_construction_area,1,0.0,0,0
+SOLAR TAX,R-3,2022-04-08,no_construction_area,1,0.0,0,0
+WINDOW REPLACE,RES,2004-12-13,no_construction_area,1,0.0,0,0
+GC,,2004-10-27,small_project,1,4738.0,4738,4738
+GEN. CONSTR.,RES,2020-10-21,no_construction_area,1,0.0,0,0
+ELECTRICAL,,2014-05-29,no_construction_area,2,0.0,0,0
+STRUCTURAL,,2013-11-06,no_construction_area,1,0.0,0,0
+GC,RES,2004-11-12,small_project,1,3604.0,3604,3604
+ENERGY CODE,,2019-08-15,no_construction_area,2,0.0,0,0
+SOE,,2021-05-03,no_construction_area,1,0.0,0,0
+FOUNDATION,J-0,2004-06-18,no_construction_area,1,0.0,0,0
+GEN. CONSTR.,RES,2015-01-02,no_construction_area,1,0.0,0,0
+GEN. CONSTR.,RES,2020-07-08,no_construction_area,1,0.0,0,0
+SITE PREPARATIO,,2004-08-03,no_construction_area,2,0.0,0,0
+STRUCTURAL,,2014-06-05,no_construction_area,1,0.0,0,0
+GC,COM,2008-06-20,no_construction_area,1,0.0,0,0
+BPP,,2021-03-01,no_construction_area,1,0.0,0,0
+SOLAR TAX,RES,2021-11-29,no_construction_area,1,0.0,0,0
+GC,RES,2004-11-18,small_project,1,6515.0,6515,6515
+PARTITIONS,E,2004-07-30,no_construction_area,1,0.0,0,0
+STRUCTURAL,,2018-12-18,no_construction_area,2,0.0,0,0
+GEN. CONSTR.,E,2018-10-09,no_construction_area,1,0.0,0,0
+,F-4,2004-10-04,no_construction_area,1,0.0,0,0
+CONSTRUCTION,RES,2000-05-24,no_construction_area,1,0.0,0,0
+SOLAR TAX,R-3,2021-05-03,no_construction_area,1,0.0,0,0
+GC,RES,2004-03-23,small_project,1,2082.0,2082,2082
+BPP,,2020-07-10,no_construction_area,1,0.0,0,0
+,COM,2004-10-20,no_construction_area,1,0.0,0,0
+,COM,2004-07-26,no_construction_area,1,0.0,0,0
+SITESAFETY PLAN,RES,2021-04-30,no_construction_area,1,0.0,0,0
+SOLAR TAX,R-3,2021-08-23,no_construction_area,2,0.0,0,0
+GC,COM,2004-04-16,no_construction_area,1,0.0,0,0
+ENL,RES,2004-04-14,no_construction_area,1,0.0,0,0
+GC,,2004-03-15,small_project,1,4930.0,4930,4930

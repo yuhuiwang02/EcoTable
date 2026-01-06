@@ -1,0 +1,8 @@
+apptorwalkin,providername,opendateiso,mappedaddress,category,count,avg_value,total_value,max_value
+Appointment Only,Food Bank For New York City,2019-01-28 00:00:00,"""228 York Street, Brooklyn NY, 11201""",Low X Coordinate,1,989307.0,989307,989307
+Appointment Only,Food Bank For New York City,2019-01-28 00:00:00,"""45 Wadsworth Avenue, Manhattan NY, 10033""",Medium X Coordinate,1,1001508.0,1001508,1001508
+Appointment Only,Grow Brooklyn,2019-01-23 00:00:00,"""451 Clarkson Ave, Brooklyn NY, 11203""",Low X Coordinate,1,999627.0,999627,999627
+Appointment Only,Food Bank For New York City,2019-01-28 00:00:00,"""632 Flushing Avenue, Brooklyn NY, 11206""",Low X Coordinate,1,998544.0,998544,998544
+Appointment Only,MMCC,2019-01-11 00:00:00,"""1150 EAST 229 STREET, Bronx NY, 10466""",Medium X Coordinate,1,1027079.0,1027079,1027079
+Appointment Only,Urban Upbound,2019-02-06 00:00:00,"""43-31 39th Street, Queens NY, 11104""",Medium X Coordinate,1,1004780.0,1004780,1004780
+Appointment Only,Grow Brooklyn,2019-01-22 00:00:00,"""2401 Avenue U,, Brooklyn NY, 11229""",Low X Coordinate,1,998843.0,998843,998843

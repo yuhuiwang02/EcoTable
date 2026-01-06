@@ -1,0 +1,51 @@
+activated,provider,type,remarks,ntacode,category,count,avg_value,total_value,max_value
+9999-09-09 00:00:00,AT&T,Free,,MN34,low coverage,1,9.0,9.0,9.0
+2017-06-29 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN12,low coverage,1,6.0,6.0,6.0
+9999-09-09 00:00:00,Harlem,Free,,MN11,low coverage,1,9.0,9.0,9.0
+2018-05-02 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK32,medium coverage,1,38.0,38.0,38.0
+9999-09-09 00:00:00,Manhattan Down Alliance,Free,,MN25,low coverage,1,1.0,1.0,1.0
+9999-09-09 00:00:00,ALTICEUSA,Limited Free,3 free 10 min sessions,BK99,medium coverage,1,39.0,39.0,39.0
+2017-10-16 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN40,low coverage,1,4.0,4.0,4.0
+2016-09-06 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN24,low coverage,1,1.0,1.0,1.0
+2016-05-17 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN21,low coverage,1,2.0,2.0,2.0
+2017-06-09 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK90,medium coverage,1,34.0,34.0,34.0
+2018-10-18 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN40,low coverage,1,4.0,4.0,4.0
+9999-09-09 00:00:00,SPECTRUM,Limited Free,3 free 10 min sessions,QN54,medium coverage,1,28.0,28.0,28.0
+2017-10-30 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK95,medium coverage,1,40.0,40.0,40.0
+2016-10-25 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN09,low coverage,1,6.0,6.0,6.0
+2016-09-06 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN09,low coverage,1,7.0,7.0,7.0
+2016-07-21 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN19,low coverage,1,4.0,4.0,4.0
+2017-08-15 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK37,medium coverage,1,39.0,39.0,39.0
+2018-04-24 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN20,low coverage,1,2.0,2.0,2.0
+2018-01-12 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN09,low coverage,1,7.0,7.0,7.0
+2016-03-24 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN40,low coverage,1,4.0,4.0,4.0
+9999-09-09 00:00:00,BPL,Free,,BK37,medium coverage,1,39.0,39.0,39.0
+9999-09-09 00:00:00,Downtown Brooklyn,Free,,BK38,medium coverage,1,33.0,33.0,33.0
+2016-10-14 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN11,low coverage,1,9.0,9.0,9.0
+2017-06-21 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN34,low coverage,1,8.0,8.0,8.0
+9999-09-09 00:00:00,SPECTRUM,Limited Free,3 free 10 min sessions,SI36,high coverage,3,50.0,150.0,50.0
+2018-07-02 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BX39,low coverage,1,8.0,8.0,8.0
+2016-04-27 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN15,low coverage,1,3.0,3.0,3.0
+9999-09-09 00:00:00,Transit Wireless,Free,SN 278,QN61,medium coverage,1,27.0,27.0,27.0
+9999-09-09 00:00:00,NYPL,Free,,MN24,low coverage,1,1.0,1.0,1.0
+9999-09-09 00:00:00,Transit Wireless,Free,SN 301,MN35,low coverage,1,10.0,10.0,10.0
+2017-04-14 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN17,low coverage,1,4.0,4.0,4.0
+9999-09-09 00:00:00,Chelsea,Free,,MN13,low coverage,1,3.0,3.0,3.0
+2016-07-21 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN15,low coverage,1,3.0,3.0,3.0
+9999-09-09 00:00:00,NYPL,Free,,MN13,low coverage,1,3.0,3.0,3.0
+2018-03-14 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",QN68,medium coverage,1,26.0,26.0,26.0
+9999-09-09 00:00:00,ALTICEUSA,Limited Free,3 free 10 min sessions,BX99,low coverage,1,16.0,16.0,16.0
+2018-01-12 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BX34,low coverage,1,17.0,17.0,17.0
+9999-09-09 00:00:00,Transit Wireless,Free,SN 468,MN17,low coverage,1,4.0,4.0,4.0
+2016-01-26 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN20,low coverage,1,2.0,2.0,2.0
+2018-03-29 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK73,medium coverage,1,34.0,34.0,34.0
+9999-09-09 00:00:00,SPECTRUM,Limited Free,3 free 10 min sessions,MN14,low coverage,1,6.0,6.0,6.0
+9999-09-09 00:00:00,SPECTRUM,Limited Free,3 free 10 min sessions,QN10,medium coverage,1,32.0,32.0,32.0
+9999-09-09 00:00:00,Harlem,Free,,MN03,low coverage,1,9.0,9.0,9.0
+2018-03-30 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",BK73,medium coverage,1,34.0,34.0,34.0
+2017-03-13 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN09,low coverage,1,7.0,7.0,7.0
+9999-09-09 00:00:00,BPL,Free,,BK82,high coverage,1,42.0,42.0,42.0
+2018-04-04 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN17,low coverage,1,4.0,4.0,4.0
+2016-05-12 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN12,low coverage,1,6.0,6.0,6.0
+2016-09-06 00:00:00,LinkNYC - Citybridge,Free,"Tablet Internet -phone , Free 1 GB Wi-FI Service",MN12,low coverage,1,7.0,7.0,7.0
+9999-09-09 00:00:00,Transit Wireless,Free,SN 393,MN34,low coverage,1,8.0,8.0,8.0

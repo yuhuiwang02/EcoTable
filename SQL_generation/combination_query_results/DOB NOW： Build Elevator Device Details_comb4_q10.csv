@@ -1,0 +1,28 @@
+elevator_operation,machine_location,elevator_type,total_elevator_length_feet
+Power,PH2 Floor,Passenger,155.0
+Power,motor room @ 1,Passenger,0.0
+Power,motor room at roof,Passenger,0.0
+Power,1ST FLOOR,Passenger,0.0
+Power,Overhead,Passenger,378.0
+Manual,Basement,Passenger,0.0
+Power,Roof,Passenger,655.0
+,,Passenger,
+Power,16TH FLOOR,Passenger,100.0
+Power,basement,Passenger,0.0
+Power,Machine room,Passenger,0.0
+Power,lowest landing,Passenger,0.0
+Power,MOTOR ROOM,Passenger,250.0
+Power,Machine Room,Passenger,985.0
+Power,,,
+Power,cellar,Passenger,0.0
+Power,OVERHEAD,Passenger,183.0
+Power,Basement,Passenger,250.0
+Power,BASEMENT,Passenger,170.0
+Manual,BASEMENT,Passenger,0.0
+,,Escalator,
+Manual,overhead,Passenger,5.0
+Manual,sub basement,Passenger,0.0
+Power,OH,Passenger,130.0
+Power,ROOF,Passenger,400.0
+Power,motor room,Passenger,0.0
+Power,motor room @C,Passenger,0.0

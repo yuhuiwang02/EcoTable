@@ -1,0 +1,21 @@
+typecatego,subcategor,councildis,permit,category,count,avg_value,total_value,max_value
+Community Park,Neighborhood Plgd,2,Y,medium,1,4.3,4.3,4.3
+Parkway,EXWY,"28,31,32",N,large,1,202.647,202.647,202.647
+Community Park,Neighborhood Plgd,46,Y,medium,1,2.984,2.984,2.984
+Community Park,Large Park,33,Y,large,1,36.493,36.493,36.493
+Neighborhood Park,Neighborhood Plgd,3,Y,small,1,0.635,0.635,0.635
+Undeveloped,Sitting Area/Triangle/Mall,15,N,small,1,0.759,0.759,0.759
+Playground,Neighborhood Plgd,26,Y,medium,1,2.027,2.027,2.027
+Triangle/Plaza,Sitting Area/Triangle/Mall,17,Y,small,1,0.17,0.17,0.17
+Triangle/Plaza,Sitting Area/Triangle/Mall,11,Y,small,1,0.12,0.12,0.12
+Community Park,Large Park,36,Y,medium,1,9.339,9.339,9.339
+Jointly Operated Playground,JOP,39,Y,small,1,0.538,0.538,0.538
+Parkway,Sitting Area/Triangle/Mall,33,N,small,2,0.2575,0.515,0.489
+Community Park,REDEC,42,Y,large,1,42.583,42.583,42.583
+Triangle/Plaza,Sitting Area/Triangle/Mall,1,Y,small,1,0.117,0.117,0.117
+Playground,Neighborhood Plgd,34,Y,small,1,0.752,0.752,0.752
+Triangle/Plaza,Sitting Area/Triangle/Mall,20,Y,small,1,0.658,0.658,0.658
+Nature Area,Flagship Park,50,N,large,1,94.1,94.1,94.1
+Community Park,Large Park,10,Y,large,1,196.398,196.398,196.398
+Playground,Neighborhood Plgd,17,Y,medium,1,1.001,1.001,1.001
+Playground,Neighborhood Plgd,42,Y,small,1,0.847,0.847,0.847

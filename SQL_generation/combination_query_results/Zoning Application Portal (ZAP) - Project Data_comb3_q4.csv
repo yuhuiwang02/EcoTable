@@ -1,0 +1,19 @@
+project_id,mih_flag,current_envmilestone_date,applicant_type,mih_option2,public_status,project_status,rank,dense_rank
+2021Q0106,True,2022-08-10 00:00:00,Private,False,Completed,Active,1,1
+2020K0389,False,2020-10-09 00:00:00,Private,False,Completed,Complete,3,1
+2020K0405,True,2021-09-17 00:00:00,Private,False,Completed,Complete,2,2
+2021R0144,False,,Private,False,Completed,Complete,4,3
+2020K0368,False,,Private,False,Completed,Complete,4,3
+2020R0110,False,,Private,False,Completed,Complete,4,3
+2020M0305,False,,Private,False,Completed,Complete,4,3
+2020R0372,False,,Private,False,Completed,Complete,4,3
+2022R0376,False,,Private,False,Completed,Complete,4,3
+2021R0146,False,,Private,False,Completed,Complete,4,3
+2019R0445,False,,Private,False,Completed,Complete,4,3
+2020K0269,False,,Private,False,Completed,Complete,4,3
+2020R0233,False,,Private,False,Completed,Complete,4,3
+2020R0235,False,,Private,False,Completed,Complete,4,3
+2020R0252,False,,Private,False,Completed,Complete,4,3
+2019R0431,False,,Private,False,Completed,Complete,4,3
+2020M0406,False,,Private,False,Completed,Complete,4,3
+2020R0148,False,,Private,False,Completed,Complete,4,3

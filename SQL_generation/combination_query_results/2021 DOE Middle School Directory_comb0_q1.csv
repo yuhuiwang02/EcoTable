@@ -1,0 +1,21 @@
+neighborhood,gradespan,ellprograms,category,count,avg_value,total_value,max_value
+East Harlem,PK-8,English as a New Language,Low performance,1,68.0,68.0,68.0
+South Bronx,6-8,English as a New Language,Low performance,1,39.0,39.0,39.0
+East Harlem,6-8,English as a New Language,High performance,1,92.0,92.0,92.0
+Upper East Side,PK-8,English as a New Language,High performance,1,99.0,99.0,99.0
+Manhattanville,6-8,English as a New Language,Medium performance,1,82.0,82.0,82.0
+Cambria Heights,PK-8,English as a New Language,Low performance,1,57.99999999999999,57.99999999999999,57.99999999999999
+Belmont,6-8,English as a New Language,Medium performance,1,87.0,87.0,87.0
+Soundview,6-8,English as a New Language;Dual Language: Spanish,High performance,1,91.0,91.0,91.0
+Ocean Parkway,K-8,English as a New Language,High performance,1,91.0,91.0,91.0
+South Bronx,6-8,English as a New Language,High performance,1,97.0,97.0,97.0
+Jamaica,PK-8,English as a New Language,Medium performance,1,90.0,90.0,90.0
+Upper West Side,PK-8,English as a New Language,Medium performance,1,86.0,86.0,86.0
+Williamsbridge,6-8,English as a New Language,High performance,1,93.0,93.0,93.0
+Washington Heights,6-8,English as a New Language,High performance,1,92.0,92.0,92.0
+Upper East Side,6-8,English as a New Language,High performance,1,99.0,99.0,99.0
+Battery Park,6-8,English as a New Language,High performance,1,100.0,100.0,100.0
+Upper West Side,K-8,English as a New Language,High performance,1,100.0,100.0,100.0
+Morningside Heights,6-12,English as a New Language,High performance,1,95.0,95.0,95.0
+Bedford Stuyvesant,PK-8,English as a New Language;Dual Language: Spanish,Medium performance,1,86.0,86.0,86.0
+Tremont,6-8,English as a New Language,High performance,2,99.0,198.0,99.0

@@ -1,0 +1,19 @@
+technology_related_courses,digital_literacy,job_readiness_ex_resume_help,operator_name,category,count,avg_value,total_value,max_value
+Y,Y,N,Eastside House Settlement Inc.,medium_wifi,1,84.7,84.7,84.7
+Y,Y,N,"Greenwich House, Inc.",low_wifi,1,24.3,24.3,24.3
+Y,N,N,Queens Public Library (QPL),low_wifi,2,24.4,48.8,24.4
+Y,N,Y,New York Public Library (NYPL),high_wifi,2,1000.0,2000.0,1000.0
+Y,Y,N,Jewish Association For Services For The Aged,medium_wifi,1,92.1,92.1,92.1
+Y,N,N,NYC Parks & Recreation,low_wifi,1,,,
+Y,Y,Y,Lenox hill neighborhood house,medium_wifi,1,92.4,92.4,92.4
+Y,Y,N,"Central Harlem Senior Citizens Centers, Inc.",high_wifi,1,420.2,420.2,420.2
+Y,N,N,"SAGE (Services and Advocacy for Gay, Lesbian, Bisexual and Transgender)",high_wifi,1,511.4,511.4,511.4
+Y,Y,N,Acacia Network,medium_wifi,1,96.0,96.0,96.0
+Y,N,Y,Brooklyn Public Library (BPL),medium_wifi,1,100.0,100.0,100.0
+Y,Y,N,Brooklyn Public Library (BPL),medium_wifi,1,100.0,100.0,100.0
+,N,N,Jewish Association For Services For The Aged,medium_wifi,1,94.1,94.1,94.1
+Y,N,N,Jewish Association For Services For The Aged,medium_wifi,1,91.0,91.0,91.0
+Y,N,N,Southern Queens Park Association (SQPA),low_wifi,1,10.4,10.4,10.4
+,N,N,Catholic Charities Brooklyn & Queens,medium_wifi,1,97.5,97.5,97.5
+Y,N,N,NYC Parks & Recreation,high_wifi,1,103.6,103.6,103.6
+Y,N,N,Cypress hills-fulton street senior citizens center inc,high_wifi,1,416.6,416.6,416.6

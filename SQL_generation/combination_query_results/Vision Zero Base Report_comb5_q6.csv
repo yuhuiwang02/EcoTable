@@ -1,0 +1,16 @@
+license_number,average_vehicle_age,fatal_crashes,top_vehicle_models_3,vehicle_safety_violations_per_vehicle,injury_crashes_per_vehicle,industry_sector,book_ahead_service
+B01854,3.6,0.0,Chevrolet Tahoe,0.0,0.0,luxury limo,Not Reported
+B01976,3.0,0.0,Chevrolet Tahoe,0.04,0.02,luxury limo,Not Reported
+B01236,2.3,0.0,Chevrolet Suburban,0.01,0.0,luxury limo,Yes
+B00078,2.1,0.0,Chevrolet Suburban,0.0,0.0,luxury limo,Yes
+B02457,7.3,0.0,Cadillac Escalade,0.13,0.0,luxury limo,Not Reported
+B02845,3.1,0.0,Kia Santa Fe,0.2,0.1,black car,Not Reported
+B02882,1.4,0.0,Toyota Avalon,0.0,0.0,black car,No
+B02067,3.5,0.0,Chrysler 300,0.13,0.01,black car,Yes
+B02429,3.8,0.0,Toyota Avalon,0.15,0.0,black car,Not Reported
+B02639,4.7,0.0,Dodge Caravan,0.0,0.1,black car,Not Reported
+B01051,5.9,0.0,Lincoln Town Car,0.11,0.06,livery,Not Reported
+B02536,3.7,0.0,Toyota Avalon,0.15,0.0,livery,Not Reported
+B01336,8.7,0.0,Dodge Caravan,0.04,0.0,livery,Not Reported
+B02569,2.9,0.0,,0.0,0.0,livery,Not Reported
+B00029,7.1,0.0,Toyota Camry,0.02,0.11,livery,Not Reported

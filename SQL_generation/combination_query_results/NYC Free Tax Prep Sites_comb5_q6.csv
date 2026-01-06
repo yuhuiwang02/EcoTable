@@ -1,0 +1,10 @@
+apptorwalkin,ifridayopen,ifridayclose,providername,opendateiso,itin,l1,fridayopen
+Appointment Only,,,Urban Upbound,2019-02-06 00:00:00,,"""English, Spanish""",
+Appointment Only,11.0,17.0,Grow Brooklyn,2019-01-23 00:00:00,,English,11:00 AM
+Appointment Only,,,Grow Brooklyn,2019-01-22 00:00:00,,"""English, Spanish, Russian""",
+Appointment Only,,,MMCC,2019-01-11 00:00:00,Non-CAA ITIN,"""English, Spanish""",
+Appointment Only,11.0,14.0,Food Bank For New York City,2019-01-28 00:00:00,Non-CAA ITIN,English,11:00 AM
+Walk-in Only,10.0,13.0,Food Bank For New York City,2019-01-28 00:00:00,Non-CAA ITIN,English,10:00 AM
+Appointment Only,9.5,17.0,Food Bank For New York City,2019-01-28 00:00:00,Non-CAA ITIN,English,9:30 AM
+Appointment Only,9.0,16.0,Food Bank For New York City,2019-01-28 00:00:00,Non-CAA ITIN,"""English, Spanish""",9:00 AM
+Walk-in Only,,,AARP Tax Aide,2019-01-29 00:00:00,,"""English, Spanish""",

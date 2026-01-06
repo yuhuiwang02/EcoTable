@@ -1,0 +1,53 @@
+estimated_cost,filing_type,worker_compensation,filingstatus_or_filingincludes,total,average,count
+220000.0,PAA,2021-01-01 00:00:00,New Installation,325.0,325.0,1
+853000.0,New Filing,2023-01-01 00:00:00,Alteration/Replacement,8950.0,8950.0,1
+1073750.0,New Filing,2022-01-01 00:00:00,Alteration/Replacement,11226.3,11226.3,1
+9923.0,New Filing,2024-09-25 00:00:00,Alteration/Replacement,267.1,267.1,1
+88000.0,New Filing,2023-04-01 00:00:00,Alteration/Replacement,1070.5,1070.5,1
+34300.0,New Filing,2022-05-24 00:00:00,New Installation,554.6,554.6,1
+225000.0,New Filing,2020-04-01 00:00:00,New Installation,2511.6,2511.6,1
+11625.0,New Filing,2022-01-01 00:00:00,Dismantle,0.0,0.0,1
+200000.0,New Filing,2022-01-01 00:00:00,New Installation,2254.1,2254.1,1
+20000.0,New Filing,2020-11-17 00:00:00,New Installation,225.0,225.0,1
+22750.0,New Filing,2021-01-01 00:00:00,Alteration/Replacement,401.0,401.0,1
+10000.0,New Filing,2021-07-19 00:00:00,Alteration/Replacement,267.1,267.1,1
+30000.0,New Filing,2020-04-01 00:00:00,Alteration/Replacement,946.2,473.1,2
+85000.0,New Filing,2022-08-29 00:00:00,Alteration/Replacement,1039.6,1039.6,1
+247320.0,New Filing,2026-04-01 00:00:00,New Installation,2748.5,2748.5,1
+6674.0,New Filing,2023-12-01 00:00:00,Alteration/Replacement,236.2,236.2,1
+11860.0,New Filing,2022-01-01 00:00:00,New Installation,317.7,317.7,1
+37600.0,New Filing,2022-05-24 00:00:00,New Installation,585.5,585.5,1
+7500.0,New Filing,2024-01-01 00:00:00,Alteration/Replacement,246.5,246.5,1
+10000.0,New Filing,2021-08-16 00:00:00,Alteration/Replacement,267.1,267.1,1
+16500.0,New Filing,2021-08-16 00:00:00,Alteration/Replacement,339.2,339.2,1
+82700.0,New Filing,2020-11-01 00:00:00,New Installation,1049.0,1049.0,1
+142140.0,New Filing,2019-04-01 00:00:00,Alteration/Replacement,1637.0,1637.0,1
+513000.0,New Filing,2024-03-01 00:00:00,Alteration/Replacement,5448.0,5448.0,1
+14000.0,New Filing,2020-07-01 00:00:00,Alteration/Replacement,308.3,308.3,1
+5850.0,New Filing,2019-04-01 00:00:00,Alteration/Replacement,225.9,225.9,1
+200000.0,New Filing,2022-01-01 00:00:00,Remove,2254.1,2254.1,1
+2100000.0,PAA,2026-04-01 00:00:00,Alteration/Replacement,100.0,100.0,1
+239000.0,PAA,2022-12-31 00:00:00,New Installation,100.0,100.0,1
+96000.0,New Filing,2023-01-01 00:00:00,Alteration/Replacement,1152.9,1152.9,1
+20000.0,New Filing,2020-05-23 00:00:00,New Installation,400.1,400.1,1
+7000.0,New Filing,2020-04-01 00:00:00,Alteration/Replacement,236.2,236.2,1
+400000.0,PAA,2021-04-01 00:00:00,Alteration/Replacement,4384.1,4384.1,1
+3250.0,New Filing,2021-01-01 00:00:00,Remove,205.3,205.3,1
+11500.0,New Filing,2024-10-01 00:00:00,Alteration/Replacement,0.0,0.0,1
+22000.0,New Filing,2026-09-16 00:00:00,New Installation,420.7,420.7,1
+82700.0,New Filing,2020-11-01 00:00:00,Alteration/Replacement,1049.0,1049.0,1
+20000.0,PAA,2021-10-01 00:00:00,New Installation,325.0,325.0,1
+147756.0,PAA,2022-01-01 00:00:00,Alteration/Replacement,100.0,100.0,1
+6674.0,New Filing,2020-08-06 00:00:00,Alteration/Replacement,236.2,236.2,1
+26953.0,New Filing,2020-12-01 00:00:00,Alteration/Replacement,442.2,442.2,1
+72000.0,New Filing,2020-01-01 00:00:00,Alteration/Replacement,905.7,905.7,1
+7535.8,New Filing,2023-12-01 00:00:00,Remove,246.5,246.5,1
+1700000.0,PAA,2021-12-01 00:00:00,New Installation,325.0,325.0,1
+3500.0,New Filing,2021-01-01 00:00:00,Alteration/Replacement,205.3,205.3,1
+10000.0,New Filing,2023-10-01 00:00:00,New Installation,225.0,225.0,1
+750000.0,PAA,2026-10-31 00:00:00,New Installation,355.0,355.0,1
+14440.0,New Filing,2022-01-01 00:00:00,Alteration/Replacement,0.0,0.0,1
+9000.0,New Filing,2021-01-01 00:00:00,Alteration/Replacement,256.8,256.8,1
+7000.0,New Filing,2022-04-01 00:00:00,Alteration/Replacement,236.2,236.2,1
+10000.0,New Filing,2022-01-01 00:00:00,Alteration/Replacement,267.1,267.1,1
+180000.0,New Filing,2020-01-01 00:00:00,Alteration/Replacement,2018.1,2018.1,1

@@ -1,0 +1,51 @@
+sourceid,ssid,type,ntacode,category,count,avg_value,total_value,max_value
+0,GuestWiFi,Limited Free,QN54,Medium Density,1,28.0,28.0,28.0
+LINK-000486,LinkNYC Free Wi-Fi,Free,MN15,Low Density,1,3.0,3.0,3.0
+LINK-010346,LinkNYC Free Wi-Fi,Free,MN11,Low Density,1,9.0,9.0,9.0
+LINK-000240,LinkNYC Free Wi-Fi,Free,MN21,Low Density,1,2.0,2.0,2.0
+LINK-000955,LinkNYC Free Wi-Fi,Free,MN12,Low Density,1,6.0,6.0,6.0
+LINK-021137,LinkNYC Free Wi-Fi,Free,BK73,Medium Density,1,34.0,34.0,34.0
+LINK-002678,LinkNYC Free Wi-Fi,Free,MN24,Low Density,1,1.0,1.0,1.0
+LINK-010882,LinkNYC Free Wi-Fi,Free,MN40,Low Density,1,4.0,4.0,4.0
+LINK-013738,LinkNYC Free Wi-Fi,Free,MN20,Low Density,1,2.0,2.0,2.0
+LINK-001087,LinkNYC Free Wi-Fi,Free,BK95,Medium Density,1,40.0,40.0,40.0
+0,GuestWiFi,Limited Free,QN10,Medium Density,1,32.0,32.0,32.0
+LINK-001690,LinkNYC Free Wi-Fi,Free,MN09,Low Density,1,7.0,7.0,7.0
+LINK-000273,LinkNYC Free Wi-Fi,Free,MN20,Low Density,1,2.0,2.0,2.0
+LINK-011423,LinkNYC Free Wi-Fi,Free,BK32,Medium Density,1,38.0,38.0,38.0
+LINK-012188,LinkNYC Free Wi-Fi,Free,MN17,Low Density,1,4.0,4.0,4.0
+,#DwtwnAllianceFreeWiFi,Free,MN25,Low Density,1,1.0,1.0,1.0
+,Harlem Wi-Fi,Free,MN03,Low Density,1,9.0,9.0,9.0
+,CICFreeWiFi,Free,MN13,Low Density,1,3.0,3.0,3.0
+,NYPL,Free,MN24,Low Density,1,1.0,1.0,1.0
+LINK-021119,LinkNYC Free Wi-Fi,Free,BK73,Medium Density,1,34.0,34.0,34.0
+,GuestWiFi,Limited Free,BX99,Low Density,1,16.0,16.0,16.0
+,TransitWirelessWiFi,Free,MN35,Low Density,1,10.0,10.0,10.0
+LINK-011536,LinkNYC Free Wi-Fi,Free,QN68,Medium Density,1,26.0,26.0,26.0
+LINK-000539,LinkNYC Free Wi-Fi,Free,MN15,Low Density,1,3.0,3.0,3.0
+LINK-001675,LinkNYC Free Wi-Fi,Free,MN19,Low Density,1,4.0,4.0,4.0
+LINK-000043,LinkNYC Free Wi-Fi,Free,BK37,Medium Density,1,39.0,39.0,39.0
+,GuestWiFi,Limited Free,BK99,Medium Density,1,39.0,39.0,39.0
+,NYPL,Free,MN13,Low Density,1,3.0,3.0,3.0
+LINK-001689,LinkNYC Free Wi-Fi,Free,MN09,Low Density,1,7.0,7.0,7.0
+,TransitWirelessWiFi,Free,QN61,Medium Density,1,27.0,27.0,27.0
+LINK-003315,LinkNYC Free Wi-Fi,Free,MN17,Low Density,1,4.0,4.0,4.0
+,Downtown Brooklyn WiFi,Free,BK38,Medium Density,1,33.0,33.0,33.0
+0,GuestWiFi,Limited Free,MN14,Low Density,1,6.0,6.0,6.0
+LINK-010933,LinkNYC Free Wi-Fi,Free,MN09,Low Density,1,6.0,6.0,6.0
+LINK-010946,LinkNYC Free Wi-Fi,Free,BK90,Medium Density,1,34.0,34.0,34.0
+,TransitWirelessWiFi,Free,MN17,Low Density,1,4.0,4.0,4.0
+LINK-000832,LinkNYC Free Wi-Fi,Free,MN40,Low Density,1,4.0,4.0,4.0
+,TransitWirelessWiFi,Free,MN34,Low Density,1,8.0,8.0,8.0
+,BPLUNWIRED,Free,BK82,Medium Density,1,42.0,42.0,42.0
+,Harlem Wi-Fi,Free,MN11,Low Density,1,9.0,9.0,9.0
+LINK-011088,LinkNYC Free Wi-Fi,Free,MN09,Low Density,1,7.0,7.0,7.0
+LINK-001546,LinkNYC Free Wi-Fi,Free,MN12,Low Density,1,7.0,7.0,7.0
+,BPLUNWIRED,Free,BK37,Medium Density,1,39.0,39.0,39.0
+0,GuestWiFi,Limited Free,SI36,Medium Density,3,50.0,150.0,50.0
+LINK-020509,LinkNYC Free Wi-Fi,Free,BX39,Low Density,1,8.0,8.0,8.0
+LINK-011789,LinkNYC Free Wi-Fi,Free,BX34,Low Density,1,17.0,17.0,17.0
+,attwifi,Free,MN34,Low Density,1,9.0,9.0,9.0
+LINK-001540,LinkNYC Free Wi-Fi,Free,MN12,Low Density,1,6.0,6.0,6.0
+LINK-013370,LinkNYC Free Wi-Fi,Free,MN34,Low Density,1,8.0,8.0,8.0
+LINK-000852,LinkNYC Free Wi-Fi,Free,MN40,Low Density,1,4.0,4.0,4.0

@@ -1,0 +1,8 @@
+elevator_type,elevator_landing,elevator_control,device_status,only_elevator_in_building,elevator_operation,meets_the_stretcher_car,rank,dense_rank
+Passenger,"1,2",Solid State,Removed,True,Power,False,1,5
+Passenger,"C,*1,2,3,4",Solid State,Work in Progress,True,Power,False,1,7
+Passenger,11,Solid State,Active,False,Power,True,5,29
+Passenger,15,Solid State,Active,False,Power,True,4,30
+Passenger,C-PH,Solid State,Active,False,Power,False,3,31
+Passenger,38,Solid State,Active,False,Power,False,2,32
+Passenger,L-80,Solid State,Active,False,Power,False,1,33

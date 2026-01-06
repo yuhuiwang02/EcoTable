@@ -1,0 +1,22 @@
+status_description,acm_amount,facility_aka,borough,floor,building_owner_name,procedure_name,rank,dense_rank
+Closed,140,,Queens,2st Floor,Queensboro Tower LLC,Interior Foam,3,1
+Closed,425,,Brooklyn,Cellar,Holy Cross RC Church,Interior Foam,4,2
+Closed,1500,,Manhattan,10th Floor,"APF 28 W 44 Owner LP, C/o APF Properties, LLC",Interior Foam,1,3
+Closed,577,"Patterson Houses, Building#06",Bronx,11,New York City Housing Authority (NYCHA),VAT Protocol in NYCHA Apt,1,1
+Closed,633,Breukelen Houses - Bldg 14,Brooklyn,1,New York City Housing Authority (NYCHA),VAT Protocol in NYCHA Apt,2,2
+Closed,811,Shelton Houses Bldg #1,Queens,2ND,New York City Housing Authority (NYCHA),VAT Protocol in NYCHA Apt,1,3
+Submitted,32,,Queens,roof,Hao-Dong Ma,Exterior Foam,4,2
+Closed,180,,Manhattan,Sub-bsmt,SL Green Realty Corp.,Full Containment,3,1
+Closed,210,Grace Dodge Hall,Manhattan,5th,Teachers College at Columbia University,Full Containment,2,2
+Closed,681,Bldg SG-1-Coney Island Houses GR 1904063,Brooklyn,Cellar,New York City Housing Authority (NYCHA),Full Containment,1,3
+Closed,25,IS-127X,Bronx,1st Floor,NYC School Construction Authority (NYCSCA),Tent,5,7
+Closed,190,F9-2,Queens,Cellar,Clearview Gardens Corporation,Tent,2,10
+Postponed,56,,Manhattan,30,77th St. and East End Ave Corp. c/o D.E. Prop Mgmt,Exterior Vertical Surface,4,6
+Closed,274,"NYCHA Breukelen, Bld. #7 - Contract RF1625124",Brooklyn,2,New York City Housing Authority (NYCHA),Exterior Vertical Surface,5,7
+Submitted,10,,Queens,12,LeFrak Property Management,DEP Variance,5,2
+Closed,31,Melrose Public Library,Bronx,1st Floor,New York Public Library,DEP Variance,4,5
+Closed,55,,Manhattan,05,Brookfield Properties,DEP Variance,5,7
+Closed,55,,Manhattan,05,Brookfield Properties,DEP Variance,5,7
+Closed,150,MS/HS 3420 @ Walton HS (X430),Bronx,Sub-Bas,NYC School Construction Authority (NYCSCA),DEP Variance,2,9
+Closed,150,MS/HS 3420 @ Walton HS (X430),Bronx,Sub-Bas,NYC School Construction Authority (NYCSCA),DEP Variance,2,9
+Closed,525,Bldg OG4-Coney Island Houses GR 1904063,Brooklyn,Cellar,New York City Housing Authority (NYCHA),DEP Variance,3,10

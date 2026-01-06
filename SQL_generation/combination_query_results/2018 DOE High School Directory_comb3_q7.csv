@@ -1,0 +1,20 @@
+dbn,school_name,phone_number,code1,attendance_rate,college_career_rate,rank,dense_rank
+10X237,"The Marie Curie School for Medicine, Nursing, and Health Professions",718-432-6491,X62X,0.84,0.61,3,1
+07X551,The Urban Assembly Bronx Academy of Letters,718-401-4891,X27A,0.83,0.48,4,2
+09X263,Validus Preparatory Academy,718-466-4000,X07R,0.8,0.48,5,2
+10X268,Kingsbridge International High School,718-329-8580,X86R,0.86,0.37,1,3
+10X524,Crotona International High School,718-561-8701,Y56A,0.85,0.32,2,4
+28Q350,Jamaica Gateway to the Sciences,718-480-2689,Q26G,0.91,0.82,2,1
+28Q686,Queens Metropolitan High School,718-286-3600,Q39Z,0.92,0.72,1,2
+27Q260,Frederick Douglass Academy VI High School,718-471-2154,Q75X,0.85,0.24,3,3
+17K531,The School for Human Rights,718-771-4793,K04X,0.9,0.68,3,1
+23K644,Eagle Academy for Young Men II,718-495-0863,L65A,0.91,0.67,1,2
+21K337,International High School at Lafayette,718-333-7860,K38R,0.9,0.53,3,3
+14K558,Williamsburg High School for Architecture and Design,718-388-1260,K09X,0.91,0.49,1,4
+19K683,"The School for Classics: An Academy of Thinkers, Writers and Performers",718-277-1069,L53A,0.83,0.42,5,5
+05M362,Columbia Secondary School,212-666-1278,A15A,0.95,0.97,2,1
+04M555,Central Park East High School,212-860-5929,M86A,0.95,0.92,2,2
+02M418,Millennium High School,212-825-9008,M25A,0.97,0.87,1,3
+02M507,Urban Assembly Gateway School for Technology,212-246-1041,A23A,0.87,0.71,5,4
+02M580,Richard R. Green High School of Teaching,646-826-8174,M23A,0.87,0.44,5,6
+02M047, The American Sign Language and English Secondary School,917-326-6668,M54A,0.89,0.41,4,7

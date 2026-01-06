@@ -1,0 +1,19 @@
+violation_type,respondent_city,ecb_violation_status,total,count,average
+Construction,QNS,RESOLVE,5160,8,645.0
+Unknown,NY,RESOLVE,5132,5,1026.4
+Construction,QUEENS,RESOLVE,5069,1,5069.0
+Construction,QN,RESOLVE,4800,2,2400.0
+Plumbing,BRONX,RESOLVE,3770,1,3770.0
+Quality of Life,QUEENS,RESOLVE,3050,1,3050.0
+Construction,NY,RESOLVE,3000,3,1000.0
+Construction,BK,RESOLVE,2850,12,237.5
+Construction,PALISADES PARK,RESOLVE,2400,1,2400.0
+Unknown,BK,RESOLVE,2000,2,1000.0
+Unknown,QNS,ACTIVE,1604,2,802.0
+Unknown,NEW YORK,RESOLVE,1132,2,566.0
+Local Law,NY,RESOLVE,880,8,110.0
+Unknown,QN,RESOLVE,800,1,800.0
+Site Safety,BK,RESOLVE,750,1,750.0
+Construction,FLUSHING,ACTIVE,508,1,508.0
+Elevators,NY,RESOLVE,250,1,250.0
+Construction,SI,RESOLVE,250,1,250.0

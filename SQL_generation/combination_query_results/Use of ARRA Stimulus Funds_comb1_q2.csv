@@ -1,0 +1,9 @@
+funding_category,project_status,category,count,avg_value,total_value,max_value
+Health and Social Support,Fully Completed,High stimulus funding,3,1903336.0,5710008.0,1903336.0
+Education,Less than 50% completed,High stimulus funding,3741,513933342.1071906,1922624632823.0,707717837.0
+Infrastructure,Less than 50% completed,High stimulus funding,388,23724959.81000014,9205284406.280054,23724959.81
+Health and Social Support,Completed 50% or more,High stimulus funding,1,4035570.0,4035570.0,4035570.0
+Infrastructure,Completed 50% or more,High stimulus funding,1,1648528.44,1648528.44,1648528.44
+Infrastructure,Completed 50% or more,Medium stimulus funding,1,655000.0,655000.0,655000.0
+Economic and Workforce Development,Completed 50% or more,High stimulus funding,9,17261948.555555556,155357537.0,18753652.0
+Neighborhood Stabilization,Less than 50% completed,High stimulus funding,1,7450974.0,7450974.0,7450974.0

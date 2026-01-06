@@ -1,0 +1,25 @@
+id,statusdate,daterequested,t4_statusdate,t5_daterequested,locationtype,requesttype,statusdescription,rank,dense_rank
+113546,2016-01-06 00:00:00,2015-11-19 00:00:00,2016-01-06 00:00:00,2015-11-19 00:00:00,Intersection,,Engineering Study Completed     (Signals Engineering),1,1
+187602,2023-06-21 00:00:00,2023-01-16 00:00:00,2023-06-21 00:00:00,2023-01-16 00:00:00,Intersection,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),1,1
+41133,2015-07-16 00:00:00,2015-06-02 00:00:00,2015-07-16 00:00:00,2015-06-02 00:00:00,Intersection,,Engineering Study Completed     (Signals Engineering),3,1
+39950,2015-05-08 00:00:00,2015-03-24 00:00:00,2015-05-08 00:00:00,2015-03-24 00:00:00,Intersection,,Engineering Study Completed     (Signals Engineering),4,1
+39950,2015-05-08 00:00:00,2015-03-24 00:00:00,2015-05-08 00:00:00,2015-03-24 00:00:00,Intersection,,Engineering Study Completed     (Signals Engineering),4,1
+113348,2015-11-20 00:00:00,2015-10-27 00:00:00,2015-11-20 00:00:00,2015-10-27 00:00:00,Intersection,,Engineering Study Completed     (Signals Engineering),2,1
+145537,2019-03-05 00:00:00,2018-10-18 00:00:00,2019-03-05 00:00:00,2018-10-18 00:00:00,Intersection,Leading Pedestrian Interval,Engineering Study Completed     (Signals Engineering),1,1
+157279,2020-10-27 00:00:00,2020-10-15 00:00:00,2020-10-27 00:00:00,2020-10-15 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,1
+157279,2020-10-27 00:00:00,2020-10-15 00:00:00,2020-10-27 00:00:00,2020-10-15 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,1
+157279,2020-10-27 00:00:00,2020-10-15 00:00:00,2020-10-27 00:00:00,2020-10-15 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Intersection,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+138646,2017-10-05 00:00:00,2017-08-09 00:00:00,2017-10-05 00:00:00,2017-08-09 00:00:00,Intersection,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),3,1
+140694,2018-01-24 00:00:00,2017-10-06 00:00:00,2018-01-24 00:00:00,2017-10-06 00:00:00,Intersection,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),2,1
+28430,2011-09-09 00:00:00,2010-08-18 00:00:00,2011-09-09 00:00:00,2010-08-18 00:00:00,Intersection,Left Turn Arrow/Signal,L/T Approval,4,2
+38612,2018-02-13 00:00:00,2014-12-18 00:00:00,2018-02-13 00:00:00,2014-12-18 00:00:00,Intersection,Leading Pedestrian Interval,LPI Approval,2,3
+157279,2020-10-27 00:00:00,2020-10-15 00:00:00,2020-10-27 00:00:00,2020-10-15 00:00:00,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),1,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+156641,2020-10-27 00:00:00,2020-07-20 00:00:00,2020-10-27 00:00:00,2020-07-20 00:00:00,Citywide,Traffic Signal,Engineering Study Completed     (Signals Engineering),5,1
+121918,2000-09-20 00:00:00,2000-09-19 00:00:00,2000-09-20 00:00:00,2000-09-19 00:00:00,Stretch,Left Turn Arrow/Signal,Engineering Study Completed     (Signals Engineering),5,1

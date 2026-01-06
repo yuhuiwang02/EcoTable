@@ -1,0 +1,6 @@
+city_council_district,total_units,borough_block_lot,boiler_capacity_gross_btu,utility,ownership_borough_block_lot,of_res_units,rank,dense_rank
+1,200,1005500022,16.8,Con Edison,1005500022,198,2,5
+1,200,1005500022,16.8,Con Edison,1005500022,198,2,5
+3,2,1009990009,24.0,Con Edison,1009990009,0,1,3
+3,229,1008687502,15.5,Con Edison,1008687502,224,4,28
+6,376,1011380001,12.6,Con Edison,1011380001,376,5,4

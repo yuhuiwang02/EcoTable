@@ -1,0 +1,10 @@
+s1,opendateiso,building,itin,l1,mappedaddress,rank,dense_rank
+"""In Person, Drop Off""",2019-01-11 00:00:00,1150,Non-CAA ITIN,"""English, Spanish""","""1150 EAST 229 STREET, Bronx NY, 10466""",1,1
+Drop Off,2019-01-28 00:00:00,228,Non-CAA ITIN,English,"""228 York Street, Brooklyn NY, 11201""",1,2
+Drop Off,2019-01-28 00:00:00,630,Non-CAA ITIN,English,"""632 Flushing Avenue, Brooklyn NY, 11206""",1,2
+Assisted Self-Preparation,2019-01-28 00:00:00,1866,Non-CAA ITIN,English,"""1866 Washington Avenue, Bronx NY, 10457""",1,2
+In Person,2019-01-28 00:00:00,45,Non-CAA ITIN,"""English, Spanish""","""45 Wadsworth Avenue, Manhattan NY, 10033""",1,2
+"""In Person, Drop Off""",2019-01-22 00:00:00,2401,,"""English, Spanish, Russian""","""2401 Avenue U,, Brooklyn NY, 11229""",1,1
+"""In Person, Drop Off""",2019-01-23 00:00:00,451,,English,"""451 Clarkson Ave, Brooklyn NY, 11203""",1,2
+In Person,2019-01-29 00:00:00,238,,"""English, Spanish""","""238 Bleecker Street, Manhattan NY, 10014""",1,3
+In Person,2019-02-06 00:00:00,43-31,,"""English, Spanish""","""43-31 39th Street, Queens NY, 11104""",1,4

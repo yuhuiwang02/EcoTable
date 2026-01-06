@@ -1,0 +1,32 @@
+dsny_district,dsny_zone,categoriesaccepted,senate_district,police_precinct,count,total
+BKN01,BKN,Books/Media,59.0,90.0,2,118.0
+BX11,BX,HealthCare,33.0,49.0,2,66.0
+BKN01,BKN,"Clothing/Personal Accessories, Footwear",59.0,94.0,1,59.0
+QW01,QW,"Clothing/Personal Accessories, Footwear",59.0,114.0,1,59.0
+BKN01,BKN,"Arts/Crafts, Baby Care, Clothing/Personal Accessories, Food/Beverage, Footwear, Musical Instruments, Office Supplies/Stationary, Personal Care/Hygiene, Sports Equipment, Toys/Games",59.0,94.0,1,59.0
+SI03,SI,Clothing/Personal Accessories,24.0,,2,48.0
+BX12,BX,"Appliances, Sports Equipment, Personal Care/Hygiene, Office Supplies/Stationary, Office Furniture/Furnishings, Musical Instruments, Kitchen Items, Household Furniture/Furnishings, HealthCare, Footwear, Food/Beverage, Electronics, Clothing/Personal Access",36.0,47.0,1,36.0
+BX11,BX,"Clothing/Personal Accessories, Footwear",33.0,49.0,1,33.0
+QE07,QE,"Clothing/Personal Accessories, Footwear",11.0,109.0,3,33.0
+BX06,BX,Food/Beverage,33.0,48.0,1,33.0
+BX06,BX,"Clothing/Personal Accessories, Footwear",32.0,48.0,1,32.0
+MN12,MN,"Clothing/Personal Accessories, Footwear",31.0,34.0,1,31.0
+BX01,BX,"Baby Care, Building Products, Cleaning Products, Clothing/Personal Accessories, Food/Beverage, Footwear, Kitchen Items, Lawn/Garden Supplies, Office Supplies/Stationary, Personal Care/Hygiene, Tools/Equipment",29.0,40.0,1,29.0
+MN02,MN,"Books/Media, Clothing/Personal Accessories, Household Furniture/Furnishings, Kitchen Items, Footwear, Arts/Crafts, Musical Instruments, Office Furniture/Furnishings",27.0,5.0,1,27.0
+MN02,MN,"Books/Media, Clothing/Personal Accessories, Household Furniture/Furnishings, Kitchen Items, Footwear, Arts/Crafts, Musical Instruments, Office Furniture/Furnishings",27.0,6.0,1,27.0
+BKS07,BKS,"Food/Beverage, Baby Care",26.0,72.0,1,26.0
+BKN03,BKN,"Clothing/Personal Accessories, Footwear",25.0,79.0,1,25.0
+BKN03,BKN,"Arts/Crafts, Cleaning Products, Clothing/Personal Accessories, Food/Beverage, Footwear, HealthCare, Office Supplies/Stationary, Personal Care/Hygiene, Tools/Equipment",25.0,79.0,1,25.0
+SI02,SI,"Clothing/Personal Accessories, Footwear",24.0,121.0,1,24.0
+SI03,SI,"Automotive, Pet Care/Food, Appliances, Cleaning Products, Storage/Haulage Containers, Tools/Equipment",24.0,,1,24.0
+SI01,SI,"Clothing/Personal Accessories, Footwear",23.0,121.0,1,23.0
+BKN08,BKN,"Arts/Crafts, Books/Media, Clothing/Personal Accessories, Electronics, Food/Beverage, Footwear, Cleaning Products, Personal Care/Hygiene",20.0,77.0,1,20.0
+BKN05,BKN,"Arts/Crafts, Books/Media, Clothing/Personal Accessories, Electronics, Food/Beverage, Footwear, Household Furniture/Furnishings, Lawn/Garden Supplies, Musical Instruments, Office Furniture/Furnishings, Office Supplies/Stationary, Sports Equipment, Toys/Ga",19.0,75.0,1,19.0
+BKN04,BKN,"Clothing/Personal Accessories, Footwear",18.0,83.0,1,18.0
+BKN04,BKN,"Clothing/Personal Accessories, Appliances, Kitchen Items, Footwear",18.0,83.0,1,18.0
+QE07,QE,"Clothing/Personal Accessories, Footwear",16.0,109.0,1,16.0
+QW09,QW,"Clothing/Personal Accessories, Food/Beverage, Footwear, Baby Care, Cleaning Products, Household Furniture/Furnishings, Personal Care/Hygiene, Pet Care/Food",15.0,102.0,1,15.0
+QW09,QW,"Clothing/Personal Accessories, Footwear",15.0,102.0,1,15.0
+QE13,QE,Clothing/Personal Accessories,14.0,116.0,1,14.0
+QE08,QE,"Appliances, Arts/Crafts, Books/Media, Clothing/Personal Accessories, Electronics, Food/Beverage, Footwear, Musical Instruments, Office Furniture/Furnishings, Toys/Games",11.0,107.0,1,11.0
+QE12,QE,"Clothing/Personal Accessories, Footwear",11.0,103.0,1,11.0

@@ -1,0 +1,16 @@
+ownercity,requeststatus,plansubmitdate,total,count,average
+New York,Hold,,229,39,5.871794871794871
+New York,Pending,1999-02-10 00:00:00,78,19,4.105263157894737
+New York,Pending,2010-07-07 00:00:00,46,2,23.0
+New York,Pending,2012-06-10 00:00:00,40,2,20.0
+New York,Pending,2011-05-25 00:00:00,40,2,20.0
+New York,Pending,2011-06-07 00:00:00,10,1,10.0
+New York,Pending,2013-01-24 00:00:00,10,1,10.0
+New York,Pending,2012-08-10 00:00:00,8,1,8.0
+New York,Pending,2012-07-09 00:00:00,6,6,1.0
+New York,Pending,2011-05-24 00:00:00,5,1,5.0
+New York,Pending,2010-08-04 00:00:00,5,1,5.0
+New York,Pending,2011-05-09 00:00:00,4,1,4.0
+New York,Pending,,2,2,1.0
+New York,Pending,2012-07-21 00:00:00,2,2,1.0
+New York,Pending,2010-05-16 00:00:00,1,1,1.0

@@ -1,0 +1,27 @@
+nta2020,permityear,schelmntry,job_status,category,count,avg_value,total_value,max_value
+SI0105,2025.0,282.0,3. Permitted for Construction,low,1,2.0,2.0,2.0
+BK0402,2025.0,112.0,3. Permitted for Construction,low,1,2.0,2.0,2.0
+BK0402,2025.0,88.0,3. Permitted for Construction,low,1,2.0,2.0,2.0
+MN0203,2022.0,875.0,5. Completed Construction,low,1,-3.0,-3.0,-3.0
+BK0301,2025.0,243.0,3. Permitted for Construction,low,1,2.0,2.0,2.0
+BK0301,2025.0,31.0,3. Permitted for Construction,low,1,7.0,7.0,7.0
+SI0201,2023.0,287.0,5. Completed Construction,low,1,2.0,2.0,2.0
+MN1201,2023.0,583.0,3. Permitted for Construction,low,1,2.0,2.0,2.0
+MN0303,2023.0,502.0,5. Completed Construction,low,1,0.0,0.0,0.0
+BK0602,2023.0,109.0,5. Completed Construction,low,1,-1.0,-1.0,-1.0
+MN0203,2021.0,875.0,3. Permitted for Construction,low,1,-2.0,-2.0,-2.0
+QN1403,2022.0,404.0,3. Permitted for Construction,low,1,1.0,1.0,1.0
+BK0401,2023.0,80.0,3. Permitted for Construction,low,1,1.0,1.0,1.0
+BK0402,2023.0,92.0,5. Completed Construction,low,1,-2.0,-2.0,-2.0
+QN0203,2022.0,900.0,5. Completed Construction,low,1,3.0,3.0,3.0
+BK1702,2024.0,22.0,3. Permitted for Construction,low,1,8.0,8.0,8.0
+BK0104,2024.0,41.0,3. Permitted for Construction,low,1,6.0,6.0,6.0
+BK0402,2023.0,206.0,1. Filed Application,low,1,-2.0,-2.0,-2.0
+QN1403,2022.0,830.0,3. Permitted for Construction,low,1,1.0,1.0,1.0
+BK0102,2024.0,42.0,3. Permitted for Construction,low,1,1.0,1.0,1.0
+BK1702,2024.0,695.0,9. Withdrawn,low,1,8.0,8.0,8.0
+BK0101,2023.0,45.0,3. Permitted for Construction,low,1,8.0,8.0,8.0
+QN1102,2022.0,915.0,5. Completed Construction,low,1,1.0,1.0,1.0
+BK1202,2023.0,228.0,3. Permitted for Construction,low,1,1.0,1.0,1.0
+MN1203,2022.0,589.0,5. Completed Construction,high,1,224.0,224.0,224.0
+BK0201,2024.0,116.0,3. Permitted for Construction,low,1,-7.0,-7.0,-7.0

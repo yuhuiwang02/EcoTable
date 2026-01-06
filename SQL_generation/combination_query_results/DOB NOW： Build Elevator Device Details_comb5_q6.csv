@@ -1,0 +1,44 @@
+type_of_machine_break,car_inside_width_inches,elevator_type,elevator_landing,device_status,total_travel_feet,elevator_operation,car_inside_width_feet
+,3.0,Passenger,12,Active,117.7,Power,5.0
+Drum,8.0,Passenger,16,Active,162.0,Power,4.0
+Drum,0.0,Passenger,5,Active,48.0,Power,0.0
+Drum,6.0,Passenger,9,Active,80.0,Power,3.0
+Drum,5.0,Passenger,"LL, L, 11-21",Active,280.0,Power,5.0
+Drum,0.0,Passenger,4,Active,30.0,Manual,4.0
+Disc,6.0,Passenger,"B,L,OR,2-11",Active,120.0,Power,6.0
+,0.0,Passenger,7,Active,84.0,Power,4.0
+,10.0,Passenger,2,Active,11.6,Power,10.0
+Emergency Brake,2.0,Passenger,"1,2",Removed,13.0,Power,4.0
+Drum,7.0,Passenger,7,Active,65.0,Power,6.0
+,,Passenger,,Active,,,
+Disc,8.0,Passenger,"C, B, 1-8, R",Active,93.08,Power,6.0
+,8.0,Passenger,"L,2-6,R",Active,70.0,Manual,5.0
+,8.0,Passenger,6,Active,60.0,Power,5.0
+Disc,6.0,Passenger,10,Active,100.0,Power,3.0
+Drum,7.0,Passenger,15,Active,332.0,Power,6.0
+,0.0,Passenger,6,Active,0.0,Power,6.0
+Drum,8.0,Passenger,"L,2,3,4,5",Active,45.0,Power,6.0
+Emergency Brake,8.0,Passenger,3,Active,12.2,Power,6.0
+Emergency Brake,8.0,Passenger,"L,1-6",Active,60.0,Power,5.0
+,,Passenger,,Active,,,
+Disc,7.0,Passenger,11,Active,300.0,Power,7.0
+,,Passenger,,Active,,,
+Drum,2.0,Passenger,38,Active,385.0,Power,4.0
+Drum,3.0,Passenger,"B,L,M THRU 12",Active,167.0,Power,6.0
+Disc,6.0,Passenger,17,Active,160.0,Power,3.0
+Disc,8.0,Passenger,6,Active,50.0,Power,5.0
+Drum,0.0,Passenger,7,Active,65.0,Manual,5.0
+,8.0,Passenger,2,Active,10.0,Power,5.0
+,9.0,Passenger,6,Active,49.0,Power,5.0
+Drum,6.0,Passenger,L-80,Active,960.0,Power,6.0
+,,Passenger,,Active,,,
+Drum,9.0,Passenger,7,Active,74.0,Manual,5.0
+Disc,0.0,Passenger,"C,*1,2,3,4",Work in Progress,43.0,Power,5.0
+Disc,5.0,Passenger,7,Active,76.0,Power,8.0
+Drum,0.0,Passenger,6,Active,60.0,Power,6.0
+Drum,1.0,Passenger,"B, 1-4",Active,118.0,Power,4.0
+Disc,0.0,Passenger,"B, 1-6",Active,60.0,Power,6.0
+,8.0,Passenger,1-2-3,Active,30.0,Power,6.0
+Disc,1.0,Passenger,12,Active,139.0,Power,5.0
+Drum,5.0,Passenger,C-PH,Active,350.0,Power,4.0
+Disc,9.0,Passenger,6,Active,60.0,Power,6.0

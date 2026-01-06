@@ -1,0 +1,51 @@
+work_id,work_description,category,count,avg_value,total_value,max_value
+007E1374-7C21-E811-8117-005056B627E4,Floor Descriptions,low_quantity,1,29.0,29.0,29.0
+00C09DF4-D2F7-E811-811B-005056B627E4,Panels,low_quantity,146,1.0,146.0,1.0
+00FC7EA4-C194-E811-8119-005056B627E6,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,1.0,146.0,1.0
+000BCB9A-BCED-E811-811A-005056B627E6,Service Switches,low_quantity,146,1.0,146.0,1.0
+00D611FC-252A-E811-8117-005056B627E4,Floor Descriptions,high_quantity,1,157.0,157.0,157.0
+011C487D-E341-E911-811F-005056B627E6,Service Switches,low_quantity,146,1.0,146.0,1.0
+006A58EA-56E8-E811-811A-005056B627E6,Service Switches,low_quantity,146,1.0,146.0,1.0
+000B46FA-1502-E911-811C-005056B627E4,Panels,low_quantity,146,5.0,730.0,5.0
+003A2ACF-6A2C-E811-8117-005056B627E4,Boiler Controls,low_quantity,146,1.0,146.0,1.0
+00080E73-398A-E811-811A-005056B627E4,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,2.0,292.0,2.0
+009000AC-5D7A-E811-811A-005056B627E4,Panels,low_quantity,146,2.0,292.0,2.0
+0022955F-B9E1-E711-8116-005056B627E6,Panels,low_quantity,146,1.0,146.0,1.0
+003D98CE-2B2E-E911-811E-005056B627E6,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,15.0,2190.0,15.0
+00086258-6E46-E911-8120-005056B627E4,Panels,low_quantity,146,4.0,584.0,4.0
+01027011-A116-E811-8117-005056B627E4,Service Switches,low_quantity,146,2.0,292.0,2.0
+009F8962-17DD-E811-811A-005056B627E6,Floor Descriptions,high_quantity,1,160.0,160.0,160.0
+0091011B-0D52-E911-8120-005056B627E4,Floor Descriptions,high_quantity,1,169.0,169.0,169.0
+0017299E-3F17-E811-8117-005056B627E4,Floor Descriptions,high_quantity,2,242.0,484.0,242.0
+00D10360-6CEF-E811-811A-005056B627E6,Panels,low_quantity,146,1.0,146.0,1.0
+00683452-2EFE-E811-811B-005056B627E4,Service Switches,low_quantity,146,1.0,146.0,1.0
+00A6347E-0D45-E911-8120-005056B627E4,Panels,low_quantity,146,29.0,4234.0,29.0
+0064AD01-0440-E911-811F-005056B627E6,Service Switches,low_quantity,146,1.0,146.0,1.0
+007820A2-0668-E811-8119-005056B627E6,Floor Descriptions,high_quantity,4,3742.0,14968.0,3742.0
+000F544E-A0FF-E811-811C-005056B627E4,Floor Descriptions,low_quantity,2,28.0,56.0,28.0
+0010DA2B-5921-E811-8117-005056B627E4,Floor Descriptions,low_quantity,1,20.0,20.0,20.0
+008D27F6-0B5A-E911-8120-005056B627E6,Floor Descriptions,medium_quantity,1,146.0,146.0,146.0
+0095562C-3BC7-E811-811B-005056B627E4,Floor Descriptions,high_quantity,1,205.0,205.0,205.0
+012BF73A-F319-E911-811D-8CFAEDA547D3,Floor Descriptions,medium_quantity,1,93.0,93.0,93.0
+000FE78B-5164-E811-8119-005056B627E4,Panels,low_quantity,146,4.0,584.0,4.0
+006B5383-4B79-E811-811A-005056B627E4,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,43.0,6278.0,43.0
+005AB596-3934-E811-8117-005056B627E4,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,2.0,292.0,2.0
+0100691A-79BB-E811-811A-005056B627E6,Service Switches,low_quantity,146,1.0,146.0,1.0
+010745B3-030D-E911-811C-005056B627E4,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,1.0,146.0,1.0
+005765AE-5D22-E811-8117-005056B627E4,Floor Descriptions,low_quantity,1,8.0,8.0,8.0
+013ACB35-B7FB-E711-8116-005056B627E6,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,1.0,146.0,1.0
+0027432C-F231-E811-8117-005056B627E4,Panels,low_quantity,146,1.0,146.0,1.0
+01176498-4302-E911-811C-005056B627E4,Floor Descriptions,medium_quantity,2,72.0,144.0,72.0
+00C4AABE-8D55-E911-8120-005056B627E4,Floor Descriptions,high_quantity,1,497.0,497.0,497.0
+00A989F5-81A0-E811-811B-005056B627E4,Service Switches,low_quantity,146,1.0,146.0,1.0
+00F962A4-580B-E811-8117-005056B627E4,Panels,low_quantity,146,1.0,146.0,1.0
+0094CA44-FADD-E811-811A-005056B627E6,Floor Descriptions,high_quantity,1,251.0,251.0,251.0
+00C1381B-DC17-E811-8117-005056B627E4,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,4.0,584.0,4.0
+00B19FB8-2294-E811-8119-005056B627E6,Panels,low_quantity,146,4.0,584.0,4.0
+00F63F75-1201-E811-8116-005056B627E6,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,1.0,146.0,1.0
+006E1696-565D-E911-8120-005056B627E6,Service Entrance and Feeder Conductors. List Each Set,low_quantity,146,4.0,584.0,4.0
+00ED446D-ED44-E811-8117-005056B627E4,Floor Descriptions,low_quantity,1,47.0,47.0,47.0
+00C19EAC-F153-E911-8120-005056B627E4,Floor Descriptions,medium_quantity,1,98.0,98.0,98.0
+0083AC4F-B9CC-E811-811B-005056B627E4,Panels,low_quantity,146,18.0,2628.0,18.0
+009ECB8A-6F49-E811-8117-005056B627E4,Service Switches,low_quantity,146,2.0,292.0,2.0
+012BC4C4-C0A0-E811-811B-005056B627E4,Panels,low_quantity,146,1.0,146.0,1.0

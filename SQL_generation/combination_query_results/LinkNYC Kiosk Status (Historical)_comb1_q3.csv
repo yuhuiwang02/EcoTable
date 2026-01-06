@@ -1,0 +1,6 @@
+city,wifi_status,corner,total,count,average
+New York,up,SE,15,15,15.0
+New York,up,NE,11,11,11.0
+New York,up,NW,9,9,9.0
+New York,up,SW,7,7,7.0
+New York,up,MIDBLOCK,5,5,5.0

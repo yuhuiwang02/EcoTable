@@ -1,0 +1,17 @@
+queens_condominium_property_neighborhood,queens_condominium_property_boro_block_lot,category,count,avg_value,total_value,max_value
+REGO PARK,4-03100-7501,low value,1,43.6,43.6,43.6
+ELMHURST,4-01910-7501,low value,1,42.0,42.0,42.0
+CORONA,4-01775-7501,medium value,1,91.0,91.0,91.0
+BRIARWOOD,4-09668-7501,medium value,1,51.0,51.0,51.0
+BRIARWOOD,4-09651-7501,medium value,1,63.0,63.0,63.0
+FLUSHING-NORTH,4-05042-7501,medium value,1,71.0,71.0,71.0
+LONG ISLAND CITY,4-00416-7501,high value,1,104.0,104.0,104.0
+COLLEGE POINT,4-04044-7501,medium value,1,87.0,87.0,87.0
+FLUSHING-NORTH,4-04994-7504,medium value,1,75.0,75.0,75.0
+ELMHURST,4-01527-7501,medium value,1,67.0,67.0,67.0
+ELMHURST,4-01310-7501,low value,1,43.6,43.6,43.6
+FLUSHING-NORTH,4-05294-7501,low value,1,49.1,49.1,49.1
+WOODSIDE,4-01307-7501,medium value,1,65.0,65.0,65.0
+HOWARD BEACH,4-11440-7501,low value,1,49.0,49.0,49.0
+FLUSHING-NORTH,4-05598-7501,medium value,1,51.0,51.0,51.0
+FLUSHING-NORTH,4-05024-7501,medium value,1,67.0,67.0,67.0

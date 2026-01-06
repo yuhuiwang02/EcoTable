@@ -1,0 +1,14 @@
+school_type,category,count,avg_value,total_value,max_value
+Middle School,Medium Safety,11,7.327272727272728,80.60000000000001,8.0
+Transfer School,Medium Safety,2,7.6,15.2,8.0
+Elementary School,High Safety,4,8.575,34.3,9.0
+Middle/ High School,Medium Safety,1,7.1,7.1,7.1
+Middle School,High Safety,1,9.1,9.1,9.1
+High School,Medium Safety,20,7.014999999999999,140.29999999999998,7.9
+YABC,Medium Safety,2,7.4,14.8,8.0
+Elementary/ Middle School,Medium Safety,1,7.8,7.8,7.8
+Elementary School,Medium Safety,3,7.733333333333334,23.200000000000003,7.9
+YABC,High Safety,1,8.7,8.7,8.7
+High School,High Safety,3,8.466666666666667,25.4,8.7
+Elementary/ Middle School,High Safety,2,8.35,16.7,8.5
+Transfer School,High Safety,1,8.4,8.4,8.4

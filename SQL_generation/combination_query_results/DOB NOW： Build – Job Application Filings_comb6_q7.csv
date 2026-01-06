@@ -1,0 +1,11 @@
+plumbing_work_type,applicant_first_name,filing_representative_first_name,total_construction_floor_area,curb_cut,signoff_date,category,count,avg_value,total_value,max_value
+1,Jerry,HELEN,111.0,0,,low,1,1800.0,1800.0,1800.0
+1,Darlyn,,250.0,0,2022-12-27 00:00:00,low,1,6000.0,6000.0,6000.0
+1,Gheorghe,KATHERINE,22728.0,0,,high,1,162500.0,162500.0,162500.0
+0,Michael,SHMUEL,10465.0,0,2024-06-24 00:00:00,high,1,150000.0,150000.0,150000.0
+0,Samy,MUHAMMAD,100.0,0,,low,1,5000.0,5000.0,5000.0
+0,Eric,JOHN,0.0,0,,low,1,4000.0,4000.0,4000.0
+1,Albert,,496.0,0,,low,1,12000.0,12000.0,12000.0
+0,BRUCE,MARTIN,7500.0,0,2022-05-02 00:00:00,medium,1,70000.0,70000.0,70000.0
+0,RICARDO,BERNARD,78276.0,0,2025-03-18 00:00:00,high,1,1574865.0,1574865.0,1574865.0
+1,Richard,MU/RO/BR/SE,3186.0,0,,low,1,38850.0,38850.0,38850.0

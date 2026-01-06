@@ -1,0 +1,7 @@
+operatorstatus,concessioncity,category,count,avg_value,total_value,max_value
+1.0,Brooklyn,high fee,12,66666.0,799992.0,66666.0
+1.0,,high fee,15,35216.67333333333,528250.1,208333.37
+1.0,,medium fee,4,314.5825,1258.33,460.0
+1.0,,low fee,25,18.133200000000002,453.33000000000004,183.33
+1.0,Brooklyn,low fee,1,0.0,0.0,0.0
+1.0,Queens,high fee,1,14166.0,14166.0,14166.0

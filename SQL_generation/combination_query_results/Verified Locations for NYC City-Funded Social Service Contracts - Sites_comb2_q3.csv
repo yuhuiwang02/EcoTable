@@ -1,0 +1,10 @@
+fixed_address,state_senate_district,capacity_units,service_taxonomy,serves_food,record_count,total_amount,avg_amount,max_amount,min_amount
+True,26.0,,,False,11,1585113.06,792556.53,792556.53,792556.53
+True,33.0,,"[""recreational services"",""arts and culture"",""mentoring""]",False,8,,,,
+True,32.0,,"[""emergency preparedness and response"",""client evaluation/assessment"",""intake"",""preventive services""]",False,6,,,,
+True,33.0,,"[""athletic leagues""]",False,30,,,,
+True,19.0,,"[""athletic leagues""]",False,15,,,,
+True,30.0,,"[""athletic leagues""]",False,15,,,,
+True,23.0,,"[""athletic leagues""]",False,15,,,,
+True,26.0,seats,,False,14,,,,
+True,24.0,,"[""athletic leagues""]",False,15,,,,
