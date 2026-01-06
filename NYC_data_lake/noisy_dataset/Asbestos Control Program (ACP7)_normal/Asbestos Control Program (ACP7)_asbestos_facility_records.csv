@@ -1,0 +1,210 @@
+start_date,longitude,street_name,nta,building_owner_name,facility_type,lot
+2022-08-08T00:00:00.000,-73.898309,Reservoir Avenue,Van Cortlandt Village,NYC School Construction Authority (NYCSCA),School,70.0
+2024-06-26T00:00:00.000,-73.922463,Hancock Street,Stuyvesant Heights,NYC School Construction Authority (NYCSCA),School,1.0
+2024-05-09T00:00:00.000,-73.964251,COLUMBUS AVENUE,Upper West Side,New York City Housing Authority (NYCHA),Residence,1.0
+2022-03-22T00:00:00.000,-73.945959,Maujer Street,East Williamsburg,New York City Housing Authority (NYCHA),Residence,1.0
+2022-01-24T00:00:00.000,-73.917869,Morris Ave,East Concourse-Concourse Village,New York Public Library,Other,1.0
+2024-05-06T00:00:00.000,-73.997217,West 31 Street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,15.0
+2019-10-15T00:00:00.000,-73.990378,West 23rd street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,15.0
+2021-01-13T00:00:00.000,-73.98104,West 44th Street,Midtown-Midtown South,"APF 28 W 44 Owner LP, C/o APF Properties, LLC",Commercial,19.0
+2025-12-08T00:00:00.000,-73.912351,Bristol Street,Brownsville,NYC School Construction Authority (NYCSCA),School,8.0
+2022-04-28T00:00:00.000,-73.992901,West 27th Street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,14.0
+2025-11-28T00:00:00.000,-73.949835,East 79th Street,Yorkville,77th St. and East End Ave Corp. c/o D.E. Prop Mgmt,Residence,14.0
+2024-07-29T00:00:00.000,-73.974801,Central Park West,Upper West Side,"Scott Landesman, Trustee of 145 CPW UWS Trust",Residence,29.0
+2021-07-14T00:00:00.000,-73.942299,Queens Plaza North,Queensbridge-Ravenswood-Long Island City,Queensboro Tower LLC,Commercial,1.0
+2025-01-27T00:00:00.000,-73.896771,East 105th Street,Canarsie,New York City Housing Authority (NYCHA),Residence,1.0
+2024-10-07T00:00:00.000,-74.020291,Short Avenue,park-cemetery-etc-Manhattan,NYC School Construction Authority (NYCSCA),School,10.0
+2017-12-19T00:00:00.000,-73.981954,5th Avenue,Murray Hill-Kips Bay,New York Public Library,Commercial,74.0
+2025-08-05T00:00:00.000,-73.977318,North Elliot Walk,Fort Greene,New York City Housing Authority (NYCHA),Residence,1.0
+2019-09-03T00:00:00.000,-73.975923,West 55 Street,Midtown-Midtown South,17 and 24 Corporation,Residence,20.0
+2025-09-10T00:00:00.000,-73.863105,Eldert Lane,East New York,Linden Plaza Preservation L.P.,Residence,1.0
+2026-03-16T00:00:00.000,-73.973231,Park Ave,Midtown-Midtown South,350 Park EAT LLC,Commercial,33.0
+2021-10-20T00:00:00.000,-73.999453,West 33 Street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,14.0
+2021-04-22T00:00:00.000,-73.976421,5th Avenue,Midtown-Midtown South,Brookfield Properties,Commercial,7502.0
+2021-05-25T00:00:00.000,-73.891762,Flatlands Avenue,Canarsie,New York City Housing Authority (NYCHA),Other,205.0
+2019-06-03T00:00:00.000,-73.973256,East 42nd Street,Turtle Bay-East Midtown,SL Green Realty Corp.,Commercial,7501.0
+2025-09-05T00:00:00.000,-73.864774,Junction Blvd,Corona,LeFrak Property Management,Commercial,1.0
+2025-04-10T00:00:00.000,-73.909708,Glenmore Avenue,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2023-06-08T00:00:00.000,-73.800784,Willets Point Blvd,Ft. Totten-Bay Terrace-Clearview,Clearview Gardens Corporation,Residence,10.0
+2025-09-10T00:00:00.000,-73.863105,Eldert Lane,East New York,Linden Plaza Preservation L.P.,Residence,1.0
+2022-05-10T00:00:00.000,-73.959501,West 121st Street,Morningside Heights,Teachers College at Columbia University,School,1.0
+2025-11-20T00:00:00.000,-73.957261,Broadway,Manhattanville,NYCHA Real Estate Development   Design & Construct,Residence,1.0
+2020-12-05T00:00:00.000,-73.974012,E. 5th St,Kensington-Ocean Parkway,Leon Goldenberg,,1.0
+2025-05-28T00:00:00.000,-73.96306,Willoughby Avenue,Clinton Hill,Pratt Institute,School,120.0
+2025-03-10T00:00:00.000,-73.85024,Adee Avenue,Allerton-Pelham Gardens,New York City Housing Authority (NYCHA),Residence,1.0
+2024-05-28T00:00:00.000,-74.011041,Broadway,Battery Park City-Lower Manhattan,"Silverstein Properties, Inc.",Commercial,7501.0
+2023-09-26T00:00:00.000,-73.858501,Queens Blvd,Rego Park,Christopher Bassignani,Commercial,1.0
+2023-07-25T00:00:00.000,-74.009869,Broadway,Battery Park City-Lower Manhattan,Hanley Braginsky,Residence,17.0
+2025-07-30T00:00:00.000,-73.799061,162nd Street,Jamaica,New York City Housing Authority (NYCHA),Residence,36.0
+2025-10-09T00:00:00.000,-73.907612,Mother Gaston Blvd.,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2024-12-26T00:00:00.000,-73.940002,Bushwick Avenue,Bushwick South,NYC School Construction Authority (NYCSCA),School,1.0
+2019-04-16T00:00:00.000,-73.983372,West End Avenue,Upper West Side,305 West End Property LLC,Residence,77.0
+2019-04-21T00:00:00.000,-73.848649,Fleet Street,Forest Hills,Hao-Dong Ma,Residence,11.0
+2023-03-04T00:00:00.000,-73.853524,Purdy Street,Parkchester,NYC School Construction Authority (NYCSCA),School,55.0
+2025-07-31T00:00:00.000,-73.909493,East New York Avenue,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2020-06-17T00:00:00.000,-73.916823,Courtlandt Avenue,Melrose South-Mott Haven North,New York City Housing Authority (NYCHA),Residence,1.0
+2022-08-29T00:00:00.000,-73.943695,Av. Of Puerto Rico,East Williamsburg,New York City Housing Authority (NYCHA),Residence,46.0
+2020-07-13T00:00:00.000,-73.954286,Church Ave,Erasmus,Holy Cross RC Church,Residence,56.0
+2025-04-01T00:00:00.000,-73.980189,West 55th Street,Midtown-Midtown South,871 Seventh LLC and 871 Seventh Sponsor LLC,Commercial,1.0
+2022-03-28T00:00:00.000,-73.980985,Hudson Avenue,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,"Consolidated Edison   Company of NY, Inc.",Other,1.0
+2026-03-16T00:00:00.000,-73.973231,Park Ave,Midtown-Midtown South,350 Park EAT LLC,Commercial,33.0
+2022-02-28T00:00:00.000,-73.924224,East 143rd Street,Mott Haven-Port Morris,New York City Housing Authority (NYCHA),Residence,1.0
+2024-10-09T00:00:00.000,-73.924831,Sterling Place,Crown Heights North,NYC PACT PRESERVATION PARTNERS LLC,Residence,13.0
+2025-10-02T00:00:00.000,-73.925994,Alexander Avenue,Mott Haven-Port Morris,New York City Housing Authority (NYCHA),Residence,1.0
+2021-08-13T00:00:00.000,-73.980828,Madison Avenue,Murray Hill-Kips Bay,Eli Joseb,Residence,16.0
+2021-04-13T00:00:00.000,,South Elliot Place,,First Atlantic Terminal Housing Corp,Residence,8.0
+2021-07-18T00:00:00.000,,103 RD AVE,,NEOMI GHAFUR,Residence,3.0
+2025-01-17T00:00:00.000,-73.919805,Willoughby Avenue,Bushwick North,NYC School Construction Authority (NYCSCA),School,1.0
+2020-01-20T00:00:00.000,,,,NYC Dept of Transportation (NYCDOT),,
+2018-07-09T00:00:00.000,-73.905014,St Pauls Place,Claremont-Bathgate,NYC School Construction Authority (NYCSCA),School,1.0
+2025-06-30T00:00:00.000,-73.985616,Willoughby Street,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,United American Land,School,7502.0
+2017-12-26T00:00:00.000,-73.893862,Crotona Avenue,East Tremont,New York City Housing Authority (NYCHA),Residence,1.0
+2025-03-28T00:00:00.000,-73.928018,East 53 Street,Rugby-Remsen Village,NYC School Construction Authority (NYCSCA),School,28.0
+2025-10-03T00:00:00.000,-73.907766,Stone Avenue,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2019-06-10T00:00:00.000,-73.979245,West 47th Street,Midtown-Midtown South,10 W 47th Owner LLC,Commercial,45.0
+2022-01-03T00:00:00.000,-73.867693,Erskine Street,East New York,VBK C1 Owner LLC,Other,300.0
+2025-05-08T00:00:00.000,-73.979452,W. 85TH STREET,Upper West Side,WSFSSH,Residence,49.0
+2022-03-04T00:00:00.000,-73.977642,Avenue C,Kensington-Ocean Parkway,NYC School Construction Authority (NYCSCA),School,1.0
+2025-07-07T00:00:00.000,-73.863644,Lafayette Ave,Soundview-Castle Hill-Clason Point-Harding Park,ABA Sack Wern LLC,Residence,17.0
+2023-10-13T00:00:00.000,-73.942345,Ten Eyck Walk,Bushwick South,New York City Housing Authority (NYCHA),Residence,1.0
+2020-09-01T00:00:00.000,-73.962213,Amsterdam Avenue,Morningside Heights,Mount Sinai Health System,Hospital,1.0
+2018-07-16T00:00:00.000,-73.975348,west 58th street,Midtown-Midtown South,bob 57 llc c/o sedesco,Commercial,65.0
+2024-04-19T00:00:00.000,-74.14424,willowbrook Rd,Port Richmond,NYC School Construction Authority (NYCSCA),School,500.0
+2025-01-17T00:00:00.000,-73.935122,35th Avenue,Astoria,New York City Housing Authority (NYCHA),Residence,2.0
+2025-06-02T00:00:00.000,-73.845746,229th Drive South,Eastchester-Edenwald-Baychester,CSA Preservation Partners LLC,Residence,3.0
+2020-09-01T00:00:00.000,-73.962213,Amsterdam Avenue,Morningside Heights,Mount Sinai Health System,Hospital,1.0
+2021-03-03T00:00:00.000,-73.976145,Madison Ave,Midtown-Midtown South,425 Madison Associates,Commercial,52.0
+2023-12-12T00:00:00.000,-73.96011,Classon Avenue,Crown Heights North,753 Classon Avenue Housing Company,Residence,6.0
+2023-12-22T00:00:00.000,-73.910514,31st Avenue,Astoria,NYC School Construction Authority (NYCSCA),School,2.0
+2022-12-21T00:00:00.000,-73.963201,East 79th Street,Upper East Side-Carnegie Hill,Ms. Ashley Finn,Commercial,7.0
+2025-11-30T00:00:00.000,-73.94965,Carroll Street,Crown Heights South,Crown Gardens Housing Corporation,Residence,1.0
+2020-12-31T00:00:00.000,-73.905201,Palmetto Street,Ridgewood,1930 Palmetto LLC,Residence,35.0
+2022-09-12T00:00:00.000,-73.945008,Ten Eyck Street,East Williamsburg,New York City Housing Authority (NYCHA),Residence,46.0
+2021-11-05T00:00:00.000,-73.984669,19th Ave,Borough Park,Shiya Pollak,Residence,45.0
+2024-03-05T00:00:00.000,-73.94254,W 165th Street,Washington Heights South,NewYork-Presbyterian Hospital,Hospital,40.0
+2019-08-30T00:00:00.000,-73.949545,First Avenue,Yorkville,First NY LLC,Residence,127.0
+2020-06-15T00:00:00.000,-73.942521,Lenox Avenue,Central Harlem North-Polo Grounds,Lenox Avenue Developer LLC c/o Hope Community Inc,Residence,103.0
+2023-07-15T00:00:00.000,-73.916655,Ditmars Blvd,Steinway,NYC School Construction Authority (NYCSCA),School,1.0
+2024-09-18T00:00:00.000,-74.007033,West 12th Street,West Village,"Osprey Point Investments XVIII, LLC",Residence,51.0
+2020-09-16T00:00:00.000,-73.985808,Amsterdam Avenue,Lincoln Square,New York City Housing Authority (NYCHA),Residence,101.0
+2024-10-16T00:00:00.000,-73.96107,Ocean View  Avenue,Brighton Beach,James Bright,Residence,5.0
+2018-02-02T00:00:00.000,-73.965977,East 70th Street,Upper East Side-Carnegie Hill,New Angoulem Property LLC c/o Grafton Bespoke,Residence,27.0
+2025-05-15T00:00:00.000,-73.866436,Lincoln Ave,East New York,Linden Plaza Preservation L.P.,Residence,5.0
+2018-11-08T00:00:00.000,-73.952862,East 80 Street,Yorkville,Lovett Company,Residence,7501.0
+2022-10-07T00:00:00.000,-73.951145,West 138th Street,Manhattanville,NYC School Construction Authority (NYCSCA),School,166.0
+2026-01-19T00:00:00.000,-73.849949,Bouck Avenue,Allerton-Pelham Gardens,New York City Housing Authority (NYCHA),Residence,1.0
+2025-11-25T00:00:00.000,-73.905712,Washington Avenue,Claremont-Bathgate,New York City Housing Authority (NYCHA),Residence,1.0
+2025-08-04T00:00:00.000,-73.943288,2nd Avenue,East Harlem South,New York City Housing Authority (NYCHA),Residence,11.0
+2018-10-30T00:00:00.000,-73.973039,West 97th Street,Upper West Side,311 West 97th Street Owners Corp,Residence,45.0
+2020-02-28T00:00:00.000,-73.945229,Monroe Street,Bedford,NYC School Construction Authority (NYCSCA),School,14.0
+2022-12-17T00:00:00.000,-73.87596,Wells Street,East New York,NYC School Construction Authority (NYCSCA),School,75.0
+2019-01-15T00:00:00.000,-73.895922,Flatlands Avenue,Canarsie,New York City Housing Authority (NYCHA),Residence,1.0
+2025-02-10T00:00:00.000,-74.005649,Church Street,SoHo-TriBeCa-Civic Center-Little Italy,"Franklin 2024 Propco, LLC c/o Cannon Hill Capital",Residence,2.0
+2025-03-21T00:00:00.000,-73.783423,90th Avenue,Jamaica,NYC School Construction Authority (NYCSCA),School,1.0
+2020-03-05T00:00:00.000,-73.897835,Alabama Avenue,East New York (Pennsylvania Ave),NYC School Construction Authority (NYCSCA),School,1.0
+2018-03-05T00:00:00.000,-73.904016,Washington Avenue,Claremont-Bathgate,New York City Housing Authority (NYCHA),Residence,36.0
+2018-12-05T00:00:00.000,-73.974594,1 Avenue,Murray Hill-Kips Bay,"Consolidated Edison   Company of NY, Inc.",Other,7501.0
+2018-04-17T00:00:00.000,-73.999435,West 33rd. Street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,14.0
+2025-05-12T00:00:00.000,-73.863644,Lafayette Ave,Soundview-Castle Hill-Clason Point-Harding Park,ABA Sack Wern LLC,Residence,17.0
+2022-01-31T00:00:00.000,-73.978335,Rockefeller Plaza,Midtown-Midtown South,"RCPI Landmark Properties, LLC",Commercial,1.0
+2022-08-08T00:00:00.000,-73.898309,Reservoir Avenue,Van Cortlandt Village,NYC School Construction Authority (NYCSCA),School,70.0
+2019-03-29T00:00:00.000,-73.959632,West 120th Street,Morningside Heights,Board of Trustees Columbia University,School,1.0
+2025-11-24T00:00:00.000,-73.930374,Fulton Street,Crown Heights North,"Fulton Park Site 4 Houses, Inc.",Residence,12.0
+2025-08-06T00:00:00.000,-73.833249,Bivona Street,Co-op City,New York City Housing Authority (NYCHA),Residence,40.0
+2021-07-07T00:00:00.000,-73.937624,West 137th Street,Central Harlem North-Polo Grounds,NYC Health & Hospitals Corporation (NYCHHC),Hospital,1.0
+2024-06-24T00:00:00.000,-73.980092,East 24th Street,Murray Hill-Kips Bay,Virginia Crespo,Residence,1.0
+2025-09-09T00:00:00.000,-73.863381,Eldert Lane,East New York,Linden Plaza Preservation L.P.,Residence,1.0
+2024-10-04T00:00:00.000,-73.988844,Third Avenue,East Village,62-64 Third Ave LP,Other,24.0
+2019-06-06T00:00:00.000,-74.064561,Jackson ave,Grasmere-Arrochar-Ft. Wadsworth,Alexander Portnov,Commercial,250.0
+2021-05-03T00:00:00.000,-73.944226,West 131st Street,Central Harlem North-Polo Grounds,Christina Blythe,Residence,58.0
+2020-11-02T00:00:00.000,-73.897879,Tiebout Avenue,Fordham South,Evergreen Tiebout LLC,Residence,150.0
+2025-12-08T00:00:00.000,-73.912351,Bristol Street,Brownsville,NYC School Construction Authority (NYCSCA),School,8.0
+2022-08-24T00:00:00.000,-73.979338,Broadway,Upper West Side,ZKZ 2245 LLC,Commercial,8.0
+2018-03-01T00:00:00.000,-73.923839,29th St,Old Astoria,30-38 29th Street LLC,Residence,50.0
+2020-11-24T00:00:00.000,-73.934554,31 Avenue,Old Astoria,NPL Mortar LLC,Commercial,22.0
+2024-04-02T00:00:00.000,-73.941779,Maujer Street,Bushwick South,New York City Housing Authority (NYCHA),Residence,1.0
+2019-02-11T00:00:00.000,-74.008602,4th Avenue,Sunset Park West,NYC School Construction Authority (NYCSCA),School,36.0
+2021-02-18T00:00:00.000,-74.078261,NORMALEE ROAD,Grasmere-Arrochar-Ft. Wadsworth,CLAIRE SCARPELLI,Residence,13.0
+2025-11-30T00:00:00.000,-73.984081,Wyckoff Street,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,New York City Housing Authority (NYCHA),Residence,1.0
+2025-03-19T00:00:00.000,-73.905172,Palmetto Street,Ridgewood,1934 palmetto owner llc,Residence,39.0
+2025-10-21T00:00:00.000,-73.845637,110th Street,Forest Hills,NYC School Construction Authority (NYCSCA),School,2.0
+2018-02-26T00:00:00.000,-73.893072,Highland Boulevard,Cypress Hills-City Line,JK Management,Residence,10.0
+2025-11-30T00:00:00.000,-73.984081,Wyckoff Street,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,New York City Housing Authority (NYCHA),Residence,1.0
+2022-05-02T00:00:00.000,-73.94982,East 85th Street,Yorkville,400 East 85th Street Realty Corp. c/o AKAM Onsite,Residence,47.0
+2023-09-13T00:00:00.000,-73.973185,Carlton Avenue,Fort Greene,New York City Housing Authority (NYCHA),Residence,1.0
+2024-06-28T00:00:00.000,-73.799706,45th Ave,East Flushing,NYC School Construction Authority (NYCSCA),School,18.0
+2025-05-15T00:00:00.000,-73.866436,Lincoln Ave,East New York,Linden Plaza Preservation L.P.,Residence,5.0
+2025-11-21T00:00:00.000,,Earhart Lane,,Riverbay Corporation,Residence,51.0
+2025-05-30T00:00:00.000,-73.999453,West 33rd Street,Seagate-Coney Island,New York City Housing Authority (NYCHA),Residence,14.0
+2019-07-22T00:00:00.000,-73.860664,Metropolitan Oval,Parkchester,Parkchester south Condominiums,Residence,7501.0
+2018-06-14T00:00:00.000,-73.901388,Corlear Avenue,Spuyten Duyvil-Kingsbridge,Manhattan College,School,240.0
+2019-02-22T00:00:00.000,-73.916735,Flatland Avenue,Canarsie,NYC Dept of Education (NYCDOE),School,5.0
+2022-07-18T00:00:00.000,-73.887471,Vermont St,East New York,Mathew Charney,Residence,1.0
+2018-11-10T00:00:00.000,-73.905216,Woodside Ave,Woodside,JPMorgan Chase Bank N.A.,Commercial,54.0
+2025-08-09T00:00:00.000,-73.867524,Humphreys street,East Elmhurst,2715 Humphreys LLC,Residence,65.0
+2018-06-21T00:00:00.000,-73.970238,Central Park West,Upper West Side,"Rudin Mgmt. Co Inc AAF 241 Central Park West, LLC",Residence,29.0
+2021-08-16T00:00:00.000,-73.850982,Throop Avenue,Allerton-Pelham Gardens,NYC School Construction Authority (NYCSCA),Other,1.0
+2022-12-12T00:00:00.000,-73.960275,S. 3rd St,North Side-South Side,NYC School Construction Authority (NYCSCA),School,1.0
+2025-05-29T00:00:00.000,-73.903646,3rd Avenue,Claremont-Bathgate,New York City Housing Authority (NYCHA),Residence,1.0
+2023-04-03T00:00:00.000,-73.896176,East 108th Street,Canarsie,New York City Housing Authority (NYCHA),Residence,1.0
+2020-12-11T00:00:00.000,-73.749097,Nameoke Street,Far Rockaway-Bayswater,NYC School Construction Authority (NYCSCA),School,25.0
+2021-11-16T00:00:00.000,-73.985808,Amsterdam Avenue,Lincoln Square,New York City Housing Authority (NYCHA),Residence,101.0
+2025-08-27T00:00:00.000,-73.981145,East 27th Street,Murray Hill-Kips Bay,27 Victoria Owners Corporation c/o AKAM Associates,Residence,56.0
+2025-11-13T00:00:00.000,-73.894143,Oak Point Avenue,Hunts Point,Andrew Chung,Other,20.0
+2024-07-17T00:00:00.000,-73.908029,Webster Avenue,Claremont-Bathgate,New York City Housing Authority (NYCHA),Residence,1.0
+2019-11-29T00:00:00.000,-73.984449,West 70th Street,Lincoln Square,NYC School Construction Authority (NYCSCA),School,40.0
+2025-06-13T00:00:00.000,-73.942973,W 152nd Street,Hamilton Heights,450-454 W 152nd Street HDFC,Residence,51.0
+2018-04-03T00:00:00.000,-73.965314,5th Avenue,Upper East Side-Carnegie Hill,"945 5th Avenue, LLC.",Residence,67.0
+2018-10-29T00:00:00.000,-73.821045,Ampere Avenue,Pelham Bay-Country Club-City Island,Marcello Rios,Residence,150.0
+2025-09-09T00:00:00.000,-73.863381,Eldert Lane,East New York,Linden Plaza Preservation L.P.,Residence,1.0
+2025-11-05T00:00:00.000,-73.988794,Hoyt Street,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,New York City Housing Authority (NYCHA),Residence,1.0
+2021-10-05T00:00:00.000,-73.851285,Burke Avenue,Allerton-Pelham Gardens,New York City Housing Authority (NYCHA),Residence,1.0
+2022-09-28T00:00:00.000,-73.964442,East 73rd Street,Upper East Side-Carnegie Hill,Eric Goodman & James Ramsey,Residence,30.0
+2023-06-21T00:00:00.000,-73.980985,Hudson Avenue,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,"Consolidated Edison   Company of NY, Inc.",Other,1.0
+2025-07-07T00:00:00.000,-73.863644,Lafayette Ave,Soundview-Castle Hill-Clason Point-Harding Park,ABA Sack Wern LLC,Residence,17.0
+2019-05-22T00:00:00.000,-73.859955,Waring Avenue,Bronxdale,New York City Housing Authority (NYCHA),Residence,1.0
+2018-07-26T00:00:00.000,-73.990722,5th Avenue,Hudson Yards-Chelsea-Flatiron-Union Square,141 Fifth Condominium/Andrews Organization,Residence,7505.0
+2023-05-18T00:00:00.000,-73.950004,East 79th St,Yorkville,Halstead Management Company LLC,Residence,5.0
+2022-03-04T00:00:00.000,-73.910438,42nd Street,Astoria,Vlacich LLC,Residence,108.0
+2024-12-02T00:00:00.000,-73.824794,Cooper Place,Co-op City,Riverbay Corporation,Residence,120.0
+2019-03-14T00:00:00.000,-73.947781,East End Avenue,Yorkville,10 East End Ave Owners Inc c/o Wallack Mgmt LLC,Residence,27.0
+2024-05-09T00:00:00.000,-73.988321,West 59th Street,Lincoln Square,Mount Sinai West,Residence,17.0
+2018-02-15T00:00:00.000,-73.910514,31 Avenue,Astoria,NYC School Construction Authority (NYCSCA),School,2.0
+2022-11-18T00:00:00.000,-73.968511,East 60th Street,Upper East Side-Carnegie Hill,"118 East 60th Street Owners, Inc c/o Matthew Adams",Residence,7.0
+2025-02-28T00:00:00.000,-73.947978,West 131st Street,Central Harlem North-Polo Grounds,New York City Housing Authority (NYCHA),Residence,50.0
+2020-07-21T00:00:00.000,-73.958422,East 65 Street,Lenox Hill-Roosevelt Island,"Stahl York Avenue Co., LLC",Residence,30.0
+2024-06-17T00:00:00.000,-73.963786,Claremont Ave.,Morningside Heights,Barnard College,School,1.0
+2024-07-05T00:00:00.000,-73.939607,Vernon Avenue,Stuyvesant Heights,New York City Housing Authority (NYCHA),Residence,1.0
+2023-10-07T00:00:00.000,-73.992109,3rd ave,Park Slope-Gowanus,Paul Basile,Commercial,35.0
+2022-06-28T00:00:00.000,-73.739252,Little Neck Pkwy,Douglas Manor-Douglaston-Little Neck,NYC School Construction Authority (NYCSCA),School,29.0
+2024-07-23T00:00:00.000,-73.976721,East 38th Street,Murray Hill-Kips Bay,MHM SPONSOR CO.,Residence,41.0
+2022-05-31T00:00:00.000,-73.976343,Madison Avenue,Midtown-Midtown South,"Rudin Management Company, Inc",Commercial,21.0
+2018-04-09T00:00:00.000,-73.963285,East 76th Street,Upper East Side-Carnegie Hill,Hotel Carlyle Owners Corp.,Commercial,21.0
+2024-10-25T00:00:00.000,-73.956429,York Avenue,Lenox Hill-Roosevelt Island,Memorial Sloan Kettering,Hospital,21.0
+2025-11-03T00:00:00.000,-73.885789,New Lots Avenue,East New York,The Brooklyn Public Library,Other,1.0
+2025-07-31T00:00:00.000,-73.909493,East New York Avenue,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2023-11-27T00:00:00.000,-73.908341,Dumont Avenue,Brownsville,New York City Housing Authority (NYCHA),Residence,1.0
+2018-10-24T00:00:00.000,-73.724495,85ave,Bellerose,Naseem Ali,,49.0
+2025-10-06T00:00:00.000,-73.868115,Croes Avenue,Soundview-Castle Hill-Clason Point-Harding Park,ABA Sack Wern LLC,Residence,1.0
+2025-05-02T00:00:00.000,-73.886097,Broadway,Elmhurst,NYC Dept of Health & Mental Hygiene (DOHMH),Hospital,2.0
+2024-03-18T00:00:00.000,-73.94109,West 168th Street,Washington Heights South,Yvonne Wojcicki,Other,40.0
+2025-05-10T00:00:00.000,-73.91287,East 68 Street,Georgetown-Marine Park-Bergen Beach-Mill Basin,NYC School Construction Authority (NYCSCA),School,2.0
+2022-04-19T00:00:00.000,-73.964031,East 63rd Street,Lenox Hill-Roosevelt Island,"CP III AJ 63rd, LLC",Residence,11.0
+2019-01-14T00:00:00.000,-73.902867,Anthony Avenue,Mount Hope,Anthony Bush Development LLC,Residence,28.0
+2025-08-15T00:00:00.000,-74.001377,Henry Street,Carroll Gardens-Columbia Street-Red Hook,NYC School Construction Authority (NYCSCA),School,1.0
+2022-08-12T00:00:00.000,-73.985273,Amsterdam Ave,Lincoln Square,NYC School Construction Authority (NYCSCA),School,30.0
+2023-02-06T00:00:00.000,-73.894077,Paul Avenue,Van Cortlandt Village,Dormitory Authority State of New York (DASNY),School,1.0
+2024-03-04T00:00:00.000,-73.940659,Lenox Avenue,Central Harlem North-Polo Grounds,NYC Health & Hospitals Corporation (NYCHHC),Hospital,1.0
+2023-07-20T00:00:00.000,-73.992705,Schermerhorn Street,Brooklyn Heights-Cobble Hill,Double J Canal LLC,Residence,9.0
+2025-02-03T00:00:00.000,-73.979922,86th Street,Gravesend,New York City Housing Authority (NYCHA),Residence,16.0
+2025-05-09T00:00:00.000,-74.008494,Bethune Street,West Village,"Westbeth Corp HDFC, Inc.",Residence,1.0
+2021-07-05T00:00:00.000,-73.978986,east 4th street,Lower East Side,NYC School Construction Authority (NYCSCA),School,20.0
+2025-10-23T00:00:00.000,-73.927904,Lincoln Avenue,Mott Haven-Port Morris,New York City Housing Authority (NYCHA),Residence,1.0
+2025-09-19T00:00:00.000,-73.945766,East 102nd Street,East Harlem South,New York City Housing Authority (NYCHA),Residence,1.0
+2022-07-20T00:00:00.000,-73.913486,West 237th Street,North Riverdale-Fieldston-Riverdale,NYC School Construction Authority (NYCSCA),School,376.0
+2018-03-19T00:00:00.000,-73.947781,East End Avenue,Yorkville,10 East End Ave Owners Inc c/o Wallack Mgmt LLC,Residence,27.0
+2018-03-05T00:00:00.000,-73.99108,5th Avenue,Hudson Yards-Chelsea-Flatiron-Union Square,L&L Holding Company,Commercial,41.0
+2018-03-16T00:00:00.000,-73.907616,Weeks Avenue,Mount Hope,NYC School Construction Authority (NYCSCA),School,28.0
+2018-03-09T00:00:00.000,-73.933499,Avenue W,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,NYC School Construction Authority (NYCSCA),School,1.0
+2022-05-24T00:00:00.000,-73.973026,W 81st St,Upper West Side,45 West Emmut Properties LLC,Commercial,5.0
+2023-06-30T00:00:00.000,-73.775951,Guy R Brewer Boulevard,Springfield Gardens North,NYC School Construction Authority (NYCSCA),School,270.0

@@ -1,0 +1,209 @@
+location,school_code,bridge_highway_direction,status,intersection_street_2,cross_street_2,intersection_street_1,school_zip,bridge_highway_name,school_number
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,FLATBUSH AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,TREMONT AVE WEST,,177 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,138 ST E,,ALEXANDER AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,8 ST W,,KINGS HWY,Unspecified,,Unspecified
+,Unspecified,,Pending,,HARLEM RIVER,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,140 ST E,,WILLIS AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,GREENLEAF AVE S,,CROWELL AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,13 AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,,198 STREET,,Unspecified,,Unspecified
+,Unspecified,,Pending,ALEXANDER AVE,,134 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,RATHBUN AVE,,ARTHUR AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,,HARLEM RIVER,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,AVE C,,Unspecified,,Unspecified
+,Unspecified,,Closed,15 ST E,,AVE Z,Unspecified,,Unspecified
+,Unspecified,,Pending,64 ST W,,COLUMBUS AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,74 ST W,,AMSTERDAM AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,HEWES ST,,BROADWAY,Unspecified,,Unspecified
+,Unspecified,,Closed,,MT LORETTO SR,,Unspecified,,Unspecified
+,Unspecified,,Closed,HAVEMEYER ST E,,METROPOLITAN AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,192 ST W,,ST NICHOLAS AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,POMPEY AVE,,ADLAI CIRCLE,Unspecified,,Unspecified
+,Unspecified,,Pending,PARK AVE,,149 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,51 ST E,,LENOX RD,Unspecified,,Unspecified
+,Unspecified,,Pending,184 ST W,,JEROME AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,42 ST W,,9 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,UTOPIA PKWY,,26 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,HOYT AVE,,21 ST,Unspecified,,Unspecified
+,Unspecified,,Closed,150 ST W,,AMSTERDAM AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Pending,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,BROADWAY,,113 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,112 AVE,,SPRINGFIELD BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,230 ST W,,BROADWAY,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,78 ST E,,LEXINGTON AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,VAN DAM ST,,QUEENS BLVD,Unspecified,,Unspecified
+,Unspecified,,Pending,59 ST E,,MADISON AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,ADAMS AVENUE,,Unspecified,,Unspecified
+,Unspecified,,Closed,POST 3,,CENTRAL PARK,Unspecified,,Unspecified
+,Unspecified,,Closed,141 ST E,,BRUCKNER BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,CHURCH AVE,,94 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,OVERLOOK TERRACE,,184 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,YORK AVE,,87 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,105 ST E,,3 AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,72 RD,,KISSENA BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,12 ST E,,AVE U,Unspecified,,Unspecified
+,Unspecified,,Closed,176 ST W,,MACOMBS RD,Unspecified,,Unspecified
+,Unspecified,,Pending,1 AVE,,68 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,3 AVE,,59 ST,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,175 ST E,,WEBSTER AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,HOUSTON ST E,,AVE C,Unspecified,,Unspecified
+,Unspecified,,Closed,93 ST E,,AVE N,Unspecified,,Unspecified
+,Unspecified,,Pending,BAYCHESTER AVE,,TILLOTSON AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,SHARROTS RD,,ARTHUR KILL RD,Unspecified,,Unspecified
+,Unspecified,,Closed,4 ST S,,HEWES ST,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,GRAVESEND NECK RD,,27 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,FLATBUSH AVE,,LINCOLN RD,Unspecified,,Unspecified
+,Unspecified,,Pending,162 ST W,,SUMMIT AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,11 AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,CENTRAL PARK,,W 86 ST,Unspecified,,Unspecified
+,Unspecified,,Closed,AMSTERDAM AVE,,137 ST W,Unspecified,,Unspecified
+,Unspecified,,Pending,71 ST E,,YORK AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,HOUSTON ST E,,1 AVE,Unspecified,,Unspecified
+,,,Closed,,,,11361,,Q012
+,Unspecified,,Pending,TRINITY AVE,,165 ST E,Unspecified,,Unspecified
+,Unspecified,,Open,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,AVE T,,3 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,,FORDHAM RD W,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,HIGHLAWN AVE,,7 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,SHORE RD,,CITY ISLAND RD,Unspecified,,Unspecified
+,Unspecified,,Closed,172 ST E,,BOSTON RD,Unspecified,,Unspecified
+,Unspecified,,Pending,101 ST E,,3 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,FLATBUSH AVE,,Unspecified,,Unspecified
+,Unspecified,,Pending,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,QUENTIN RD,,19 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,163 ST E,,TINTON AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,BRUCKNER BLVD,,149 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,58 ST,,3 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,LEXINGTON AVE,,125 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,ALBANY AVE,,CLASSON AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,179 ST W,,Unspecified,,Unspecified
+,Unspecified,,Closed,8 AVE,,125 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,15 ST E,,AVE Z,Unspecified,,Unspecified
+,Unspecified,,Closed,163 ST E,,SOUTHERN BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,AVE P,,7 ST W,Unspecified,,Unspecified
+,Unspecified,,Pending,239 ST E,,WHITE PLAINS RD,Unspecified,,Unspecified
+,Unspecified,,Closed,AVE K,,34 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,97 ST,,ASTORIA BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,CORP KENNEDY BLVD,,26 AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,5 ST W,,65 ST,Unspecified,,Unspecified
+,Unspecified,,Closed,3 ST S,,KENT AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,107 ST W,,CENTRAL PARK WEST,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,45 ST E,,CLARENDON RD,Unspecified,,Unspecified
+,Unspecified,,Closed,RALPH AVENUE,,CHURCH AVENUE,Unspecified,,Unspecified
+,,,Closed,,,,11385,,Q015
+,Unspecified,,Closed,ROCKAWAY BOULEVARD,,101 STREET,Unspecified,,Unspecified
+,Unspecified,,Pending,161 ST E,,WESTCHESTER AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,FLATBUSH AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,FOSTER AVE,,92 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,BROOK AVE,,135 ST E,Unspecified,,Unspecified
+,Unspecified,,Pending,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,AVENUE,,E 53 ST,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,24 ST W,,AVE OF THE AMERICAS,Unspecified,,Unspecified
+,Unspecified,,Closed,54 ST W,,10 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,DIVISION AVE,,MARCY AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,KINGS HWY,,Unspecified,,Unspecified
+,Unspecified,,Closed,,FILLMORE STREET,,Unspecified,,Unspecified
+,Unspecified,,Closed,59 ST,,GOWANUS XPWY,Unspecified,,Unspecified
+,Unspecified,,Closed,AVE O,,19 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,HAVEMEYER ST W,,METROPOLITAN AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,FRANKLIN AVE,,JAVA ST,Unspecified,,Unspecified
+,,,Closed,,,,10034,,M043
+,Unspecified,,Pending,11 ST E,,AVE C,Unspecified,,Unspecified
+,Unspecified,,Pending,59 ST E,,2 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,13 AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,,HYLAN BOULEVARD,,Unspecified,,Unspecified
+,Unspecified,,Closed,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,94 ST E,,PARK AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,16 ST W,,AVE OF THE AMERICAS,Unspecified,,Unspecified
+,Unspecified,,Pending,CONDUIT AVE N,,BELMONT AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,133 AVENUE,,Unspecified,,Unspecified
+,Unspecified,,Closed,71 ST E,,5 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,HYLAN BOULEVARD,,BENNETT PLACE,Unspecified,,Unspecified
+,Unspecified,,Closed,161 ST E,,RIVER AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,199 ST E,,WEBSTER AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,SVC RD W,,VICTORY BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,138 ST E,,3 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,SEDGEWICK AVE,,KINGSBRIDGE AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,163 ST E,,WESTCHESTER AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,55 ST W,,10 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,106 ST E,,5 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,HIGHLAWN AVE,,10 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,GREENWOOD AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,WAVERLY ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,,FLATBUSH AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,14 ST W,,HUDSON ST,Unspecified,,Unspecified
+,Unspecified,,Closed,2 ST E,,2 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,BRONXWOOD AVE,,225 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,,LINDEN BOULEVARD,,Unspecified,,Unspecified
+,Unspecified,,Closed,155 ST E,,ELTON AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,2 AVE,,93 ST E,Unspecified,,Unspecified
+,Unspecified,,Pending,239 ST E,,WHITE PLAINS RD,Unspecified,,Unspecified
+,Unspecified,,Pending,2 AVE,,34 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,,,Closed,,,,11105,,Q004
+,Unspecified,,Closed,144 ST E,,MORRIS AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,13 AVE,,Unspecified,,Unspecified
+,Unspecified,,Closed,HOUSTON ST E,,PITT ST,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Closed,MADISON AVE,,E 47 STREET,Unspecified,,Unspecified
+,Unspecified,,Closed,AMSTERDAM AVE,,74 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,6 ST E,,COOPER SQR,Unspecified,,Unspecified
+,Unspecified,,Pending,165 ST W,,ST NICHOLAS AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,CLAY PITT RD,,VETERANS RD W,Unspecified,,Unspecified
+,Unspecified,,Pending,152 ST W,,BROADWAY,Unspecified,,Unspecified
+,Unspecified,,Closed,40 ST E,,2 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,BAINBRIDGE AVE,,MOSHOLU PKWY,Unspecified,,Unspecified
+,Unspecified,,Closed,WILLIAMSBURG ST,,LEE AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,28 ST W,,8 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,EXCELSIOR ST,,BAYVIEW AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,AVE W,,6 ST W,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,80 ST E,,MADISON AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,,,Unspecified,,Unspecified
+,Unspecified,,Pending,,SEE COMMENTS FOR CROSS ST,,Unspecified,,Unspecified
+,Unspecified,,Closed,UNION TPKE,,CAMPUS RD,Unspecified,,Unspecified
+,Unspecified,,Pending,MADISON AVE,,88 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,WEST 167 STREET,,AMSTERDAM AVENUE,Unspecified,,Unspecified
+,Unspecified,,Pending,AVE N,,7 ST E,Unspecified,,Unspecified
+,Unspecified,,Closed,86 ST W,,CENTRAL PARK WEST,Unspecified,,Unspecified
+,Unspecified,,Closed,BROADWAY,,EAST 202 ST,Unspecified,,Unspecified
+,Unspecified,,Pending,BRIDGE ST S,,ARTHUR KILL RD,Unspecified,,Unspecified
+,Unspecified,,Closed,14 ST W,,9 AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,SEDGEWICK AVE,,KINGSBRIDGE AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,,32 AVENUE,,Unspecified,,Unspecified
+,Unspecified,,Pending,LEGGETT AVE,,BRUCKNER BLVD,Unspecified,,Unspecified
+,Unspecified,,Closed,36 ST E,,AVE P,Unspecified,,Unspecified
+,Unspecified,,Closed,170 ST E,,MORRIS AVE,Unspecified,,Unspecified
+,Unspecified,,Closed,FORDHAM RD EAST,,BATHGATE AVE,Unspecified,,Unspecified
+,Unspecified,,Pending,240 ST W,,BROADWAY,Unspecified,,Unspecified

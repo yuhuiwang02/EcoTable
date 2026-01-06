@@ -1,0 +1,335 @@
+system,starea,department,volleyball,handball,primary_sport,zipcode,t_ball,nonregulation_soccer,pickleball,dimensions,maintenanceagreement,regulation_soccer,communityboard,track_and_field,surface_type
+M220-BASEBALL-1,9730.305404663086,M-07,False,False,SFB,10025,True,False,,"60ft base path, 150-200ft fence",False,False,107,False,Synthetic
+Q015-02-HANDBALL-1,1526.5703582763672,Q-16,False,True,HDB,11415,False,False,,Handball,False,False,482,False,Asphalt
+Q005-05-HANDBALL-3,1265.695327758789,Q-12,False,True,HDB,11434,False,False,,Handball,False,False,412,False,Asphalt
+M104-ZN01-BASEBALL-14,38263.13125610352,M-11,False,False,SFB,10035,False,False,,"60ft base path, 150-200ft fence",False,False,111,False,Natural
+Q014-HANDBALL-5,1165.5598449707031,Q-01,False,True,HDB,11103,False,False,,Handball,False,False,401,False,Asphalt
+M042-ZN01-TENNIS-3,2781.489501953125,M-12,False,False,TNS,10034,False,False,,Tennis,False,False,112,False,Asphalt
+B017-BASKETBALL-2,3534.974838256836,B-04,False,False,BKB,11237,False,False,,Full Court,False,False,304,False,Asphalt
+X092-ZN10-BASEBALL-1,38367.72999572754,X-13,False,False,SFB,10470,False,False,,"60ft base path, 150-200ft fence",False,False,226,False,Natural
+M047-01-HANDBALL-2,1101.7725830078125,M-11,False,True,HDB,10029,False,False,,Handball,False,False,111,False,Asphalt
+B092-TENNIS-6,2811.7588958740234,B-10,False,False,TNS,11228,False,False,,Tennis,False,False,310,False,Asphalt
+R065-ZN08-TENNIS-5,2934.6568298339844,R-02,False,False,TNS,10314,False,False,,Tennis,False,False,502,False,Asphalt
+B197-BASEBALL-1,4683.10546875,B-15,False,False,SFB,11229,False,False,,"60ft base path, 150-200ft fence",False,False,315,False,Asphalt
+B032-ZN01-BASKETBALL-1,2533.710876464844,B-02,False,False,BKB,11201,False,False,,Full Court,False,False,302,False,Asphalt
+Q102-02-BASEBALL-1,24506.039978027344,Q-05,False,False,SFB,11379,False,False,,"60ft base path, 150-200ft fence",False,False,405,False,Asphalt
+Q099-ZN04-TENNIS-17,2826.012680053711,Q-15,False,False,TNS,11368,False,False,,Tennis,False,False,481,False,Asphalt
+Q163-ZN07A-HANDBALL-14,2120.915084838867,Q-14,False,True,HDB,11694,False,False,,Handball,False,False,414,False,Asphalt
+R046-06-HANDBALL-4,1199.5442504882812,R-02,False,True,HDB,10306,False,False,,Handball,False,False,595,False,Asphalt
+B223J03-BASKETBALL-3,4577.432846069336,B-02,False,False,BKB,11201,False,False,,Full Court,False,False,302,False,Asphalt
+X206-BASKETBALL-1,2811.5355072021484,X-03,False,False,BKB,10456,False,False,,,False,False,203,False,
+B363-HANDBALL-3,1384.8118591308594,B-16,False,False,HDB,11212,False,False,,Handball,False,False,316,False,Asphalt
+Q406-BASKETBALL-2,1097.9703369140625,Q-13,False,False,BKB,11413,False,False,,Half Court,False,False,413,False,Asphalt
+Q389-BASKETBALL-7,1505.8702087402344,Q-14,False,False,BKB,11694,False,False,,Half Court,False,False,414,False,Asphalt
+Q163-ZN05B-HANDBALL-6,1625.744873046875,Q-14,False,True,HDB,11693,False,False,,Handball,False,False,414,False,Asphalt
+Q375-HANDBALL-1,1665.939712524414,Q-07,False,True,HDB,11357,False,False,,Handball,False,False,407,False,Concrete
+B082-ZN03-BASEBALL-1,16705.46502685547,B-10,False,False,SFB,11209,True,False,,"45-60ft base path, less than 150ft fence",True,False,310,False,Natural
+B258-HANDBALL-2,1201.652359008789,B-03,False,True,HDB,11233,False,False,,Handball,False,False,303,False,Asphalt
+X039-ZN17-VOLLEYBALL-2,1754.8360900878906,X-15,True,False,VLB,10464,False,False,,Volleyball,False,False,228,False,Asphalt
+B377-BASEBALL-2,19318.28273010254,B-16,False,False,SFB,11212,True,False,,"60ft base path, 150-200ft fence",False,False,316,False,Natural
+Q162J01-HANDBALL-3,1307.6402587890625,Q-14,False,True,HDB,11691,False,False,,Handball,False,False,414,False,Asphalt
+X163-BASKETBALL-1,960.3514862060548,X-11,False,False,BKB,10461,False,False,,Half Court,False,False,211,False,Asphalt
+B125-01-BASKETBALL-2,4346.684875488281,B-13,False,False,BKB,11214,False,False,,Full Court,False,False,313,False,Asphalt
+Q092-HANDBALL-4,1021.4454040527344,Q-10,False,True,HDB,11420,False,False,,Handball,False,False,410,False,Asphalt
+M069-HANDBALL-1,1940.4041900634768,M-02,False,True,HDB,10012,False,False,,Handball,False,False,102,False,Asphalt
+Q131-01-TENNIS-1,2756.759262084961,Q-05,False,False,TNS,11378,False,False,,Tennis,False,False,405,False,Asphalt
+Q427-VOLLEYBALL-1,1763.386474609375,Q-12,False,False,VLB,11434,False,False,,Volleyball,False,False,412,False,Asphalt
+B331-HANDBALL-3,1357.0838775634766,B-13,False,True,HDB,11224,False,False,,Handball,False,False,313,False,Concrete
+Q357B-BASKETBALL-3,3816.4737701416016,Q-06,False,False,BKB,11374,False,False,,Full Court,False,False,406,False,Asphalt
+B127-BASKETBALL-2,4291.370422363281,B-01,False,False,BKB,11206,False,False,,Full Court,False,False,301,False,Asphalt
+M144-ZN04-BASEBALL-1,38270.35726928711,M-15,False,False,SFB,10002,True,False,,"60ft base path, 150-200ft fence",False,False,103,False,Synthetic
+M124-HANDBALL-1,1300.5346069335938,M-03,False,True,HDB,10003,False,False,,Handball,False,False,103,False,Asphalt
+Q340-HANDBALL-4,1040.4656982421875,Q-02,False,True,HDB,11104,False,False,,Handball,False,False,402,False,Asphalt
+B058-ZN04-TENNIS-9,663.7725219726562,B-01,False,False,TNS,11222,False,False,,Tennis,False,False,301,False,Asphalt
+B274-HANDBALL-1,1591.3614044189453,B-18,False,True,HDB,11236,False,False,,Handball,False,False,318,False,Asphalt
+X162-HANDBALL-2,1073.1044158935547,X-11,False,True,HDB,10467,False,False,,Handball,False,False,211,False,Asphalt
+Q163-ZN07A-HANDBALL-12,1710.7366790771484,Q-14,False,True,HDB,11694,False,False,,Handball,False,False,414,False,Asphalt
+Q127-HANDBALL-2,1665.6629791259766,Q-12,False,True,HDB,11433,False,False,,Handball,False,False,412,False,Asphalt
+Q300A-01-HANDBALL-4,1330.900619506836,Q-11,False,True,HDB,11365,False,False,,Handball,False,False,411,False,Asphalt
+Q082-HANDBALL-1,1190.6283111572266,Q-13,False,True,HDB,11429,False,False,,Handball,False,False,413,False,Asphalt
+B166C-ZN02-BASEBALL-4,45700.82537841797,B-13,False,False,BSB,11214,False,False,,"90ft base path, 200+ft fence",False,False,313,False,Natural
+Q422-BASKETBALL-3,1167.5873413085938,Q-14,False,False,BKB,11694,False,False,,Half Court,False,False,414,False,Asphalt
+Q371-BASEBALL-1,7459.685546875,Q-14,False,False,SFB,11691,False,False,,"60ft base path, 150-200ft fence",False,False,414,False,Natural
+B058-ZN02-HANDBALL-3,1056.0412139892578,B-01,False,True,HDB,11211,False,False,,Handball,False,False,301,False,Asphalt
+B111A-BASKETBALL-3,2411.9733276367188,B-06,False,False,BKB,11215,False,False,,Full Court,False,False,306,False,Asphalt
+M213-HANDBALL-2,1550.2223358154297,M-11,False,True,HDB,10029,False,False,,Handball,False,False,111,False,Asphalt
+Q327-HANDBALL-3,940.6659545898438,Q-13,False,True,HDB,11426,False,False,,Handball,False,False,413,False,Asphalt
+M037-ZN04-BASKETBALL-1,3541.7754974365234,M-12A,False,False,BKB,10040,False,False,,Full Court,False,False,112,False,Asphalt
+M104-ZN02-TENNIS-3,2757.85466003418,M-11,False,False,TNS,10035,False,False,,Tennis,False,False,111,False,Rubber
+X113-BASKETBALL-1,4273.760223388672,X-02,False,False,BKB,10474,False,False,,Full Court,False,False,202,False,Asphalt
+B192A-TRACK-1,36972.822265625,B-10,False,False,TRK,11209,False,False,,Track,False,False,310,False,Rubber
+M033-HANDBALL-1,1833.261657714844,M-03,False,False,HDB,10002,False,False,,Handball,False,False,103,False,Asphalt
+X169-BASKETBALL-1,4392.0404052734375,X-12,False,False,BKB,10467,False,False,,Full Court,False,False,212,False,Asphalt
+Q347-HANDBALL-2,1525.622589111328,Q-07,False,True,HDB,11354,False,False,,Handball,False,False,407,False,Asphalt
+B223P05-BASKETBALL-3,1256.8843841552734,B-01,False,False,BKB,11211,False,False,,Half Court,False,False,301,False,Asphalt
+B239-TENNIS-2,1619.6848602294922,B-15,False,False,TNS,11235,False,False,,Tennis,False,False,315,False,Asphalt
+B016-02-BASEBALL-1,34413.58850097656,B-04,False,False,SFB,11237,False,False,,"60ft base path, 150-200ft fence",False,False,304,False,Asphalt
+R038A-HANDBALL-3,989.8341217041016,R-02,False,True,HDB,10306,False,False,,Handball,False,False,502,False,Asphalt
+Q390-TENNIS-3,2881.2511596679688,Q-07,False,False,TNS,11357,False,False,,Tennis,False,False,407,False,Asphalt
+B058-ZN02-HANDBALL-11,984.2418670654296,B-01,False,True,HDB,11211,False,False,,Handball,False,False,301,False,Asphalt
+Q021-ZN02-TENNIS-17,2723.2516479492188,Q-08,False,False,TNS,11423,False,False,,Tennis,False,False,408,False,Asphalt
+M014-02-HANDBALL-1,1170.5199584960938,M-10,False,True,HDB,10039,False,False,,Handball,False,False,110,False,Asphalt
+Q007-01-HANDBALL-3,1275.3750457763672,Q-14,False,True,HDB,11691,False,False,,Handball,False,False,414,False,Asphalt
+M241-HANDBALL-2,1663.286605834961,M-03,False,True,HDB,10002,False,False,,Handball,False,False,103,False,Asphalt
+M056-03-BASKETBALL-1,2489.682388305664,M-09,False,False,BKB,10026,False,False,,Full Court,False,False,109,False,Asphalt
+X177-TENNIS-3,2806.7119140625,X-09,False,False,TNS,10462,False,False,,Tennis,False,False,209,False,
+B128-HANDBALL-1,1017.9892425537108,B-12,False,True,HDB,11230,False,False,,Handball,False,False,312,False,Asphalt
+Q162J-HANDBALL-1,1435.139389038086,Q-14,False,True,HDB,11691,False,False,,Handball,False,False,414,False,Asphalt
+M079-BASKETBALL-2,922.7543334960938,M-08,False,False,BKB,10065,False,False,,Half Court,False,False,108,False,Asphalt
+X030-ZN02-BASEBALL-2,83407.87118530273,X-04,False,False,BSB,10451,False,False,,"90ft base path, 200+ft fence",False,False,204,False,Natural
+B220-HANDBALL-2,913.742645263672,B-02,False,True,HDB,11205,False,False,,Handball,False,False,302,False,Asphalt
+Q021-ZN03-BASEBALL-11,41728.21282958984,Q-08,False,False,SFB,11364,True,False,,"60ft base path, 150-200ft fence",False,False,408,False,Natural
+M037-04-BASKETBALL-1,1824.180145263672,M-12A,False,False,BKB,10040,False,False,,Half Court,False,False,112,False,Asphalt
+M071-ZN23-TENNIS-8,2795.4405364990234,M-14,False,False,TNS,10024,False,False,,Tennis,False,False,107,False,Clay
+Q107-01-TENNIS-2,2685.260711669922,Q-13,False,False,TNS,11413,False,False,,Tennis,False,False,413,False,Asphalt
+B334-BASKETBALL-1,3487.311721801758,B-04,False,False,BKB,11221,False,False,,Full Court,False,False,304,False,Asphalt
+Q001-01-HANDBALL-2,1202.4572143554688,Q-11,False,True,HDB,11364,False,False,,Handball,False,False,411,False,Asphalt
+B224-HANDBALL-4,1038.1680908203125,B-03,False,True,HDB,11221,False,False,,Handball,False,False,303,False,Asphalt
+Q390-TENNIS-1,2881.2511138916016,Q-07,False,False,TNS,11357,False,False,,Tennis,False,False,407,False,Asphalt
+M071-ZN17-TENNIS-5,2807.175537109375,M-14,False,False,TNS,10024,False,False,,Tennis,False,False,109,False,Asphalt
+B369-SOCCER-2,18386.023056030277,B-13,False,False,SCR,11224,False,False,,,False,False,313,False,
+Q102-ZN01-TENNIS-1,858.126953125,Q-05,False,False,TNS,11379,False,False,False,Unknown,False,False,405,False,
+X092-ZN06-SOCCER-7,34959.56181335449,X-13,False,False,SCR,10471,False,False,False,147-295ft W x 295-393ft L,False,False,226,False,Natural
+B252-SOCCER-1,9364.853378295898,B-13,False,False,SCR,11223,False,True,,45-146ft W x 75-294ft L,False,False,313,False,Synthetic
+M196-BASKETBALL-2,2955.253448486328,M-03,False,False,BKB,10038,False,False,,Full Court,False,False,103,False,Asphalt
+Q020-ZN04-BASKETBALL-4,4016.615737915039,Q-05,False,False,BKB,11207,False,False,,Full Court,False,False,305,False,Asphalt
+Q460-HANDBALL-3,1238.531021118164,Q-14,False,True,HDB,11693,False,False,,Handball,False,False,414,False,Asphalt
+X210-TENNIS-1,2849.3856048583984,X-01,False,False,TNS,10451,False,False,,Tennis,True,False,201,False,Asphalt
+R046-ZN01-BOCCE-2,1028.5413208007812,R-02,False,False,BOC,10305,False,False,,Bocce,False,False,595,False,Clay
+B419-BASEBALL-1,30666.36363220215,B-05,False,False,SFB,11207,False,False,,"60ft base path, 150-200ft fence",False,False,305,False,Natural
+B008-HANDBALL-5,1193.8585662841797,B-16,False,True,HDB,11212,False,False,,Handball,False,False,316,False,Asphalt
+Q092-HANDBALL-1,1118.0235443115234,Q-10,False,True,HDB,11420,False,False,,Handball,False,False,410,False,Asphalt
+X010-ZN03-TENNIS-6,2886.88427734375,X-03,False,False,TNS,10457,False,False,,Tennis,False,False,203,False,Asphalt
+X121-HANDBALL-5,1399.3214569091797,X-10,False,True,HDB,10461,False,False,,Handball,False,False,210,False,Asphalt
+Q360J-HANDBALL-4,1093.234634399414,Q-04,False,True,HDB,11373,False,False,,Handball,False,False,404,False,Asphalt
+Q349-BASKETBALL-4,3510.078079223633,Q-11,False,False,BKB,11364,False,False,,Half Court,False,False,411,False,Asphalt
+Q163-ZN06B-HANDBALL-2,1843.189468383789,Q-14,False,True,HDB,11693,False,False,,Handball,False,False,414,False,Asphalt
+B057-ZN04-BASEBALL-8,45368.01953125,B-18,False,False,SFB,11229,True,False,,"60ft base path, 150-200ft fence",False,False,318,False,Natural
+X092-ZN10-FOOTBALL-1,72068.93385314941,X-13,False,False,FTB,10470,False,False,,147-295ft W x 295-393ft L,True,False,226,False,Natural
+Q389-BASKETBALL-10,1196.9493560791016,Q-14,False,False,BKB,11694,False,False,,Half Court,False,False,414,False,Asphalt
+Q099-ZN04-TENNIS-12,2826.3148345947266,Q-15,False,False,TNS,11368,False,False,,Tennis,False,False,481,False,Asphalt
+M033-HANDBALL-2,1108.1277465820312,M-03,False,True,HDB,10002,False,False,,Handball,False,False,103,False,Asphalt
+M164-BASKETBALL-1,3502.7301025390625,M-06,False,False,BKB,10010,False,False,,Full Court,False,False,106,False,Asphalt
+Q293-HANDBALL-4,1159.6434173583984,Q-11,False,True,HDB,11364,False,False,,Handball,False,False,411,False,Asphalt
+B357-HANDBALL-4,1283.1312866210938,B-09,False,True,HDB,11225,False,False,,Handball,False,False,309,False,Asphalt
+B152-HANDBALL-1,1483.4491271972656,B-12,False,True,HDB,11219,False,False,,Handball,False,False,312,False,Asphalt
+B057-04-HANDBALL-1,1131.0169525146484,B-18,False,True,HDB,11234,False,False,,Handball,False,False,318,False,Asphalt
+Q308-BASKETBALL-6,2864.053359985352,Q-07,False,False,BKB,11355,False,False,,Full Court,False,False,407,False,Asphalt
+Q329-HANDBALL-2,1594.2771453857422,Q-08,False,True,HDB,11367,False,False,,Handball,False,False,408,False,Asphalt
+X208-BASKETBALL-3,1878.135498046875,X-09,False,False,BKB,10472,False,False,,Half Court,False,False,209,False,Asphalt
+M244-BASEBALL-1,3734.9449920654297,M-07,False,False,SFB,10025,True,False,,"45-60ft base path, less than 150ft fence",False,False,107,False,Asphalt
+B008-BASEBALL-2,28994.10804748535,B-16,False,False,SFB,11212,False,False,,"60ft base path, 150-200ft fence",False,False,316,False,Natural
+B073-ZN28-SOCCER-2,3092.168365478516,B-14,False,False,SCR,11226,False,False,,45-146ft W x 75-294ft L,False,False,314,False,Synthetic
+Q377-TENNIS-3,3855.592071533203,Q-06,False,False,TNS,11375,False,False,,,False,False,406,False,
+M015-SOCCER-1,14770.457290649414,M-03,False,False,SCR,10013,False,True,,45-146ft W x 75-294ft L,False,True,103,False,Synthetic
+Q300A-01-BASKETBALL-1,4258.684875488281,Q-11,False,False,BKB,11365,False,False,,Full Court,False,False,411,False,Asphalt
+B166D-SOCCER-1,9358.51838684082,B-18,False,False,SCR,11234,False,True,,60 x 360ft rectangular,True,False,318,False,Synthetic
+X169-BASKETBALL-2,4424.935928344727,X-12,False,False,BKB,10467,False,False,,Full Court,False,False,212,False,Asphalt
+M037-ZN03-BASEBALL-1,42086.2971496582,M-12A,False,False,SFB,10032,False,False,,"60ft base path, 150-200ft fence",False,False,112,False,Natural
+M148-BASKETBALL-1,3135.431167602539,M-11,False,False,BKB,10029,False,False,,Full Court,False,False,111,False,Asphalt
+X118-02-BASKETBALL-6,3205.7675018310547,X-09,False,False,BKB,10473,False,False,,Full Court,False,False,209,False,Asphalt
+Q398-HANDBALL-2,1338.612777709961,Q-05,False,True,HDB,11385,False,False,,Handball,False,False,405,False,Asphalt
+Q212-BASKETBALL-1,2453.613677978516,Q-08,False,False,BKB,11367,False,False,,Half Court,False,False,408,False,Asphalt
+Q396-BASKETBALL-1,4168.778945922852,Q-12,False,False,BKB,11413,False,False,,Full Court,False,False,412,False,Asphalt
+X039-ZN17-BASKETBALL-3,4062.8616943359375,X-15,False,False,BKB,10464,False,False,,Full Court,False,False,228,False,Asphalt
+B050-HANDBALL-5,1060.335205078125,B-06,False,True,HDB,11201,False,False,,Handball,False,False,306,False,Asphalt
+B139-BASKETBALL-1,2996.125274658203,B-04,False,False,BKB,11221,False,False,,Full Court,False,False,304,False,Asphalt
+M070-TENNIS-6,2900.7786560058594,M-08,False,False,TNS,10022,False,False,,Tennis,False,False,108,False,Clay
+B028-ZN01-BASEBALL-1,95220.77821350098,B-10,False,False,BSB,11228,False,False,,"90ft base path, 200+ft fence",False,False,310,False,Natural
+B057-ZN04-BASEBALL-1,44779.678787231445,B-18,False,False,BSB,11229,False,False,,"90ft base path, 200+ft fence",False,False,318,False,Natural
+Q102-02-HANDBALL-10,1157.1890411376953,Q-05,False,True,HDB,11379,False,False,,Handball,False,False,405,False,Asphalt
+Q369-BASKETBALL-2,1076.8683319091797,Q-11,False,False,BKB,11362,False,False,,Half Court,False,False,411,False,Asphalt
+M192-HANDBALL-7,1052.1299285888672,M-11,False,True,HDB,10029,False,False,,Handball,False,False,111,False,Asphalt
+B025-VOLLEYBALL-2,686.5474243164062,B-01,True,False,VLB,11211,False,False,,Volleyball,False,False,301,False,Sand
+B270-BASEBALL-1,17191.71566772461,B-16,False,False,SFB,11212,False,False,,"60ft base path, 150-200ft fence",False,False,316,False,Synthetic
+X200-BASKETBALL-2,3261.048553466797,X-01,False,False,BKB,10454,False,False,,Full Court,False,False,201,False,Asphalt
+Q375-BASKETBALL-3,979.7439727783204,Q-07,False,False,BKB,11357,False,False,,Half Court,False,False,407,False,Asphalt
+Q340-BASKETBALL-01,1513.0511322021484,Q-02,False,False,BKB,11104,False,False,,Half Court,False,False,402,False,Asphalt
+B166D-BASEBALL-1,35237.45620727539,B-18,False,False,BSB,11234,True,False,,"60ft base path, 150-200ft fence",True,False,318,False,Natural
+B397-TRACK-1,4684.936752319336,B-16,False,False,TRK,11212,False,False,,Jogging Path,False,False,316,False,Asphalt
+X170-BASKETBALL-1,2514.3991088867188,X-10,False,False,BKB,10461,False,False,,Full Court,False,False,210,False,Asphalt
+R038A-BASKETBALL-2,1791.4594268798828,R-02,False,False,BKB,10306,False,False,,Half Court,False,False,502,False,Asphalt
+Q007-TENNIS-4,2786.9322814941406,Q-14,False,False,TNS,11691,False,False,,Tennis,False,False,414,False,Asphalt
+Q345-HANDBALL-1,1387.9015350341797,Q-14,False,True,HDB,11691,False,False,,Handball,False,False,414,False,Asphalt
+X186-HANDBALL-5,1172.2376556396484,X-08,False,True,HDB,10463,False,False,,Handball,False,False,208,False,Asphalt
+B244-BASKETBALL-1,2882.172653198242,B-15,False,False,BKB,11223,False,False,,Full Court,False,False,315,False,Asphalt
+B396-HANDBALL-1,1123.7828979492188,B-16,False,True,HDB,11212,False,False,,Handball,False,False,316,False,Asphalt
+Q163-ZN05B-HANDBALL-4,1916.870376586914,Q-14,False,True,HDB,11693,False,False,,Handball,False,False,414,False,Asphalt
+M221-BASKETBALL-1,3946.2769622802734,M-04,False,False,BKB,10019,False,False,,Full Court,False,False,104,False,Asphalt
+Q002-HANDBALL-2,1239.952651977539,Q-05,False,True,HDB,11385,False,False,,Handball,False,False,405,False,Concrete
+X030-01-TRACK-1,68270.51042175293,X-04,False,False,TRK,10451,False,False,,Track,False,False,204,False,Rubber
+Q001-ZN01-TENNIS-4,2842.707397460937,Q-13,False,False,TNS,11426,False,False,,Tennis,False,False,413,False,Asphalt
+M042-02-HANDBALL-4,1073.6307830810547,M-12,False,True,HDB,10034,False,False,,Handball,False,False,112,False,Asphalt
+M241-BASKETBALL-2,662.4969635009766,M-03,False,False,BKB,10002,False,False,,Half Court,False,False,103,False,Asphalt
+X085-BASKETBALL-2,4169.074996948242,X-05,False,False,BKB,10458,False,False,,Full Court,False,False,205,False,Asphalt
+Q314-BASEBALL-1,33124.7686920166,Q-08,False,False,SFB,11365,True,False,,"60ft base path, 150-200ft fence",False,False,408,False,Asphalt
+Q221-HANDBALL-2,1088.527847290039,Q-08,False,True,HDB,11365,False,False,,Handball,False,False,408,False,Asphalt
+R125-BASKETBALL-1,3616.715835571289,R-01,False,False,BKB,10304,False,False,,Full Court,False,False,501,False,Asphalt
+Q021-ZN06-SOCCER-4,15473.477661132812,Q-08,False,False,SCR,11364,False,False,,45-146ft W x 75-294ft L,False,False,408,False,Natural
+X124-HANDBALL-4,1251.873519897461,X-09,False,True,HDB,10472,False,False,,Handball,False,False,209,False,Asphalt
+Q015-ZN07-TENNIS-10,2654.0106506347656,Q-16,False,False,TNS,11385,False,False,,Tennis,False,False,482,False,Asphalt
+Q387A-TENNIS-4,3029.9781951904297,Q-11,False,False,TNS,11360,False,False,,,False,False,411,False,
+B007-HANDBALL-1,1524.5393981933594,B-11,False,True,HDB,11214,False,False,,Handball,False,False,311,False,Asphalt
+R090-BASKETBALL-1,2431.593391418457,R-03,False,False,BKB,10312,False,False,,Full Court,False,False,503,False,Asphalt
+Q023-01-HANDBALL-2,1279.2030181884766,Q-12,False,True,HDB,11432,False,False,,Handball,False,False,412,False,Asphalt
+B258-BASKETBALL-3,3229.3190307617188,B-03,False,False,BKB,11233,False,False,,Full Court,False,False,303,False,Asphalt
+Q099-ZN23-BASEBALL-1,37472.47981262207,Q-15,False,False,SFB,11367,False,False,,"60ft base path, 150-200ft fence",False,False,481,False,Natural
+M160-BASKETBALL-1,4122.58171081543,M-10,False,False,BKB,10030,False,False,,Full Court,False,False,110,False,Asphalt
+B223R-BASKETBALL-2,1585.2311706542969,B-01,False,False,BKB,11211,False,False,,Half Court,False,False,301,False,Asphalt
+Q329-BASEBALL-1,36703.607330322266,Q-08,False,False,SFB,11367,False,False,,"45-60ft base path, less than 150ft fence",False,False,408,False,Asphalt
+B018-ZN01-BASEBALL-3,43396.17372131348,B-18,False,False,SFB,11236,True,False,,"60ft base path, 150-200ft fence",False,False,318,False,Natural
+X307-HANDBALL-1,1185.7248840332031,X-02,False,True,HDB,10474,False,False,,Handball,False,False,202,False,Concrete
+X092-ZN02-TENNIS-1,2848.503463745117,X-13,False,False,TNS,10471,False,False,,,False,False,226,False,
+M192-HOCKEY-1,9808.22769165039,M-11,False,False,HKY,10128,False,False,,Hockey,False,False,108,False,Asphalt
+B193-HANDBALL-2,1005.2349853515624,B-09,False,False,HDB,11203,False,False,,Handball,False,False,309,False,Asphalt
+Q163-ZN07A-HANDBALL-5,1661.9661102294922,Q-14,False,True,HDB,11694,False,False,,Handball,False,False,414,False,Asphalt
+Q293-BASKETBALL-1,1147.739013671875,Q-11,False,False,BKB,11364,False,False,,Half Court,False,False,411,False,Asphalt
+M105-06-SOCCER-1,17820.757202148438,M-03,False,False,SCR,10002,False,True,,45-146ft W x 75-294ft L,False,False,103,False,Synthetic
+Q300B-BASKETBALL-5,2598.737564086914,Q-08,False,False,BKB,11365,False,False,,Full Court,False,False,408,False,Asphalt
+Q396-HANDBALL-2,2060.059051513672,Q-12,False,True,HDB,11413,False,False,,Handball,False,False,412,False,Asphalt
+X188-BASKETBALL-1,3339.057891845703,X-12,False,False,BKB,10470,False,False,,Full Court,False,False,212,False,Asphalt
+X152-TENNIS-2,2158.0301818847656,X-08,False,False,TNS,10471,False,False,,,False,False,208,False,
+M164-TRACK-1,2427.0704193115234,M-06,False,False,TRK,10010,False,False,,Jogging Path,False,False,106,False,Asphalt
+M070-TENNIS-1,2900.775344848633,M-08,False,False,TNS,10022,False,False,,Tennis,False,False,108,False,Clay
+M071-ZN20-VOLLEYBALL-5,1894.5432891845703,M-14,True,False,VLB,10024,False,False,,Volleyball,False,False,107,False,Asphalt
+Q358-BASKETBALL-3,3615.640350341797,Q-13,False,False,BKB,11426,False,False,,Full Court,False,False,413,False,Asphalt
+Q015-ZN04-HANDBALL-5,1209.6555786132812,Q-16,False,True,HDB,11421,False,False,,Handball,False,False,482,False,Asphalt
+Q021-ZN02-TENNIS-3,2959.081649780273,Q-08,False,False,TNS,11423,False,False,,Tennis,False,False,408,False,Asphalt
+Q162J-BASEBALL-1,38897.58996582031,Q-14,False,False,BSB,11691,True,False,,"60ft base path, 150-200ft fence",False,False,414,False,Natural
+M105-08-HANDBALL-3,1271.907196044922,M-03,False,True,HDB,10002,False,False,,Handball,False,False,103,False,Asphalt
+B057-ZN04-SOCCER-1,55215.40309143066,B-18,False,False,SCR,11229,False,True,,60 x 360ft rectangular,False,False,318,False,Natural
+R005-ZN01-BASKETBALL-3,4231.913131713867,R-01,False,False,BKB,10301,False,False,,Full Court,False,False,501,False,Asphalt
+B018-ZN01-CRICKET-5,17430.437713623047,B-18,False,False,CRK,11236,False,False,,60 ft Cricket Pitch,False,False,318,False,Natural
+X148H1-HANDBALL-3,1338.0968322753906,X-06,False,True,HDB,10457,False,False,,Handball,False,False,206,False,Asphalt
+Q012-ZN03-TENNIS-7,2742.7691192626958,Q-11,False,False,TNS,11361,False,False,,Tennis,False,False,411,False,Asphalt
+B271-BASKETBALL-1,1697.704849243164,B-17,False,False,BKB,11236,False,False,,Half Court,False,False,317,False,Asphalt
+Q367-BASKETBALL-1,962.3381958007812,Q-14,False,False,BKB,11693,False,False,,Half Court,False,False,414,False,Asphalt
+B057-ZN01-HANDBALL-1,1179.875503540039,B-18,False,True,HDB,11229,False,False,,Handball,False,False,318,False,Asphalt
+B310-HANDBALL-1,1010.5989837646484,B-01,False,True,HDB,11206,False,False,,Handball,False,False,301,False,Asphalt
+B073-ZN28-BASKETBALL-5,3859.236923217773,B-14,False,False,BKB,11226,False,False,,Full Court,False,False,314,False,Asphalt
+Q305-BASKETBALL-2,4073.367462158203,Q-05,False,False,BKB,11385,False,False,,Full Court,False,False,405,False,Asphalt
+X118-02-BASEBALL-1,24600.16323852539,X-09,False,False,SFB,10473,False,False,,"60ft base path, 150-200ft fence",False,False,209,False,Asphalt
+B237-HANDBALL-2,1482.2278442382812,B-03,False,True,HDB,11216,False,False,,Handball,False,False,303,False,Asphalt
+Q162J-BASKETBALL-2,1013.7668762207032,Q-14,False,False,BKB,11691,False,False,,Half Court,False,False,414,False,Asphalt
+Q162F-BASKETBALL-2,4009.485809326172,Q-14,False,False,BKB,11692,False,False,,Full Court,False,False,414,False,
+Q099-ZN10-TENNIS-4,2810.545928955078,Q-15,False,False,TNS,11368,False,False,,Tennis,False,False,481,False,Asphalt
+Q317-BASKETBALL-4,1053.4293518066406,Q-11,False,False,BKB,11364,False,False,,Half Court,False,False,411,False,Asphalt
+R034-BASKETBALL-5,1261.131607055664,R-01,False,False,BKB,10310,False,False,,Half Court,False,False,501,False,Asphalt
+B126-ZN02-CRICKET-1,73146.07499694824,B-06,False,False,CRK,11231,False,False,,,False,False,306,False,Natural
+Q095-FOOTBALL-1,46487.610900878906,Q-10,False,False,FTB,11417,False,False,,147-295ft W x 295-393ft L,False,False,410,False,Natural
+B331-HANDBALL-2,1474.0232391357422,B-13,False,True,HDB,11224,False,False,,Handball,False,False,313,False,Concrete
+R105-FOOTBALL-1,12140.780807495115,R-01,False,False,FTB,10310,False,True,,45-146ft W x 75-294ft L,False,False,501,False,Synthetic
+R075A-BASEBALL-1,56760.91409301758,R-02,False,False,BSB,10314,False,False,,"90ft base path, 200+ft fence",False,False,502,False,Natural
+Q023-SOCCER-1,30331.911514282227,Q-12,False,False,SCR,11432,False,False,,45-146ft W x 75-294ft L,False,False,412,False,Synthetic
+B054-ZN01-HANDBALL-6,1154.1018524169922,B-08,False,True,HDB,11213,False,False,,Handball,False,False,308,False,Asphalt
+X103-BASKETBALL-2,1347.10498046875,X-01,False,False,BKB,10454,False,False,,Half Court,False,False,201,False,Asphalt
+M144-ZN03-TENNIS-8,2780.0036010742188,M-15,False,False,TNS,10002,False,False,,Tennis,False,False,103,False,Asphalt
+Q174A-HANDBALL-3,1267.5257415771484,Q-01,False,True,HDB,11377,False,False,,Handball,False,False,401,False,Asphalt
+R025-HANDBALL-6,1178.2845611572266,R-01,False,False,HDB,10301,False,False,,Handball,False,False,501,False,
+B297-BASKETBALL-2,1269.5074920654297,B-12,False,False,BKB,11218,False,False,,Half Court,False,False,312,False,Asphalt
+M192-BASKETBALL-2,4098.226043701172,M-11,False,False,BKB,10029,False,False,,Full Court,False,False,111,False,Asphalt
+M283-02-BASKETBALL-1,1747.0763702392578,M-01,False,False,BKB,10007,False,False,,Half Court,False,False,101,False,Asphalt
+B225-BASEBALL-2,8719.674499511719,B-03,False,False,SFB,11216,False,False,,"60ft base path, 150-200ft fence",False,False,303,False,Asphalt
+X123-BASKETBALL-3,4103.30778503418,X-09,False,False,BKB,10460,False,False,,Full Court,False,False,209,False,Asphalt
+X138-HANDBALL-1,1752.7870178222656,X-01,False,True,HDB,10454,False,False,,Handball,False,False,201,False,Asphalt
+Q020-ZN05-BASEBALL-2,50466.0810546875,Q-05,False,False,SFB,11385,False,False,,"60ft base path, 150-200ft fence",False,False,405,False,Natural
+Q330-BASEBALL-1,10021.027893066406,Q-12,False,False,SFB,11413,False,False,,"45-60ft base path, less than 150ft fence",False,False,412,False,Asphalt
+M028-ZN02-TENNIS-7,2747.139358520508,M-12,False,False,TNS,10032,False,False,,Tennis,False,False,112,False,Asphalt
+B139-SOCCER-1,7142.267852783203,B-04,False,False,SCR,11221,False,True,,45-146ft W x 75-294ft L,False,False,304,False,Synthetic
+B073-ZN28-VOLLEYBALL-1,1799.6188659667969,B-14,True,False,VLB,11226,False,False,,Volleyball,False,False,314,False,Rubber
+Q361-HANDBALL-6,1385.1177673339844,Q-04,False,True,HDB,11373,False,False,,Handball,False,False,404,False,Asphalt
+M056-01-HANDBALL-4,876.5568084716797,M-09,False,True,HDB,10026,False,False,,Handball,False,False,109,False,Asphalt
+B210W-03-HANDBALL-5,1261.4425048828125,B-10,False,True,HDB,11209,False,False,,Handball,False,False,310,False,Asphalt
+X045-01-BASKETBALL-2,4044.77946472168,X-01,False,False,BKB,10455,False,False,,Full Court,False,False,201,False,Asphalt
+Q360M-BASKETBALL-2,4219.6217041015625,Q-05,False,False,BKB,11378,False,False,,Full Court,False,False,405,False,Asphalt
+M235-BASEBALL-1,6189.048858642578,M-03,False,False,SFB,10002,True,False,,"60ft base path, 150-200ft fence",False,False,103,False,Asphalt
+X010-ZN03-HANDBALL-8,1400.3638305664062,X-03,False,False,HDB,10457,False,False,,Handball,False,False,203,False,
+X287-BASKETBALL-1,2022.8716430664065,X-04,False,False,BKB,10452,False,False,,Half Court,False,False,204,False,Asphalt
+B225-HANDBALL-1,897.5909576416016,B-03,False,True,HDB,11216,False,False,,Handball,False,False,303,False,Asphalt
+B073-ZN15-BASEBALL-2,66864.14419555664,B-19,False,False,SFB,11215,False,False,,"60ft base path, 150-200ft fence",False,False,355,False,Natural
+X010-05-HANDBALL-7,3628.641326904297,X-03,False,False,HDB,10457,False,False,,Handball,False,False,203,False,Asphalt
+X092-ZN11-SOFTBALL-3,26849.66957092285,X-13,False,False,SFB,10470,False,False,,"60ft base path, 150-200ft fence",False,False,226,False,Natural
+M219-BASKETBALL-1,1038.572982788086,M-07,False,False,BKB,10024,False,False,,Half Court,False,False,107,False,Asphalt
+Q476-BASEBALL-2,73787.9047088623,Q-07,False,False,BSB,11354,False,False,,"90ft base path, 200+ft fence",False,False,407,False,Natural
+M245-BASKETBALL-4,4071.141571044922,M-10,False,False,BKB,10030,False,False,,Full Court,False,False,110,False,Asphalt
+Q015-05-BASKETBALL-1,3691.44873046875,Q-16,False,False,BKB,11385,False,False,,,False,False,482,False,
+X039-ZN17-TENNIS-1,2749.6835174560547,X-15,False,False,TNS,10464,False,False,,Tennis,False,False,228,False,Asphalt
+B235-HANDBALL-1,1224.8226165771484,B-15,False,True,HDB,11229,False,False,,Handball,False,False,315,False,Asphalt
+X183-BASKETBALL-4,1188.3023223876953,X-10,False,False,BKB,10465,False,False,,Half Court,False,False,210,False,Asphalt
+B124-BASKETBALL-2,4196.816284179688,B-01,False,False,BKB,11211,False,False,,Full Court,False,False,301,False,Asphalt
+M038-HANDBALL-1,1081.53076171875,M-02,False,True,HDB,10014,False,False,,Handball,False,False,102,False,Asphalt
+Q005-ZN05-BASEBALL-4,54352.887756347656,Q-12,False,False,SFB,11434,False,False,,"60ft base path, 150-200ft fence",False,False,412,False,Natural
+B294-HANDBALL-1,880.2959747314453,B-03,False,True,HDB,11233,False,False,,Handball,False,False,303,False,Asphalt
+B018-ZN05-BASEBALL-3,118269.30453491212,B-18,False,False,BSB,11236,False,False,,"90ft base path, 200+ft fence",True,False,318,False,Natural
+B247-01-HANDBALL-2,1266.8839263916016,B-18,False,True,HDB,11207,False,False,,Handball,False,False,318,False,Asphalt
+B192A-BASEBALL-1,27260.36790466309,B-10,False,False,SFB,11209,False,False,,"60ft base path, 150-200ft fence",False,False,310,False,Synthetic
+B348-BASKETBALL-2,782.1350708007812,B-03,False,False,BKB,11206,False,False,,Half Court,False,False,303,False,Asphalt
+B248-HANDBALL-4,1605.0616912841797,B-18,False,True,HDB,11234,False,False,,Handball,False,False,318,False,Asphalt
+X266-HANDBALL-2,1419.4601287841797,X-06,False,True,HDB,10460,False,False,,Handball,False,False,206,False,Asphalt
+R106-ZN03-BASKETBALL-1,3826.240341186523,R-03,False,False,BKB,10309,False,False,,Full Court,False,False,503,False,Asphalt
+B156-BASKETBALL-3,3184.2201385498047,B-16,False,False,BKB,11212,False,False,,Full Court,False,False,316,False,Asphalt
+B126-01-BASKETBALL-4,997.697525024414,B-06,False,False,BKB,11231,False,False,,Half Court,False,False,306,False,Asphalt
+Q343-BASKETBALL-2,1210.1237182617188,Q-07,False,False,BKB,11357,False,False,,Half Court,False,False,407,False,Asphalt
+B308-HANDBALL-1,1523.940933227539,B-15,False,True,HDB,11235,False,False,,Handball,False,False,315,False,Concrete
+X233-BASKETBALL-1,1259.719268798828,X-01,False,False,BKB,10455,False,False,,Half Court,True,False,201,False,Asphalt
+Q099-20-HANDBALL-1,1141.3427124023438,Q-15,False,False,HDB,11367,False,False,,Handball,False,False,408,False,Asphalt
+X092-ZN02-HANDBALL-6,1050.0606079101562,X-13,False,True,HDB,10471,False,False,,Handball,False,False,226,False,Concrete
+M205-TENNIS-3,2909.400924682617,M-09,False,False,TNS,10027,False,False,,Tennis,False,False,109,False,Asphalt
+B267-BASKETBALL-4,3430.548095703125,B-09,False,False,BKB,11225,False,False,,Full Court,False,False,309,False,Asphalt
+M104-ZN02-BASEBALL-16,41439.1208190918,M-11,False,False,SFB,10035,False,False,,"60ft base path, 150-200ft fence",False,False,111,False,Natural
+B236-HANDBALL-3,1488.987289428711,B-18,False,False,HDB,11234,False,False,,Handball,False,False,318,False,Asphalt
+B057-ZN02-BASEBALL-3,37155.32748413086,B-18,False,False,SFB,11229,True,False,,"60ft base path, 150-200ft fence",False,False,318,False,Natural
+M088-BASKETBALL-3,1958.4842224121091,M-03,False,False,BKB,10009,False,False,,Half Court,False,False,103,False,Asphalt
+B073-ZN27-TENNIS-8,3772.421920776367,B-14,False,False,TNS,11226,False,False,,Tennis,False,False,314,False,Clay
+M015-VOLLEYBALL-5,2162.219268798828,M-03,True,False,VLB,10013,False,False,,Volleyball,False,False,103,False,Asphalt
+Q012B-BASEBALL-2,37928.84259033203,Q-11,False,False,SFB,11361,False,False,,"60ft base path, 150-200ft fence",False,False,411,False,Natural
+Q118-HANDBALL-2,1343.0416564941406,Q-10,False,True,HDB,11417,False,False,,Handball,False,False,410,False,Asphalt
+X251-BASEBALL-1,37669.87284851074,X-10,False,False,SFB,10475,False,False,,"60ft base path, 150-200ft fence",False,False,210,False,Natural
+M045-HANDBALL-2,1538.9344940185547,M-08,False,True,HDB,10021,False,False,,Handball,False,False,108,False,Asphalt
+B210A-HANDBALL-6,1286.6282043457031,B-07,False,True,HDB,11220,False,False,,Handball,False,False,307,False,Asphalt
+B325-BASKETBALL-2,3704.313934326172,B-16,False,False,BKB,11233,False,False,,Full Court,False,False,316,False,Asphalt
+B128-HANDBALL-5,1092.0819244384766,B-12,False,True,HDB,11230,False,False,,Handball,False,False,312,False,Asphalt
+Q338-HANDBALL-2,1749.8528900146484,Q-11,False,True,HDB,11363,False,False,,Handball,False,False,411,False,Asphalt
+B402-BASKETBALL-1,3898.40625,B-05,False,False,BKB,11207,False,False,,Full Court,False,False,305,False,Asphalt
+B073-ZN27-SOCCER-02,14895.124313354492,B-14,False,False,SCR,11226,False,False,,45-146ft W x 75-294ft L,False,False,314,False,
+B214-01-MPPA-1,57700.58708190918,B-05,False,False,MPPA,11207,False,True,,45-146ft W x 75-294ft L,False,False,305,False,Asphalt
+B329-01-HANDBALL-1,1370.373031616211,B-18,False,True,HDB,11234,False,False,,Handball,False,False,318,False,Asphalt
+Q005-05-BASKETBALL-6,733.014892578125,Q-12,False,False,BKB,11434,False,False,,Half Court,False,False,412,False,Asphalt
+Q375-HANDBALL-2,1506.6414489746094,Q-07,False,True,HDB,11357,False,False,,Handball,False,False,407,False,Concrete
+Q437-HANDBALL-2,1088.7557983398438,Q-07,False,True,HDB,11355,False,False,,Handball,False,False,407,False,Asphalt
+X122-HANDBALL-3,1704.8721313476562,X-10,False,True,HDB,10461,False,False,,Handball,False,False,210,False,Asphalt
+M010-151-BASKETBALL-3,3102.408203125,M-13,False,False,BKB,10024,False,False,,Full Court,False,False,164,False,Asphalt
+B054-ZN03-TENNIS-9,2122.757080078125,B-08,False,False,TNS,11233,False,False,,Tennis,False,False,308,False,Asphalt
+B302-MPPA-1,23175.598358154297,B-03,False,False,MPPA,11206,False,True,,147-295ft W x 295-393ft L,False,False,303,False,Asphalt
+M077-04-HANDBALL-3,1188.708984375,M-09,False,True,HDB,10027,False,False,,Handball,False,False,109,False,Asphalt
+B257-BASKETBALL-1,3399.3775939941406,B-01,False,False,BKB,11211,False,False,,Full Court,False,False,301,False,Asphalt
+B057-HANDBALL-2,1373.370147705078,B-18,False,True,HDB,11229,False,False,,Handball,False,False,318,False,Asphalt
+Q099-01-HANDBALL-4,1144.599105834961,Q-06,False,True,HDB,11375,False,False,,Handball,False,False,406,False,Asphalt
+X165-HANDBALL-1,948.7579650878906,X-12,False,True,HDB,10466,False,False,,Handball,False,False,212,False,Asphalt
+Q128-BASKETBALL-4,2429.68994140625,Q-09,False,False,BKB,11416,False,False,,Full Court,False,False,409,False,Asphalt
+Q015-ZN07-TENNIS-4,2654.0213012695312,Q-16,False,False,TNS,11385,False,False,,Tennis,False,False,482,False,Asphalt
+Q015-08-BASKETBALL-2,3710.2164916992183,Q-16,False,False,BKB,11385,False,False,,Full Court,False,False,405,False,Asphalt
+M124-HANDBALL-2,1366.4642333984375,M-03,False,True,HDB,10003,False,False,,Handball,False,False,103,False,Asphalt
+B232-HANDBALL-4,2441.187026977539,B-08,False,False,HDB,11217,False,False,,Full Court,False,False,308,False,Asphalt
+Q205A-HANDBALL-5,1165.7131805419922,Q-02,False,True,HDB,11377,False,False,,Handball,False,False,402,False,Asphalt
+B042-01-BASEBALL-1,22660.10423278809,B-12,False,False,SFB,11204,False,False,,"60ft base path, 150-200ft fence",False,False,312,False,Natural
+B270-BASKETBALL-1,4051.185089111328,B-16,False,False,BKB,11212,False,False,,Full Court,False,False,316,False,Asphalt
+Q322-HANDBALL-2,1323.6172332763672,Q-13,False,True,HDB,11427,False,False,,Handball,False,False,413,False,Asphalt
+Q349-TENNIS-3,2768.2518157958984,Q-11,False,False,TNS,11364,False,False,,Tennis,False,False,411,False,Asphalt
+B154-BASKETBALL-1,3696.026245117188,B-01,False,False,BKB,11211,False,False,,Full Court,False,False,301,False,Asphalt
+X150I-BASKETBALL-1,2210.396194458008,X-08,False,False,BKB,10463,False,False,,Half Court,False,False,208,False,Asphalt
+Q098-HANDBALL-1,1188.4901733398438,Q-04,False,True,HDB,11373,False,False,,Handball,False,False,404,False,Asphalt
+M010-ZN27-BASEBALL-3,25704.18789672852,M-13,False,False,SFB,10024,False,False,,"60ft base path, 150-200ft fence",False,False,164,False,Natural
+M029-01-BASKETBALL-1,1905.007522583008,M-12,False,False,BKB,10040,False,False,,Half Court,False,False,112,False,Asphalt
+B269-VOLLEYBALL-1,1819.1053314208984,B-03,True,False,VLB,11221,False,False,,Volleyball,False,False,303,False,Asphalt
+X002-05A-BASKETBALL-2,3572.941864013672,X-14,False,False,BKB,10467,False,False,,Full Court,False,False,227,False,Asphalt
+B057-04-HANDBALL-4,1038.4254913330078,B-18,False,True,HDB,11234,False,False,,Handball,False,False,318,False,Asphalt
+Q015-08-BASKETBALL-1,3709.8325958251953,Q-16,False,False,BKB,11385,False,False,,Full Court,False,False,405,False,Asphalt
+Q300A1-TENNIS-2,2806.199264526367,Q-08,False,False,TNS,11365,False,False,,Tennis,False,False,408,False,Asphalt
+Q099-20-BASKETBALL-2,3595.772171020508,Q-15,False,False,BKB,11367,False,False,,Full Court,False,False,408,False,Asphalt
+Q305-HANDBALL-2,1752.9615325927734,Q-05,False,True,HDB,11385,False,False,,Handball,False,False,405,False,Asphalt
+M155-BASKETBALL-1,3713.450454711914,M-10,False,False,BKB,10037,False,False,,Full Court,False,False,110,False,Asphalt
+Q107-01-BASKETBALL-2,2943.369430541992,Q-13,False,False,BKB,11413,False,False,,Full Court,False,False,413,False,Asphalt
+Q347-BASKETBALL-6,689.3442077636719,Q-07,False,False,BKB,11354,False,False,,Half Court,False,False,407,False,Asphalt
+M132-HANDBALL-1,1086.081771850586,M-03,False,True,HDB,10002,False,False,,Handball,False,False,103,False,Asphalt
+M071-ZN23-TENNIS-7,2786.163864135742,M-14,False,False,TNS,10024,False,False,,Tennis,False,False,107,False,Clay

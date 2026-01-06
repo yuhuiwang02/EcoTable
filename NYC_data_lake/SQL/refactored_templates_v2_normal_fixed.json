@@ -1,0 +1,2453 @@
+[
+  {
+    "name": "two_table_join_with_aggregation",
+    "description": "Join two tables and perform aggregation",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{group_column}}, SUM({{numeric_column}}) AS {{alias}}, COUNT(*) AS record_count {{join_clause}} GROUP BY {{group_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 2,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}}"
+    },
+    "placeholders": {
+      "group_column": "Column to group by",
+      "numeric_column": "Numeric column to aggregate",
+      "alias": "Alias for aggregated result"
+    },
+    "example_use_case": "Two-table join with SUM aggregation",
+    "difficulty": "medium",
+    "original_pattern": "SELECT {{group_column}}, SUM({{numeric_column}}) AS {{alias}}, COUNT(*) AS record_count FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}} GROUP BY {{group_column}}"
+  },
+  {
+    "name": "four_table_join_with_having",
+    "description": "Join four tables with aggregation and HAVING clause",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{group_column}}, COUNT(*) AS record_count, SUM({{numeric_column}}) AS total {{join_clause}} GROUP BY {{group_column}} HAVING COUNT(*) > {{threshold}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact}} INNER JOIN {{dim1}} ON ... INNER JOIN {{dim2}} ON ... INNER JOIN {{dim3}} ON ... INNER JOIN {{dim4}} ON ..."
+    },
+    "placeholders": {
+      "group_column": "Grouping column",
+      "numeric_column": "Numeric column to sum",
+      "threshold": "Minimum count threshold"
+    },
+    "example_use_case": "Four-table join with HAVING filter",
+    "difficulty": "hard",
+    "original_pattern": "SELECT {{group_column}}, COUNT(*) AS record_count, SUM({{numeric_column}}) AS total FROM {{fact}} INNER JOIN {{dim1}} ON {{fact}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact}}.{{key}} = {{dim2}}.{{key}} INNER JOIN {{dim3}} ON {{fact}}.{{key}} = {{dim3}}.{{key}} INNER JOIN {{dim4}} ON {{fact}}.{{key}} = {{dim4}}.{{key}} GROUP BY {{group_column}} HAVING COUNT(*) > {{threshold}}"
+  },
+  {
+    "name": "four_table_join_with_aggregation",
+    "description": "Join four tables and perform complex aggregations",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{group_column1}}, {{group_column2}}, SUM({{numeric_column}}) AS total, AVG({{numeric_column}}) AS average, COUNT(*) AS count {{join_clause}} GROUP BY {{group_column1}}, {{group_column2}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact}} INNER JOIN {{dim1}} ON ... INNER JOIN {{dim2}} ON ... INNER JOIN {{dim3}} ON ... INNER JOIN {{dim4}} ON ..."
+    },
+    "placeholders": {
+      "group_column1": "First grouping column",
+      "group_column2": "Second grouping column",
+      "numeric_column": "Numeric column for aggregation"
+    },
+    "example_use_case": "Four-table join with multiple aggregations",
+    "difficulty": "medium",
+    "original_pattern": "SELECT {{group_column1}}, {{group_column2}}, SUM({{numeric_column}}) AS total, AVG({{numeric_column}}) AS average, COUNT(*) AS count FROM {{fact}} INNER JOIN {{dim1}} ON {{fact}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact}}.{{key}} = {{dim2}}.{{key}} INNER JOIN {{dim3}} ON {{fact}}.{{key}} = {{dim3}}.{{key}} INNER JOIN {{dim4}} ON {{fact}}.{{key}} = {{dim4}}.{{key}} GROUP BY {{group_column1}}, {{group_column2}}"
+  },
+  {
+    "name": "four_table_join_basic",
+    "description": "Join four tables for comprehensive data enrichment",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{column1}}, {{column2}}, {{column3}}, {{column4}} {{join_clause}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact}} INNER JOIN {{dim1}} ON ... INNER JOIN {{dim2}} ON ... INNER JOIN {{dim3}} ON ... INNER JOIN {{dim4}} ON ..."
+    },
+    "placeholders": {
+      "column1": "First column",
+      "column2": "Second column",
+      "column3": "Third column",
+      "column4": "Fourth column",
+      "condition_column": "Filter column",
+      "condition_value": "Filter value"
+    },
+    "example_use_case": "Four-table join with filtering",
+    "difficulty": "medium",
+    "original_pattern": "SELECT {{column1}}, {{column2}}, {{column3}}, {{column4}} FROM {{fact}} INNER JOIN {{dim1}} ON {{fact}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact}}.{{key}} = {{dim2}}.{{key}} INNER JOIN {{dim3}} ON {{fact}}.{{key}} = {{dim3}}.{{key}} INNER JOIN {{dim4}} ON {{fact}}.{{key}} = {{dim4}}.{{key}} WHERE {{condition_column}} = {{condition_value}}"
+  },
+  {
+    "name": "multi_table_join_with_aggregation",
+    "description": "Join multiple tables and perform aggregations",
+    "source": {
+      "dbt_package": "dbt_fivetran_log",
+      "business_domain": "Data Integration",
+      "platform": "Fivetran"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column}}) AS {{alias_name}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "name of the fact table",
+      "fact_column": "column from the fact table",
+      "numeric_column": "numeric column to aggregate",
+      "alias_name": "name for the aggregated result",
+      "join_column": "column used for joining tables",
+      "dimension_table1": "first dimension table",
+      "dimension_table2": "second dimension table",
+      "dimension_table3": "third dimension table",
+      "dimension_table4": "fourth dimension table",
+      "dimension_table5": "fifth dimension table"
+    },
+    "example_use_case": "Use this template to join a fact table with multiple dimension tables and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column}}) AS {{alias_name}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations on the joined data.",
+    "source": {
+      "dbt_package": "dbt_instagram_business",
+      "business_domain": "Advertising",
+      "platform": "Instagram Business"
+    },
+    "pattern": "SELECT f.{{fact_column}}, SUM(d1.{{numeric_column1}}) AS total_dimension1, AVG(d2.{{numeric_column2}}) AS average_dimension2 {{join_clause}} GROUP BY f.{{fact_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} f INNER JOIN {{dimension_table1}} d1 ON f.{{join_column1}} = d1.{{join_column1}} INNER JOIN {{dimension_table2}} d2 ON f.{{join_column2}} = d2.{{join_column2}} INNER JOIN {{dimension_table3}} d3 ON f.{{join_column3}} = d3.{{join_column3}} INNER JOIN {{dimension_table4}} d4 ON f.{{join_column4}} = d4.{{join_column4}} INNER JOIN {{dimension_table5}} d5 ON f.{{join_column5}} = d5.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "fact_column": "Column from the fact table",
+      "numeric_column1": "Numeric column from the first dimension table",
+      "numeric_column2": "Numeric column from the second dimension table",
+      "join_column1": "Column used for joining the fact table with the first dimension table",
+      "join_column2": "Column used for joining the fact table with the second dimension table",
+      "join_column3": "Column used for joining the fact table with the third dimension table",
+      "join_column4": "Column used for joining the fact table with the fourth dimension table",
+      "join_column5": "Column used for joining the fact table with the fifth dimension table"
+    },
+    "example_use_case": "Use this template to perform aggregations on data from multiple joined tables.",
+    "original_pattern": "SELECT f.{{fact_column}}, SUM(d1.{{numeric_column1}}) AS total_dimension1, AVG(d2.{{numeric_column2}}) AS average_dimension2 FROM {{fact_table}} f INNER JOIN {{dimension_table1}} d1 ON f.{{join_column1}} = d1.{{join_column1}} INNER JOIN {{dimension_table2}} d2 ON f.{{join_column2}} = d2.{{join_column2}} INNER JOIN {{dimension_table3}} d3 ON f.{{join_column3}} = d3.{{join_column3}} INNER JOIN {{dimension_table4}} d4 ON f.{{join_column4}} = d4.{{join_column4}} INNER JOIN {{dimension_table5}} d5 ON f.{{join_column5}} = d5.{{join_column5}} GROUP BY f.{{fact_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_aggregation_with_joins",
+    "description": "Aggregates data from multiple tables using joins and group by operations.",
+    "source": {
+      "dbt_package": "dbt_pardot",
+      "business_domain": "Marketing Automation",
+      "platform": "Salesforce Pardot"
+    },
+    "pattern": "SELECT {{dimension_table1}}.{{dimension_column1}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} GROUP BY {{dimension_table1}}.{{dimension_column1}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "dimension_table1": "name of the first dimension table",
+      "dimension_column1": "column from the first dimension table",
+      "fact_table": "name of the fact table",
+      "numeric_column": "numeric column from the fact table",
+      "aggregation_column": "name of the aggregation column",
+      "join_column1": "common column for joining first dimension table",
+      "join_column2": "common column for joining second dimension table",
+      "join_column3": "common column for joining third dimension table",
+      "join_column4": "common column for joining fourth dimension table",
+      "join_column5": "common column for joining fifth dimension table"
+    },
+    "example_use_case": "Use this template when you need to perform aggregations on a fact table by joining it with multiple dimension tables.",
+    "original_pattern": "SELECT {{dimension_table1}}.{{dimension_column1}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} GROUP BY {{dimension_table1}}.{{dimension_column1}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations",
+    "source": {
+      "dbt_package": "dbt_pendo",
+      "business_domain": "Product Analytics",
+      "platform": "Pendo"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, {{dim1}}.{{dim1_column}}, {{dim2}}.{{dim2_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_name}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}, {{dim1}}.{{dim1_column}}, {{dim2}}.{{dim2_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{join_column1}} = {{dim1}}.{{join_column1}} INNER JOIN {{dim2}} ON {{fact_table}}.{{join_column2}} = {{dim2}}.{{join_column2}} INNER JOIN {{dim3}} ON {{fact_table}}.{{join_column3}} = {{dim3}}.{{join_column3}} INNER JOIN {{dim4}} ON {{fact_table}}.{{join_column4}} = {{dim4}}.{{join_column4}} INNER JOIN {{dim5}} ON {{fact_table}}.{{join_column5}} = {{dim5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "name of the fact table",
+      "fact_column": "column from the fact table",
+      "dim1": "name of the first dimension table",
+      "dim1_column": "column from the first dimension table",
+      "dim2": "name of the second dimension table",
+      "dim2_column": "column from the second dimension table",
+      "numeric_column": "numeric column to aggregate",
+      "aggregation_name": "name of the aggregation result",
+      "join_column1": "column used for joining the first dimension",
+      "join_column2": "column used for joining the second dimension",
+      "join_column3": "column used for joining the third dimension",
+      "join_column4": "column used for joining the fourth dimension",
+      "join_column5": "column used for joining the fifth dimension"
+    },
+    "example_use_case": "Use this template to join a fact table with multiple dimension tables and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, {{dim1}}.{{dim1_column}}, {{dim2}}.{{dim2_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_name}} FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{join_column1}} = {{dim1}}.{{join_column1}} INNER JOIN {{dim2}} ON {{fact_table}}.{{join_column2}} = {{dim2}}.{{join_column2}} INNER JOIN {{dim3}} ON {{fact_table}}.{{join_column3}} = {{dim3}}.{{join_column3}} INNER JOIN {{dim4}} ON {{fact_table}}.{{join_column4}} = {{dim4}}.{{join_column4}} INNER JOIN {{dim5}} ON {{fact_table}}.{{join_column5}} = {{dim5}}.{{join_column5}} GROUP BY {{fact_table}}.{{fact_column}}, {{dim1}}.{{dim1_column}}, {{dim2}}.{{dim2_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregations",
+    "description": "Joins multiple tables and performs aggregations.",
+    "source": {
+      "dbt_package": "dbt_snapchat_ads",
+      "business_domain": "Advertising",
+      "platform": "Snapchat Ads"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{sum_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "fact_column": "Column from the fact table",
+      "numeric_column": "Numeric column to be summed",
+      "sum_column": "New column name for the sum",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_column1": "Column from the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_column2": "Column from the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column1": "Join column for the first dimension table",
+      "join_column2": "Join column for the second dimension table",
+      "join_column3": "Join column for the third dimension table",
+      "join_column4": "Join column for the fourth dimension table",
+      "join_column5": "Join column for the fifth dimension table"
+    },
+    "example_use_case": "Use this template when you need to join a fact table with multiple dimension tables and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{sum_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} GROUP BY {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_group_by",
+    "description": "Joins multiple tables and groups the results by specific columns.",
+    "source": {
+      "dbt_package": "dbt_snapchat_ads",
+      "business_domain": "Advertising",
+      "platform": "Snapchat Ads"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, COUNT({{fact_table}}.{{id_column}}) AS {{count_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}, {{dimension_table3}}.{{dimension_column3}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}, {{dimension_table3}}.{{dimension_column3}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "fact_column": "Column from the fact table",
+      "id_column": "ID column from the fact table",
+      "count_column": "New column name for the count",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_column1": "Column from the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_column2": "Column from the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_column3": "Column from the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column1": "Join column for the first dimension table",
+      "join_column2": "Join column for the second dimension table",
+      "join_column3": "Join column for the third dimension table",
+      "join_column4": "Join column for the fourth dimension table",
+      "join_column5": "Join column for the fifth dimension table"
+    },
+    "example_use_case": "Use this template when you need to join a fact table with multiple dimension tables and group the results.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, COUNT({{fact_table}}.{{id_column}}) AS {{count_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}, {{dimension_table3}}.{{dimension_column3}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} GROUP BY {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}}, {{dimension_table3}}.{{dimension_column3}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables with aggregations and group by",
+    "source": {
+      "dbt_package": "dbt_tiktok_ads",
+      "business_domain": "Advertising",
+      "platform": "TikTok Ads"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column": "Name for the aggregated column",
+      "text_column": "Text column to select",
+      "date_column": "Date column to select"
+    },
+    "example_use_case": "Use this template when you need to join multiple tables and perform aggregations with group by.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations.",
+    "source": {
+      "dbt_package": "dbt_zendesk",
+      "business_domain": "Customer Support",
+      "platform": "Zendesk"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "fact_column": "Column from the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column": "Name for the aggregated column",
+      "join_column": "Column used for joining tables"
+    },
+    "example_use_case": "Use this template when you need to join multiple dimension tables with a fact table and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_group_by",
+    "description": "Join multiple tables and perform group by operations",
+    "source": {
+      "dbt_package": "dbt_apple_search_ads",
+      "business_domain": "Advertising",
+      "platform": "Apple Search Ads"
+    },
+    "pattern": "SELECT {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}, COUNT({{fact_table}}.{{numeric_column}}) AS {{alias_count_column}} {{join_clause}} GROUP BY {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} INNER JOIN {{dimension_table6}} ON {{fact_table}}.{{join_column6}} = {{dimension_table6}}.{{join_column6}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name",
+      "dimension_table6": "Sixth dimension table name",
+      "date_column": "Date column for grouping",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column for counting",
+      "alias_count_column": "Alias for the count result",
+      "join_column1": "Join column for first dimension table",
+      "join_column2": "Join column for second dimension table",
+      "join_column3": "Join column for third dimension table",
+      "join_column4": "Join column for fourth dimension table",
+      "join_column5": "Join column for fifth dimension table",
+      "join_column6": "Join column for sixth dimension table"
+    },
+    "example_use_case": "Use this template for scenarios requiring multiple table joins and group by operations",
+    "original_pattern": "SELECT {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}, COUNT({{fact_table}}.{{numeric_column}}) AS {{alias_count_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} INNER JOIN {{dimension_table6}} ON {{fact_table}}.{{join_column6}} = {{dimension_table6}}.{{join_column6}} GROUP BY {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_multi_table_join",
+    "description": "Join multiple tables to simulate real-world data relationships",
+    "source": {
+      "dbt_package": "dbt_microsoft_ads",
+      "business_domain": "Advertising",
+      "platform": "Microsoft Advertising (Bing)"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "date_dimension": "Date dimension table name",
+      "product_dimension": "Product dimension table name",
+      "customer_dimension": "Customer dimension table name",
+      "region_dimension": "Region dimension table name",
+      "category_dimension": "Category dimension table name",
+      "status_dimension": "Status dimension table name",
+      "join_column": "Column used for joining",
+      "date_column": "Date column to select",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column": "Resulting aggregated column"
+    },
+    "example_use_case": "Use this template to join a fact table with multiple dimension tables and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregation",
+    "description": "Join multiple tables and perform aggregation",
+    "source": {
+      "dbt_package": "dbt_xero",
+      "business_domain": "Finance & Accounting",
+      "platform": "Xero"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias_numeric_column}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "date_dimension": "Date dimension table name",
+      "product_dimension": "Product dimension table name",
+      "customer_dimension": "Customer dimension table name",
+      "region_dimension": "Region dimension table name",
+      "category_dimension": "Category dimension table name",
+      "status_dimension": "Status dimension table name",
+      "join_column": "Column used for joining tables",
+      "numeric_column": "Numeric column to aggregate",
+      "alias_numeric_column": "Alias for the aggregated numeric column"
+    },
+    "example_use_case": "Use this template to join multiple dimension tables with a fact table and perform aggregations",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias_numeric_column}} FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_case_when",
+    "description": "Join multiple tables and use CASE WHEN for conditional logic",
+    "source": {
+      "dbt_package": "dbt_amazon_selling_partner",
+      "business_domain": "E-commerce",
+      "platform": "Amazon Seller Central"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, CASE WHEN {{fact_table}}.{{condition_column}} = {{condition_value}} THEN {{fact_table}}.{{numeric_column}} ELSE 0 END AS {{alias}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "join_column": "Column used for joining",
+      "condition_column": "Column used for conditional logic",
+      "condition_value": "Value for condition",
+      "numeric_column": "Numeric column to be used in CASE WHEN",
+      "alias": "Alias for the conditional column",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name"
+    },
+    "example_use_case": "Use this template to join multiple tables and apply conditional logic using CASE WHEN.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, CASE WHEN {{fact_table}}.{{condition_column}} = {{condition_value}} THEN {{fact_table}}.{{numeric_column}} ELSE 0 END AS {{alias}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_case_when",
+    "description": "Join multiple tables and use CASE WHEN for conditional logic",
+    "source": {
+      "dbt_package": "dbt_fivetran_log",
+      "business_domain": "Data Integration",
+      "platform": "Fivetran"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, CASE WHEN {{dimension_table1}}.{{condition_column}} = {{condition_value}} THEN {{result_value}} ELSE {{alternative_value}} END AS {{alias_name}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "name of the fact table",
+      "fact_column": "column from the fact table",
+      "condition_column": "column used in the condition",
+      "condition_value": "value to check in the condition",
+      "result_value": "value if condition is true",
+      "alternative_value": "value if condition is false",
+      "alias_name": "name for the result column",
+      "join_column": "column used for joining tables",
+      "dimension_table1": "first dimension table",
+      "dimension_table2": "second dimension table",
+      "dimension_table3": "third dimension table",
+      "dimension_table4": "fourth dimension table",
+      "dimension_table5": "fifth dimension table"
+    },
+    "example_use_case": "Use this template to join multiple tables and apply conditional logic using CASE WHEN.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, CASE WHEN {{dimension_table1}}.{{condition_column}} = {{condition_value}} THEN {{result_value}} ELSE {{alternative_value}} END AS {{alias_name}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "simple_two_table_join",
+    "description": "Join two dimension tables with a fact table for basic analysis",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{column1}}, {{column2}}, {{column3}} {{join_clause}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}}"
+    },
+    "placeholders": {
+      "column1": "First column to select",
+      "column2": "Second column to select",
+      "column3": "Third column to select",
+      "condition_column": "Column for WHERE condition",
+      "condition_value": "Value for WHERE condition"
+    },
+    "example_use_case": "Basic two-table join with filtering",
+    "difficulty": "easy",
+    "original_pattern": "SELECT {{column1}}, {{column2}}, {{column3}} FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}} WHERE {{condition_column}} = {{condition_value}}"
+  },
+  {
+    "name": "two_table_join_with_order",
+    "description": "Join two tables and sort results",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{column1}}, {{column2}}, {{date_column}} {{join_clause}} ORDER BY {{date_column}} DESC LIMIT {{limit}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}}"
+    },
+    "placeholders": {
+      "column1": "First column",
+      "column2": "Second column",
+      "date_column": "Date column for sorting",
+      "limit": "Number of records to return"
+    },
+    "example_use_case": "Two-table join with sorting and limit",
+    "difficulty": "easy",
+    "original_pattern": "SELECT {{column1}}, {{column2}}, {{date_column}} FROM {{fact_table}} INNER JOIN {{dim1}} ON {{fact_table}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact_table}}.{{key}} = {{dim2}}.{{key}} ORDER BY {{date_column}} DESC LIMIT {{limit}}"
+  },
+  {
+    "name": "multi_table_join_with_filtering",
+    "description": "Join multiple tables and apply filtering conditions.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} {{join_clause}} WHERE {{dimension_table1}}.{{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "text_column": "Text column to be selected",
+      "date_column": "Date column to be selected",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template to join multiple tables and apply filtering conditions to retrieve specific data.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} WHERE {{dimension_table1}}.{{condition_column}} = {{condition_value}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_filter",
+    "description": "Join multiple tables and apply a filter condition.",
+    "source": {
+      "dbt_package": "dbt_facebook_pages",
+      "business_domain": "Advertising",
+      "platform": "Facebook Pages"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}} {{join_clause}} WHERE {{fact_table}}.{{filter_column}} = {{filter_value}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "name of the fact table",
+      "fact_column": "column from the fact table to select",
+      "dimension_column1": "column from the first dimension table to select",
+      "dimension_column2": "column from the second dimension table to select",
+      "join_column1": "column used to join the fact table and the first dimension table",
+      "join_column2": "column used to join the fact table and the second dimension table",
+      "join_column3": "column used to join the fact table and the third dimension table",
+      "join_column4": "column used to join the fact table and the fourth dimension table",
+      "join_column5": "column used to join the fact table and the fifth dimension table",
+      "filter_column": "column to apply the filter on",
+      "filter_value": "value to filter the column by"
+    },
+    "example_use_case": "Use this template when you need to join multiple tables and filter the results based on a condition.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, {{dimension_table1}}.{{dimension_column1}}, {{dimension_table2}}.{{dimension_column2}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} WHERE {{fact_table}}.{{filter_column}} = {{filter_value}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations",
+    "source": {
+      "dbt_package": "dbt_github",
+      "business_domain": "Developer Tools",
+      "platform": "GitHub"
+    },
+    "pattern": "SELECT {{table1}}.{{join_column}}, {{aggregation_function}}({{table2}}.{{numeric_column}}) AS {{alias_name}} {{join_clause}} GROUP BY {{table1}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}} INNER JOIN {{table3}} ON {{table1}}.{{join_column}} = {{table3}}.{{join_column}} INNER JOIN {{table4}} ON {{table1}}.{{join_column}} = {{table4}}.{{join_column}} INNER JOIN {{table5}} ON {{table1}}.{{join_column}} = {{table5}}.{{join_column}} INNER JOIN {{table6}} ON {{table1}}.{{join_column}} = {{table6}}.{{join_column}}"
+    },
+    "placeholders": {
+      "table1": "name of the first table",
+      "table2": "name of the second table",
+      "table3": "name of the third table",
+      "table4": "name of the fourth table",
+      "table5": "name of the fifth table",
+      "table6": "name of the sixth table",
+      "join_column": "column used for joining tables",
+      "aggregation_function": "function like SUM, COUNT, AVG",
+      "numeric_column": "column to aggregate",
+      "alias_name": "name for the aggregated result"
+    },
+    "example_use_case": "Use this template to join multiple tables and perform aggregations on a numeric column.",
+    "original_pattern": "SELECT {{table1}}.{{join_column}}, {{aggregation_function}}({{table2}}.{{numeric_column}}) AS {{alias_name}} FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}} INNER JOIN {{table3}} ON {{table1}}.{{join_column}} = {{table3}}.{{join_column}} INNER JOIN {{table4}} ON {{table1}}.{{join_column}} = {{table4}}.{{join_column}} INNER JOIN {{table5}} ON {{table1}}.{{join_column}} = {{table5}}.{{join_column}} INNER JOIN {{table6}} ON {{table1}}.{{join_column}} = {{table6}}.{{join_column}} GROUP BY {{table1}}.{{join_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables with aggregations and filtering",
+    "source": {
+      "dbt_package": "dbt_amazon_ads",
+      "business_domain": "Advertising",
+      "platform": "Amazon Advertising"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}} {{join_clause}} WHERE {{fact_table}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column for aggregation",
+      "aggregation_column": "Name for the aggregated column",
+      "text_column1": "Text column from first dimension table",
+      "text_column2": "Text column from second dimension table",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for complex data extraction involving multiple joins and aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} WHERE {{fact_table}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_group_by",
+    "description": "Join multiple tables with group by and aggregations",
+    "source": {
+      "dbt_package": "dbt_amazon_ads",
+      "business_domain": "Advertising",
+      "platform": "Amazon Advertising"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, COUNT({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}} {{join_clause}} WHERE {{fact_table}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column for aggregation",
+      "aggregation_column": "Name for the aggregated column",
+      "text_column1": "Text column from first dimension table",
+      "text_column2": "Text column from second dimension table",
+      "text_column3": "Text column from third dimension table",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for complex data extraction involving multiple joins and group by operations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, COUNT({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} WHERE {{fact_table}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables with aggregations and filtering",
+    "source": {
+      "dbt_package": "dbt_apple_search_ads",
+      "business_domain": "Advertising",
+      "platform": "Apple Search Ads"
+    },
+    "pattern": "SELECT {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}} AS {{alias_text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias_numeric_column}} {{join_clause}} WHERE {{dimension_table1}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name",
+      "date_column": "Date column for grouping",
+      "text_column": "Text column to select",
+      "alias_text_column": "Alias for the text column",
+      "numeric_column": "Numeric column for aggregation",
+      "alias_numeric_column": "Alias for the aggregated numeric column",
+      "join_column1": "Join column for first dimension table",
+      "join_column2": "Join column for second dimension table",
+      "join_column3": "Join column for third dimension table",
+      "join_column4": "Join column for fourth dimension table",
+      "join_column5": "Join column for fifth dimension table",
+      "condition_column": "Column for filtering",
+      "condition_value": "Value for filtering"
+    },
+    "example_use_case": "Use this template for complex data relationships involving multiple tables",
+    "original_pattern": "SELECT {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}} AS {{alias_text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias_numeric_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} WHERE {{dimension_table1}}.{{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{date_column}}, {{dimension_table1}}.{{text_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables with aggregations and filtering",
+    "source": {
+      "dbt_package": "dbt_mailchimp",
+      "business_domain": "Marketing Automation",
+      "platform": "Mailchimp"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column_alias}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}} {{join_clause}} WHERE {{fact_table}}.{{filter_column}} = {{filter_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column_alias": "Alias for the aggregated column",
+      "text_column1": "Text column from the first dimension table",
+      "text_column2": "Text column from the second dimension table",
+      "text_column3": "Text column from the third dimension table",
+      "text_column4": "Text column from the fourth dimension table",
+      "text_column5": "Text column from the fifth dimension table",
+      "filter_column": "Column used for filtering",
+      "filter_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template when you need to join multiple tables and perform aggregations with filtering.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column_alias}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} WHERE {{fact_table}}.{{filter_column}} = {{filter_value}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_case_when",
+    "description": "Join multiple tables with CASE WHEN logic and aggregations",
+    "source": {
+      "dbt_package": "dbt_mailchimp",
+      "business_domain": "Marketing Automation",
+      "platform": "Mailchimp"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM(CASE WHEN {{fact_table}}.{{condition_column}} = {{condition_value}} THEN {{fact_table}}.{{numeric_column}} ELSE 0 END) AS {{conditional_aggregation_alias}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "condition_column": "Column used for condition",
+      "condition_value": "Value to check in condition",
+      "numeric_column": "Numeric column to aggregate",
+      "conditional_aggregation_alias": "Alias for the conditional aggregation",
+      "text_column1": "Text column from the first dimension table",
+      "text_column2": "Text column from the second dimension table",
+      "text_column3": "Text column from the third dimension table",
+      "text_column4": "Text column from the fourth dimension table",
+      "text_column5": "Text column from the fifth dimension table"
+    },
+    "example_use_case": "Use this template when you need to join multiple tables and apply conditional logic with aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM(CASE WHEN {{fact_table}}.{{condition_column}} = {{condition_value}} THEN {{fact_table}}.{{numeric_column}} ELSE 0 END) AS {{conditional_aggregation_alias}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column1}}, {{dimension_table2}}.{{text_column2}}, {{dimension_table3}}.{{text_column3}}, {{dimension_table4}}.{{text_column4}}, {{dimension_table5}}.{{text_column5}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_case_and_group_by",
+    "description": "Join multiple tables, apply CASE WHEN logic, and group by specific columns.",
+    "source": {
+      "dbt_package": "dbt_zendesk",
+      "business_domain": "Customer Support",
+      "platform": "Zendesk"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, CASE WHEN {{dimension_table1}}.{{condition_column}} = {{condition_value}} THEN {{true_value}} ELSE {{false_value}} END AS {{new_column_name}}, COUNT({{dimension_table2}}.{{text_column}}) AS {{count_column}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}, {{new_column_name}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "fact_column": "Column from the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "condition_column": "Column used for condition",
+      "condition_value": "Value to check in the condition",
+      "true_value": "Value to return if condition is true",
+      "false_value": "Value to return if condition is false",
+      "new_column_name": "New name for the conditional column",
+      "text_column": "Text column to count",
+      "count_column": "Name for the count column",
+      "join_column": "Column used for joining tables"
+    },
+    "example_use_case": "Use this template when you need to join multiple tables, apply conditional logic, and group by specific columns.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, CASE WHEN {{dimension_table1}}.{{condition_column}} = {{condition_value}} THEN {{true_value}} ELSE {{false_value}} END AS {{new_column_name}}, COUNT({{dimension_table2}}.{{text_column}}) AS {{count_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{fact_column}}, {{new_column_name}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_aggregation",
+    "description": "Join multiple tables and perform aggregations",
+    "source": {
+      "dbt_package": "dbt_amazon_selling_partner",
+      "business_domain": "E-commerce",
+      "platform": "Amazon Seller Central"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column to be aggregated",
+      "alias": "Alias for the aggregated column",
+      "dimension_table1": "First dimension table name",
+      "dimension_table2": "Second dimension table name",
+      "dimension_table3": "Third dimension table name",
+      "dimension_table4": "Fourth dimension table name",
+      "dimension_table5": "Fifth dimension table name"
+    },
+    "example_use_case": "Use this template to join a fact table with multiple dimension tables and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{alias}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} GROUP BY {{fact_table}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "numeric_column": "Numeric column to be aggregated",
+      "aggregation_column": "Name for the aggregated result"
+    },
+    "example_use_case": "Use this template to join a fact table with multiple dimension tables and perform aggregations on numeric data.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}} GROUP BY {{fact_table}}.{{join_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "complex_join_with_aggregations",
+    "description": "Join multiple tables and perform aggregations.",
+    "source": {
+      "dbt_package": "dbt_facebook_pages",
+      "business_domain": "Advertising",
+      "platform": "Facebook Pages"
+    },
+    "pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column1}}) AS {{aggregation1}}, SUM({{dimension_table2}}.{{numeric_column2}}) AS {{aggregation2}} {{join_clause}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}}"
+    },
+    "placeholders": {
+      "fact_table": "name of the fact table",
+      "fact_column": "column from the fact table to group by",
+      "numeric_column1": "numeric column from the first dimension table",
+      "numeric_column2": "numeric column from the second dimension table",
+      "aggregation1": "name for the first aggregation result",
+      "aggregation2": "name for the second aggregation result",
+      "join_column1": "column used to join the fact table and the first dimension table",
+      "join_column2": "column used to join the fact table and the second dimension table",
+      "join_column3": "column used to join the fact table and the third dimension table",
+      "join_column4": "column used to join the fact table and the fourth dimension table",
+      "join_column5": "column used to join the fact table and the fifth dimension table"
+    },
+    "example_use_case": "Use this template when you need to join a fact table with multiple dimension tables and perform aggregations on the data.",
+    "original_pattern": "SELECT {{fact_table}}.{{fact_column}}, SUM({{dimension_table1}}.{{numeric_column1}}) AS {{aggregation1}}, SUM({{dimension_table2}}.{{numeric_column2}}) AS {{aggregation2}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column1}} = {{dimension_table1}}.{{join_column1}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column2}} = {{dimension_table2}}.{{join_column2}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column3}} = {{dimension_table3}}.{{join_column3}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column4}} = {{dimension_table4}}.{{join_column4}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column5}} = {{dimension_table5}}.{{join_column5}} GROUP BY {{fact_table}}.{{fact_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "multi_table_join_with_filtering",
+    "description": "Join multiple tables with filtering conditions",
+    "source": {
+      "dbt_package": "dbt_microsoft_ads",
+      "business_domain": "Advertising",
+      "platform": "Microsoft Advertising (Bing)"
+    },
+    "pattern": "SELECT {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} WHERE {{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 6,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}}"
+    },
+    "placeholders": {
+      "fact_table": "Fact table name",
+      "date_dimension": "Date dimension table name",
+      "product_dimension": "Product dimension table name",
+      "customer_dimension": "Customer dimension table name",
+      "region_dimension": "Region dimension table name",
+      "category_dimension": "Category dimension table name",
+      "status_dimension": "Status dimension table name",
+      "join_column": "Column used for joining",
+      "date_column": "Date column to select",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column": "Resulting aggregated column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template to join multiple tables with filtering conditions and perform aggregations.",
+    "original_pattern": "SELECT {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}, SUM({{fact_table}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{fact_table}} INNER JOIN {{date_dimension}} ON {{fact_table}}.{{join_column}} = {{date_dimension}}.{{join_column}} INNER JOIN {{product_dimension}} ON {{fact_table}}.{{join_column}} = {{product_dimension}}.{{join_column}} INNER JOIN {{customer_dimension}} ON {{fact_table}}.{{join_column}} = {{customer_dimension}}.{{join_column}} INNER JOIN {{region_dimension}} ON {{fact_table}}.{{join_column}} = {{region_dimension}}.{{join_column}} INNER JOIN {{category_dimension}} ON {{fact_table}}.{{join_column}} = {{category_dimension}}.{{join_column}} INNER JOIN {{status_dimension}} ON {{fact_table}}.{{join_column}} = {{status_dimension}}.{{join_column}} WHERE {{condition_column}} = {{condition_value}} GROUP BY {{fact_table}}.{{join_column}}, {{date_dimension}}.{{date_column}}, {{product_dimension}}.{{text_column}}, {{customer_dimension}}.{{text_column}}, {{region_dimension}}.{{text_column}}, {{category_dimension}}.{{text_column}}, {{status_dimension}}.{{text_column}}",
+    "difficulty": "medium"
+  },
+  {
+    "name": "seven_table_join_with_aggregation",
+    "description": "Join seven tables with complex aggregations",
+    "source": {
+      "dbt_package": "supplementary",
+      "business_domain": "General",
+      "platform": "Supplementary Templates"
+    },
+    "pattern": "SELECT {{group_column}}, COUNT(DISTINCT {{id_column}}) AS unique_count, SUM({{numeric_column}}) AS total {{join_clause}} GROUP BY {{group_column}} ORDER BY total DESC LIMIT 50",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 7,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{fact}} INNER JOIN {{dim1}} ON ... INNER JOIN {{dim2}} ON ... [5 more JOINs]"
+    },
+    "placeholders": {
+      "group_column": "Grouping column",
+      "id_column": "ID column for distinct count",
+      "numeric_column": "Numeric column to sum"
+    },
+    "example_use_case": "Seven-table join with distinct count aggregation",
+    "difficulty": "hard",
+    "original_pattern": "SELECT {{group_column}}, COUNT(DISTINCT {{id_column}}) AS unique_count, SUM({{numeric_column}}) AS total FROM {{fact}} INNER JOIN {{dim1}} ON {{fact}}.{{key}} = {{dim1}}.{{key}} INNER JOIN {{dim2}} ON {{fact}}.{{key}} = {{dim2}}.{{key}} INNER JOIN {{dim3}} ON {{fact}}.{{key}} = {{dim3}}.{{key}} INNER JOIN {{dim4}} ON {{fact}}.{{key}} = {{dim4}}.{{key}} INNER JOIN {{dim5}} ON {{fact}}.{{key}} = {{dim5}}.{{key}} INNER JOIN {{dim6}} ON {{fact}}.{{key}} = {{dim6}}.{{key}} INNER JOIN {{dim7}} ON {{fact}}.{{key}} = {{dim7}}.{{key}} GROUP BY {{group_column}} ORDER BY total DESC LIMIT 50"
+  },
+  {
+    "name": "basic_select_with_type_casting",
+    "description": "Select columns with type casting and basic transformations",
+    "source": {
+      "dbt_package": "dbt_amazon_ads",
+      "business_domain": "Advertising",
+      "platform": "Amazon Advertising"
+    },
+    "pattern": "SELECT {{join_column}}, CAST({{numeric_column}} AS {{type}}) AS {{text_column}}, {{date_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column to be cast",
+      "type": "Target data type for casting",
+      "text_column": "Text column name after casting",
+      "date_column": "Date column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for simple data extraction with type casting and filtering.",
+    "original_pattern": "SELECT {{join_column}}, CAST({{numeric_column}} AS {{type}}) AS {{text_column}}, {{date_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_column_renaming",
+    "description": "Select columns with renaming and basic filtering",
+    "source": {
+      "dbt_package": "dbt_amazon_ads",
+      "business_domain": "Advertising",
+      "platform": "Amazon Advertising"
+    },
+    "pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}} AS {{new_name2}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Table name",
+      "column1": "First column to select",
+      "new_name1": "New name for the first column",
+      "column2": "Second column to select",
+      "new_name2": "New name for the second column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for simple data extraction with column renaming and filtering.",
+    "original_pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}} AS {{new_name2}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "window_function_with_cte",
+    "description": "Use CTEs with window functions and complex subqueries",
+    "source": {
+      "dbt_package": "dbt_amazon_ads",
+      "business_domain": "Advertising",
+      "platform": "Amazon Advertising"
+    },
+    "pattern": "WITH cte AS (SELECT {{join_column}}, {{numeric_column}}, {{text_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) SELECT * FROM cte WHERE row_num = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column",
+      "text_column": "Text column",
+      "partition_column": "Column used for partitioning",
+      "order_column": "Column used for ordering",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for complex data extraction involving window functions and CTEs.",
+    "original_pattern": "WITH cte AS (SELECT {{join_column}}, {{numeric_column}}, {{text_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) SELECT * FROM cte WHERE row_num = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select columns with type casting and renaming",
+    "source": {
+      "dbt_package": "dbt_amazon_selling_partner",
+      "business_domain": "E-commerce",
+      "platform": "Amazon Seller Central"
+    },
+    "pattern": "SELECT {{join_column}}, CAST({{text_column}} AS {{type}}) AS {{alias}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "join_column": "Column used for joining",
+      "text_column": "Text column to be cast",
+      "type": "Target data type",
+      "alias": "Alias for the cast column",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template when you need to select and cast columns from a single table.",
+    "original_pattern": "SELECT {{join_column}}, CAST({{text_column}} AS {{type}}) AS {{alias}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_aggregation",
+    "description": "Perform basic aggregation on a single table",
+    "source": {
+      "dbt_package": "dbt_amazon_selling_partner",
+      "business_domain": "E-commerce",
+      "platform": "Amazon Seller Central"
+    },
+    "pattern": "SELECT {{join_column}}, SUM({{numeric_column}}) AS {{alias}} FROM {{table_name}} GROUP BY {{join_column}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "join_column": "Column used for grouping",
+      "numeric_column": "Numeric column to be aggregated",
+      "alias": "Alias for the aggregated column",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template to perform simple aggregations like SUM on a single table.",
+    "original_pattern": "SELECT {{join_column}}, SUM({{numeric_column}}) AS {{alias}} FROM {{table_name}} GROUP BY {{join_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "basic_select_with_transformations",
+    "description": "Select columns with basic transformations and renaming",
+    "source": {
+      "dbt_package": "dbt_apple_search_ads",
+      "business_domain": "Advertising",
+      "platform": "Apple Search Ads"
+    },
+    "pattern": "SELECT {{text_column}} AS {{alias_text_column}}, {{numeric_column}} * {{numeric_value}} AS {{alias_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "alias_text_column": "Alias for the text column",
+      "numeric_column": "Numeric column to transform",
+      "numeric_value": "Numeric value for transformation",
+      "alias_numeric_column": "Alias for the transformed numeric column",
+      "condition_column": "Column for filtering",
+      "condition_value": "Value for filtering"
+    },
+    "example_use_case": "Use this template to select and transform columns with basic filtering",
+    "original_pattern": "SELECT {{text_column}} AS {{alias_text_column}}, {{numeric_column}} * {{numeric_value}} AS {{alias_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_coalesce",
+    "description": "Select columns with COALESCE function for handling NULL values",
+    "source": {
+      "dbt_package": "dbt_apple_search_ads",
+      "business_domain": "Advertising",
+      "platform": "Apple Search Ads"
+    },
+    "pattern": "SELECT COALESCE({{numeric_column}}, {{default_value}}) AS {{alias_numeric_column}}, {{text_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "numeric_column": "Numeric column to apply COALESCE",
+      "default_value": "Default value for COALESCE",
+      "alias_numeric_column": "Alias for the COALESCE result",
+      "text_column": "Text column to select"
+    },
+    "example_use_case": "Use this template to handle NULL values in numeric columns",
+    "original_pattern": "SELECT COALESCE({{numeric_column}}, {{default_value}}) AS {{alias_numeric_column}}, {{text_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_window_function",
+    "description": "Use CTEs with window functions for advanced analytics",
+    "source": {
+      "dbt_package": "dbt_apple_search_ads",
+      "business_domain": "Advertising",
+      "platform": "Apple Search Ads"
+    },
+    "pattern": "WITH cte AS (SELECT {{text_column}}, {{numeric_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{alias_row_number}} FROM {{table_name}}) SELECT * FROM cte WHERE {{alias_row_number}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column to select",
+      "partition_column": "Column for partitioning",
+      "order_column": "Column for ordering",
+      "alias_row_number": "Alias for the row number",
+      "condition_value": "Value for filtering"
+    },
+    "example_use_case": "Use this template for scenarios requiring row-level analytics using window functions",
+    "original_pattern": "WITH cte AS (SELECT {{text_column}}, {{numeric_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{alias_row_number}} FROM {{table_name}}) SELECT * FROM cte WHERE {{alias_row_number}} = {{condition_value}}",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_filter",
+    "description": "Select all columns from a table with a simple filter condition.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "SELECT * FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template to retrieve all records from a table where a specific column matches a given value.",
+    "original_pattern": "SELECT * FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "select_with_column_renaming",
+    "description": "Select specific columns from a table and rename them.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "SELECT {{original_column1}} AS {{new_column1}}, {{original_column2}} AS {{new_column2}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "original_column1": "Original name of the first column",
+      "new_column1": "New name for the first column",
+      "original_column2": "Original name of the second column",
+      "new_column2": "New name for the second column",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template to select specific columns from a table and rename them for clarity or consistency.",
+    "original_pattern": "SELECT {{original_column1}} AS {{new_column1}}, {{original_column2}} AS {{new_column2}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "nested_cte_with_window_function",
+    "description": "Use CTEs and window functions to perform complex data transformations.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "WITH {{cte_name1}} AS (SELECT {{join_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_column}} FROM {{table_name}}), {{cte_name2}} AS (SELECT {{join_column}}, {{window_column}} FROM {{cte_name1}} WHERE {{window_column}} = 1) SELECT * FROM {{cte_name2}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name1": "Name of the first CTE",
+      "cte_name2": "Name of the second CTE",
+      "join_column": "Column used for joining or filtering",
+      "partition_column": "Column used for partitioning in window function",
+      "order_column": "Column used for ordering in window function",
+      "window_column": "Column generated by window function",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template to perform complex data transformations using CTEs and window functions.",
+    "original_pattern": "WITH {{cte_name1}} AS (SELECT {{join_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_column}} FROM {{table_name}}), {{cte_name2}} AS (SELECT {{join_column}}, {{window_column}} FROM {{cte_name1}} WHERE {{window_column}} = 1) SELECT * FROM {{cte_name2}}",
+    "difficulty": "hard"
+  },
+  {
+    "name": "complex_cte_with_multiple_joins",
+    "description": "Use CTEs to join multiple tables and perform complex operations.",
+    "source": {
+      "dbt_package": "dbt_asana",
+      "business_domain": "Project Management",
+      "platform": "Asana"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}) SELECT * FROM {{cte_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "Name of the CTE",
+      "fact_table": "Name of the fact table",
+      "dimension_table1": "Name of the first dimension table",
+      "dimension_table2": "Name of the second dimension table",
+      "dimension_table3": "Name of the third dimension table",
+      "dimension_table4": "Name of the fourth dimension table",
+      "dimension_table5": "Name of the fifth dimension table",
+      "join_column": "Column used for joining tables",
+      "text_column": "Text column to be selected",
+      "date_column": "Date column to be selected"
+    },
+    "example_use_case": "Use this template to join multiple tables using CTEs and perform complex operations.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT {{fact_table}}.{{join_column}}, {{dimension_table1}}.{{text_column}}, {{dimension_table2}}.{{date_column}} FROM {{fact_table}} INNER JOIN {{dimension_table1}} ON {{fact_table}}.{{join_column}} = {{dimension_table1}}.{{join_column}} INNER JOIN {{dimension_table2}} ON {{fact_table}}.{{join_column}} = {{dimension_table2}}.{{join_column}} INNER JOIN {{dimension_table3}} ON {{fact_table}}.{{join_column}} = {{dimension_table3}}.{{join_column}} INNER JOIN {{dimension_table4}} ON {{fact_table}}.{{join_column}} = {{dimension_table4}}.{{join_column}} INNER JOIN {{dimension_table5}} ON {{fact_table}}.{{join_column}} = {{dimension_table5}}.{{join_column}}) SELECT * FROM {{cte_name}}",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_renaming",
+    "description": "Select all columns from a table and rename some columns.",
+    "source": {
+      "dbt_package": "dbt_facebook_pages",
+      "business_domain": "Advertising",
+      "platform": "Facebook Pages"
+    },
+    "pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}} AS {{new_name2}}, ... FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column1": "original column name",
+      "new_name1": "new column name",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select all columns from a table and rename specific columns for clarity.",
+    "original_pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}} AS {{new_name2}}, ... FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_filter",
+    "description": "Select all columns from a table with a simple filter condition.",
+    "source": {
+      "dbt_package": "dbt_facebook_pages",
+      "business_domain": "Advertising",
+      "platform": "Facebook Pages"
+    },
+    "pattern": "SELECT * FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "name of the table",
+      "condition_column": "column to apply the filter on",
+      "condition_value": "value to filter the column by"
+    },
+    "example_use_case": "Use this template when you need to select all data from a table but only for specific records that meet a condition.",
+    "original_pattern": "SELECT * FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_window_function",
+    "description": "Use CTEs and window functions to process data.",
+    "source": {
+      "dbt_package": "dbt_facebook_pages",
+      "business_domain": "Advertising",
+      "platform": "Facebook Pages"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{row_number}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{row_number}} = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "name of the common table expression",
+      "column1": "first column to select",
+      "column2": "second column to select",
+      "partition_column": "column to partition the window function by",
+      "order_column": "column to order the window function by",
+      "row_number": "alias for the row number generated by the window function",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select the most recent record for each partition in a dataset.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{row_number}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{row_number}} = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select columns with type casting and renaming",
+    "source": {
+      "dbt_package": "dbt_fivetran_log",
+      "business_domain": "Data Integration",
+      "platform": "Fivetran"
+    },
+    "pattern": "SELECT {{column_name}} AS {{alias_name}}, CAST({{column_name}} AS {{data_type}}) AS {{alias_name}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column_name": "original column name",
+      "alias_name": "new column name",
+      "data_type": "desired data type",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select columns and change their data types or rename them.",
+    "original_pattern": "SELECT {{column_name}} AS {{alias_name}}, CAST({{column_name}} AS {{data_type}}) AS {{alias_name}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_aggregation",
+    "description": "Perform basic aggregation on a table",
+    "source": {
+      "dbt_package": "dbt_fivetran_log",
+      "business_domain": "Data Integration",
+      "platform": "Fivetran"
+    },
+    "pattern": "SELECT {{group_by_column}}, SUM({{numeric_column}}) AS {{alias_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "group_by_column": "column to group by",
+      "numeric_column": "column to aggregate",
+      "alias_name": "name for the aggregated result",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template to calculate the sum of a numeric column grouped by another column.",
+    "original_pattern": "SELECT {{group_by_column}}, SUM({{numeric_column}}) AS {{alias_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "nested_cte_with_window_function",
+    "description": "Use CTEs and window functions for complex data transformations",
+    "source": {
+      "dbt_package": "dbt_fivetran_log",
+      "business_domain": "Data Integration",
+      "platform": "Fivetran"
+    },
+    "pattern": "WITH cte1 AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}}), cte2 AS (SELECT {{column1}}, {{column2}} FROM cte1 WHERE row_num = 1) SELECT * FROM cte2",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column1": "first column to select",
+      "column2": "second column to select",
+      "partition_column": "column to partition by",
+      "order_column": "column to order by",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template for deduplication or selecting the top row per group using window functions.",
+    "original_pattern": "WITH cte1 AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}}), cte2 AS (SELECT {{column1}}, {{column2}} FROM cte1 WHERE row_num = 1) SELECT * FROM cte2",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select columns with type casting and renaming",
+    "source": {
+      "dbt_package": "dbt_github",
+      "business_domain": "Developer Tools",
+      "platform": "GitHub"
+    },
+    "pattern": "SELECT {{column_name}} AS {{alias_name}}, CAST({{column_name}} AS {{type}}) AS {{alias_name}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column_name": "column name in the table",
+      "alias_name": "new name for the column",
+      "type": "desired data type",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select columns and change their data types or rename them.",
+    "original_pattern": "SELECT {{column_name}} AS {{alias_name}}, CAST({{column_name}} AS {{type}}) AS {{alias_name}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_aggregation",
+    "description": "Perform basic aggregation on a column",
+    "source": {
+      "dbt_package": "dbt_github",
+      "business_domain": "Developer Tools",
+      "platform": "GitHub"
+    },
+    "pattern": "SELECT {{aggregation_function}}({{numeric_column}}) AS {{alias_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "aggregation_function": "function like SUM, COUNT, AVG",
+      "numeric_column": "column to aggregate",
+      "alias_name": "name for the aggregated result",
+      "table_name": "name of the table",
+      "group_by_column": "column to group by"
+    },
+    "example_use_case": "Use this template to perform simple aggregations like sum or count on a numeric column.",
+    "original_pattern": "SELECT {{aggregation_function}}({{numeric_column}}) AS {{alias_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "nested_cte_with_window_function",
+    "description": "Use CTEs and window functions for complex data transformations",
+    "source": {
+      "dbt_package": "dbt_github",
+      "business_domain": "Developer Tools",
+      "platform": "GitHub"
+    },
+    "pattern": "WITH cte1 AS (SELECT {{column_name}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}}), cte2 AS (SELECT {{column_name}} FROM cte1 WHERE row_num = 1) SELECT * FROM cte2",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column_name": "column to select",
+      "partition_column": "column to partition by",
+      "order_column": "column to order by",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template for complex data transformations involving CTEs and window functions.",
+    "original_pattern": "WITH cte1 AS (SELECT {{column_name}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS row_num FROM {{table_name}}), cte2 AS (SELECT {{column_name}} FROM cte1 WHERE row_num = 1) SELECT * FROM cte2",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_transformations",
+    "description": "Select data with basic transformations and type casting",
+    "source": {
+      "dbt_package": "dbt_google_ads",
+      "business_domain": "Advertising",
+      "platform": "Google Ads"
+    },
+    "pattern": "SELECT {{text_column}} AS {{alias_text_column}}, CAST({{numeric_column}} AS {{numeric_type}}) AS {{alias_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Table name",
+      "text_column": "Text column",
+      "alias_text_column": "Alias for text column",
+      "numeric_column": "Numeric column",
+      "numeric_type": "Numeric type for casting",
+      "alias_numeric_column": "Alias for numeric column",
+      "condition_column": "Column for condition",
+      "condition_value": "Value for condition"
+    },
+    "example_use_case": "Use this template to select and transform data from a single table with basic conditions.",
+    "original_pattern": "SELECT {{text_column}} AS {{alias_text_column}}, CAST({{numeric_column}} AS {{numeric_type}}) AS {{alias_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_join_with_aggregation",
+    "description": "Join two tables and perform basic aggregation",
+    "source": {
+      "dbt_package": "dbt_google_ads",
+      "business_domain": "Advertising",
+      "platform": "Google Ads"
+    },
+    "pattern": "SELECT {{table1}}.{{join_column}}, SUM({{table2}}.{{aggregation_column}}) AS {{alias_aggregation_column}} {{join_clause}} GROUP BY {{table1}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 1,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}}"
+    },
+    "placeholders": {
+      "table1": "First table name",
+      "table2": "Second table name",
+      "join_column": "Column used for joining",
+      "aggregation_column": "Column to aggregate",
+      "alias_aggregation_column": "Alias for aggregated column"
+    },
+    "example_use_case": "Use this template to join two tables and calculate aggregated values.",
+    "original_pattern": "SELECT {{table1}}.{{join_column}}, SUM({{table2}}.{{aggregation_column}}) AS {{alias_aggregation_column}} FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}} GROUP BY {{table1}}.{{join_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_window_function",
+    "description": "Use CTEs and window functions for advanced data manipulation",
+    "source": {
+      "dbt_package": "dbt_google_ads",
+      "business_domain": "Advertising",
+      "platform": "Google Ads"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{window_function_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) SELECT * FROM {{cte_name}} WHERE {{window_function_column}} = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "CTE name",
+      "column1": "First column",
+      "column2": "Second column",
+      "partition_column": "Column for partitioning",
+      "order_column": "Column for ordering",
+      "window_function_column": "Column for window function result",
+      "table_name": "Table name",
+      "condition_column": "Column for condition",
+      "condition_value": "Value for condition"
+    },
+    "example_use_case": "Use this template for advanced data manipulation using CTEs and window functions.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{window_function_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) SELECT * FROM {{cte_name}} WHERE {{window_function_column}} = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_column_renaming",
+    "description": "Select columns from a table with basic transformations and column renaming.",
+    "source": {
+      "dbt_package": "dbt_instagram_business",
+      "business_domain": "Advertising",
+      "platform": "Instagram Business"
+    },
+    "pattern": "SELECT {{text_column}} AS {{new_text_column}}, {{numeric_column}} AS {{new_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "new_text_column": "New name for the text column",
+      "numeric_column": "Numeric column to select",
+      "new_numeric_column": "New name for the numeric column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template to select and rename columns from a table with basic filtering.",
+    "original_pattern": "SELECT {{text_column}} AS {{new_text_column}}, {{numeric_column}} AS {{new_numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_cte_with_window_function",
+    "description": "Use a CTE to select the most recent record using a window function.",
+    "source": {
+      "dbt_package": "dbt_instagram_business",
+      "business_domain": "Advertising",
+      "platform": "Instagram Business"
+    },
+    "pattern": "WITH recent_records AS (SELECT *, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{date_column}} DESC) AS row_num FROM {{table_name}}) SELECT * FROM recent_records WHERE row_num = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "partition_column": "Column to partition by",
+      "date_column": "Date column used for ordering"
+    },
+    "example_use_case": "Use this template to select the most recent record for each partition in a table.",
+    "original_pattern": "WITH recent_records AS (SELECT *, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{date_column}} DESC) AS row_num FROM {{table_name}}) SELECT * FROM recent_records WHERE row_num = 1",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_multiple_joins_and_subqueries",
+    "description": "Use CTEs with multiple JOINs and subqueries for advanced data analysis.",
+    "source": {
+      "dbt_package": "dbt_instagram_business",
+      "business_domain": "Advertising",
+      "platform": "Instagram Business"
+    },
+    "pattern": "WITH cte1 AS (SELECT {{column1}}, {{column2}} FROM {{table1}} WHERE {{condition_column}} = {{condition_value}}), cte2 AS (SELECT {{column3}}, {{column4}} FROM {{table2}} WHERE {{condition_column}} = {{condition_value}}), final AS (SELECT c1.{{column1}}, c2.{{column3}} FROM cte1 c1 INNER JOIN cte2 c2 ON c1.{{join_column}} = c2.{{join_column}} INNER JOIN {{table3}} t3 ON c1.{{join_column}} = t3.{{join_column}} INNER JOIN {{table4}} t4 ON c2.{{join_column}} = t4.{{join_column}} INNER JOIN {{table5}} t5 ON t3.{{join_column}} = t5.{{join_column}} INNER JOIN {{table6}} t6 ON t4.{{join_column}} = t6.{{join_column}}) SELECT * FROM final",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table1": "Name of the first table",
+      "table2": "Name of the second table",
+      "table3": "Name of the third table",
+      "table4": "Name of the fourth table",
+      "table5": "Name of the fifth table",
+      "table6": "Name of the sixth table",
+      "column1": "First column to select",
+      "column2": "Second column to select",
+      "column3": "Third column to select",
+      "column4": "Fourth column to select",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering",
+      "join_column": "Column used for joining tables"
+    },
+    "example_use_case": "Use this template for advanced data analysis involving multiple tables and complex subqueries.",
+    "original_pattern": "WITH cte1 AS (SELECT {{column1}}, {{column2}} FROM {{table1}} WHERE {{condition_column}} = {{condition_value}}), cte2 AS (SELECT {{column3}}, {{column4}} FROM {{table2}} WHERE {{condition_column}} = {{condition_value}}), final AS (SELECT c1.{{column1}}, c2.{{column3}} FROM cte1 c1 INNER JOIN cte2 c2 ON c1.{{join_column}} = c2.{{join_column}} INNER JOIN {{table3}} t3 ON c1.{{join_column}} = t3.{{join_column}} INNER JOIN {{table4}} t4 ON c2.{{join_column}} = t4.{{join_column}} INNER JOIN {{table5}} t5 ON t3.{{join_column}} = t5.{{join_column}} INNER JOIN {{table6}} t6 ON t4.{{join_column}} = t6.{{join_column}}) SELECT * FROM final",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_coalesce",
+    "description": "Select columns with COALESCE to handle null values",
+    "source": {
+      "dbt_package": "dbt_mailchimp",
+      "business_domain": "Marketing Automation",
+      "platform": "Mailchimp"
+    },
+    "pattern": "SELECT {{numeric_column}}, COALESCE({{numeric_column}}, 0) AS {{numeric_column_alias}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "numeric_column": "Numeric column to select",
+      "numeric_column_alias": "Alias for the numeric column"
+    },
+    "example_use_case": "Use this template when you need to select columns and handle null values with default values.",
+    "original_pattern": "SELECT {{numeric_column}}, COALESCE({{numeric_column}}, 0) AS {{numeric_column_alias}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_case_when",
+    "description": "Select columns with CASE WHEN for conditional logic",
+    "source": {
+      "dbt_package": "dbt_mailchimp",
+      "business_domain": "Marketing Automation",
+      "platform": "Mailchimp"
+    },
+    "pattern": "SELECT {{text_column}}, CASE WHEN {{condition_column}} = {{condition_value}} THEN {{result_value}} ELSE {{alternative_value}} END AS {{conditional_column_alias}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "condition_column": "Column used for condition",
+      "condition_value": "Value to check in condition",
+      "result_value": "Value to return if condition is true",
+      "alternative_value": "Value to return if condition is false",
+      "conditional_column_alias": "Alias for the conditional column"
+    },
+    "example_use_case": "Use this template when you need to apply conditional logic to a column.",
+    "original_pattern": "SELECT {{text_column}}, CASE WHEN {{condition_column}} = {{condition_value}} THEN {{result_value}} ELSE {{alternative_value}} END AS {{conditional_column_alias}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "basic_select_with_transformations",
+    "description": "Select data with basic transformations and type casting",
+    "source": {
+      "dbt_package": "dbt_microsoft_ads",
+      "business_domain": "Advertising",
+      "platform": "Microsoft Advertising (Bing)"
+    },
+    "pattern": "SELECT {{text_column}}, {{numeric_column}}, COALESCE({{numeric_column}}, 0) AS {{numeric_column_transformed}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column to select",
+      "numeric_column_transformed": "Transformed numeric column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template to select and transform data from a single table with basic filtering.",
+    "original_pattern": "SELECT {{text_column}}, {{numeric_column}}, COALESCE({{numeric_column}}, 0) AS {{numeric_column_transformed}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_join_with_aggregation",
+    "description": "Join two tables and perform basic aggregation",
+    "source": {
+      "dbt_package": "dbt_microsoft_ads",
+      "business_domain": "Advertising",
+      "platform": "Microsoft Advertising (Bing)"
+    },
+    "pattern": "SELECT {{table1}}.{{join_column}}, SUM({{table2}}.{{numeric_column}}) AS {{aggregation_column}} {{join_clause}} GROUP BY {{table1}}.{{join_column}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 1,
+      "note": "{{join_clause}}将由join path动态生成",
+      "example_join_clause": "FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}}"
+    },
+    "placeholders": {
+      "table1": "First table name",
+      "table2": "Second table name",
+      "join_column": "Column used for joining",
+      "numeric_column": "Numeric column to aggregate",
+      "aggregation_column": "Resulting aggregated column"
+    },
+    "example_use_case": "Use this template to join two tables and calculate the sum of a numeric column.",
+    "original_pattern": "SELECT {{table1}}.{{join_column}}, SUM({{table2}}.{{numeric_column}}) AS {{aggregation_column}} FROM {{table1}} INNER JOIN {{table2}} ON {{table1}}.{{join_column}} = {{table2}}.{{join_column}} GROUP BY {{table1}}.{{join_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "nested_subquery_with_window_function",
+    "description": "Use nested subqueries and window functions for complex analysis",
+    "source": {
+      "dbt_package": "dbt_microsoft_ads",
+      "business_domain": "Advertising",
+      "platform": "Microsoft Advertising (Bing)"
+    },
+    "pattern": "SELECT {{text_column}}, {{numeric_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_function_column}} FROM (SELECT {{text_column}}, {{numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) AS subquery",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Table name",
+      "text_column": "Text column to select",
+      "numeric_column": "Numeric column to select",
+      "partition_column": "Column used for partitioning",
+      "order_column": "Column used for ordering",
+      "window_function_column": "Resulting window function column",
+      "condition_column": "Column used for filtering",
+      "condition_value": "Value used for filtering"
+    },
+    "example_use_case": "Use this template for complex analysis using nested subqueries and window functions.",
+    "original_pattern": "SELECT {{text_column}}, {{numeric_column}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_function_column}} FROM (SELECT {{text_column}}, {{numeric_column}} FROM {{table_name}} WHERE {{condition_column}} = {{condition_value}}) AS subquery",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_column_renaming",
+    "description": "Selects all columns from a table and renames some columns for clarity.",
+    "source": {
+      "dbt_package": "dbt_pardot",
+      "business_domain": "Marketing Automation",
+      "platform": "Salesforce Pardot"
+    },
+    "pattern": "SELECT {{column1}} AS {{new_column1}}, {{column2}} AS {{new_column2}}, ... FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column1": "original column name",
+      "new_column1": "new column name",
+      "column2": "original column name",
+      "new_column2": "new column name",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select all columns from a table and rename some for better understanding.",
+    "original_pattern": "SELECT {{column1}} AS {{new_column1}}, {{column2}} AS {{new_column2}}, ... FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_basic_transformation",
+    "description": "Selects columns from a table and applies basic transformations like type casting.",
+    "source": {
+      "dbt_package": "dbt_pardot",
+      "business_domain": "Marketing Automation",
+      "platform": "Salesforce Pardot"
+    },
+    "pattern": "SELECT CAST({{numeric_column}} AS {{new_type}}) AS {{new_column_name}}, {{text_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "numeric_column": "numeric column name",
+      "new_type": "new data type",
+      "new_column_name": "new column name after transformation",
+      "text_column": "text column name",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to transform data types of certain columns while selecting.",
+    "original_pattern": "SELECT CAST({{numeric_column}} AS {{new_type}}) AS {{new_column_name}}, {{text_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "window_function_with_cte",
+    "description": "Applies window functions within a CTE to calculate running totals or rankings.",
+    "source": {
+      "dbt_package": "dbt_pardot",
+      "business_domain": "Marketing Automation",
+      "platform": "Salesforce Pardot"
+    },
+    "pattern": "WITH cte AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_column}} FROM {{table_name}}) SELECT * FROM cte WHERE {{window_column}} = {{condition_value}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column1": "column to select",
+      "column2": "another column to select",
+      "partition_column": "column to partition by",
+      "order_column": "column to order by",
+      "window_column": "name of the window function column",
+      "table_name": "name of the table",
+      "condition_value": "value for filtering"
+    },
+    "example_use_case": "Use this template when you need to calculate running totals or rankings using window functions.",
+    "original_pattern": "WITH cte AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_column}} FROM {{table_name}}) SELECT * FROM cte WHERE {{window_column}} = {{condition_value}}",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_renaming",
+    "description": "Select columns from a table with renaming and type casting",
+    "source": {
+      "dbt_package": "dbt_pendo",
+      "business_domain": "Product Analytics",
+      "platform": "Pendo"
+    },
+    "pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}}::{{new_type}} AS {{new_name2}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "column1": "original column name",
+      "new_name1": "new column name",
+      "column2": "original column name to be cast",
+      "new_type": "new data type",
+      "new_name2": "new column name after casting",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template when you need to select specific columns from a table and rename or cast them to a different type.",
+    "original_pattern": "SELECT {{column1}} AS {{new_name1}}, {{column2}}::{{new_type}} AS {{new_name2}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_aggregation",
+    "description": "Perform basic aggregation on a table",
+    "source": {
+      "dbt_package": "dbt_pendo",
+      "business_domain": "Product Analytics",
+      "platform": "Pendo"
+    },
+    "pattern": "SELECT {{group_by_column}}, SUM({{numeric_column}}) AS {{aggregation_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "group_by_column": "column to group by",
+      "numeric_column": "column to aggregate",
+      "aggregation_name": "name of the aggregation result",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template to calculate the sum of a numeric column grouped by another column.",
+    "original_pattern": "SELECT {{group_by_column}}, SUM({{numeric_column}}) AS {{aggregation_name}} FROM {{table_name}} GROUP BY {{group_by_column}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_window_function",
+    "description": "Use CTEs and window functions for complex data transformations",
+    "source": {
+      "dbt_package": "dbt_pendo",
+      "business_domain": "Product Analytics",
+      "platform": "Pendo"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_function_result}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{window_function_result}} = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "name of the CTE",
+      "column1": "first column to select",
+      "column2": "second column to select",
+      "partition_column": "column to partition by in the window function",
+      "order_column": "column to order by in the window function",
+      "window_function_result": "result of the window function",
+      "table_name": "name of the table"
+    },
+    "example_use_case": "Use this template for complex data transformations involving CTEs and window functions.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT {{column1}}, {{column2}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{window_function_result}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{window_function_result}} = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Selects all columns from a table and casts a date column to a timestamp.",
+    "source": {
+      "dbt_package": "dbt_snapchat_ads",
+      "business_domain": "Advertising",
+      "platform": "Snapchat Ads"
+    },
+    "pattern": "SELECT *, CAST({{date_column}} AS {{timestamp_type}}) AS {{new_date_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "date_column": "Date column to be cast",
+      "timestamp_type": "Timestamp data type",
+      "new_date_column": "New column name for the cast date"
+    },
+    "example_use_case": "Use this template when you need to select all data from a table and convert a date column to a timestamp.",
+    "original_pattern": "SELECT *, CAST({{date_column}} AS {{timestamp_type}}) AS {{new_date_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_aggregation",
+    "description": "Performs a simple aggregation on a numeric column.",
+    "source": {
+      "dbt_package": "dbt_snapchat_ads",
+      "business_domain": "Advertising",
+      "platform": "Snapchat Ads"
+    },
+    "pattern": "SELECT SUM({{numeric_column}}) AS {{sum_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "numeric_column": "Numeric column to be summed",
+      "sum_column": "New column name for the sum"
+    },
+    "example_use_case": "Use this template when you need to calculate the total of a numeric column.",
+    "original_pattern": "SELECT SUM({{numeric_column}}) AS {{sum_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "cte_with_window_function",
+    "description": "Uses a CTE to select data and applies a window function.",
+    "source": {
+      "dbt_package": "dbt_snapchat_ads",
+      "business_domain": "Advertising",
+      "platform": "Snapchat Ads"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT *, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{row_number_column}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{row_number_column}} = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "Name of the CTE",
+      "partition_column": "Column to partition by",
+      "order_column": "Column to order by",
+      "row_number_column": "New column name for the row number",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template when you need to select the most recent record for each partition in a dataset.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT *, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) AS {{row_number_column}} FROM {{table_name}}) SELECT * FROM {{cte_name}} WHERE {{row_number_column}} = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select columns with type casting and renaming",
+    "source": {
+      "dbt_package": "dbt_tiktok_ads",
+      "business_domain": "Advertising",
+      "platform": "TikTok Ads"
+    },
+    "pattern": "SELECT {{numeric_column}} AS {{new_numeric_column}}, CAST({{date_column}} AS DATE) AS {{new_date_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "numeric_column": "Numeric column to select",
+      "new_numeric_column": "New name for the numeric column",
+      "date_column": "Date column to cast",
+      "new_date_column": "New name for the casted date column"
+    },
+    "example_use_case": "Use this template when you need to select columns with type casting and renaming without any joins.",
+    "original_pattern": "SELECT {{numeric_column}} AS {{new_numeric_column}}, CAST({{date_column}} AS DATE) AS {{new_date_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_select_with_coalesce",
+    "description": "Select columns with COALESCE function to handle null values",
+    "source": {
+      "dbt_package": "dbt_tiktok_ads",
+      "business_domain": "Advertising",
+      "platform": "TikTok Ads"
+    },
+    "pattern": "SELECT COALESCE({{numeric_column}}, 0) AS {{new_numeric_column}}, {{text_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "numeric_column": "Numeric column to apply COALESCE",
+      "new_numeric_column": "New name for the numeric column",
+      "text_column": "Text column to select"
+    },
+    "example_use_case": "Use this template when you need to handle null values in numeric columns with COALESCE.",
+    "original_pattern": "SELECT COALESCE({{numeric_column}}, 0) AS {{new_numeric_column}}, {{text_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select data with basic type casting and column renaming",
+    "source": {
+      "dbt_package": "dbt_xero",
+      "business_domain": "Finance & Accounting",
+      "platform": "Xero"
+    },
+    "pattern": "SELECT {{text_column}} AS {{alias_text_column}}, CAST({{date_column}} AS DATE) AS {{alias_date_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "text_column": "Text column to select",
+      "alias_text_column": "Alias for the text column",
+      "date_column": "Date column to cast",
+      "alias_date_column": "Alias for the casted date column"
+    },
+    "example_use_case": "Use this template to select and rename columns with type casting",
+    "original_pattern": "SELECT {{text_column}} AS {{alias_text_column}}, CAST({{date_column}} AS DATE) AS {{alias_date_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "basic_select_with_casting",
+    "description": "Select data from a table with type casting and column renaming.",
+    "source": {
+      "dbt_package": "dbt_zendesk",
+      "business_domain": "Customer Support",
+      "platform": "Zendesk"
+    },
+    "pattern": "SELECT CAST({{date_column}} AS DATE) AS {{new_date_column}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "date_column": "Column containing date values",
+      "new_date_column": "New name for the date column"
+    },
+    "example_use_case": "Use this template when you need to select and cast date columns from a table.",
+    "original_pattern": "SELECT CAST({{date_column}} AS DATE) AS {{new_date_column}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "simple_case_when",
+    "description": "Select data with a CASE WHEN statement for conditional logic.",
+    "source": {
+      "dbt_package": "dbt_zendesk",
+      "business_domain": "Customer Support",
+      "platform": "Zendesk"
+    },
+    "pattern": "SELECT {{column_name}}, CASE WHEN {{condition_column}} = {{condition_value}} THEN {{true_value}} ELSE {{false_value}} END AS {{new_column_name}} FROM {{table_name}}",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "table_name": "Name of the table",
+      "column_name": "Column to be selected",
+      "condition_column": "Column used for condition",
+      "condition_value": "Value to check in the condition",
+      "true_value": "Value to return if condition is true",
+      "false_value": "Value to return if condition is false",
+      "new_column_name": "New name for the conditional column"
+    },
+    "example_use_case": "Use this template when you need to apply conditional logic to a column.",
+    "original_pattern": "SELECT {{column_name}}, CASE WHEN {{condition_column}} = {{condition_value}} THEN {{true_value}} ELSE {{false_value}} END AS {{new_column_name}} FROM {{table_name}}",
+    "difficulty": "easy"
+  },
+  {
+    "name": "complex_cte_with_window_functions",
+    "description": "Use CTEs and window functions for complex data transformations.",
+    "source": {
+      "dbt_package": "dbt_zendesk",
+      "business_domain": "Customer Support",
+      "platform": "Zendesk"
+    },
+    "pattern": "WITH {{cte_name}} AS (SELECT {{column_name}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{row_number_column}} FROM {{table_name}}) SELECT {{cte_name}}.{{column_name}}, {{cte_name}}.{{row_number_column}} FROM {{cte_name}} WHERE {{cte_name}}.{{row_number_column}} = 1",
+    "join_requirements": {
+      "has_joins": false,
+      "join_count": 0,
+      "note": "无JOIN"
+    },
+    "placeholders": {
+      "cte_name": "Name of the CTE",
+      "column_name": "Column to be selected",
+      "partition_column": "Column used for partitioning",
+      "order_column": "Column used for ordering",
+      "row_number_column": "Column for row number",
+      "table_name": "Name of the table"
+    },
+    "example_use_case": "Use this template when you need to perform complex data transformations using CTEs and window functions.",
+    "original_pattern": "WITH {{cte_name}} AS (SELECT {{column_name}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}}) AS {{row_number_column}} FROM {{table_name}}) SELECT {{cte_name}}.{{column_name}}, {{cte_name}}.{{row_number_column}} FROM {{cte_name}} WHERE {{cte_name}}.{{row_number_column}} = 1",
+    "difficulty": "hard"
+  },
+  {
+    "name": "cte_with_aggregation_2join",
+    "description": "Use CTE to aggregate data from joined tables",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH base_data AS (SELECT {{columns}} {{join_clause}} WHERE {{condition}}) SELECT {{group_columns}}, {{detail_columns}}, COUNT(*) as total_count, SUM({{numeric_column}}) as total_amount FROM base_data GROUP BY {{group_columns}}, {{detail_columns}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 2,
+      "note": "{{join_clause}}在CTE内部"
+    },
+    "placeholders": {
+      "columns": "Columns to select (with table alias like t1.col1, t2.col2)",
+      "condition": "WHERE condition",
+      "group_columns": "Primary columns to group by (at least 2 columns)",
+      "detail_columns": "Additional columns to include (at least 2 columns)",
+      "numeric_column": "Numeric column to aggregate"
+    }
+  },
+  {
+    "name": "window_function_with_joins_3join",
+    "description": "Use window functions with joined tables",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH ranked_data AS (SELECT {{columns}}, ROW_NUMBER() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) as row_num {{join_clause}} WHERE {{condition}}) SELECT {{select_columns}} FROM ranked_data WHERE row_num <= {{top_n}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 3,
+      "note": "{{join_clause}}在CTE内部，使用窗口函数"
+    },
+    "placeholders": {
+      "columns": "Columns including window function base columns",
+      "partition_column": "Column to partition by",
+      "order_column": "Column to order by",
+      "condition": "WHERE condition",
+      "select_columns": "Final columns to select",
+      "top_n": "Number of top rows per partition"
+    }
+  },
+  {
+    "name": "cte_with_case_when_4join",
+    "description": "Use CTE with CASE WHEN for conditional logic",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH categorized_data AS (SELECT {{columns}}, CASE WHEN {{numeric_column}} > {{threshold1}} THEN '{{category1}}' WHEN {{numeric_column}} > {{threshold2}} THEN '{{category2}}' ELSE '{{category3}}' END as category {{join_clause}} WHERE {{condition}}) SELECT {{group_columns}}, category, COUNT(*) as count, AVG({{numeric_column}}) as avg_value, SUM({{numeric_column}}) as total_value, MAX({{numeric_column}}) as max_value FROM categorized_data GROUP BY {{group_columns}}, category",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}在CTE内部，包含CASE WHEN"
+    },
+    "placeholders": {
+      "columns": "Columns to select",
+      "numeric_column": "Numeric column for categorization",
+      "threshold1": "First threshold value",
+      "threshold2": "Second threshold value",
+      "category1": "Category 1 label",
+      "category2": "Category 2 label",
+      "category3": "Category 3 label",
+      "condition": "WHERE condition",
+      "group_columns": "Additional columns to group by (at least 2 columns)"
+    }
+  },
+  {
+    "name": "nested_cte_with_aggregation_4join",
+    "description": "Use nested CTEs for multi-stage aggregation",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH base_data AS (SELECT {{columns}} {{join_clause}} WHERE {{condition1}}), aggregated AS (SELECT {{group_columns}}, SUM({{numeric_column}}) as total, COUNT(*) as count, AVG({{numeric_column}}) as average FROM base_data GROUP BY {{group_columns}}) SELECT {{final_columns}}, total, count, average FROM aggregated WHERE {{condition2}} ORDER BY total DESC LIMIT {{limit}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 4,
+      "note": "{{join_clause}}在第一个CTE内部，使用嵌套CTE"
+    },
+    "placeholders": {
+      "columns": "Columns in base CTE",
+      "condition1": "First WHERE condition",
+      "group_columns": "Columns to group by (at least 2 columns)",
+      "numeric_column": "Numeric column to aggregate",
+      "final_columns": "Final columns to select (at least 2 columns from group_columns)",
+      "condition2": "Final WHERE condition",
+      "limit": "Result limit"
+    }
+  },
+  {
+    "name": "cte_with_having_5join",
+    "description": "Use CTE with HAVING clause for filtered aggregation",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH base_data AS (SELECT {{columns}} {{join_clause}} WHERE {{condition}}) SELECT {{group_columns}}, COUNT(*) as record_count, SUM({{numeric_column}}) as total_amount, AVG({{numeric_column}}) as avg_amount, MAX({{numeric_column}}) as max_amount, MIN({{numeric_column}}) as min_amount FROM base_data GROUP BY {{group_columns}} HAVING COUNT(*) >= {{min_count}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}在CTE内部，使用HAVING"
+    },
+    "placeholders": {
+      "columns": "Columns to select",
+      "condition": "WHERE condition",
+      "group_columns": "Columns to group by (at least 2 columns)",
+      "numeric_column": "Numeric column to aggregate",
+      "min_count": "Minimum record count threshold"
+    }
+  },
+  {
+    "name": "window_function_ranking_5join",
+    "description": "Use window functions for ranking across joined tables",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH ranked AS (SELECT {{columns}}, RANK() OVER (PARTITION BY {{partition_column}} ORDER BY {{order_column}} DESC) as rank, DENSE_RANK() OVER (PARTITION BY {{partition_column2}} ORDER BY {{order_column2}}) as dense_rank {{join_clause}}) SELECT {{select_columns}}, rank, dense_rank FROM ranked WHERE rank <= {{top_k}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 5,
+      "note": "{{join_clause}}在CTE内部，使用多种窗口函数"
+    },
+    "placeholders": {
+      "columns": "Columns to select",
+      "partition_column": "First partition column",
+      "order_column": "First order column",
+      "partition_column2": "Second partition column",
+      "order_column2": "Second order column",
+      "select_columns": "Final columns to select",
+      "top_k": "Top K ranks to keep"
+    }
+  },
+  {
+    "name": "cte_with_coalesce_6join",
+    "description": "Use CTE with COALESCE for null handling",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH clean_data AS (SELECT {{columns}}, COALESCE({{nullable_column1}}, {{default_value1}}) as {{alias1}}, COALESCE({{nullable_column2}}, {{default_value2}}) as {{alias2}} {{join_clause}} WHERE {{condition}}) SELECT {{group_columns}}, {{alias1}}, {{alias2}}, COUNT(*) as count, SUM({{alias1}}) as total FROM clean_data GROUP BY {{group_columns}}, {{alias1}}, {{alias2}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 6,
+      "note": "{{join_clause}}在CTE内部，使用COALESCE"
+    },
+    "placeholders": {
+      "columns": "Columns to select",
+      "nullable_column1": "First nullable column",
+      "default_value1": "Default value for first column",
+      "alias1": "Alias for first COALESCE",
+      "nullable_column2": "Second nullable column",
+      "default_value2": "Default value for second column",
+      "alias2": "Alias for second COALESCE",
+      "condition": "WHERE condition",
+      "group_columns": "Columns to group by (at least 2 columns)"
+    }
+  },
+  {
+    "name": "complex_cte_chain_7join",
+    "description": "Use chain of CTEs for complex transformations",
+    "source": {
+      "dbt_package": "general",
+      "business_domain": "General",
+      "platform": "General"
+    },
+    "pattern": "WITH raw_data AS (SELECT {{columns1}} {{join_clause}} WHERE {{condition1}}), filtered AS (SELECT {{columns2}} FROM raw_data WHERE {{condition2}}), aggregated AS (SELECT {{group_columns}}, COUNT(*) as count, SUM({{numeric_column}}) as total FROM filtered GROUP BY {{group_columns}}) SELECT {{final_columns}}, count, total FROM aggregated ORDER BY total DESC LIMIT {{limit}}",
+    "join_requirements": {
+      "has_joins": true,
+      "join_count": 7,
+      "note": "{{join_clause}}在第一个CTE内部，使用CTE链"
+    },
+    "placeholders": {
+      "columns1": "Columns in first CTE",
+      "condition1": "First filter condition",
+      "columns2": "Columns in second CTE",
+      "condition2": "Second filter condition",
+      "group_columns": "Columns to group by",
+      "numeric_column": "Numeric column to aggregate",
+      "final_columns": "Final columns to select",
+      "limit": "Result limit"
+    }
+  }
+]

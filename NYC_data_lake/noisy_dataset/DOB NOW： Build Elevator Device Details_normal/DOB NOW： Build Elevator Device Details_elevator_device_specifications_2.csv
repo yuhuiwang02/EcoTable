@@ -1,0 +1,241 @@
+bis_nyc_device_id,cargovernor_tripping_speed,elevator_length_feet,glass_hoistway,travel_from_floor,cargovernor_ropes_material,elevator_length_inches,fire_rated_construction_type,atruim_elevator,contact_type,controller_manufacturer,compensation_tie_down,hoist_car_manufacturer,machine_type,machine_counterweight_ropes,car_inside_depth_feet,car_buffer_reduced_stroke,car_inside_depth_inches,elevator_operation,car_safety_type_other,load_weighing_device,accessibility_lift,overload_device,conveyor_type,car_inside_width_feet,meets_the_stretcher_car,loft_law_building,interlockin_blind_hoistway,occupant_evacuation_elevator
+1P37139,395.0,0.0,No,G,Steel,0.0,Yes,No,g,,No,,Traction,,4.0,No,0.0,Power,,No,,,,6.0,No,No,No,No
+1P19692,1368.0,800.0,No,C,Steel,0.0,Yes,No,MOH,SCHINDLER,No,,Traction,,6.0,Yes,8.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P23712,625.0,160.0,No,1,Steel,0.0,Yes,No,wittur,MCE,No,,Traction,,5.0,No,3.0,Power,,Yes,,,,6.0,Yes,No,No,No
+,625.0,295.0,No,"-2,-1",Steel,0.0,Yes,No,G,SMARTRISE,No,,Traction,,5.0,No,4.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P0994927,855.0,446.0,No,B,Steel,0.0,Yes,No,mo,MCE,Yes,,Traction,,5.0,No,0.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P1,850.0,985.0,No,L,Steel,0.0,Yes,No,NGPOK,Otis,No,,Traction,,6.0,Yes,6.0,Power,,Yes,,,,6.0,No,No,No,No
+4P0995587,,0.0,No,1,,0.0,Yes,No,G,SAVARIA,No,,Hydraulic,,4.0,No,0.0,Power,SLACK CABLE,No,,,,4.0,No,No,No,No
+1P21456,,0.0,No,"1,2",Steel,0.0,Yes,No,G,,No,,Others,,3.0,No,0.0,Power,,No,,,,2.0,No,No,No,No
+3W0997347,,,,LL,,,No,,,,,,Others,,4.0,,1.0,Power,,,Platform Lift,,,2.0,,,,
+1P27838,1200.0,520.0,No,"1,23",Steel,0.0,Yes,No,MOCP,,No,,Traction,,7.0,Yes,7.0,Power,,No,,,,5.0,Yes,No,No,No
+1P1809,175.0,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Traction,,4.0,No,0.0,Manual,,No,,,,5.0,No,No,No,No
+3P10374,,0.0,No,C,,0.0,Yes,No,6940,,No,,Hydraulic,,4.0,No,9.0,Power,,Yes,,,,5.0,No,No,No,No
+3P13822,175.0,0.0,No,C,Steel,0.0,Yes,No,,,No,,MRL,,0.0,No,0.0,Power,,No,,,,0.0,No,No,No,No
+1P0999087,855.0,300.0,No,1,Steel,5.0,Yes,No,Wittur,KONE,No,,MRL,,5.0,Yes,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P15679,452.0,229.0,No,L,Steel,0.0,Yes,No,G,GAL,No,,Traction,,5.0,No,7.0,Power,,Yes,,,,6.0,No,No,No,No
+,280.0,0.0,No,1,Steel,0.0,Yes,No,I-MOTION,OTIS,No,,MRL,,8.0,No,4.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P44246,,0.0,No,"C,1",Steel,0.0,Yes,No,G,ACT,No,,Hydraulic,,4.0,No,1.0,Power,,No,,,,5.0,No,No,No,No
+3P13796,,60.0,No,SC,,0.0,Yes,No,Existing,,No,,MRL,,4.0,Yes,4.0,Power,,Yes,,,,6.0,No,No,No,No
+1D0994881,,,,lower,,,Yes,,,Matot,,,Traction,,3.0,,,Power,,,,,,3.0,,,,
+4P10671,,,,L,Steel,,,,,,,,,,,,,,,,,,,,,,,
+3P15441,,0.0,No,C,Steel,10.0,Yes,No,G,Claddagh,No,,Traction,,8.0,No,9.0,Power,,No,,,,6.0,No,No,No,No
+2P3554,,,,..1,,,,,,,,,,,,,,,,,,,,,,,,
+3P10209,452.0,0.0,No,1,,0.0,Yes,No,G,SCHINDLER,No,,Traction,,5.0,No,2.0,Power,,No,,,,6.0,No,No,No,No
+1P18140,825.0,1100.0,No,L,Steel,0.0,Yes,No,G,,No,,Traction,,4.0,No,9.0,Power,,No,,,,4.0,Yes,No,No,No
+4P15525,,0.0,No,1,,0.0,Yes,No,existing,,No,,Hydraulic,,7.0,No,0.0,Power,,No,,,,10.0,Yes,No,No,No
+2P4307,452.0,291.0,No,B,Steel,0.0,Yes,No,G,ESI,No,,Traction,,4.0,No,2.0,Power,,Yes,,,,6.0,No,No,No,No
+1P29198,625.0,0.0,No,"L,",Steel,0.0,Yes,No,G,Existing,No,,Traction,,5.0,No,2.0,Power,,Yes,,,,6.0,No,No,No,No
+4P5364,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+1P23383,280.0,140.0,No,L,Steel,0.0,Yes,No,GS,,No,,Traction,,3.0,No,8.0,Power,,No,,,,5.0,No,No,No,No
+3P7197,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+1P44839,452.0,220.0,No,"B,L",Steel,0.0,Yes,No,G,MCE,No,,Traction,,7.0,Yes,3.0,Power,,Yes,,,,8.0,No,No,No,No
+,236.0,,,groun,,,,,na,,,alimak,Rack and Pinion,,4.0,,11.0,,,Yes,,,,10.0,,,,
+1P28610,960.0,312.0,No,C,,0.0,Yes,No,G,Existing,Yes,,Traction,1,6.0,No,2.0,Power,,No,,,,6.0,Yes,No,Yes,No
+4P2337,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+1P35609,,0.0,No,L,,0.0,Yes,No,G,DOVER,No,,Hydraulic,,5.0,No,11.0,Power,,No,,,,5.0,No,No,No,No
+,250.0,,,1,,,,,,,,ANKA,Rack and Pinion,,12.0,,6.0,,,No,,,,5.0,,,,
+,275.0,,,1ST,,,,,DIRECT,,,FRACO,Rack and Pinion,,4.0,,9.0,,,No,,,,12.0,,,,
+1P46614,,,,1,Steel,,,,,,,,,,,,,,,,,,,,,,,
+,1440.0,462.0,No,C3,Steel,11.0,Yes,No,G,MCE,No,,Traction,,4.0,Yes,8.0,Power,,Yes,,,,7.0,Yes,No,No,No
+3P3310,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+4P11336,,0.0,No,1,,0.0,Yes,No,GS,MCE,No,,Hydraulic,,4.0,No,6.0,Power,,No,,,,6.0,No,No,No,No
+1P40720,,375.0,No,C,,0.0,Yes,No,G,,No,,Traction,,5.0,No,9.0,Power,,Yes,,,,4.0,No,No,No,No
+1P18753,855.0,170.0,No,1,Steel,0.0,Yes,No,g,mce,No,,Traction,,4.0,No,7.0,Power,,Yes,,,,5.0,No,No,No,No
+,280.0,98.0,No,1st,Steel,0.0,Yes,No,MOVFR,Smartrise,No,,MRL,,4.0,No,9.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P25582,970.0,360.0,No,L-20,Steel,0.0,Yes,No,MOH,,No,,Traction,,4.0,No,9.0,Power,,No,,,,6.0,Yes,No,No,No
+3P10829,,0.0,No,C,,0.0,Yes,No,g,EXISTING,No,,Traction,,4.0,No,3.0,Power,,No,,,,6.0,Yes,No,No,No
+,407.0,119.0,No,1,Steel,0.0,Yes,No,H152,Schindler,No,,Traction,,5.0,No,8.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P15716,740.0,0.0,No,1,Steel,0.0,Yes,No,G,,No,,Traction,,5.0,No,0.0,Power,,No,,,,5.0,No,No,No,No
+3P14707,,240.0,No,1,Steel,0.0,Yes,No,g,,No,,Traction,,4.0,No,9.0,Power,,No,,,,6.0,No,No,No,No
+3P4033,175.0,0.0,No,B,Steel,0.0,Yes,No,N,,No,,Traction,,4.0,No,0.0,Manual,,No,,,,5.0,No,No,No,No
+2P3268,,2.0,No,1,Steel,0.0,Yes,No,SLIDE,ESI,No,,Traction,,4.0,No,6.0,Power,,Yes,,,,6.0,No,No,Yes,No
+1P718,855.0,280.0,No,LL,,0.0,Yes,No,GAL,Otis,No,,Traction,,4.0,No,8.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P30234,970.0,457.0,No,1,Steel,6.0,Yes,No,MO,MCE,Yes,,Traction,,5.0,No,1.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P18103,,0.0,No,1,Steel,0.0,Yes,No,g,,No,,Traction,,0.0,No,0.0,Power,,No,,,,0.0,No,No,No,No
+1P13343,280.0,140.0,No,B,Steel,0.0,Yes,No,G,CLADDAGH,No,,Traction,0,4.0,No,4.0,Power,,Yes,,,,5.0,No,No,No,No
+1P20419,,0.0,No,B,,0.0,Yes,No,G,,No,,Traction,,3.0,No,7.0,Power,,No,,,,6.0,No,No,No,No
+1F5395,280.0,225.0,No,B,Steel,0.0,Yes,No,EMS,Otis,No,,Traction,,10.0,No,5.0,Power,,Yes,,,,8.0,Yes,No,No,No
+3F0997908,210.0,115.0,No,*G,Steel,0.0,Yes,No,G,Smartrise,Yes,,MRL,,19.0,No,4.0,Power,,Yes,,,,7.0,Yes,No,No,No
+,,,,G,,,No,,,,,,Winding drum,,9.0,,9.0,Power,,,,Yes,Vertical Reciprocating conveyor,9.0,,,,
+3P0995186,452.0,184.0,No,C,Steel,6.0,Yes,No,G,ESI,No,,MRL,0,5.0,No,4.0,Power,,Yes,,,,6.0,Yes,No,No,No
+,377.0,,,L 1,,,,,ELECTROMECHANICAL,,,STROS,Rack and Pinion,,16.0,,0.0,,,Yes,,,,4.0,,,,
+1P46447,,0.0,No,G,,0.0,Yes,No,55401,TKE,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,6.0,No,No,No,No
+1P29478,1150.0,450.0,No,2,Steel,0.0,Yes,No,GS,O.Thompson,Yes,,Traction,,5.0,No,8.0,Power,,Yes,,,,6.0,No,No,No,No
+1P1661,402.0,200.0,No,"L,3",Steel,0.0,Yes,No,MO,,No,,Others,,5.0,No,0.0,Manual,,No,,,,3.0,No,No,No,No
+1P18044,,0.0,No,L,Steel,0.0,Yes,No,G,,No,,Traction,,6.0,No,8.0,Power,,No,,,,5.0,No,No,No,No
+,175.0,0.0,No,C,Steel,0.0,Yes,No,MOVFR,Esi,No,,Hydraulic,,4.0,No,7.0,Power,,Yes,,,,7.0,No,No,No,No
+1P46780,,306.0,No,L,,0.0,Yes,No,existing,GAL,No,,MRL,,4.0,No,3.0,Power,,No,,,,6.0,Yes,No,No,No
+3P7312,,0.0,No,1,,0.0,Yes,No,MO,ESI,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,6.0,No,No,No,No
+1P19799,337.0,0.0,No,B,Steel,0.0,Yes,No,GS,,No,,Traction,,5.0,Yes,8.0,Power,,No,,,,4.0,No,No,No,No
+1P1001298,452.0,153.0,No,1,Steel,6.0,Yes,No,Wittur,KONE,No,,MRL,,4.0,Yes,4.0,Power,,Yes,,,,5.0,Yes,No,No,No
+,855.0,406.0,No,"G,2",Steel,0.0,Yes,No,55401,TKE,No,,Traction,,5.0,Yes,0.0,Power,,Yes,,,,5.0,Yes,No,No,No
+,210.0,0.0,No,C,Steel,0.0,Yes,No,QKS16,Schindler,No,,MRL,,4.0,No,10.0,Power,,Yes,,,,6.0,Yes,No,No,No
+3W0998517,,,,aud,,,Yes,,,,,,Chain-Hydraulic,,5.0,,0.0,Power,,,Platform Lift,,,3.0,,,,
+1C0997844,375.0,,,1,,,,,Instantaneous,,,Alimak,Rack and Pinion,,16.0,,7.0,,,Yes,,,,4.0,,,,
+2P1666,,,,LOB,,,,,,,,,,,,,,,,,,,,,,,,
+4P3173,210.0,0.0,No,1,Steel,0.0,Yes,No,G,,No,,Traction,,3.0,No,8.0,Power,,Yes,,,,5.0,No,No,No,No
+3P7149,395.0,0.0,No,B,Steel,0.0,Yes,No,G,CLADDAGH,No,,Traction,,7.0,No,7.0,Power,,Yes,,,,5.0,Yes,No,No,No
+,452.0,109.0,No,sc,Steel,0.0,Yes,No,MO,MCE,No,,Traction,,9.0,No,8.0,Power,,Yes,,,,6.0,Yes,No,No,No
+2P616,175.0,0.0,No,B,Steel,0.0,Yes,No,EXISTING,Existing,No,,Traction,,3.0,No,11.0,Manual,,No,,,,5.0,No,No,No,No
+,210.0,0.0,No,B,Steel,0.0,Yes,No,Wittur,KONE,No,,MRL,,5.0,No,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+3P13135,,0.0,No,1,Steel,0.0,Yes,No,G,Smartrise,No,,Traction,,4.0,No,6.0,Power,,No,,,,5.0,No,No,No,No
+,452.0,140.0,No,"B,1",Steel,0.0,Yes,No,G,ESI,No,,Traction,,5.0,No,5.0,Power,,Yes,,,,6.0,Yes,No,No,No
+5P0997182,210.0,18.0,No,*1,Steel,8.0,Yes,No,MOVFRII,Smartrise,No,,Traction,,4.0,No,9.0,Power,,Yes,,,,6.0,Yes,No,No,No
+,1200.0,402.0,No,"1,12",Steel,0.0,Yes,No,AZ061,Schindler,No,,Traction,,5.0,Yes,4.0,Power,,No,,,,6.0,Yes,No,No,No
+1P18951,855.0,400.0,No,L,Steel,0.0,Yes,No,G,,No,,Traction,,6.0,No,2.0,Power,,No,,,,5.0,No,No,No,No
+1P10156,,0.0,No,B,Steel,0.0,Yes,No,6940,,No,,Traction,,4.0,No,2.0,Power,,Yes,,,,4.0,No,No,No,No
+4P1000768,280.0,0.0,No,"C,1",Steel,0.0,Yes,No,WITTUR,KONE,No,,MRL,,5.0,No,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+2P0997506,280.0,0.0,No,1,Steel,0.0,Yes,No,Wittur,KONE,No,,MRL,,5.0,No,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P3255,,240.0,No,1-11,,0.0,Yes,No,MOH,Schindler,No,,Traction,,6.0,No,0.0,Power,,Yes,,,,4.0,No,No,No,No
+1P13439,280.0,0.0,No,B,,0.0,Yes,No,MO,O'Thompson,No,,Traction,,3.0,No,7.0,Power,,Yes,,,,5.0,Yes,No,No,No
+1P13236,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1P1584,,1.0,No,"M, 1",Steel,4.0,Yes,No,GAL - Gate Switch,,No,,Traction,,5.0,No,8.0,Power,,No,,,,5.0,Yes,No,No,No
+3P11870,,0.0,No,B,,0.0,Yes,No,G,,No,,Traction,,5.0,No,0.0,Power,,No,,,,4.0,No,No,No,No
+3P4253,210.0,0.0,No,B,Steel,0.0,Yes,No,MO,ESI,No,,Traction,,6.0,No,2.0,Power,,No,,,,7.0,No,No,No,No
+2P1813,,0.0,No,B,,0.0,Yes,No,GS,,No,,Traction,,4.0,No,5.0,Power,,No,,,,4.0,No,No,No,No
+2P822,210.0,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Traction,,3.0,No,7.0,Manual,,Yes,,,,3.0,No,No,No,No
+,2160.0,1038.0,No,L,Steel,0.0,Yes,No,NG,Otis,Yes,,Traction,,5.0,Yes,0.0,Manual,,Yes,,,,7.0,Yes,No,No,No
+1P10194,,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Drum,,4.0,No,6.0,Manual,,No,,,,5.0,No,No,No,No
+1P19279,625.0,290.0,No,"L,2",Steel,0.0,Yes,No,G,GAL,No,,Traction,,4.0,No,4.0,Power,,Yes,,,,4.0,No,No,No,No
+1P18326,395.0,210.0,No,B L,Steel,0.0,Yes,No,G,GAL,No,,Traction,,5.0,No,0.0,Power,,Yes,,,,4.0,No,No,No,No
+,280.0,0.0,No,1,Steel,0.0,Yes,No,I-MOTION,Otis,No,,MRL,,5.0,No,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+2P872,175.0,0.0,No,B,Steel,0.0,Yes,No,G.S.,ESI,No,,Traction,,4.0,No,0.0,Manual,,No,,,,4.0,No,No,No,No
+1P30145,175.0,0.0,No,*1,Steel,0.0,Yes,No,G,GAL,No,,Traction,,3.0,No,2.0,Power,,Yes,,,,3.0,No,No,No,No
+1P8811,,1.0,No,L,Steel,4.0,Yes,No,G,NIDEC,No,,Traction,,3.0,No,10.0,Power,,No,,,,4.0,No,No,No,No
+2P2073,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+2P10367,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2P11753,,,,1,Steel,,,,,,,,,,,,,,,,,,,,,,,
+3P3089,175.0,0.0,No,B,Steel,0.0,No,No,G,ESI,No,,Traction,,5.0,No,4.0,Manual,,No,,,,3.0,No,No,No,No
+1P22131,280.0,0.0,No,L,Steel,0.0,Yes,No,G,TRICON,No,,Traction,,3.0,No,5.0,Manual,,No,,,,5.0,No,No,No,No
+1P31161,1410.0,590.0,No,PL,,0.0,No,No,GS,OTIS,Yes,,Traction,,4.0,No,5.0,Power,,Yes,,,,6.0,No,No,No,No
+1P4869,175.0,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Others,2,5.0,No,0.0,Power,,No,,,,5.0,No,No,No,No
+1P29766,,0.0,No,B,,0.0,Yes,No,g,,No,,Traction,,4.0,No,10.0,Power,,No,,,,5.0,No,No,No,No
+4P1,,0.0,No,B,,0.0,Yes,No,existing,GAL,No,,Traction,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,No
+4P12607,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1E1238,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,855.0,330.0,No,"1,12",Steel,0.0,Yes,No,G,MCE,No,,Traction,,4.0,Yes,9.0,Power,,Yes,,,,6.0,Yes,No,No,No
+3P1419,452.0,0.0,No,B,Steel,0.0,Yes,No,G,ESI,No,,Traction,,4.0,No,8.0,Power,,Yes,,,,5.0,No,No,No,No
+1P10649,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+1P31453,,0.0,No,1,,0.0,Yes,No,existing,Otis,No,,Traction,,5.0,No,6.0,Power,,No,,,,8.0,Yes,No,No,No
+,280.0,0.0,No,1,Steel,0.0,Yes,No,G,ELEVATOR SYSTEM,No,,MRL,,5.0,No,5.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P13417,280.0,180.0,No,B,Steel,0.0,Yes,No,G,CLADDAGH,No,,Traction,,4.0,No,9.0,Power,,Yes,,,,5.0,No,No,No,No
+1P28868,618.0,250.0,No,B,Steel,0.0,Yes,No,G,MCE,No,,Traction,,5.0,No,3.0,Power,,No,,,,6.0,No,No,No,No
+,,0.0,No,B,,0.0,Yes,No,WITTUR,SAVARIA,No,,Hydraulic,,4.0,No,6.0,Power,,No,,,,4.0,No,No,No,No
+1E21016,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4P1877,,5.0,No,L,,0.0,No,No,g,,No,,Traction,,4.0,No,7.0,Manual,,No,,,,5.0,Yes,No,No,No
+1P27261,,130.0,No,B,,0.0,Yes,No,G,,No,,Traction,,7.0,No,6.0,Power,,No,,,,6.0,Yes,No,No,No
+2P1200,210.0,0.0,No,"B,1*-",Steel,0.0,Yes,No,G,,No,,Others,,3.0,No,9.0,Power,,Yes,,,,4.0,No,No,No,No
+,,179.0,No,"C,1",,2.0,Yes,No,MOVFR,ThyssenKrupp,No,,MRL,,4.0,Yes,3.0,Power,,Yes,,,,5.0,No,No,No,No
+4P692,175.0,0.0,No,B,Steel,0.0,Yes,No,G,ESI,No,,Traction,,3.0,No,10.0,Manual,,No,,,,5.0,No,No,No,No
+1P26912,,0.0,No,C,,0.0,Yes,No,existing,Dover,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,5.0,Yes,No,No,No
+5P242,,,,G,,,,,,,,,,,,,,,,,,,,,,,,
+4P10596,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+1P22389,280.0,0.0,No,1,Steel,0.0,Yes,No,g,esi,No,,Traction,,4.0,No,9.0,Power,,No,,,,6.0,No,No,No,No
+2P1951,,0.0,No,B,,0.0,No,No,G,ECC,No,,Traction,,4.0,No,3.0,Manual,,No,,,,5.0,No,No,No,No
+,1680.0,815.0,No,C,Steel,0.0,Yes,No,NG,Otis,Yes,,Traction,,5.0,Yes,2.0,Manual,,Yes,,,,7.0,Yes,No,No,No
+,,0.0,No,B,,0.0,Yes,No,G,SAVARIA,No,,Hydraulic,,4.0,No,6.0,Power,,No,,,,4.0,No,No,No,No
+4P3545,175.0,0.0,No,"B,L,2",Steel,0.0,Yes,No,G,,No,,Traction,,3.0,No,6.0,Power,,No,,,,6.0,No,No,No,No
+1P48893,,,,GND,,,,,,,,,,,,,,,,,,,,,,,,
+4P4862,280.0,0.0,No,"LL,L",Steel,0.0,Yes,No,MOH,MCE,No,,Traction,,4.0,No,0.0,Power,,Yes,,,,6.0,No,No,No,No
+1P24315,210.0,0.0,No,B,Steel,0.0,Yes,No,GS,,No,,Traction,,5.0,No,9.0,Power,,No,,,,3.0,No,No,No,No
+4P2012,100.0,0.0,No,B,Steel,0.0,Yes,No,n,,No,,Traction,na,5.0,No,3.0,Power,,No,,,,4.0,No,No,No,No
+4P5582,,,,L,,,,,,,,,,,,,,,,,,,,,,,,
+4P10443,,140.0,No,B,,0.0,Yes,No,G,,No,,Traction,,8.0,No,0.0,Power,,Yes,,,,8.0,Yes,No,No,No
+3P6846,,0.0,No,1,,8.0,Yes,No,G,,No,,Hydraulic,,5.0,No,3.0,Power,,No,,,,8.0,No,No,No,No
+4p3077,210.0,0.0,No,1,Steel,0.0,Yes,No,GS,,No,,Traction,,5.0,No,11.0,Power,,Yes,,,,3.0,No,No,No,No
+,855.0,0.0,No,1,Steel,0.0,Yes,No,NG,Otis,No,,Traction,,5.0,Yes,4.0,Power,,Yes,,,,5.0,Yes,No,No,No
+,625.0,250.0,No,"sc,c,",Steel,0.0,No,No,G,mce,No,,Traction,,4.0,No,10.0,Power,,No,,,,5.0,No,No,No,No
+3P2306,,0.0,No,B,,0.0,Yes,No,,,No,,Traction,,4.0,No,3.0,Power,,No,,,,4.0,No,No,No,No
+3P11459,,0.0,No,C,,0.0,Yes,No,existing,,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,Yes
+4P0996536,210.0,0.0,No,CR,Steel,0.0,Yes,No,Wittur,KONE,No,,MRL,,8.0,No,1.0,Power,,Yes,,,,5.0,Yes,No,No,No
+4P10575,142.0,0.0,No,B,Steel,0.0,Yes,No,g,,No,,Hydraulic,,5.0,No,2.0,Power,,No,,,,6.0,No,No,No,No
+1P26626,,0.0,No,1,,0.0,Yes,No,Winfield Smith,,No,,Traction,,3.0,No,8.0,Power,,No,,,,5.0,No,No,No,No
+,625.0,275.0,No,1,Steel,0.0,Yes,No,g,SMARTISE,No,,Traction,,4.0,No,4.0,Power,,No,,,,5.0,No,No,No,No
+1P48952,,0.0,No,C,Steel,0.0,Yes,No,g,,No,,Traction,,5.0,No,0.0,Power,,No,,,,7.0,No,No,No,No
+,625.0,230.0,No,-2.-1,Steel,8.0,Yes,No,Wittur,KONE,No,,MRL,,5.0,No,5.0,Power,,Yes,,,,6.0,Yes,No,No,No
+2P11346,,0.0,No,"L,1",,0.0,Yes,No,Wittur,KONE,No,,MRL,,4.0,No,3.0,Power,,No,,,,6.0,Yes,No,No,No
+1P45966,,0.0,No,LL,,0.0,Yes,No,55401,TKE,No,,Hydraulic,,4.0,No,2.0,Power,,Yes,,,,6.0,No,No,No,No
+1P30889,740.0,414.0,No,C,Steel,0.0,Yes,No,G,GAL,No,,Traction,,3.0,No,7.0,Power,,Yes,,,,6.0,No,No,No,No
+1P45731,855.0,0.0,No,4,Steel,0.0,Yes,No,,MCE,No,,Traction,,6.0,No,10.0,Power,,Yes,,,,4.0,No,No,No,No
+,,0.0,No,C,,0.0,Yes,No,G,Smartrise Engineering,No,,Hydraulic,,5.0,No,2.0,Power,,No,,,,7.0,Yes,No,No,No
+1P47939,,0.0,No,C,Steel,0.0,Yes,No,g,,No,,Hydraulic,,4.0,No,0.0,Power,,No,,,,6.0,No,No,No,No
+1P44427,865.0,350.0,No,C2,Steel,0.0,Yes,No,SCHINDLER,SCHINDLER,No,,Traction,,7.0,Yes,0.0,Power,,No,,,,5.0,Yes,No,No,No
+1P46370,452.0,0.0,No,LL,Steel,0.0,No,No,G55401,,No,,MRL,,5.0,No,4.0,Power,,No,,,,8.0,No,No,No,No
+4P1232,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1P19686,1423.0,668.0,No,1,Steel,0.0,Yes,No,MOH,SCHINDLER,Yes,,Traction,1,6.0,Yes,9.0,Power,,Yes,,,,5.0,Yes,No,Yes,No
+4P2616,,0.0,No,LOB,,0.0,Yes,No,GS,,No,,Traction,,4.0,No,0.0,Power,,No,,,,4.0,No,No,No,No
+2P4865,452.0,114.0,No,LL,Steel,0.0,Yes,No,G,,Yes,,Traction,,3.0,No,6.0,Power,,No,,,,6.0,Yes,No,No,No
+4P3116,175.0,0.0,No,"SB,B,",Steel,0.0,Yes,No,G,ESI,No,,Traction,,3.0,No,3.0,Power,,No,,,,4.0,Yes,No,No,No
+,1680.0,420.0,No,"L,2",Steel,0.0,Yes,No,Center Parting,TKE,Yes,,Traction,,7.0,No,0.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P7777,280.0,0.0,No,B,Steel,0.0,Yes,No,G,ESI,No,,Traction,,4.0,No,0.0,Power,,No,,,,6.0,No,No,No,No
+5P667,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+P210,,0.0,No,1,,0.0,Yes,No,6940A,Otis,No,,Traction,,3.0,No,10.0,Manual,,No,,,,4.0,No,No,No,No
+,175.0,125.0,No,C,Steel,8.0,Yes,No,G,SmartRise Engineering,No,,MRL,,4.0,No,3.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P28987,625.0,295.0,No,"B,L,2",Steel,0.0,Yes,No,G,MCE,No,,Traction,,4.0,No,7.0,Power,,Yes,,,,6.0,No,No,No,No
+1P30277,,0.0,No,B,,0.0,Yes,No,existing,exisitng,No,,Traction,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,No
+1P15372,,,,L,,,,,,,,,,,,,,,,,,,,,,,,
+3P8224,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+1P19712,175.0,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Others,,2.0,No,6.0,Power,,No,,,,2.0,No,No,No,No
+,1200.0,330.0,No,"G,2",Steel,0.0,Yes,No,Center Parting,TKE,Yes,,Traction,,6.0,Yes,2.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P22838,970.0,235.0,No,1,,0.0,Yes,No,existing,CEC,No,,Traction,,4.0,No,3.0,Power,,No,,,,6.0,Yes,No,No,No
+4P14509,,0.0,No,001,,0.0,Yes,No,movfr,,No,,Hydraulic,,5.0,No,4.0,Power,,No,,,,5.0,No,No,No,No
+2P4322,625.0,350.0,No,B,Steel,0.0,Yes,No,G,,No,,Traction,,4.0,No,2.0,Power,,Yes,,,,6.0,No,No,No,No
+,,0.0,No,L,,0.0,Yes,No,G,VIRGINIA CONTROLS,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,4.0,No,No,No,No
+1P47065,,,,1,Steel,,,,,,,,,,,,,,,,,,,,,,,
+1P1000467,280.0,0.0,No,"C,*1",,0.0,Yes,No,G,ESI,No,,MRL,,5.0,No,0.0,Power,,Yes,,,,5.0,No,No,No,No
+2P2470,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+1P43008,280.0,0.0,No,B,Steel,0.0,Yes,No,MOD,,No,,Traction,,4.0,No,5.0,Power,,Yes,,,,6.0,No,No,No,No
+1P23242,395.0,0.0,No,B,Steel,9.0,No,No,G,,No,,Traction,,3.0,No,7.0,Power,,No,,,,5.0,No,No,No,No
+4E6067,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1P29346,452.0,145.0,No,1,Steel,0.0,Yes,No,G,CLADDAGH,No,,Traction,,4.0,No,6.0,Power,,Yes,,,,5.0,No,No,No,No
+1P15916,280.0,160.0,No,B,Steel,0.0,Yes,No,mo,MCE,No,,Traction,,6.0,No,0.0,Power,,No,,,,9.0,Yes,No,No,No
+4P12619,,0.0,No,"1, 2",,0.0,Yes,No,G,,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,No
+2P10963,280.0,0.0,No,C,Steel,0.0,Yes,No,MOD,,No,,Traction,,4.0,No,3.0,Power,,No,,,,5.0,Yes,No,No,No
+1P41196,175.0,0.0,No,1,Steel,0.0,Yes,No,POSITIVE,ELEVATOR SYSTEMS,No,,Hydraulic,,3.0,No,4.0,Power,,No,,,,4.0,No,No,No,No
+,280.0,0.0,No,C,Steel,0.0,Yes,No,G,Smartrise,No,,Traction,,5.0,No,4.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P29639,855.0,220.0,No,SC,Steel,0.0,Yes,No,G,MCE,No,,Traction,,5.0,No,2.0,Power,,Yes,,,,7.0,Yes,No,No,No
+1P3,395.0,250.0,No,"L,2",Steel,0.0,Yes,No,MOH,,No,,Traction,,5.0,No,4.0,Power,,Yes,,,,7.0,Yes,No,Yes,No
+1P629,855.0,265.0,No,1,Steel,1.0,Yes,No,GS,OTIS,Yes,,Traction,,4.0,No,9.0,Power,,Yes,,,,5.0,No,No,No,No
+1P41103,337.0,0.0,No,B,Steel,0.0,Yes,No,G,Existing,No,,Traction,,4.0,No,2.0,Power,,No,,,,5.0,No,No,No,No
+,855.0,469.0,No,C,Steel,1.0,Yes,No,WITTUR,KONE,No,,Traction,,4.0,No,4.0,Power,,Yes,,,,6.0,Yes,No,No,No
+3P4277,175.0,0.0,No,B,Steel,0.0,Yes,No,G,,No,,Traction,,5.0,No,0.0,Manual,,No,,,,4.0,No,No,No,No
+3P15898,,0.0,No,C,Steel,0.0,Yes,No,existing,,No,,MRL,,4.0,No,4.0,Power,,Yes,,,,5.0,No,No,No,Yes
+2P3670,337.0,0.0,No,l,Steel,0.0,Yes,No,MO,,No,,Traction,,5.0,No,0.0,Power,,No,,,,5.0,No,No,No,No
+1P13471,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+1P371,395.0,170.0,No,B,Steel,0.0,Yes,No,MOVFR,SMARTRISE,No,,Traction,,4.0,No,9.0,Power,,Yes,,,,3.0,No,No,No,No
+3P0995329,280.0,123.0,No,C,Steel,0.0,Yes,No,G,SMARTRISE,No,,MRL,,5.0,No,8.0,Power,,Yes,,,,6.0,Yes,No,No,No
+1P43378,452.0,200.0,No,B,Steel,0.0,Yes,No,G/S,,No,,Traction,,5.0,No,4.0,Power,,Yes,,,,6.0,No,No,No,No
+1P23813,210.0,0.0,No,B,Steel,0.0,Yes,No,MO,,No,,Traction,,3.0,No,3.0,Power,,No,,,,4.0,No,No,No,No
+,350.0,216.0,No,SC2,Steel,0.0,Yes,No,G,ESI,No,,Traction,,5.0,No,2.0,Power,,Yes,,,,5.0,Yes,No,No,No
+3P6599,,0.0,No,"B,1",,0.0,Yes,No,G,,No,,Hydraulic,,4.0,No,1.0,Power,,No,,,,5.0,No,No,No,No
+4P0996296,280.0,0.0,No,"C,1",Steel,0.0,Yes,No,Wittur,KONE,No,,MRL,,5.0,No,6.0,Power,,Yes,,,,6.0,Yes,No,No,No
+,452.0,164.0,No,1,Steel,0.0,Yes,No,G,Elevator System Inc.,No,,MRL,,5.0,No,8.0,Power,,Yes,,,,6.0,Yes,No,No,No
+3P13534,,0.0,No,C,Steel,0.0,Yes,No,g,,No,,Traction,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,No
+4P10781,,0.0,No,C,,0.0,Yes,No,exisiting,,Yes,,Traction,,6.0,No,0.0,Power,,Yes,,,,9.0,Yes,No,No,Yes
+985,452.0,155.0,No,"L,2",Steel,0.0,Yes,No,G,,No,,Traction,,5.0,No,9.0,Power,,No,,,,5.0,No,No,No,No
+,,,,1,,,No,,,,,,Others,,4.0,,0.0,Manual,,,Platform Lift,,,3.0,,,,
+1P8361,855.0,240.0,No,"1,3",Steel,0.0,Yes,No,MOH,,No,,Traction,,4.0,Yes,8.0,Power,,No,,,,6.0,Yes,No,No,No
+4p5917,,0.0,No,C-1,,0.0,Yes,No,g,esi,No,,Hydraulic,,4.0,No,3.0,Power,,No,,,,5.0,No,No,No,No
+1P28681,855.0,400.0,No,L,Steel,0.0,Yes,No,GS,,No,,Traction,,5.0,No,11.0,Power,,Yes,,,,4.0,No,No,No,No
+4P3262,,0.0,No,L,,0.0,Yes,No,existing,ESI,No,,Traction,,3.0,No,9.0,Power,,No,,,,6.0,Yes,No,No,No
+1P33505,452.0,215.0,No,1,Steel,0.0,Yes,No,GAL,Otis,No,,Traction,,5.0,No,5.0,Power,,Yes,,,,6.0,Yes,No,No,No
+2P4,175.0,0.0,No,1*,Steel,0.0,Yes,No,G,ESI,No,,Traction,,3.0,No,11.0,Power,,No,,,,6.0,No,No,No,No
+,,,,Bsmen,,,No,,Electric Strike Interlock,,,,Others,,4.0,,6.0,Manual,,,Platform Lift,,,3.0,,,,
+1P23366,427.0,0.0,No,L,Steel,0.0,Yes,No,G/S,O. THOMPSON,No,,Traction,,5.0,No,0.0,Power,,Yes,,,,4.0,No,No,No,No
+1P26568,625.0,100.0,No,1,Steel,0.0,Yes,No,G,,No,,Traction,,6.0,No,4.0,Power,,Yes,,,,5.0,No,No,No,No
+5P125,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+3P8299,,0.0,No,C,Steel,0.0,Yes,No,I-Motion,,No,,Traction,,6.0,No,6.0,Power,,No,,,,5.0,Yes,No,No,Yes
+2P3857,,0.0,No,G,Steel,0.0,Yes,No,GAL,,No,,Traction,,5.0,No,7.0,Power,,No,,,,7.0,Yes,No,No,No
+1P3,,0.0,No,1,,0.0,Yes,No,G,,No,,Hydraulic,,5.0,No,10.0,Power,,No,,,,4.0,No,No,No,No
+1E1251,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3P12779,210.0,0.0,No,L,,0.0,Yes,No,G,Existing,No,,MRL,,4.0,No,3.0,Power,,No,,,,6.0,No,No,No,No
+1P40665,452.0,147.0,No,B,Steel,0.0,Yes,No,G,MCE,No,,Traction,,6.0,No,8.0,Power,,No,,,,4.0,No,No,No,No
+1P12939,,,,B,,,,,,,,,,,,,,,,,,,,,,,,
+1P29706,452.0,0.0,No,"B,L",Steel,0.0,Yes,No,G,EXISTING,No,,Traction,,5.0,No,0.0,Power,,Yes,,,,8.0,No,No,No,No
+1P4727,180.0,0.0,No,B,Steel,0.0,Yes,No,,existing,No,,Traction,,6.0,No,0.0,Power,,No,,,,4.0,No,No,No,No
+,252.0,0.0,No,"C, 1",Steel,0.0,Yes,No,I-Motion,Otis,No,,MRL,,5.0,No,5.0,Power,,Yes,,,,6.0,Yes,No,No,No
+4P5328,,,,C,,,,,,,,,,,,,,,,,,,,,,,,
+3P12156,115.0,0.0,No,L,,0.0,Yes,No,G,,No,,Hydraulic,,5.0,No,4.0,Manual,,No,,,,5.0,No,No,No,No
+3P10787,,,,C,,,,,,,,,,,,,,,,,,,,,,,,

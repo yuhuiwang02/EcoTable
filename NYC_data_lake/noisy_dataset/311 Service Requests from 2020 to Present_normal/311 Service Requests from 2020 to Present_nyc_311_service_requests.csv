@@ -1,0 +1,241 @@
+location,park_facility_name,landmark,:@computed_region_f5dn_yrer,taxi_pick_up_location,latitude,park_borough,complaint_type,bridge_highway_segment,agency_name,street_name
+"{'type': 'Point', 'coordinates': [-73.911606163079, 40.835761240541]}",Unspecified,,50.0,,40.83576124054072,BRONX,HEAT/HOT WATER,,Department of Housing Preservation and Development,COLLEGE AVENUE
+"{'type': 'Point', 'coordinates': [-73.916440519721, 40.764563856671]}",Unspecified,30 AVENUE,39.0,,40.76456385667112,QUEENS,Noise - Commercial,,New York City Police Department,30 AVENUE
+"{'type': 'Point', 'coordinates': [-73.959931101015, 40.672020168911]}",Unspecified,LINCOLN PLACE,16.0,,40.67202016891076,BROOKLYN,Noise - Residential,,New York City Police Department,LINCOLN PLACE
+"{'type': 'Point', 'coordinates': [-73.916452996361, 40.855340107085]}",Unspecified,,6.0,,40.85534010708468,BRONX,Street Condition,,Department of Transportation,SEDGWICK AVENUE
+"{'type': 'Point', 'coordinates': [-73.902878718735, 40.830868631191]}",Unspecified,,34.0,,40.83086863119123,BRONX,PLUMBING,,Department of Housing Preservation and Development,FRANKLIN AVENUE
+"{'type': 'Point', 'coordinates': [-73.913828561847, 40.838625656495]}",Unspecified,GRAND CONCOURSE,50.0,,40.838625656495104,BRONX,Noise - Street/Sidewalk,,New York City Police Department,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-73.95255583293, 40.80316437387]}",Unspecified,,18.0,,40.80316437386991,MANHATTAN,Elevator,,Department of Buildings,ADAM CLAYTON POWELL JR BOULEVARD
+"{'type': 'Point', 'coordinates': [-73.873200815298, 40.717009943699]}",Unspecified,79 PLACE,54.0,,40.717009943698606,QUEENS,Abandoned Vehicle,,New York City Police Department,79 PLACE
+"{'type': 'Point', 'coordinates': [-73.903460915257, 40.681151449841]}",Unspecified,,42.0,,40.6811514498409,BROOKLYN,Derelict Vehicles,,Department of Sanitation,BUSHWICK AVENUE
+"{'type': 'Point', 'coordinates': [-73.877975178235, 40.658883554543]}",Unspecified,ASHFORD STREET,45.0,,40.658883554542975,BROOKLYN,Missed Collection,,Department of Sanitation,ASHFORD STREET
+"{'type': 'Point', 'coordinates': [-73.921352670973, 40.814315591533]}",Unspecified,EAST  145 STREET,49.0,,40.814315591532704,BRONX,Noise - Residential,,New York City Police Department,EAST  145 STREET
+"{'type': 'Point', 'coordinates': [-73.795476150653, 40.713508312894]}",Unspecified,,25.0,,40.71350831289381,QUEENS,SAFETY,,Department of Housing Preservation and Development,168 PLACE
+"{'type': 'Point', 'coordinates': [-73.855555764558, 40.676028936469]}",Unspecified,PITKIN AVENUE,62.0,,40.67602893646883,QUEENS,Illegal Parking,,New York City Police Department,PITKIN AVENUE
+"{'type': 'Point', 'coordinates': [-73.76978030943, 40.76833579252]}",Unspecified,,26.0,,40.7683357925195,QUEENS,Noise,,Department of Environmental Protection,215 STREET
+"{'type': 'Point', 'coordinates': [-73.864560869242, 40.820109124377]}",Unspecified,,58.0,,40.82010912437747,BRONX,Derelict Vehicles,,Department of Sanitation,ST LAWRENCE AVENUE
+"{'type': 'Point', 'coordinates': [-73.938427867774, 40.827964479458]}",Unspecified,WEST  153 STREET,18.0,,40.82796447945757,MANHATTAN,New Tree Request,,Department of Parks and Recreation,WEST  153 STREET
+"{'type': 'Point', 'coordinates': [-73.952646305691, 40.736917369611]}",Unspecified,MCGUINNESS BOULEVARD,36.0,,40.73691736961068,BROOKLYN,Blocked Driveway,,New York City Police Department,MCGUINNESS BOULEVARD
+"{'type': 'Point', 'coordinates': [-74.024884137406, 40.621679629245]}",Unspecified,85 STREET,10.0,,40.621679629244674,BROOKLYN,Residential Disposal Complaint,,Department of Sanitation,85 STREET
+"{'type': 'Point', 'coordinates': [-73.88748223395, 40.729938883476]}",Unspecified,74 STREET,54.0,,40.72993888347571,QUEENS,Illegal Parking,,New York City Police Department,74 STREET
+"{'type': 'Point', 'coordinates': [-73.93985182082, 40.707737355763]}",Unspecified,,36.0,,40.70773735576328,BROOKLYN,Homeless Person Assistance,Mezzanine,Department of Homeless Services,
+"{'type': 'Point', 'coordinates': [-73.932871372577, 40.755442837041]}",Unspecified,29 STREET,39.0,,40.75544283704125,QUEENS,Illegal Parking,,New York City Police Department,29 STREET
+"{'type': 'Point', 'coordinates': [-73.956789043461, 40.80332248776]}",Unspecified,WEST  114 STREET,18.0,,40.80332248776049,MANHATTAN,Noise - Vehicle,,New York City Police Department,WEST  114 STREET
+"{'type': 'Point', 'coordinates': [-73.736920227225, 40.693481518742]}",Unspecified,224 STREET,63.0,,40.6934815187421,QUEENS,Damaged Tree,,Department of Parks and Recreation,224 STREET
+"{'type': 'Point', 'coordinates': [-73.896621638601, 40.820545799431]}",Unspecified,,8.0,,40.82054579943144,BRONX,APPLIANCE,,Department of Housing Preservation and Development,DAWSON STREET
+"{'type': 'point', 'coordinates': [-73.913856458031, 40.744514319994]}",Unspecified,JOHN DOWNING PARK,53.0,,40.7445143199936,QUEENS,Drinking,,New York City Police Department,JOHN DOWNING PARK
+"{'type': 'Point', 'coordinates': [-73.810750599924, 40.820933632717]}",Unspecified,MILES AVENUE,43.0,,40.82093363271652,BRONX,Abandoned Vehicle,,New York City Police Department,MILES AVENUE
+"{'type': 'Point', 'coordinates': [-73.946195493196, 40.677465689248]}",Unspecified,PACIFIC STREET,16.0,,40.6774656892478,BROOKLYN,Illegal Parking,,New York City Police Department,PACIFIC STREET
+"{'type': 'Point', 'coordinates': [-73.971851969269, 40.784641030209]}",Unspecified,,20.0,,40.78464103020883,MANHATTAN,Request Large Bulky Item Collection,,Department of Sanitation,WEST   84 STREET
+"{'type': 'Point', 'coordinates': [-73.982652249533, 40.744331137992]}",Unspecified,,11.0,,40.74433113799236,MANHATTAN,HEAT/HOT WATER,,Department of Housing Preservation and Development,EAST   30 STREET
+"{'type': 'Point', 'coordinates': [-73.978420167204, 40.740932421502]}",Unspecified,EAST   28 STREET,71.0,,40.74093242150187,MANHATTAN,Noise - Helicopter,,Economic Development Corporation,EAST   28 STREET
+"{'type': 'Point', 'coordinates': [-73.93799240924, 40.670975655573]}",Unspecified,,16.0,,40.67097565557301,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,ST JOHNS PLACE
+,Unspecified,,,,,QUEENS,Street Condition,,Department of Transportation,139 AVENUE
+"{'type': 'Point', 'coordinates': [-73.859570349551, 40.892497479006]}",Unspecified,EAST  231 STREET,29.0,,40.89249747900574,BRONX,Noise - Residential,,New York City Police Department,EAST  231 STREET
+"{'type': 'Point', 'coordinates': [-73.792683270708, 40.767149632559]}",Unspecified,,22.0,,40.76714963255917,QUEENS,Water System,,Department of Environmental Protection,
+"{'type': 'Point', 'coordinates': [-73.820438389105, 40.695925783773]}_",Unspecified,,46.0,,40.69592578377301,QUEENS,Street Condition,,Department of Transportation,ATLANTIC AVENUE
+"{'type': 'Point', 'coordinates': [-73.968725573149, 40.629261924378]}",Unspecified,AVENUE H,60.0,,40.62926192437833,BROOKLYN,Illegal Parking,,New York City Police Department,AVENUE H
+"{'type': 'Point', 'coordinates': [-73.897436119731, 40.655438637818]}",Unspecified,,45.0,,40.655438637818335,BROOKLYN,UNSANITARY CONDITION,,Department of Housing Preservation and Development,SNEDIKER AVENUE
+"{'type': 'Point', 'coordinates': [-73.862454436358, 40.869088725439]}",Unspecified,MATTHEWS AVENUE,59.0,,40.869088725438914,BRONX,Blocked Driveway,,New York City Police Department,MATTHEWS AVENUE
+"{'type': 'Point', 'coordinates': [-73.913828561847, 40.838625656495]}",Unspecified,GRAND CONCOURSE,50.0,,40.838625656495104,BRONX,Illegal Parking,,New York City Police Department,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-73.788608599551, 40.752007666804]}",Unspecified,47 AVENUE,26.0,,40.75200766680422,QUEENS,Noise - Commercial,,New York City Police Department,47 AVENUE
+"{'type': 'Point', 'coordinates': [-73.933048260602, 40.597407068221]}",Unspecified,,32.0,,40.59740706822059,BROOKLYN,Derelict Vehicles,,Department of Sanitation,WHITNEY AVENUE
+"{'type': 'Point', 'coordinates': [-73.881868513799, 40.680840361661]}",Unspecified,,45.0,,40.68084036166122,BROOKLYN,ELECTRIC,,Department of Housing Preservation and Development,FULTON STREET
+"{'type': 'Point', 'coordinates': [-73.945579845659, 40.835477611684]}",Unspecified,,47.0,,40.83547761168423,MANHATTAN,General Construction/Plumbing,,Department of Buildings,RIVERSIDE DRIVE
+"{'type': 'Point', 'coordinates': [-73.938103964316, 40.838218552927]}",Unspecified,,47.0,,40.83821855292657,MANHATTAN,UNSANITARY CONDITION,,Department of Housing Preservation and Development,AMSTERDAM AVENUE
+"{'type': 'Point', 'coordinates': [-73.819133510011, 40.687736076622]}",Unspecified,125 STREET,62.0,,40.687736076622,QUEENS,Noise - Residential,,New York City Police Department,125 STREET
+"{'type': 'Point', 'coordinates': [-73.95814566842, 40.77125078678]}",Unspecified,,23.0,,40.77125078678037,MANHATTAN,Special Projects Inspection Team (SPIT),,Department of Buildings,EAST   75 STREET
+"{'type': 'Point', 'coordinates': [-73.905636252647, 40.672617001538]}",Unspecified,,55.0,,40.67261700153828,BROOKLYN,PAINT/PLASTER,,Department of Housing Preservation and Development,SACKMAN STREET
+"{'type': 'loint', 'coordinates': [-73.850987578289, 40.742383339373]}",Unspecified,,66.0,,40.74238333937343,QUEENS,Derelict Vehicles,,Department of Sanitation,111 STREET
+"{'type': 'Point', 'coordinates': [-73.822838200801, 40.75094279483]}",Unspecified,45 AVENUE,22.0,,40.75094279483036,QUEENS,Noise - Residential,,New York City Police Department,45 AVENUE
+"{'type': 'Point', 'coordinates': [-73.865094207627, 40.899206586639]}",Unspecified,,29.0,,40.89920658663928,BRONX,Illegal Parking,,New York City Police Department,EAST  237 STREET
+"{'type': 'Point', 'coordinates': [-74.007033064278, 40.738763129977]}",Unspecified,,57.0,,40.738763129976725,MANHATTAN,PLUMBING,,Department of Housing Preservation and Development,HORATIO STREET
+"{'type': 'Point', 'coordinates': [-73.936455001709, 40.801432934576]}",Unspecified,EAST  122 STREET,7.0,,40.80143293457596,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,EAST  122 STREET
+"{'type': 'Point', 'coordinates': [-73.990452140702, 40.761401627525]}",Unspecified,9 AVENUE,12.0,,40.76140162752549,MANHATTAN,Noise - Commercial,,New York City Police Department,NINTH AVENUE
+"{'type': 'Point', 'coordinates': [-73.855308581929, 40.753403539749]}",Unspecified,,65.0,,40.75340353974878,QUEENS,GENERAL,,Department of Housing Preservation and Development,112 STREET
+"{'type': 'Point', 'coordinates': [-74.006900274691, 40.710936788479]}",Unspecified,,56.0,,40.71093678847912,MANHATTAN,Water System,,Department of Environmental Protection,NASSAU STREET
+"{'type': 'Point', 'coordinates': [-73.924299153125, 40.834636704052]}",Unspecified,JEROME AVENUE,50.0,,40.83463670405151,BRONX,Noise - Street/Sidewalk,,New York City Police Department,JEROME AVENUE
+,Unspecified,,,,,STATEN ISLAND,Street Condition,,Department of Transportation,WASHINGTON PLACE
+"{'type': 'Point', 'coordinates': [-73.880116316779, 40.841263402394]}",Unspecified,EAST  178 STREET,35.0,,40.84126340239402,BRONX,Illegal Parking,,New York City Police Department,EAST  178 STREET
+"{'type': 'Point', 'coordinates': [-73.806869892891, 40.760046173653]}",Unspecified,159 STREET,22.0,,40.76004617365279,QUEENS,Blocked Driveway,,New York City Police Department,159 STREET
+"{'type': 'Point', 'coordinates': [-74.007956020312, 40.73178865153]}",Unspecified,BARROW STREET,57.0,,40.73178865153027,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,BARROW STREET
+"{'type': 'Point', 'coordinates': [-73.915233287014, 40.777095460231]}",Unspecified,26 STREET,39.0,,40.777095460231415,QUEENS,Blocked Driveway,,New York City Police Department,26 STREET
+"{'type': 'Point', 'coordinates': [-74.030504711243, 40.631990451359]}",Unspecified,RIDGE BOULEVARD,10.0,,40.63199045135857,BROOKLYN,Noise - Residential,,New York City Police Department,RIDGE BOULEVARD
+"{'type': 'Point', 'coordinates': [-73.981636542603, 40.763299921646]}",Unspecified,7 AVENUE,11.0,,40.763299921645554,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,SEVENTH AVENUE
+"{'type': 'Point', 'coordinates': [-73.949129373393, 40.825005403846]}",Unspecified,WEST  144 STREET,37.0,,40.825005403846085,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,WEST  144 STREET
+"{'type': 'Point', 'coordinates': [-73.80032068229, 40.706259646068]}",Unspecified,89 AVENUE,41.0,,40.70625964606806,QUEENS,Dirty Condition,,Department of Sanitation,89 AVENUE
+"{'type': 'Point', 'coordinates': [-73.993117475713, 40.643827066906]}",Unspecified,40 STREET,2.0,,40.64382706690627,BROOKLYN,Blocked Driveway,,New York City Police Department,40 STREET
+"{'type': 'Point', 'coordinates': [-73.927228813326, 40.862066435157]}",Unspecified,,47.0,,40.86206643515698,MANHATTAN,FLOORING/STAIRS,,Department of Housing Preservation and Development,ARDEN STREET
+"{'type': 'Point', 'coordinates': [-73.936167992187, 40.682637206745]}",Unspecified,MACON STREET,69.0,,40.68263720674462,BROOKLYN,Damaged Tree,,Department of Parks and Recreation,MACON STREET
+"{'type': 'Point', 'coordinates': [-73.919135634069, 40.745001223655]}",Unspecified,,53.0,,40.74500122365459,QUEENS,UNSANITARY CONDITION,,Department of Housing Preservation and Development,43 AVENUE
+"{'type': 'Point', 'coordinates': [-73.892735340769, 40.824236641539]}",Unspecified,,8.0,,40.82423664153876,BRONX,Street Condition,,Department of Transportation,WESTCHESTER AVENUE
+"{'type': 'Point', 'coordinates': [-73.985917838179, 40.643886795917]}",Unspecified,12 AVENUE,2.0,,40.64388679591743,BROOKLYN,Blocked Driveway,,New York City Police Department,12 AVENUE
+"{'type': 'Point', 'coordinates': [-73.919680588846, 40.661173702081]}",Unspecified,,61.0,,40.66117370208075,BROOKLYN,DOOR/WINDOW,,Department of Housing Preservation and Development,KINGS HIGHWAY
+"{'type': 'Point', 'coordinates': [-73.971882319625, 40.789729771857]}",Unspecified,WEST   90 STREET,20.0,,40.78972977185651,MANHATTAN,Noise - Residential,,New York City Police Department,WEST   90 STREET
+"{'type': 'Point', 'coordinates': [-73.865050435291, 40.874443949354]}",Unspecified,HOLLAND AVENUE,29.0,,40.87444394935435,BRONX,Blocked Driveway,,New York City Police Department,HOLLAND AVENUE
+"{'type': 'Point', 'coordinates': [-73.943913682646, 40.634237034786]}",Unspecified,,61.0,,40.634237034786175,BROOKLYN,Noise,,Department of Environmental Protection,
+"{'type': 'Point', 'coordinates': [-73.791283369074, 40.710443114019]}",Unspecified,,41.0,,40.710443114019,QUEENS,Water System,,Department of Environmental Protection,88 AVE
+"{'type': 'Point', 'coordinates': [-73.77781335143, 40.743319405652]}",Unspecified,,26.0,,40.743319405651874,QUEENS,Illegal Parking,,New York City Police Department,198 STREET
+"{'type': 'Point', 'coordinates': [-73.892019442764, 40.857935527592]}",Unspecified,,35.0,,40.85793552759152,BRONX,GENERAL,,Department of Housing Preservation and Development,EAST  187 STREET
+"{'type': 'Point', 'coordinates': [-73.838889522087, 40.722118962666]}$",Unspecified,,40.0,,40.72211896266612,QUEENS,HEAT/HOT WATER,,Department of Housing Preservation and Development,112 STREET
+"{'type': 'Point', 'coordinates': [-73.915416583888, 40.834611318752]}",Unspecified,,50.0,,40.834611318751726,BRONX,Street Condition,,Department of Transportation,SHERMAN AVENUE
+"{'type': 'Point', 'coordinates': [-73.862211681966, 40.844904847644]}",Unspecified,BARNES AVENUE,59.0,,40.84490484764405,BRONX,Illegal Parking,,New York City Police Department,BARNES AVENUE
+"{'type': 'Point', 'coordinates': [-73.877124492065, 40.872212276043]}",Unspecified,DECATUR AVENUE,24.0,,40.87221227604257,BRONX,Dirty Condition,,Department of Sanitation,DECATUR AVENUE
+"{'type': 'Point', 'coordinates': [-73.962738781397, 40.653677753967]}",Unspecified,WOODRUFF AVENUE,60.0,,40.65367775396683,BROOKLYN,Noise - Street/Sidewalk,,New York City Police Department,WOODRUFF AVENUE
+"{'type': 'Point', 'coordinates': [-73.985108001176, 40.720435648954]}",Unspecified,STANTON STREET,70.0,,40.72043564895416,MANHATTAN,Illegal Parking,,New York City Police Department,STANTON STREET
+"{'type': 'Point', 'coordinates': [-73.957452691785, 40.686168588107]}",100 Quincy Street Community Garden,QUINCY STREET,69.0,,40.68616858810718,BROOKLYN,Animal in a Park,,Department of Parks and Recreation,QUINCY STREET
+"{'type': 'Point', 'coordinates': [-73.859570349551, 40.892497479006]}",Unspecified,EAST  231 STREET,29.0,,40.89249747900574,BRONX,Noise - Residential,,New York City Police Department,EAST  231 STREET
+"{'type': 'Point', 'coordinates': [-73.913296048598, 40.78135934042]}",Unspecified,21 AVENUE,39.0,,40.781359340419776,QUEENS,Traffic,,New York City Police Department,21 AVENUE
+"{'type': 'Point', 'coordinates': [-74.002717890914, 40.754762454246]}",Unspecified,11 AVENUE,12.0,,40.75476245424559,MANHATTAN,Consumer Complaint,,Department of Consumer and Worker Protection,11 AVENUE
+"{'type': 'Point', 'coordinates': [-73.991551172528, 40.691402186219]}",Unspecified,COURT STREET,68.0,,40.69140218621899,BROOKLYN,Noise - Street/Sidewalk,,New York City Police Department,COURT STREET
+"{'type': 'Point', 'coordinates': [-73.829679590506, 40.758660374766]}",Unspecified,MAIN STREET,22.0,,40.75866037476562,QUEENS,Obstruction,,Department of Sanitation,MAIN STREET
+"{'type': 'Point', 'coordinates': [-73.950648338748, 40.73054046623]}",Unspecified,,36.0,,40.73054046623013,BROOKLYN,Street Light Condition,,Department of Transportation,
+"{'type': 'Point', 'coordinates': [-73.962692041902, 40.801702416194]}",Unspecified,WEST  109 STREET,20.0,,40.801702416194175,MANHATTAN,Noise - Residential,,New York City Police Department,WEST  109 STREET
+"{'type': 'Point', 'coordinates': [-73.893624928148, 40.674596486428]}",Unspecified,,45.0,,40.67459648642842,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,WYONA STREET
+"{'type': 'Point', 'coordinates': [-73.90128732186, 40.671081766416]}",Unspecified,,45.0,,40.67108176641611,BROOKLYN,Derelict Vehicles,,Department of Sanitation,PITKIN AVENUE
+"{'type': 'Point', 'coordinates': [-73.906543093409, 40.72522122382]}",Unspecified,56 AVENUE,54.0,,40.72522122381996,QUEENS,Dirty Condition,,Department of Sanitation,56 AVENUE
+"{'type': 'Point', 'coordinates': [-74.087946007114, 40.603596164181]}",Unspecified,,30.0,,40.60359616418054,STATEN ISLAND,Electronics Waste Appointment,,Department of Sanitation,ALAN LOOP
+"{'type': 'Point', 'coordinates': [-73.885036872589, 40.877896457579]}",Unspecified,,24.0,,40.87789645757858,BRONX,PAINT/PLASTER,,Department of Housing Preservation and Development,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-73.95607642958, 40.711842621539]}",Unspecified,SOUTH    1 STREET,36.0,,40.71184262153895,BROOKLYN,Noise - Vehicle,,New York City Police Department,SOUTH FIRST STREET
+"{'type': 'Point', 'coordinates': [-73.935296654513, 40.677687892744]}",Unspecified,ATLANTIC AVENUE,69.0,,40.67768789274407,BROOKLYN,Disorderly Youth,,New York City Police Department,ATLANTIC AVENUE
+"{'type': 'Point', 'coordinates': [-74.174403639519, 40.556284043873]}",Unspecified,BARLOW AVENUE,15.0,,40.55628404387348,STATEN ISLAND,Illegal Parking,,New York City Police Department,BARLOW AVENUE
+"{'type': 'Point', 'coordinates': [-73.804693295222, 40.755101951442]}",Unspecified,162 STREET,22.0,,40.75510195144204,QUEENS,Street Condition,,Department of Transportation,162 STREET
+"{'type': 'Point', 'coordinates': [-73.783932486501, 40.76934582151]}",Unspecified,33 AVENUE,26.0,,40.76934582151032,QUEENS,Sanitation Worker or Vehicle Complaint,,Department of Sanitation,33 AVENUE
+"{'type': 'Point', 'coordinates': [-73.99226736787, 40.734533420951]}",Unspecified,,57.0,,40.73453342095126,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,EAST   13 STREET
+"{'type': 'Point', 'coordinates': [-73.921555387008, 40.841554286533]}",Unspecified,SHAKESPEARE AVENUE,50.0,,40.84155428653312,BRONX,Dirty Condition,,Department of Sanitation,SHAKESPEARE AVENUE
+"{'type': 'Point', 'coordinates': [-73.978790527756, 40.779125599138]}",Unspecified,WEST   74 STREET,20.0,,40.77912559913823,MANHATTAN,Noise - Helicopter,,Economic Development Corporation,WEST   74 STREET
+"{'type': 'Point', 'coordinates': [-73.965145129145, 40.6350688672]}",Unspecified,ARGYLE ROAD,60.0,,40.635068867200346,BROOKLYN,Illegal Parking,,New York City Police Department,ARGYLE ROAD
+"{'type': 'Point', 'coordinates': [-73.876292560078, 40.757704304284]}",Unspecified,92 STREET,65.0,,40.75770430428375,QUEENS,Noise - Residential,,New York City Police Department,92 STREET
+"{'type': 'Point', 'coordinates': [-73.954978136404, 40.714414039233]}",Unspecified,,36.0,,40.71441403923324,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,HAVEMEYER STREET
+"{'type': 'point', 'coordinates': [-73.786164950848, 40.591271393294]}",Unspecified,,51.0,,40.59127139329369,QUEENS,Water System,,Department of Environmental Protection,BEACH   56 PLACE
+"{'type': 'Point', 'coordinates': [-73.934876629632, 40.613091887243]}",Unspecified,AVENUE R,5.0,,40.61309188724291,BROOKLYN,Abandoned Vehicle,,New York City Police Department,AVENUE R
+"{'type': 'Point', 'coordinates': [-73.779363570101, 40.76994649703]}",Unspecified,,26.0,,40.76994649702991,QUEENS,Street Light Condition,,Department of Transportation,
+"{'type': 'Point', 'coordinates': [-74.029003421336, 40.626158162476]}",Unspecified,,10.0,,40.626158162475775,BROOKLYN,Building/Use,,Department of Buildings,82 STREET
+"{'type': 'Point', 'coordinates': [-73.914996519559, 40.835291698618]}",Unspecified,SHERMAN AVENUE,50.0,,40.83529169861803,BRONX,Noise - Residential,,New York City Police Department,SHERMAN AVENUE
+"{'type': 'Point', 'coordinates': [-73.906685797272, 40.819127128933]}",Unspecified,JACKSON AVENUE,49.0,,40.81912712893279,BRONX,Consumer Complaint,,Department of Consumer and Worker Protection,JACKSON AVENUE
+"{'type': 'Point', 'coordinates': [-73.97175200144, 40.790462583263]}",Unspecified,,20.0,,40.79046258326348,MANHATTAN,Elevator,,Department of Buildings,WEST   91 STREET
+"{'type': 'Point', 'coordinates': [-73.822047585609, 40.701025325747]}",Unspecified,,46.0,,40.701025325747125,QUEENS,Graffiti,,Department of Sanitation,130 STREET
+"{'type': 'Point', 'coordinates': [-73.921863096821, 40.671882587159]}",Unspecified,PARK PLACE,55.0,,40.671882587158734,BROOKLYN,Blocked Driveway,,New York City Police Department,PARK PLACE
+"{'type': 'Point', 'coordinates': [-73.863030257965, 40.747514510616]}",Unspecified,,66.0,,40.74751451061606,QUEENS,Street Condition,,Department of Transportation,102 STREET
+"{'type': 'Point', 'coordinates': [-73.819875308966, 40.718805302415]}",Unspecified,78 ROAD,25.0,,40.71880530241471,QUEENS,Illegal Parking,,New York City Police Department,78 ROAD
+"{'type': 'Point', 'coordinates': [-73.91076698487, 40.758200028908]}",Unspecified,,39.0,,40.75820002890765,QUEENS,Street Condition,,Department of Transportation,48 STREET
+"{'type': 'Point', 'coordinates': [-73.929782521342, 40.857366345871]}",Unspecified,,47.0,,40.85736634587064,MANHATTAN,Boilers,,Department of Buildings,FAIRVIEW AVENUE
+"{'type': 'Point', 'coordinates': [-73.804875565069, 40.724915407989]}",Unspecified,164 STREET,25.0,,40.72491540798941,QUEENS,Noise - Vehicle,,New York City Police Department,164 STREET
+"{'type': 'Point', 'coordinates': [-73.935470646071, 40.699072502041]}",Unspecified,,42.0,,40.69907250204072,BROOKLYN,Noise - Street/Sidewalk,,New York City Police Department,BEAVER STREET
+"{'type': 'Point', 'coordinates': [-73.950862494637, 40.72391471475]}",Unspecified,MANHATTAN AVENUE,36.0,,40.72391471474964,BROOKLYN,Noise - Residential,,New York City Police Department,MANHATTAN AVENUE
+"{'type': 'Point', 'coordinates': [-73.887481642841, 40.723878455436]}",Unspecified,60 AVENUE,54.0,,40.72387845543598,QUEENS,Illegal Parking,,New York City Police Department,60 AVENUE
+"{'type': 'Point', 'coordinates': [-73.94901341309, 40.797151908628]}",Unspecified,,7.0,,40.79715190862778,MANHATTAN,HEAT/HOT WATER,,Department of Housing Preservation and Development,FIFTH AVENUE
+"{'type': 'Point', 'coordinates': [-73.909322568954, 40.758621591861]}",Unspecified,49 STREET,39.0,,40.75862159186145,QUEENS,Blocked Driveway,,New York City Police Department,49 STREET
+"{'type': 'Point', 'coordinates': [-73.929430946756, 40.854827281928]}",Unspecified,WEST  190 STREET,47.0,,40.85482728192759,MANHATTAN,Illegal Parking,,New York City Police Department,WEST  190 STREET
+{''[4,Unspecified,STERLING PLACE,16.0,,40.67150987389073,BROOKLYN,Noise - Street/Sidewalk,,New York City Police Department,STERLING PLACE
+"{'type': 'Point', 'coordinates': [-73.920485314752, 40.814583979348]}",Unspecified,EAST  146 STREET,49.0,,40.81458397934778,BRONX,Blocked Driveway,,New York City Police Department,EAST  146 STREET
+"{'type': 'Point', 'coordinates': [-73.913422933369, 40.839289572718]}",Unspecified,,50.0,,40.839289572718044,BRONX,PLUMBING,,Department of Housing Preservation and Development,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-74.002705692039, 40.721018469149]}",Unspecified,GREENE STREET,57.0,,40.721018469149456,MANHATTAN,Encampment,,New York City Police Department,GREENE STREET
+"{'type': 'Point', 'coordinates': [-73.876373204723, 40.875672534267]}",Unspecified,PERRY AVENUE,24.0,,40.87567253426723,BRONX,Illegal Parking,,New York City Police Department,PERRY AVENUE
+"{'type': 'Point', 'coordinates': [-73.901104142303, 40.71439134358]}",Unspecified,FRESH POND ROAD,54.0,,40.71439134358028,QUEENS,Food Establishment,,Department of Health and Mental Hygiene,FRESH POND ROAD
+"{'type': 'Point', 'coordinates': [-73.854239552183, 40.69597355618]}",Unspecified,85 ROAD,46.0,,40.69597355617956,QUEENS,Abandoned Vehicle,,New York City Police Department,85 ROAD
+"{'type': 'Point', 'coordinates': [-73.97693960861, 40.76468791678]}",Unspecified,AVENUE OF THE AMERICAS,11.0,,40.76468791677967,MANHATTAN,Encampment,,New York City Police Department,6 AVENUE
+"{'type': 'Point', 'coordinates': [-73.916379609979, 40.853330931102]}",Unspecified,PHELAN PLACE,6.0,,40.853330931102384,BRONX,Noise - Street/Sidewalk,,New York City Police Department,PHELAN PLACE
+"{'type': 'Point', 'coordinates': [-73.858834838947, 40.668279004667]}",Unspecified,,45.0,,40.66827900466744,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,LORING AVENUE
+"{'type': 'Point', 'coordinates': [-73.954819678162, 40.820462522015]}",Unspecified,,37.0,,40.82046252201524,MANHATTAN,Air Quality,,Department of Environmental Protection,BROADWAY
+"{'type': 'Point', 'coordinates': [-73.84870439186, 40.905556677757]}",Unspecified,EAST  242 STREET,29.0,,40.90555667775749,BRONX,Blocked Driveway,,New York City Police Department,EAST  242 STREET
+"{'type': 'Point', 'coordinates': [-73.962323365658, 40.770247653908]}",Unspecified,LEXINGTON AVENUE,23.0,,40.77024765390775,MANHATTAN,New Tree Request,,Department of Parks and Recreation,LEXINGTON AVENUE
+"{'type': 'Point', 'coordinates': [-73.877880919339, 40.873785789578]}",Unspecified,,24.0,,40.87378578957796,BRONX,SAFETY,,Department of Housing Preservation and Development,PERRY AVENUE
+"{'type': 'Point', 'coordinates': [-73.949242828111, 40.647845415412]}",Unspecified,NOSTRAND AVENUE,61.0,,40.647845415412206,BROOKLYN,Noise - Residential,,New York City Police Department,NOSTRAND AVENUE
+"{'type': 'Point', 'coordinates': [-73.832439814338, 40.860993345162]}",Unspecified,DEMEYER STREET,59.0,,40.86099334516224,BRONX,Traffic,,New York City Police Department,DEMEYER STREET
+"{'type': 'Point', 'coordinates': [-73.92676745128, 40.696649152823]}",Unspecified,,42.0,,40.69664915282313,BROOKLYN,Graffiti,,Department of Sanitation,DEKALB AVENUE
+"{'type': 'Point', 'coordinates': [-73.819509267292, 40.816671394533]}",Unspecified,,43.0,,40.81667139453327,BRONX,Water Conservation,,Department of Environmental Protection,LAWTON AVE
+"{'type': 'Point', 'coordinates': [-73.933809120949, 40.665346530125]}",Unspecified,,17.0,,40.665346530124594,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,CROWN STREET
+"{'type': 'Point', 'coordinates': [-73.982825294691, 40.74502833038]}",Unspecified,PARK AVENUE SOUTH,11.0,"457 PARK AVENUE SOUTH, MANHATTAN (NEW YORK), NY, 10016",40.74502833037993,MANHATTAN,Lost Property,,Taxi and Limousine Commission,PARK AVENUE SOUTH
+"{'type': 'Point', 'coordinates': [-73.920220506208, 40.664802676876]}",Unspecified,TAPSCOTT STREET,55.0,,40.66480267687595,BROOKLYN,Noise - Vehicle,,New York City Police Department,TAPSCOTT STREET
+"{'type': 'Point', 'coordinates': [-73.956582420257, 40.771225505669]}",Unspecified,2 AVENUE,23.0,"1452 2 AVENUE, MANHATTAN (NEW YORK), NY, 10021",40.771225505669456,MANHATTAN,Lost Property,,Taxi and Limousine Commission,2 AVENUE
+"{'type': 'Point', 'coordinates': [-73.896266086202, 40.858578939552]}",Unspecified,TIEBOUT AVENUE,6.0,,40.85857893955208,BRONX,Noise - Residential,,New York City Police Department,TIEBOUT AVENUE
+"{'type': 'Point', 'coordinates': [-73.960972514721, 40.666566654961]}",Unspecified,,17.0,,40.66656665496076,BROOKLYN,Water System,,Department of Environmental Protection,MONTGOMERY STREET
+"{'type': 'Point', 'coordinates': [-73.882203042672, 40.685361348456]}",Unspecified,,45.0,,40.68536134845638,BROOKLYN,Panhandling,,New York City Police Department,JAMAICA AVENUE
+"{'type': 'Point', 'coordinates': [-73.92379011362, 40.824736182945]}",Unspecified,GRAND CONCOURSE,50.0,,40.82473618294532,BRONX,Noise - Vehicle,,New York City Police Department,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-73.982305936589, 40.716639249737]}",Unspecified,DELANCEY ST SOUTH,70.0,,40.71663924973662,MANHATTAN,Sidewalk Condition,,Department of Transportation,DELANCEY ST SOUTH
+"{'type': 'Point', 'coordinates': [-73.854566440129, 40.896597333096]}",Unspecified,FURMAN AVENUE,29.0,,40.89659733309558,BRONX,Illegal Parking,,New York City Police Department,FURMAN AVENUE
+"{'type': 'Point', 'coordinates': [-73.88959351236, 40.749203610076]}",Unspecified,37 AVENUE,65.0,,40.74920361007611,QUEENS,Consumer Complaint,,Department of Consumer and Worker Protection,37 AVENUE
+"{'type': 'Point', 'coordinates': [-73.906059113172, 40.70512367928]}",Unspecified,,54.0,,40.70512367927955,QUEENS,Water System,,Department of Environmental Protection,WOODWARD AVENUE
+"{'type': 'Point', 'coordinates': [-73.78535109179, 40.71228492539]}",Unspecified,,25.0,,40.71228492539034,QUEENS,Street Condition,,Department of Transportation,178 STREET
+"{'type': 'Point', 'coordinates': [-73.796018596076, 40.591654366986]}",Unspecified,,51.0,,40.59165436698576,QUEENS,PAINT/PLASTER,,Department of Housing Preservation and Development,BEACH   67 STREET
+"{'type': 'Point', 'coordinates': [-73.972692401705, 40.751712580887]}",Unspecified,,71.0,,40.75171258088681,MANHATTAN,ELEVATOR,,Department of Housing Preservation and Development,EAST   44 STREET
+"{'type': 'Point', 'coordinates': [-73.936378551474, 40.586649343357]}",Unspecified,BATCHELDER STREET,32.0,,40.58664934335699,BROOKLYN,Illegal Dumping,,Department of Sanitation,BATCHELDER STREET
+"{'type': 'Point', 'coordinates': [-73.793075774218, 40.676839310478]}",Unspecified,146 STREET,41.0,,40.67683931047816,QUEENS,Damaged Tree,,Department of Parks and Recreation,146 STREET
+"{'type': 'Point', 'coordinates': [-73.947358898068, 40.7838913669]}",Unspecified,2 AVENUE,23.0,,40.78389136690008,MANHATTAN,Noise - Residential,,New York City Police Department,2 AVENUE
+"{'type': 'Point', 'coordinates': [-73.992619502313, 40.682750742078]}",Unspecified,DEGRAW STREET,14.0,,40.68275074207765,BROOKLYN,Illegal Parking,,New York City Police Department,DEGRAW STREET
+"Point', 'coordinates': [-73.967230022457, 40.63019",Unspecified,EAST   10 STREET,60.0,,40.63019748096328,BROOKLYN,Noise - Vehicle,,New York City Police Department,EAST   10 STREET
+"{'type': 'Point', 'coordinates': [-73.858386903636, 40.687401318996]}",Unspecified,84 STREET,46.0,,40.68740131899599,QUEENS,Illegal Parking,,New York City Police Department,84 STREET
+,Unspecified,,,,,QUEENS,Street Condition,,Department of Transportation,139 AVENUE
+"{'type': 'Point', 'coordinates': [-73.936621085918, 40.801501644186]}",Unspecified,EAST  122 STREET,7.0,,40.80150164418587,MANHATTAN,Noise - Vehicle,,New York City Police Department,EAST  122 STREET
+"{'type': 'Point', 'coordinates': [-73.898423365801, 40.854439102414]}",Unspecified,,6.0,,40.85443910241399,BRONX,DOOR/WINDOW,,Department of Housing Preservation and Development,TIEBOUT AVENUE
+"{'type': 'Point', 'coordinates': [-73.944252729122, 40.754551375188]}",Unspecified,12 STREET,39.0,,40.754551375187845,QUEENS,Noise - Residential,,New York City Police Department,12 STREET
+"{'type': 'Point', 'coordinates': [-73.999039968963, 40.749638040013]}",Unspecified,,12.0,,40.74963804001317,MANHATTAN,Graffiti,,New York City Police Department,9 AVENUE
+"{'type': 'Point', 'coordinates': [-73.856137734524, 40.752194143398]}",Unspecified,111 STREET,65.0,,40.75219414339786,QUEENS,Blocked Driveway,,New York City Police Department,111 STREET
+"{'type': 'Point', 'coordinates': [-73.99218577798, 40.691813946449]}",Unspecified,LIVINGSTON STREET,68.0,,40.69181394644889,BROOKLYN,Illegal Parking,,New York City Police Department,LIVINGSTON STREET
+"{'type': 'Point', 'coordinates': [-73.978873564266, 40.779158551223]}",Unspecified,WEST   74 STREET,20.0,,40.77915855122264,MANHATTAN,Noise - Helicopter,,Economic Development Corporation,WEST   74 STREET
+"{'type': 'Point', 'coordinates': [-73.946618511412, 40.820088479959]}",Unspecified,ST NICHOLAS AVENUE,18.0,,40.82008847995872,MANHATTAN,Noise - Residential,,New York City Police Department,ST NICHOLAS AVENUE
+"{'type': 'Point', 'coordinates': [-73.982638597659, 40.699778218486]}",Unspecified,SANDS STREET,68.0,,40.69977821848639,BROOKLYN,Noise - Residential,,New York City Police Department,SANDS STREET
+"{'type': 'Point', 'coordinates': [-73.899867707636, 40.819478223237]}",Unspecified,,8.0,,40.81947822323704,BRONX,Street Light Condition,,Department of Transportation,
+"{'type': 'Point', 'coordinates': [-73.923327896357, 40.623803182025]}",Unspecified,AVENUE L,5.0,,40.623803182025206,BROOKLYN,Blocked Driveway,,New York City Police Department,AVENUE L
+"{'type': 'Point', 'coordinates': [-73.912948887678, 40.806613347555]}",Unspecified,,49.0,,40.80661334755493,BRONX,FLOORING/STAIRS,,Department of Housing Preservation and Development,EAST  140 STREET
+"{'type': 'Point', 'coordinates': [-73.935403034818, 40.847013862188]}",Unspecified,ST NICHOLAS AVENUE,47.0,,40.84701386218844,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,ST NICHOLAS AVENUE
+"{'type': 'Point', 'coordinates': [-73.992697817762, 40.69193749469]}",Unspecified,LIVINGSTON STREET,68.0,,40.691937494690364,BROOKLYN,Illegal Parking,,New York City Police Department,LIVINGSTON STREET
+"{'type': 'Point', 'coordinates': [-73.906956212788, 40.67998231057]}",Unspecified,,55.0,,40.67998231056959,BROOKLYN,HEAT/HOT WATER,,Department of Housing Preservation and Development,HULL STREET
+"{'type': 'Point', 'coordinates': [-73.859570349551, 40.892497479006]}",Unspecified,EAST  231 STREET,29.0,,40.89249747900574,BRONX,Noise - Residential,,New York City Police Department,EAST  231 STREET
+"{'type': 'Point', 'coordinates': [-73.898794059327, 40.815126902907]}",Unspecified,,8.0,,40.81512690290694,BRONX,FLOORING/STAIRS,,Department of Housing Preservation and Development,FOX STREET
+"{'type': 'Point', 'coordinates': [-73.929419923974, 40.684669886935]}",Unspecified,MALCOLM X BOULEVARD,69.0,,40.68466988693499,BROOKLYN,Noise - Commercial,,New York City Police Department,MALCOM X BOULEVARD
+"{'type': 'Point', 'coordinates': [-73.952472829545, 40.727178907351]}",Unspecified,MESEROLE AVENUE,36.0,,40.72717890735117,BROOKLYN,Illegal Parking,,New York City Police Department,MESEROLE AVENUE
+"{'type': 'Point', 'coordinates': [-73.927167414375, 40.862011502431]}",Unspecified,,47.0,,40.86201150243065,MANHATTAN,PAINT/PLASTER,,Department of Housing Preservation and Development,ARDEN STREET
+"{'type': 'Point', 'coordinates': [-73.921432018527, 40.866448661416]}",Unspecified,VERMILYEA AVENUE,47.0,,40.86644866141602,MANHATTAN,Noise - Residential,,New York City Police Department,VERMILYEA AVENUE
+"{'type': 'Point', 'coordinates': [-73.94057434372, 40.678127158771]}",Unspecified,ALICE COURT,69.0,,40.67812715877105,BROOKLYN,Panhandling,,New York City Police Department,ALICE COURT
+"{'type': 'Point', 'coordinates': [-73.993076840289, 40.618714994034]}",Unspecified,67 STREET,1.0,,40.61871499403436,BROOKLYN,Blocked Driveway,,New York City Police Department,67 STREET
+"{'type': 'Point', 'coordinates': [-73.931148256017, 40.686962818743]}",Unspecified,,69.0,,40.68696281874314,BROOKLYN,FLOORING/STAIRS,,Department of Housing Preservation and Development,MADISON STREET
+"{'type': 'Point', 'coordinates': [-73.920450185706, 40.777480698338]}",Unspecified,21 STREET,39.0,,40.77748069833785,QUEENS,Noise - Residential,,New York City Police Department,21 STREET
+"{'type': 'Point', 'coordinates': [-73.810114621414, 40.674085484288]}",Unspecified,128 STREET,62.0,,40.67408548428756,QUEENS,Missed Collection,,Department of Sanitation,128 STREET
+"{'type': 'Point', 'coordinates': [-73.908722774889, 40.880223162264]}",Unspecified,TIBBETT AVENUE,48.0,,40.88022316226421,BRONX,Noise - Vehicle,,New York City Police Department,TIBBETT AVENUE
+"{'type': 'Point', 'coordinates': [-73.898423365801, 40.854439102414]}",Unspecified,,6.0,,40.85443910241399,BRONX,HEAT/HOT WATER,,Department of Housing Preservation and Development,TIEBOUT AVENUE
+"{'type': 'Point', 'coordinates': [-73.888942735587, 40.868955321543]}",Unspecified,,24.0,,40.86895532154261,BRONX,HEAT/HOT WATER,,Department of Housing Preservation and Development,EAST  198 STREET
+"{'type': 'Point', 'coordinates': [-73.946953618869, 40.816682437959]}",Unspecified,WEST  135 STREET,18.0,,40.8166824379588,MANHATTAN,Noise - Residential,,New York City Police Department,WEST  135 STREET
+"{'type': 'Point', 'coordinates': [-74.119500051491, 40.563309643577]}",Unspecified,CLAWSON STREET,15.0,,40.56330964357731,STATEN ISLAND,Dirty Condition,,Department of Sanitation,CLAWSON STREET
+"{'type': 'Point', 'coordinates': [-73.84015690731, 40.835978034099]}",Unspecified,COMMERCE AVENUE,43.0,,40.8359780340985,BRONX,Noise - Commercial,,New York City Police Department,COMMERCE AVENUE
+"{'type': 'Point', 'coordinates': [-73.88084594003, 40.680076259668]}",Unspecified,HIGHLAND PLACE,45.0,,40.68007625966784,BROOKLYN,Noise - Residential,,New York City Police Department,HIGHLAND PLACE
+"{'type': 'Point', 'coordinates': [-73.94505047671, 40.802598371724]}",Unspecified,,7.0,,40.802598371723896,MANHATTAN,Street Condition,,Department of Transportation,
+"{'type': 'Point', 'coordinates': [-74.109045268296, 40.563635697903]}",Unspecified,,15.0,,40.56363569790251,STATEN ISLAND,UNSANITARY CONDITION,,Department of Housing Preservation and Development,EBBITTS STREET
+"{'type': 'Point', 'coordinates': [-73.896190020439, 40.884151200431]}",Unspecified,ORLOFF AVENUE,48.0,,40.88415120043051,BRONX,Illegal Parking,,New York City Police Department,ORLOFF AVENUE
+"{'type': 'Poing', 'coordinates': [-74.153990607211, 40.59011279986]}",Unspecified,BRAISTED AVENUE,30.0,,40.59011279985978,STATEN ISLAND,Blocked Driveway,,New York City Police Department,BRAISTED AVENUE
+"{'type': 'Point', 'coordinates': [-73.978088903922, 40.716753804313]}",Unspecified,,70.0,,40.71675380431316,MANHATTAN,Noise,,Department of Environmental Protection,BARUCH DRIVE
+"{'type': 'Point', 'coordinates': [-73.976818064637, 40.750884571404]}",Unspecified,EAST   41 STREET,11.0,"122 EAST   41 STREET, MANHATTAN (NEW YORK), NY, 10017",40.7508845714036,MANHATTAN,Taxi Complaint,,Taxi and Limousine Commission,EAST   41 STREET
+"{'type': 'Point', 'coordinates': [-73.894461719789, 40.867977899609]}",Unspecified,,24.0,,40.86797789960916,BRONX,PLUMBING,,Department of Housing Preservation and Development,CRESTON AVENUE
+"{'type': 'Point', 'coordinates': [-73.964364768475, 40.686277982275]}",Unspecified,,68.0,,40.686277982275215,BROOKLYN,PAINT/PLASTER,,Department of Housing Preservation and Development,ST JAMES PLACE
+"{'type': 'Point', 'coordinates': [-74.01589883199, 40.706673280072]}",Unspecified,,56.0,,40.70667328007242,MANHATTAN,Noise,,Department of Environmental Protection,MORRIS STREET
+"{'type': 'Point', 'coordinates': [-73.740775121641, 40.760273226815]}",Unspecified,REDFIELD STREET,26.0,,40.76027322681477,QUEENS,Curb Condition,,Department of Transportation,REDFIELD STREET
+"{'type': 'Point', 'coordinates': [-73.995175921079, 40.731130084166]}",Unspecified,UNIVERSITY PLACE,57.0,,40.73113008416571,MANHATTAN,Smoking,,Department of Health and Mental Hygiene,UNIVERSITY PLACE
+"{'type': 'Point', 'coordinates': [-73.998554249838, 40.679844255329]}",Unspecified,2 PLACE,14.0,,40.67984425532854,BROOKLYN,Abandoned Vehicle,,New York City Police Department,SECOND PLACE
+"{'type': 'Point', 'coordinates': [-73.94946429764, 40.807431107551]}",Unspecified,,18.0,,40.80743110755101,MANHATTAN,DOOR/WINDOW,,Department of Housing Preservation and Development,ADAM C POWELL BOULEVARD
+"{'type': 'Point', 'coordinates': [-73.870557687088, 40.673732944532]}",Unspecified,PINE STREET,45.0,,40.67373294453163,BROOKLYN,Blocked Driveway,,New York City Police Department,PINE STREET
+"{'type': 'Point', 'coordinates': [-73.959114264886, 40.651955544135]}",Unspecified,FLATBUSH AVENUE,60.0,,40.65195554413505,BROOKLYN,Illegal Dumping,,Department of Sanitation,FLATBUSH AVENUE
+"{'type': 'Point', 'coordinates': [-73.863634499316, 40.757344177486]}",Unspecified,105 STREET,65.0,,40.75734417748634,QUEENS,Blocked Driveway,,New York City Police Department,105 STREET
+"{'type': 'Point', 'coordinates': [-73.920823607381, 40.864260721383]}",Unspecified,POST AVENUE,47.0,,40.86426072138255,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,POST AVENUE
+"{'type': 'Point', 'coordinates': [-73.945456812116, 40.804821792642]}",Marcus Garvey Park,MT MORRIS PARK WEST,7.0,,40.80482179264163,MANHATTAN,Animal in a Park,,Department of Parks and Recreation,MT MORRIS PARK WEST
+"{'type': 'Point', 'coordinates': [-73.987711439761, 40.727042588192]}",Unspecified,EAST    6 STREET,70.0,,40.727042588191566,MANHATTAN,Indoor Air Quality,,Department of Health and Mental Hygiene,EAST    6 STREET
+"{'type': 'Point', 'coordinates': [-73.831219856205, 40.850243296273]}",Unspecified,HOBART AVENUE,43.0,,40.8502432962728,BRONX,Illegal Parking,,New York City Police Department,HOBART AVENUE
+"{'type': 'Point', 'coordinates': [-73.795108989138, 40.685093758992]}",Unspecified,148 STREET,41.0,,40.68509375899232,QUEENS,Sanitation Worker or Vehicle Complaint,,Department of Sanitation,148 STREET
+"{'type': 'Point', 'coordinates': [-73.949065110576, 40.823992575095]}",Unspecified,,37.0,,40.82399257509468,MANHATTAN,DOOR/WINDOW,,Department of Housing Preservation and Development,HAMILTON PLACE
+"{'type': 'Point', 'coordinates': [-73.969532563596, 40.787088742366]}",Unspecified,WEST   88 STREET,20.0,,40.787088742366095,MANHATTAN,Illegal Parking,,New York City Police Department,WEST   88 STREET
+"{'type': 'Point', 'coordinates': [-73.930562025762, 40.685515971673]}",Unspecified,JEFFERSON AVENUE,69.0,,40.68551597167343,BROOKLYN,Noise - Residential,,New York City Police Department,JEFFERSON AVENUE
+"{'type': 'Point', 'coordinates': [-74.10147105211, 40.607521058711]}",Unspecified,OCEAN TERRACE,30.0,,40.60752105871104,STATEN ISLAND,Abandoned Vehicle,,New York City Police Department,OCEAN TERRACE
+"{'type': 'Point', 'coordinates': [-73.884490841759, 40.877895912363]}",Unspecified,EAST MOSHOLU PARKWAY SOUTH,24.0,,40.877895912362646,BRONX,Illegal Parking,,New York City Police Department,EAST MOSHOLU PARKWAY SOUTH
+"{'type': 'Point', 'coordinates': [-73.938041854958, 40.590583552235]}",Unspecified,BROWN STREET,32.0,,40.59058355223519,BROOKLYN,Root/Sewer/Sidewalk Condition,,Department of Parks and Recreation,BROWN STREET
+"{'type': 'Point', 'coordinates': [-73.91231686911, 40.875071417247]}",Unspecified,WEST  225 STREET,48.0,,40.875071417247405,BRONX,Noise - Residential,,New York City Police Department,WEST  225 STREET
+"{'type': 'Point', 'coordinates': [-73.907206874379, 40.771901718991]}",Ditmars Playground,STEINWAY STREET,39.0,,40.7719017189908,QUEENS,Animal in a Park,,Department of Parks and Recreation,STEINWAY STREET
+"{'type': 'Point', 'coordinates': [-73.807985761662, 40.758631747658]}",Unspecified,,22.0,,40.75863174765811,QUEENS,WATER LEAK,,Department of Housing Preservation and Development,158 STREET
+"{'type': 'Point', 'coordinates': [-73.883664964085, 40.649293684837]}",Unspecified,,45.0,,40.64929368483707,BROOKLYN,UNSANITARY CONDITION,,Department of Housing Preservation and Development,CROTON LOOP
+"{'type': 'Point', 'coordinates': [-73.792304693156, 40.675542383947]}",Unspecified,123 AVENUE,41.0,,40.67554238394682,QUEENS,Illegal Parking,,New York City Police Department,123 AVENUE
+"{'type': 'Point', 'coordinates': [-73.989848996816, 40.597642961938]}",Unspecified,BAY   37 STREET,1.0,,40.59764296193768,BROOKLYN,Blocked Driveway,,New York City Police Department,BAY   37 STREET
+"{'type': 'Point', 'coordinates': [-73.902910618339, 40.84862968066]}",Unspecified,EAST TREMONT AVENUE,6.0,,40.84862968065965,BRONX,Abandoned Vehicle,,New York City Police Department,EAST TREMONT AVENUE
+"{'type': 'Point', 'coordinates': [-73.88625653011, 40.875180419543]}",Unspecified,GRAND CONCOURSE,24.0,,40.8751804195428,BRONX,Noise - Residential,,New York City Police Department,GRAND CONCOURSE
+"{'type': 'Point', 'coordinates': [-73.850649769877, 40.830294068408]}",Unspecified,,58.0,,40.83029406840751,BRONX,Street Light Condition,,Department of Transportation,CROSS BRONX EXPY
+"{'type': 'Point', 'coordinates': [-73.957139003075, 40.680547177819]}",Unspecified,LEFFERTS PLACE,69.0,,40.68054717781922,BROOKLYN,Rodent,,Department of Health and Mental Hygiene,LEFFERTS PLACE
+"{'type': 'Point', 'coordinates': [-73.988138034639, 40.722206370339]}",Unspecified,ORCHARD STREET,70.0,,40.72220637033883,MANHATTAN,Noise - Street/Sidewalk,,New York City Police Department,ORCHARD STREET
+"{'type': 'Point', 'coordinates': [-73.828538563233, 40.756004508849]}",Unspecified,MAIN STREET,22.0,,40.75600450884858,QUEENS,Consumer Complaint,,Department of Consumer and Worker Protection,MAIN STREET
