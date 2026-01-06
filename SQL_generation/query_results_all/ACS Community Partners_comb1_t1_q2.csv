@@ -1,0 +1,6 @@
+program_lst_id,office_tues_to_time,program_city,office_wed_from_time,active_flag,office_tues_from_time,office_sat_from_time,total_program_zip
+343,,Queens,,Y,,,11432.0
+334,5:00 PM,New York,9:00 AM,Y,9:00 AM,,10030.0
+313,5:00 PM,New York,9:00 AM,Y,9:00 AM,9:00 AM,10035.0
+180,5:00 PM,New York,9:00 AM,Y,9:00 AM,,10026.0
+414,5:00 PM,Jamaica,9:00 AM,Y,9:00 AM,,11432.0

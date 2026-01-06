@@ -1,0 +1,15 @@
+cb,lic_status,city_council_district,total,count,average
+Pending Review,Inactive,3,762.0,1,762.0
+Pending Review,Inactive,6,512.0,2,256.0
+Pending Review,Inactive,24,508.0,1,508.0
+Pending Review,Inactive,10,438.0,1,438.0
+Recommend Approval,Active,3,420.0,1,420.0
+Pending Review,Inactive,30,412.0,1,412.0
+Review Period Expired,Inactive,1,350.0,2,175.0
+Review Period Expired,Inactive,35,328.0,1,328.0
+Review Period Expired,Inactive,2,292.0,1,292.0
+Review Period Expired,Inactive,7,180.0,1,180.0
+Review Period Expired,Inactive,13,154.0,1,154.0
+Review Period Expired,Inactive,11,140.0,1,140.0
+Review Period Expired,Inactive,3,140.0,1,140.0
+Recommend Approval,Inactive,2,126.0,1,126.0

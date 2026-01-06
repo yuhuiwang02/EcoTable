@@ -1,0 +1,53 @@
+type,coundist,location,bctcb2010,location_t5,ntacode,remarks,rank,dense_rank
+Limited Free,28.0,North West side of Park,148.0,North West side of Park,QN54,3 free 10 min sessions,1,1
+Limited Free,6.0,Park Area at W63rd & Columbus,149.0,Park Area at W63rd & Columbus,MN14,3 free 10 min sessions,1,2
+Limited Free,16.0,FRNT OF BASKET BALL COURT N/O E 170TH ST,171.0,FRNT OF BASKET BALL COURT N/O E 170TH ST,BX99,3 free 10 min sessions,1,3
+Limited Free,39.0,Skate Rental Area,177.0,Skate Rental Area,BK99,3 free 10 min sessions,1,4
+Limited Free,32.0,Beach 108 - Comfort Station and Beach,938.0,Beach 108 - Comfort Station and Beach,QN10,3 free 10 min sessions,1,5
+Limited Free,50.0,Along Boardwalk and Beach,11201.0,Along Boardwalk and Beach,SI36,3 free 10 min sessions,1,6
+Limited Free,50.0,Along Boardwalk and Beach,11201.0,Along Boardwalk and Beach,SI36,3 free 10 min sessions,1,6
+Limited Free,50.0,Along Boardwalk and Beach,11201.0,Along Boardwalk and Beach,SI36,3 free 10 min sessions,1,6
+Free,1.0,"90 Water Street, New York, NY 10005, USA",7.0,"90 Water Street, New York, NY 10005, USA",MN25,,1,1
+Free,33.0,1 Dekalb Ave.,15.0,1 Dekalb Ave.,BK38,,1,2
+Free,38.0,948 3 AVENUE,18.0,948 3 AVENUE,BK32,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,3
+Free,1.0,9 MURRAY STREET,21.0,9 MURRAY STREET,MN24,,1,4
+Free,8.0,211 ST ANN'S AVENUE,25.0,211 ST ANN'S AVENUE,BX39,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,5
+Free,1.0,101 LAFAYETTE STREET,31.0,101 LAFAYETTE STREET,MN24,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,6
+Free,3.0,40 WEST 20 STREET,54.0,40 WEST 20 STREET,MN13,,1,7
+Free,26.0,36-35 33 STREET,55.0,36-35 33 STREET,QN68,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,8
+Free,2.0,359 3 AVENUE,66.0,359 3 AVENUE,MN20,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,9
+Free,2.0,172 EAST 24 STREET,68.0,172 EAST 24 STREET,MN21,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,10
+Free,17.0,487 EAST 156 STREET,71.0,487 EAST 156 STREET,BX34,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,11
+Free,2.0,101 EAST 29 STREET,72.0,101 EAST 29 STREET,MN20,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,12
+Free,4.0,675 3 AVENUE,88.0,675 3 AVENUE,MN19,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,13
+Free,3.0,18th between 8th and 9th,89.0,18th between 8th and 9th,MN13,,1,14
+Free,4.0,Times Square - 42nd Street,119.0,Times Square - 42nd Street,MN17,SN 468,1,15
+Free,4.0,1132 3 AVENUE,120.0,1132 3 AVENUE,MN40,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,16
+Free,4.0,22 EAST 69 STREET,122.0,22 EAST 69 STREET,MN40,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,17
+Free,3.0,825 8 AVENUE,127.0,825 8 AVENUE,MN15,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,18
+Free,4.0,1330 3 AVENUE,128.0,1330 3 AVENUE,MN40,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,19
+Free,4.0,159 WEST 52 STREET,131.0,159 WEST 52 STREET,MN17,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,20
+Free,4.0,777 7 AVENUE,131.0,777 7 AVENUE,MN17,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,20
+Free,39.0,304 5 AVENUE,135.0,304 5 AVENUE,BK37,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,21
+Free,3.0,301 WEST 57 STREET,139.0,301 WEST 57 STREET,MN15,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,22
+Free,39.0,431 6 AVENUE,153.0,431 6 AVENUE,BK37,,1,23
+Free,6.0,2135 BROADWAY,163.0,2135 BROADWAY,MN12,"Tablet Internet -phone , Free 1 GB Wi-FI Service",2,24
+Free,8.0,116 St (6),182.0,116 St (6),MN34,SN 393,2,25
+Free,8.0,145 EAST 116 STREET,182.0,145 EAST 116 STREET,MN34,"Tablet Internet -phone , Free 1 GB Wi-FI Service",2,25
+Free,9.0,pole 18: 111NS2ELe,186.0,pole 18: 111NS2ELe,MN11,,1,26
+Free,6.0,2601 BROADWAY,187.0,2601 BROADWAY,MN12,"Tablet Internet -phone , Free 1 GB Wi-FI Service",2,27
+Free,7.0,219 WEST 100 STREET,187.0,219 WEST 100 STREET,MN12,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,27
+Free,6.0,300 WEST 108 STREET,195.0,300 WEST 108 STREET,MN09,"Tablet Internet -phone , Free 1 GB Wi-FI Service",4,28
+Free,9.0,Amphitheater,198.0,Amphitheater,MN34,,1,29
+Free,7.0,2848 BROADWAY,199.0,2848 BROADWAY,MN09,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,30
+Free,7.0,2943 BROADWAY,205.0,2943 BROADWAY,MN09,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,31
+Free,7.0,2939 BROADWAY,205.0,2939 BROADWAY,MN09,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,31
+Free,9.0,2306 FREDERICK DOUGLASS BOULEVARD,222.0,2306 FREDERICK DOUGLASS BOULEVARD,MN11,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,32
+Free,9.0,Pole 49: 126NS2E8av,224.0,Pole 49: 126NS2E8av,MN03,,1,33
+Free,27.0,IND-E-J-Z-JAMAICA CENTER - PARSONS / ARCHER,246.0,IND-E-J-Z-JAMAICA CENTER - PARSONS / ARCHER,QN61,SN 278,1,34
+Free,10.0,181 St (1),271.0,181 St (1),MN35,SN 301,1,35
+Free,34.0,61 AVENUE OF PUERTO RICO,491.0,61 AVENUE OF PUERTO RICO,BK90,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,36
+Free,34.0,2 POWERS STREET,513.0,2 POWERS STREET,BK73,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,37
+Free,34.0,230 BERRY STREET,555.0,230 BERRY STREET,BK73,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,38
+Free,40.0,3301 CHURCH AVE,818.0,3301 CHURCH AVE,BK95,"Tablet Internet -phone , Free 1 GB Wi-FI Service",1,39
+Free,42.0,1197 SUTTER AVENUE,1196.0,1197 SUTTER AVENUE,BK82,,1,40

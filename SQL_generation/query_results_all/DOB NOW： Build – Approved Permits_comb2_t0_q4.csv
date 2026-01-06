@@ -1,0 +1,48 @@
+bin,t5_bin,permit_status,filing_reason,total,count,average
+3006960,3006960,Permit Issued,Renewal Permit Without Changes,37800000.0,108,350000.0
+1015805,1015805,Signed-off,Initial Permit,700000.0,1,700000.0
+1015805,1015805,Signed-off,Renewal Permit Without Changes,700000.0,1,700000.0
+1000828,1000828,Signed-off,Initial Permit,435350.0,1,435350.0
+1080679,1080679,Permit Issued,Initial Permit,329000.0,1,329000.0
+2005093,2005093,Signed-off,Renewal Permit Without Changes,180000.0,36,5000.0
+1043862,1043862,Signed-off,Initial Permit,121000.0,1,121000.0
+1043862,1043862,Signed-off,Renewal Permit Without Changes,121000.0,1,121000.0
+3005262,3005262,Signed-off,Initial Permit,100000.0,1,100000.0
+3021513,3021513,Signed-off,Renewal Permit with Changes,92000.0,2,46000.0
+2005093,2005093,Signed-off,Initial Permit,90000.0,18,5000.0
+4021800,4021800,Signed-off,Initial Permit,80000.0,2,40000.0
+3062080,3062080,Signed-off,Initial Permit,80000.0,16,5000.0
+3162317,3162317,Signed-off,Initial Permit,75335.0,1,75335.0
+1035427,1035427,Signed-off,Initial Permit,73000.0,1,73000.0
+4207510,4207510,Signed-off,Renewal Permit Without Changes,61600.0,2,30800.0
+4207510,4207510,Signed-off,Initial Permit,61600.0,2,30800.0
+4260401,4260401,Signed-off,Initial Permit,59043.0,1,59043.0
+5174983,5174983,Signed-off,Initial Permit,52650.0,1,52650.0
+3014856,3014856,Permit Issued,Renewal Permit Without Changes,50000.0,1,50000.0
+4439898,4439898,Permit Issued,Initial Permit,50000.0,1,50000.0
+1001020,1001020,Permit Issued,Renewal Permit Without Changes,50000.0,1,50000.0
+1090830,1090830,Permit Issued,Initial Permit,42715.0,1,42715.0
+1078030,1078030,Signed-off,Renewal Permit Without Changes,37470.0,1,37470.0
+1078030,1078030,Signed-off,Initial Permit,37470.0,1,37470.0
+3165955,3165955,Signed-off,Initial Permit,34600.0,1,34600.0
+1014387,1014387,Permit Issued,Initial Permit,34000.0,1,34000.0
+4058422,4058422,Signed-off,Initial Permit,31208.2,1,31208.2
+1017122,1017122,Permit Issued,Initial Permit,25000.0,1,25000.0
+1035477,1035477,Signed-off,Initial Permit,20000.0,1,20000.0
+3023301,3023301,Signed-off,Initial Permit,13500.0,1,13500.0
+3023301,3023301,Signed-off,Renewal Permit Without Changes,13500.0,1,13500.0
+4311899,4311899,Permit Issued,Initial Permit,12000.0,1,12000.0
+1007250,1007250,Signed-off,Initial Permit,8000.0,1,8000.0
+5130986,5130986,Signed-off,Initial Permit,8000.0,8,1000.0
+3069994,3069994,Signed-off,Initial Permit,7500.0,1,7500.0
+3101290,3101290,Signed-off,Initial Permit,7000.0,1,7000.0
+1089434,1089434,Permit Issued,Renewal Permit Without Changes,5000.0,1,5000.0
+5015008,5015008,Signed-off,Initial Permit,4440.0,1,4440.0
+3426897,3426897,Permit Issued,Renewal Permit Without Changes,4000.0,4,1000.0
+3054155,3054155,Permit Issued,Initial Permit,2000.0,1,2000.0
+2011710,2011710,Signed-off,Renewal Permit Without Changes,2000.0,2,1000.0
+3426897,3426897,Signed-off,Renewal Permit Without Changes,2000.0,2,1000.0
+1009098,1009098,Permit Issued,Initial Permit,2000.0,1,2000.0
+2001084,2001084,Signed-off,Initial Permit,1000.0,1,1000.0
+3429917,3429917,Permit Issued,Initial Permit,160.0,1,160.0
+2015580,2015580,Permit Issued,Renewal Permit Without Changes,1.0,1,1.0
