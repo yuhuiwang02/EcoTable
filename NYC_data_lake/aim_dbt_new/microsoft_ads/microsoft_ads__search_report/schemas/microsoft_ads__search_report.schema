@@ -1,0 +1,28 @@
+Table: public_microsoft_ads_dev.microsoft_ads__search_report
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+date_day                       date                            YES        None                
+account_name                   text                            YES        None                
+account_id                     bigint                          YES        None                
+campaign_name                  text                            YES        None                
+campaign_id                    bigint                          YES        None                
+ad_group_name                  text                            YES        None                
+ad_group_id                    bigint                          YES        None                
+ad_name                        text                            YES        None                
+ad_id                          bigint                          YES        None                
+keyword_id                     bigint                          YES        None                
+keyword_name                   text                            YES        None                
+match_type                     text                            YES        None                
+search_query                   text                            YES        None                
+device_os                      text                            YES        None                
+device_type                    text                            YES        None                
+network                        text                            YES        None                
+clicks                         bigint                          YES        None                
+impressions                    bigint                          YES        None                
+spend                          numeric                         YES        None                
+conversions                    bigint                          YES        None                
+conversions_value              double precision                YES        None                
+all_conversions                bigint                          YES        None                
+all_conversions_value          double precision                YES        None                

@@ -1,0 +1,6 @@
+{
+  "source_name": "amazon_selling_partner",
+  "table_name": "payment_method_detail_item",
+  "identifier": "payment_method_detail_item",
+  "definition_file": "models/staging/src_amazon_selling_partner.yml"
+}

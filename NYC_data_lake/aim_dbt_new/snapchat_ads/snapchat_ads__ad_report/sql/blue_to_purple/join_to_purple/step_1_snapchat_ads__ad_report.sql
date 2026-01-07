@@ -1,0 +1,121 @@
+
+
+with ad_hourly as (
+
+    select *,
+        
+            conversion_purchases as total_conversions
+        
+    from "snapchat_ads"."public_snapchat_ads_dev"."stg_snapchat_ads__ad_hourly_report"
+
+), creatives as (
+
+    select *
+    from "snapchat_ads"."public_snapchat_ads_dev"."snapchat_ads__creative_history_prep"
+
+), account as (
+
+    select *
+    from "snapchat_ads"."public_snapchat_ads_dev"."stg_snapchat_ads__ad_account_history"
+    where is_most_recent_record = true
+
+), ads as (
+
+    select *
+    from "snapchat_ads"."public_snapchat_ads_dev"."stg_snapchat_ads__ad_history"
+    where is_most_recent_record = true
+
+), ad_squads as (
+
+    select *
+    from "snapchat_ads"."public_snapchat_ads_dev"."stg_snapchat_ads__ad_squad_history"
+    where is_most_recent_record = true
+
+), campaigns as (
+
+    select *
+    from "snapchat_ads"."public_snapchat_ads_dev"."stg_snapchat_ads__campaign_history"
+    where is_most_recent_record = true
+
+
+), aggregated as (
+
+    select
+        ad_hourly.source_relation,
+        cast(ad_hourly.date_hour as date) as date_day,
+        account.ad_account_id,
+        account.ad_account_name,
+        ad_hourly.ad_id,
+        ads.ad_name,
+        ad_squads.ad_squad_id,
+        ad_squads.ad_squad_name,
+        campaigns.campaign_id,
+        campaigns.campaign_name,
+        account.currency,
+        sum(ad_hourly.swipes) as swipes,
+        sum(ad_hourly.impressions) as impressions,
+        round(sum(ad_hourly.spend),2) as spend,
+        sum(ad_hourly.total_conversions) as total_conversions,
+        round(cast(sum(ad_hourly.conversion_purchases_value) as numeric(28,6)), 2) as conversion_purchases_value
+
+        
+
+
+
+    
+    
+
+
+
+    
+
+
+
+    
+    
+    
+        
+        , sum(coalesce(conversion_purchases, 0)) as conversion_purchases
+        
+
+    
+
+
+
+
+        
+
+
+
+
+
+    
+
+
+
+
+
+
+    from ad_hourly
+    left join ads 
+        on ad_hourly.ad_id = ads.ad_id
+        and ad_hourly.source_relation = ads.source_relation
+    left join creatives
+        on ads.creative_id = creatives.creative_id
+        and ads.source_relation = creatives.source_relation
+    left join account
+        on creatives.ad_account_id = account.ad_account_id
+        and creatives.source_relation = account.source_relation
+    left join ad_squads
+        on ads.ad_squad_id = ad_squads.ad_squad_id
+        and ads.source_relation = ad_squads.source_relation
+    left join campaigns
+        on ad_squads.campaign_id = campaigns.campaign_id
+        and ad_squads.source_relation = campaigns.source_relation
+    
+    group by 1,2,3,4,5,6,7,8,9,10,11
+
+)
+
+select *
+from aggregated

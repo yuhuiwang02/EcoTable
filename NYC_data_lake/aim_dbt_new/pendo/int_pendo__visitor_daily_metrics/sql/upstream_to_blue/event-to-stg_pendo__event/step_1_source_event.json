@@ -1,0 +1,6 @@
+{
+  "source_name": "pendo",
+  "table_name": "event",
+  "identifier": "event",
+  "definition_file": "models/staging/src_pendo.yml"
+}

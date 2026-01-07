@@ -1,0 +1,6 @@
+{
+  "source_name": "asana",
+  "table_name": "project_task",
+  "identifier": "project_task_data",
+  "definition_file": "models/staging/src_asana.yml"
+}

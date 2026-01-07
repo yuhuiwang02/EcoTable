@@ -1,0 +1,8 @@
+Table: public.snapchat_ad_squad_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+campaign_id                    text                            YES        None                
+name                           text                            YES        None                
+_fivetran_synced               text                            YES        None                

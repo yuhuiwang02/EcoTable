@@ -1,0 +1,17 @@
+Table: public.keyword_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+last_updated_date              text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+ad_group_id                    integer                         YES        None                
+bid                            double precision                YES        None                
+campaign_id                    integer                         YES        None                
+creation_date                  text                            YES        None                
+keyword_text                   text                            YES        None                
+match_type                     text                            YES        None                
+native_language_keyword        integer                         YES        None                
+serving_status                 text                            YES        None                
+state                          text                            YES        None                
+native_language_locale         integer                         YES        None                

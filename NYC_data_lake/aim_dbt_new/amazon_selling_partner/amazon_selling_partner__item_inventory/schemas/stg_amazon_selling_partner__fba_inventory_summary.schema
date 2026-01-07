@@ -1,0 +1,31 @@
+Table: public_amazon_selling_partner_dev.stg_amazon_selling_partner__fba_inventory_summary
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+inventory_summary_id           text                            YES        None                
+asin                           text                            YES        None                
+fn_sku                         text                            YES        None                
+seller_sku                     text                            YES        None                
+product_name                   text                            YES        None                
+condition                      text                            YES        None                
+last_updated_at                timestamp without time zone            YES        None                
+total_quantity                 integer                         YES        None                
+total_researching_quantity     integer                         YES        None                
+total_reserved_quantity        integer                         YES        None                
+fullfillable_quantity          integer                         YES        None                
+total_unfulfillable_quantity   integer                         YES        None                
+pending_customer_order_quantity integer                         YES        None                
+pending_transshipment_quantity integer                         YES        None                
+fc_processing_quantity         integer                         YES        None                
+inblound_shipped_quantity      integer                         YES        None                
+inbound_receiving_quantity     integer                         YES        None                
+inbound_working_quantity       integer                         YES        None                
+warehouse_damaged_quantity     integer                         YES        None                
+carrier_damaged_quantity       integer                         YES        None                
+customer_damaged_quantity      integer                         YES        None                
+defective_quantity             integer                         YES        None                
+distributor_damaged_quantity   integer                         YES        None                
+expired_quantity               integer                         YES        None                
+granularity_id                 text                            YES        None                
+granularity_type               text                            YES        None                

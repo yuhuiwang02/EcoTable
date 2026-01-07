@@ -1,0 +1,6 @@
+{
+  "source_name": "amazon_selling_partner",
+  "table_name": "item_product_type",
+  "identifier": "item_product_type",
+  "definition_file": "models/staging/src_amazon_selling_partner.yml"
+}

@@ -1,0 +1,6 @@
+{
+  "source_name": "zendesk",
+  "table_name": "ticket_comment",
+  "identifier": "ticket_comment_data",
+  "definition_file": "models/staging/src_zendesk.yml"
+}

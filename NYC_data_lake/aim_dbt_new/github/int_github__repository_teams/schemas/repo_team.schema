@@ -1,0 +1,8 @@
+Table: public.github_repo_team_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+repository_id                  integer                         YES        None                
+team_id                        integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+permission                     text                            YES        None                

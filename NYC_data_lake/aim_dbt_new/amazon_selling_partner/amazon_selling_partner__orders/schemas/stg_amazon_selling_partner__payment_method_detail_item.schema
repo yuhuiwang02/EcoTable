@@ -1,0 +1,7 @@
+Table: public_amazon_selling_partner_dev.stg_amazon_selling_partner__payment_method_detail_item
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+amazon_order_id                text                            YES        None                
+method                         text                            YES        None                

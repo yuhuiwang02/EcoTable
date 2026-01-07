@@ -1,0 +1,14 @@
+Table: public.keyword_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+modification_time              timestamp without time zone            YES        None                
+ad_group_id                    integer                         YES        None                
+bid_amount                     double precision                YES        None                
+bid_currency                   text                            YES        None                
+campaign_id                    integer                         YES        None                
+deleted                        boolean                         YES        None                
+match_type                     text                            YES        None                
+status                         text                            YES        None                
+text                           text                            YES        None                

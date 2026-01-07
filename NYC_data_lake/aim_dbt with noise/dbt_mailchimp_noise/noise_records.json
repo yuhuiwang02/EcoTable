@@ -1,0 +1,61 @@
+{
+  "summary": {
+    "total_records": 3,
+    "cell_level_count": 1,
+    "column_level_count": 1,
+    "table_level_count": 1,
+    "table_level_pivot_count": 1,
+    "table_level_unpivot_count": 0,
+    "timestamp": "2026-01-07 16:32:37"
+  },
+  "noise_records": [
+    {
+      "table_name": "automation_recipient_activity",
+      "file_name": "automation_recipient_activity.csv",
+      "noise_level": "cell",
+      "noise_type": "extra_space_prefix",
+      "column": "automation_email_id",
+      "column_type": "string",
+      "row_index": "all",
+      "affected_rows": 22,
+      "original_values_sample": [
+        "b63e7b8aff",
+        "b63e7b8aff",
+        "b63e7b8aff",
+        "b63e7b8aff",
+        "b63e7b8aff"
+      ],
+      "new_values_sample": [
+        " b63e7b8aff",
+        " b63e7b8aff",
+        " b63e7b8aff",
+        " b63e7b8aff",
+        " b63e7b8aff"
+      ]
+    },
+    {
+      "table_name": "automation_recipient",
+      "file_name": "automation_recipient.csv",
+      "noise_level": "column",
+      "noise_type": "column_merge",
+      "join_column": "automation_email_id",
+      "other_column": "member_id",
+      "merged_column": "automation_email_id-member_id",
+      "description": "将连接列 automation_email_id 与列 member_id 合并为 automation_email_id-member_id"
+    },
+    {
+      "table_name": "automation_email",
+      "file_name": "automation_email.csv",
+      "noise_level": "table",
+      "noise_type": "pivot",
+      "pivot_column": "delay_action_description",
+      "value_column": "automation_id",
+      "new_columns": [
+        "1 day after welcome with automation_id",
+        "subscribed contacts join your audience with automation_id",
+        "subscribed contacts join your audience  with automation_id"
+      ],
+      "description": "使用 delay_action_description 进行pivot，automation_id 作为值"
+    }
+  ]
+}

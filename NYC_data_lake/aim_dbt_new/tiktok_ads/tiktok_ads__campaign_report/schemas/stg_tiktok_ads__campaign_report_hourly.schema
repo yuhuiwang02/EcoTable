@@ -1,0 +1,33 @@
+Table: public_tiktok_ads_dev.stg_tiktok_ads__campaign_report_hourly
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+campaign_id                    integer                         YES        None                
+stat_time_hour                 timestamp without time zone            YES        None                
+cpc                            double precision                YES        None                
+cpm                            double precision                YES        None                
+ctr                            double precision                YES        None                
+impressions                    integer                         YES        None                
+clicks                         integer                         YES        None                
+spend                          double precision                YES        None                
+reach                          integer                         YES        None                
+conversion                     integer                         YES        None                
+cost_per_conversion            double precision                YES        None                
+conversion_rate                integer                         YES        None                
+likes                          integer                         YES        None                
+comments                       integer                         YES        None                
+shares                         integer                         YES        None                
+profile_visits                 integer                         YES        None                
+follows                        integer                         YES        None                
+video_play_actions             integer                         YES        None                
+video_watched_2_s              integer                         YES        None                
+video_watched_6_s              integer                         YES        None                
+video_views_p_25               integer                         YES        None                
+video_views_p_50               integer                         YES        None                
+video_views_p_75               integer                         YES        None                
+average_video_play             double precision                YES        None                
+average_video_play_per_user    double precision                YES        None                
+real_time_conversion           integer                         YES        None                
+total_purchase_value           double precision                YES        None                
+total_sales_lead_value         double precision                YES        None                

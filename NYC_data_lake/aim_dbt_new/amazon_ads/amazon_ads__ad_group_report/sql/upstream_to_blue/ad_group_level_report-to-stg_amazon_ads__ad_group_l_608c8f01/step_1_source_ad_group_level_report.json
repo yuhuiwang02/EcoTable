@@ -1,0 +1,6 @@
+{
+  "source_name": "amazon_ads",
+  "table_name": "ad_group_level_report",
+  "identifier": "ad_group_level_report_data",
+  "definition_file": "models/staging/src_amazon_ads.yml"
+}

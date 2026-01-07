@@ -1,0 +1,7 @@
+Table: public.organization_tag_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+organization_id                bigint                          YES        None                
+tag                            text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                

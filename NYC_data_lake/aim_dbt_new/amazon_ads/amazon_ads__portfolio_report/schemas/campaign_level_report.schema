@@ -1,0 +1,20 @@
+Table: public.campaign_level_report_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+campaign_id                    integer                         YES        None                
+date                           date                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+campaign_applicable_budget_rule_id integer                         YES        None                
+campaign_applicable_budget_rule_name integer                         YES        None                
+campaign_bidding_strategy      text                            YES        None                
+campaign_budget_amount         double precision                YES        None                
+campaign_budget_currency_code  text                            YES        None                
+campaign_budget_type           text                            YES        None                
+clicks                         double precision                YES        None                
+cost                           double precision                YES        None                
+impressions                    double precision                YES        None                
+campaign_rule_based_budget_amount integer                         YES        None                
+sales_7_d                      integer                         YES        None                
+purchases_30_d                 integer                         YES        None                
+sales_30_d                     integer                         YES        None                

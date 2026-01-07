@@ -1,0 +1,18 @@
+Table: public_amazon_ads_dev.amazon_ads__account_report
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+date_day                       date                            YES        None                
+account_name                   text                            YES        None                
+account_id                     text                            YES        None                
+country_code                   text                            YES        None                
+profile_id                     text                            YES        None                
+cost                           double precision                YES        None                
+clicks                         double precision                YES        None                
+impressions                    double precision                YES        None                
+purchases_30_d                 bigint                          YES        None                
+sales_30_d                     bigint                          YES        None                
+sales_7_d                      double precision                YES        None                
+purchases_alias                double precision                YES        None                
+purchases_14_d                 double precision                YES        None                

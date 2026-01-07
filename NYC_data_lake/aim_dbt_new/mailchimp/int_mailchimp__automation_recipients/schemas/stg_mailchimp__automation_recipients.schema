@@ -1,0 +1,8 @@
+Table: public_mailchimp_dev.stg_mailchimp__automation_recipients
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+member_id                      text                            YES        None                
+automation_email_id            text                            YES        None                
+list_id                        text                            YES        None                
+automation_recipient_id        text                            YES        None                

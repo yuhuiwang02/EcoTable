@@ -1,0 +1,30 @@
+Table: public.visitor_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+last_updated_at                text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+account_id                     text                            YES        None                
+agent_email                    text                            YES        None                
+agent_full_name                text                            YES        None                
+agent_group_role               integer                         YES        None                
+agent_name                     text                            YES        None                
+agent_role                     text                            YES        None                
+first_visit                    text                            YES        None                
+id_hash                        bigint                          YES        None                
+last_browser_name              text                            YES        None                
+last_browser_version           text                            YES        None                
+last_operating_system          text                            YES        None                
+last_server_name               text                            YES        None                
+last_user_agent                text                            YES        None                
+last_visit                     text                            YES        None                
+n_id                           integer                         YES        None                
+salesforce_country_c           integer                         YES        None                
+salesforce_fivetran_industry_category_c integer                         YES        None                
+salesforce_job_function_c      text                            YES        None                
+salesforce_job_level_c         integer                         YES        None                
+salesforce_name                integer                         YES        None                
+agent_language                 integer                         YES        None                
+pendo_lastemail                integer                         YES        None                
+pendo_lastemailstatus          integer                         YES        None                

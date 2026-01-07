@@ -1,0 +1,6 @@
+{
+  "source_name": "apple_search_ads",
+  "table_name": "campaign_report",
+  "identifier": "campaign_report_data",
+  "definition_file": "models/staging/src_apple_search_ads.yml"
+}

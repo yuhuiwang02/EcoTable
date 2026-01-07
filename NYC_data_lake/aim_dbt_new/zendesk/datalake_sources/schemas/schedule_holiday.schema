@@ -1,0 +1,11 @@
+Table: public.schedule_holiday_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+schedule_id                    bigint                          YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+end_date                       date                            YES        None                
+name                           text                            YES        None                
+start_date                     date                            YES        None                

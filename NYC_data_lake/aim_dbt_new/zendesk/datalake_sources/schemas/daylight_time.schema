@@ -1,0 +1,10 @@
+Table: public.daylight_time_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+time_zone                      text                            YES        None                
+year                           integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+daylight_end_utc               timestamp without time zone            YES        None                
+daylight_offset                integer                         YES        None                
+daylight_start_utc             timestamp without time zone            YES        None                

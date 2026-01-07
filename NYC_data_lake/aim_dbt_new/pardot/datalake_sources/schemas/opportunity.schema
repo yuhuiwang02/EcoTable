@@ -1,0 +1,16 @@
+Table: public.pardot_opportunity_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+_fivetran_synced               text                            YES        None                
+campaign_id                    integer                         YES        None                
+closed_at                      text                            YES        None                
+created_at                     text                            YES        None                
+probability                    integer                         YES        None                
+stage                          text                            YES        None                
+status                         text                            YES        None                
+type                           text                            YES        None                
+updated_at                     text                            YES        None                
+value                          double precision                YES        None                
+name                           text                            YES        None                

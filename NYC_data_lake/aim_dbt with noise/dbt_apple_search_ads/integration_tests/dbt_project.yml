@@ -1,0 +1,52 @@
+config-version: 2
+
+name: 'apple_search_ads_integration_tests'
+version: '1.0.0'
+
+profile: 'dbt_apple_search_ads'
+
+vars:
+  apple_search_ads:
+    apple_search_ads_schema: public
+    apple_search_ads_organization_identifier: "organization_data"
+    apple_search_ads_campaign_history_identifier: "campaign_history_data"
+    apple_search_ads_campaign_report_identifier: "campaign_report_data"
+    apple_search_ads_ad_group_history_identifier: "ad_group_history_data"
+    apple_search_ads_ad_group_report_identifier: "ad_group_report_data"
+    apple_search_ads_ad_history_identifier: "ad_history_data"
+    apple_search_ads_ad_level_report_identifier: "ad_report_data"
+    apple_search_ads_keyword_history_identifier: "keyword_history_data"
+    apple_search_ads_keyword_report_identifier: "keyword_report_data"
+    apple_search_ads_search_term_report_identifier: "search_term_report_data"
+    apple_search_ads__using_search_terms: True
+  
+    apple_search_ads__ad_group_passthrough_metrics: # @docs-ignore
+      - name: conversions # @docs-ignore
+      - name: lat_off_installs # @docs-ignore
+    apple_search_ads__ad_passthrough_metrics: # @docs-ignore
+      - name: conversions # @docs-ignore
+        alias: conversions_alias_should_be_included # @docs-ignore
+  
+    ad_consistency_inclusion_criteria: 'ad_name is not null' # Validating change persisting deleted ads (and other entities, but we only have deleted ads) to end models
+
+models:
+  +schema: "apple_search_ads_{{ var('directed_schema','dev') }}"
+
+seeds:
+  +docs:
+    show: False
+  +quote_columns: "{{ true if target.type == 'redshift' else false }}"
+  apple_search_ads_integration_tests:
+    +column_types:
+      modification_time: "timestamp"
+      start_time: "timestamp"
+      end_time: "timestamp"
+      creation_time: "timestamp"
+      _fivetran_synced: "timestamp"
+        
+dispatch:
+  - macro_namespace: dbt_utils
+    search_order: ['spark_utils', 'dbt_utils']
+flags:
+  send_anonymous_usage_stats: False
+  use_colors: True

@@ -1,0 +1,7 @@
+Table: public.project_task_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+project_id                     bigint                          YES        None                
+task_id                        bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                

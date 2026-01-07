@@ -1,0 +1,21 @@
+Table: public.snapchat_ad_hourly_report_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+ad_id                          text                            YES        None                
+date                           timestamp without time zone            YES        None                
+impressions                    integer                         YES        None                
+spend                          integer                         YES        None                
+swipes                         integer                         YES        None                
+conversion_purchases_value     double precision                YES        None                
+conversion_add_billing         integer                         YES        None                
+conversion_add_cart            integer                         YES        None                
+conversion_app_opens           integer                         YES        None                
+conversion_level_completes     integer                         YES        None                
+conversion_page_views          integer                         YES        None                
+conversion_purchases           integer                         YES        None                
+conversion_save                integer                         YES        None                
+conversion_searches            integer                         YES        None                
+conversion_sign_ups            integer                         YES        None                
+conversion_start_checkout      integer                         YES        None                
+conversion_view_content        integer                         YES        None                

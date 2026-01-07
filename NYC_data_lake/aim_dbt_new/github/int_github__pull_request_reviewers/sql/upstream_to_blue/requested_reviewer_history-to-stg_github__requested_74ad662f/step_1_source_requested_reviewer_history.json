@@ -1,0 +1,6 @@
+{
+  "source_name": "github",
+  "table_name": "requested_reviewer_history",
+  "identifier": "github_requested_reviewer_history_data",
+  "definition_file": "models/staging/src_github.yml"
+}

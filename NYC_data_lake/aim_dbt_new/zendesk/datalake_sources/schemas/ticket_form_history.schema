@@ -1,0 +1,13 @@
+Table: public.ticket_form_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+updated_at                     timestamp without time zone            YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+active                         boolean                         YES        None                
+created_at                     timestamp without time zone            YES        None                
+display_name                   text                            YES        None                
+end_user_visible               boolean                         YES        None                
+name                           text                            YES        None                

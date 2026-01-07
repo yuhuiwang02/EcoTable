@@ -1,0 +1,10 @@
+Table: public.account
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+country                        integer                         YES        None                
+created_at                     timestamp without time zone            YES        None                
+name                           text                            YES        None                
+status                         text                            YES        None                

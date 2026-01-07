@@ -1,0 +1,11 @@
+Table: public.ad_group_level_report_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+ad_group_id                    integer                         YES        None                
+date                           date                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+campaign_bidding_strategy      text                            YES        None                
+clicks                         double precision                YES        None                
+cost                           double precision                YES        None                
+impressions                    double precision                YES        None                

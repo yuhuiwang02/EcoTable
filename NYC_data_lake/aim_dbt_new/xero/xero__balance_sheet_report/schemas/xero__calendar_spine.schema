@@ -1,0 +1,5 @@
+Table: public_xero_dev.xero__calendar_spine
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+date_month                     date                            YES        None                

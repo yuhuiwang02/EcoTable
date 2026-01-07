@@ -1,0 +1,9 @@
+Table: public.campaign_recipient
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+campaign_id                    text                            YES        None                
+member_id                      text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+combination_id                 integer                         YES        None                
+list_id                        text                            YES        None                

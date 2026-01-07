@@ -1,0 +1,6 @@
+{
+  "source_name": "fivetran_platform",
+  "table_name": "connection",
+  "identifier": "connection",
+  "definition_file": "models/staging/src_fivetran_platform.yml"
+}

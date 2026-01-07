@@ -1,0 +1,24 @@
+Table: public_google_ads_dev.stg_google_ads__ad_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+ad_group_id                    text                            YES        None                
+ad_id                          integer                         YES        None                
+ad_name                        text                            YES        None                
+updated_at                     timestamp without time zone            YES        None                
+ad_type                        text                            YES        None                
+ad_status                      text                            YES        None                
+display_url                    text                            YES        None                
+source_final_urls              text                            YES        None                
+final_urls                     text                            YES        None                
+is_most_recent_record          boolean                         YES        None                
+final_url                      text                            YES        None                
+base_url                       text                            YES        None                
+url_host                       text                            YES        None                
+url_path                       text                            YES        None                
+utm_source                     text                            YES        None                
+utm_medium                     text                            YES        None                
+utm_campaign                   text                            YES        None                
+utm_content                    text                            YES        None                
+utm_term                       text                            YES        None                

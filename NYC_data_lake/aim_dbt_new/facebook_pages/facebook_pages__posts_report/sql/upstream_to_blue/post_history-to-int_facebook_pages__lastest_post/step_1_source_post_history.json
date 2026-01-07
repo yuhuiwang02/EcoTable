@@ -1,0 +1,6 @@
+{
+  "source_name": "facebook_pages",
+  "table_name": "post_history",
+  "identifier": "facebook_pages_post_history_data",
+  "definition_file": "models/staging/src_facebook_pages.yml"
+}

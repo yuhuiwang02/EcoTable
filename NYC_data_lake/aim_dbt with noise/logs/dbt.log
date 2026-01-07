@@ -1,0 +1,136 @@
+[0m17:35:47.262773 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183f72bca0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183f4ea700>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183e665fa0>]}
+
+
+============================== 17:35:47.271044 | 31de6e7b-34ea-4d1f-9d1e-2d058bcd9aa5 ==============================
+[0m17:35:47.271044 [info ] [MainThread]: Running with dbt=1.10.17
+[0m17:35:47.272440 [debug] [MainThread]: running dbt with arguments {'log_cache_events': 'False', 'use_colors': 'True', 'warn_error': 'None', 'use_experimental_parser': 'False', 'empty': 'None', 'log_path': 'logs', 'profiles_dir': '/home/liuqiyue/.dbt', 'target_path': 'None', 'fail_fast': 'False', 'invocation_command': 'dbt debug', 'indirect_selection': 'eager', 'debug': 'False', 'write_json': 'True', 'printer_width': '80', 'send_anonymous_usage_stats': 'True', 'no_print': 'None', 'cache_selected_only': 'False', 'version_check': 'True', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'log_format': 'default', 'quiet': 'False', 'partial_parse': 'True', 'static_parser': 'True'}
+[0m17:35:47.282771 [info ] [MainThread]: dbt version: 1.10.17
+[0m17:35:47.283266 [info ] [MainThread]: python version: 3.9.25
+[0m17:35:47.283704 [info ] [MainThread]: python path: /home/liuqiyue/miniconda3/envs/dbt/bin/python3.9
+[0m17:35:47.284130 [info ] [MainThread]: os info: Linux-5.15.0-139-generic-x86_64-with-glibc2.31
+[0m17:35:47.292405 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.295223 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.297870 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.300683 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.303271 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.305876 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.308458 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.311066 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.313671 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.316296 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.318896 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.321549 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.324125 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.326702 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.329284 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.331878 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.postgres'
+[0m17:35:47.332601 [info ] [MainThread]: Using profiles dir at /home/liuqiyue/.dbt
+[0m17:35:47.333051 [info ] [MainThread]: Using profiles.yml file at /home/liuqiyue/.dbt/profiles.yml
+[0m17:35:47.333475 [info ] [MainThread]: Using dbt_project.yml file at /home/liuqiyue/aim_dbt/dbt_project.yml
+[0m17:35:47.333912 [info ] [MainThread]: Configuration:
+[0m17:35:47.334335 [info ] [MainThread]:   profiles.yml file [[31mERROR invalid[0m]
+[0m17:35:47.334751 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m17:35:47.335166 [info ] [MainThread]: Required dependencies:
+[0m17:35:47.335627 [debug] [MainThread]: Executing "git --help"
+[0m17:35:47.346837 [debug] [MainThread]: STDOUT: "b"usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone             Clone a repository into a new directory\n   init              Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add               Add file contents to the index\n   mv                Move or rename a file, a directory, or a symlink\n   restore           Restore working tree files\n   rm                Remove files from the working tree and from the index\n   sparse-checkout   Initialize and modify the sparse-checkout\n\nexamine the history and state (see also: git help revisions)\n   bisect            Use binary search to find the commit that introduced a bug\n   diff              Show changes between commits, commit and working tree, etc\n   grep              Print lines matching a pattern\n   log               Show commit logs\n   show              Show various types of objects\n   status            Show the working tree status\n\ngrow, mark and tweak your common history\n   branch            List, create, or delete branches\n   commit            Record changes to the repository\n   merge             Join two or more development histories together\n   rebase            Reapply commits on top of another base tip\n   reset             Reset current HEAD to the specified state\n   switch            Switch branches\n   tag               Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch             Download objects and refs from another repository\n   pull              Fetch from and integrate with another repository or a local branch\n   push              Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m17:35:47.347928 [debug] [MainThread]: STDERR: "b''"
+[0m17:35:47.348503 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m17:35:47.349066 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m17:35:47.349710 [info ] [MainThread]: [31m2 checks failed:[0m
+[0m17:35:47.350310 [info ] [MainThread]: Could not load dbt_project.yml
+Profile loading failed for the following reason:
+Runtime Error
+  Credentials in profile "dbt_amazon_ads", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_amazon_selling_partner", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_apple_search_ads", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_asana", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_facebook_pages", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_fivetran_log", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_github", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_instagram_business", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_mailchimp", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_microsoft_ads", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_pardot", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_pendo", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_snapchat_ads", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_tiktok_ads", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_xero", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+Runtime Error
+  Credentials in profile "dbt_zend", target "dev" invalid: Runtime Error
+    Could not find adapter type postgres!
+
+
+[0m17:35:47.350935 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/liuqiyue/aim_dbt/dbt_project.yml> not found
+
+[0m17:35:47.352480 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 0.16651605, "process_in_blocks": "0", "process_kernel_time": 0.092164, "process_mem_max_rss": "94452", "process_out_blocks": "24", "process_user_time": 1.52673}
+[0m17:35:47.353292 [debug] [MainThread]: Command `dbt debug` failed at 17:35:47.353115 after 0.17 seconds
+[0m17:35:47.354158 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183f72bca0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183e6658b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f183e5950a0>]}
+[0m17:35:47.354993 [debug] [MainThread]: Flushing usage events
+[0m17:35:48.703622 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:39:20.577248 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75648bad00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75637f5ee0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75637f5f40>]}
+
+
+============================== 17:39:20.582659 | 237eb8cd-6e8c-4e6a-9b90-b00b2521efca ==============================
+[0m17:39:20.582659 [info ] [MainThread]: Running with dbt=1.10.17
+[0m17:39:20.583552 [debug] [MainThread]: running dbt with arguments {'cache_selected_only': 'False', 'version_check': 'True', 'profiles_dir': '/home/liuqiyue/.dbt', 'introspect': 'True', 'quiet': 'False', 'printer_width': '80', 'log_path': 'logs', 'log_format': 'default', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'write_json': 'True', 'use_experimental_parser': 'False', 'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'partial_parse': 'True', 'target_path': 'None', 'warn_error': 'None', 'static_parser': 'True', 'debug': 'False', 'use_colors': 'True', 'fail_fast': 'False', 'empty': 'None', 'log_cache_events': 'False', 'no_print': 'None', 'invocation_command': 'dbt debug'}
+[0m17:39:20.594714 [info ] [MainThread]: dbt version: 1.10.17
+[0m17:39:20.595198 [info ] [MainThread]: python version: 3.9.25
+[0m17:39:20.595629 [info ] [MainThread]: python path: /home/liuqiyue/miniconda3/envs/dbt/bin/python3.9
+[0m17:39:20.596052 [info ] [MainThread]: os info: Linux-5.15.0-139-generic-x86_64-with-glibc2.31
+[0m17:39:20.689311 [info ] [MainThread]: Using profiles dir at /home/liuqiyue/.dbt
+[0m17:39:20.689873 [info ] [MainThread]: Using profiles.yml file at /home/liuqiyue/.dbt/profiles.yml
+[0m17:39:20.690341 [info ] [MainThread]: Using dbt_project.yml file at /home/liuqiyue/aim_dbt/dbt_project.yml
+[0m17:39:20.690905 [error] [MainThread]: Encountered an error:
+Internal Error
+  Profile should not be None if loading profile completed
+[0m17:39:20.691901 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_success": false, "command_wall_clock_time": 0.18473545, "process_in_blocks": "0", "process_kernel_time": 0.131752, "process_mem_max_rss": "99740", "process_out_blocks": "8", "process_user_time": 1.465247}
+[0m17:39:20.692538 [debug] [MainThread]: Command `dbt debug` failed at 17:39:20.692418 after 0.19 seconds
+[0m17:39:20.693074 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75648bad00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75637cd400>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f75637f5820>]}
+[0m17:39:20.693607 [debug] [MainThread]: Flushing usage events
+[0m17:39:21.693864 [debug] [MainThread]: An error was encountered while trying to flush usage events

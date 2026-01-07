@@ -1,0 +1,16 @@
+Table: public_asana_dev.stg_asana__project
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+project_id                     bigint                          YES        None                
+is_archived                    boolean                         YES        None                
+created_at                     timestamp without time zone            YES        None                
+current_status                 text                            YES        None                
+due_date                       timestamp without time zone            YES        None                
+modified_at                    timestamp without time zone            YES        None                
+project_name                   text                            YES        None                
+owner_user_id                  bigint                          YES        None                
+is_public                      integer                         YES        None                
+team_id                        bigint                          YES        None                
+workspace_id                   bigint                          YES        None                
+notes                          text                            YES        None                

@@ -1,0 +1,6 @@
+{
+  "source_name": "xero",
+  "table_name": "journal_line",
+  "identifier": "xero_journal_line_data",
+  "definition_file": "models/staging/src_xero.yml"
+}

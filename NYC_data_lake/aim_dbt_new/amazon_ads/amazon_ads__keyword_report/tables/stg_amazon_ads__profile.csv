@@ -1,0 +1,6 @@
+source_relation,profile_id,account_id,account_marketplace_string_id,account_name,account_sub_type,account_type,account_valid_payment_method,country_code,currency_code,daily_budget,timezone,_fivetran_deleted
+"",66,ENTITY31174,XYZ123,Palpatine,,vendor,t,US,USD,0,America/Los_Angeles,f
+"",67,ENTITY31175,XYZ124,Skywalker,,vendor,t,US,USD,0,America/Los_Angeles,f
+"",68,ENTITY31176,XYZ125,Vader,,seller,t,US,USD,0,America/New_York,f
+"",69,ENTITY31177,XYZ126,Yoda,,vendor,t,US,USD,0,America/Chicago,f
+"",70,ENTITY31178,XYZ127,Kenobi,,seller,t,UK,GBP,0,Europe/London,f

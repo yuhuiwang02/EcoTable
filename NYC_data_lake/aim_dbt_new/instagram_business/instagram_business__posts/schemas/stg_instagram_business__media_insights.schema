@@ -1,0 +1,40 @@
+Table: public_instagram_business_dev.stg_instagram_business__media_insights
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+_fivetran_id                   text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+carousel_album_engagement      integer                         YES        None                
+carousel_album_reach           integer                         YES        None                
+carousel_album_saved           integer                         YES        None                
+carousel_album_shares          integer                         YES        None                
+carousel_album_views           integer                         YES        None                
+comment_count                  integer                         YES        None                
+post_id                        bigint                          YES        None                
+like_count                     integer                         YES        None                
+story_exits                    integer                         YES        None                
+story_reach                    integer                         YES        None                
+story_replies                  integer                         YES        None                
+story_taps_back                integer                         YES        None                
+story_taps_forward             integer                         YES        None                
+story_shares                   integer                         YES        None                
+story_views                    integer                         YES        None                
+video_photo_engagement         integer                         YES        None                
+video_photo_reach              integer                         YES        None                
+video_photo_saved              integer                         YES        None                
+video_photo_shares             integer                         YES        None                
+video_photo_views              integer                         YES        None                
+reel_comments                  integer                         YES        None                
+reel_likes                     integer                         YES        None                
+reel_reach                     integer                         YES        None                
+reel_shares                    integer                         YES        None                
+reel_total_interactions        integer                         YES        None                
+reel_views                     integer                         YES        None                
+source_relation                text                            YES        None                
+carousel_album_impressions     integer                         YES        None                
+carousel_album_video_views     integer                         YES        None                
+story_impressions              integer                         YES        None                
+video_photo_impressions        integer                         YES        None                
+video_views                    integer                         YES        None                
+reel_plays                     integer                         YES        None                
+is_most_recent_record          boolean                         YES        None                

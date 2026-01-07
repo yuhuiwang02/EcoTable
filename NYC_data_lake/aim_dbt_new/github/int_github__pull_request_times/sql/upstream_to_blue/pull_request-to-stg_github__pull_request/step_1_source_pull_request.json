@@ -1,0 +1,6 @@
+{
+  "source_name": "github",
+  "table_name": "pull_request",
+  "identifier": "github_pull_request_data",
+  "definition_file": "models/staging/src_github.yml"
+}

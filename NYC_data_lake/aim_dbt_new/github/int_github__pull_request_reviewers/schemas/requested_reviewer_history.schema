@@ -1,0 +1,10 @@
+Table: public.github_requested_reviewer_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+created_at                     timestamp without time zone            YES        None                
+pull_request_id                integer                         YES        None                
+requested_id                   integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+actor_id                       integer                         YES        None                
+removed                        boolean                         YES        None                

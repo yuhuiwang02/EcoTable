@@ -1,0 +1,40 @@
+Table: public.ticket_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+allow_channelback              boolean                         YES        None                
+assignee_id                    bigint                          YES        None                
+brand_id                       bigint                          YES        None                
+created_at                     timestamp without time zone            YES        None                
+description                    text                            YES        None                
+due_at                         timestamp without time zone            YES        None                
+external_id                    bigint                          YES        None                
+forum_topic_id                 bigint                          YES        None                
+group_id                       bigint                          YES        None                
+has_incidents                  boolean                         YES        None                
+is_public                      boolean                         YES        None                
+organization_id                bigint                          YES        None                
+priority                       text                            YES        None                
+problem_id                     bigint                          YES        None                
+recipient                      text                            YES        None                
+requester_id                   bigint                          YES        None                
+status                         text                            YES        None                
+subject                        text                            YES        None                
+submitter_id                   bigint                          YES        None                
+system_client                  integer                         YES        None                
+ticket_form_id                 bigint                          YES        None                
+type                           text                            YES        None                
+updated_at                     timestamp without time zone            YES        None                
+url                            text                            YES        None                
+via_channel                    text                            YES        None                
+via_source_from_id             integer                         YES        None                
+via_source_from_title          integer                         YES        None                
+via_source_rel                 integer                         YES        None                
+via_source_to_address          text                            YES        None                
+via_source_to_name             text                            YES        None                
+merged_ticket_ids              text                            YES        None                
+via_source_from_address        integer                         YES        None                
+followup_ids                   text                            YES        None                
+via_followup_source_id         integer                         YES        None                

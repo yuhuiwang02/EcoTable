@@ -1,0 +1,13 @@
+Table: public_zendesk_dev.int_zendesk__ticket_historical_assignee
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+ticket_id                      bigint                          YES        None                
+first_agent_assignment_date    timestamp without time zone            YES        None                
+first_assignee_id              text                            YES        None                
+last_agent_assignment_date     timestamp without time zone            YES        None                
+last_assignee_id               text                            YES        None                
+assignee_stations_count        bigint                          YES        None                
+unique_assignee_count          bigint                          YES        None                
+ticket_unassigned_duration_calendar_minutes double precision                YES        None                

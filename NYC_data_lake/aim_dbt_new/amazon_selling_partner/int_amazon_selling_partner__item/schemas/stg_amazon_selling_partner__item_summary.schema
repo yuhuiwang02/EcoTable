@@ -1,0 +1,28 @@
+Table: public_amazon_selling_partner_dev.stg_amazon_selling_partner__item_summary
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+is_adult_product               boolean                         YES        None                
+asin                           text                            YES        None                
+is_autographed                 boolean                         YES        None                
+brand                          text                            YES        None                
+classification_id              integer                         YES        None                
+color                          text                            YES        None                
+contributors                   integer                         YES        None                
+display_name                   text                            YES        None                
+item_classification            text                            YES        None                
+item_name                      text                            YES        None                
+manufacturer                   text                            YES        None                
+marketplace_id                 text                            YES        None                
+is_memorabilia                 boolean                         YES        None                
+model_number                   text                            YES        None                
+package_quantity               integer                         YES        None                
+part_number                    text                            YES        None                
+release_date                   date                            YES        None                
+size                           text                            YES        None                
+style                          text                            YES        None                
+is_trade_in_eligible           boolean                         YES        None                
+website_display_group          text                            YES        None                
+website_display_group_name     text                            YES        None                

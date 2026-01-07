@@ -1,0 +1,16 @@
+Table: public.organization_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+created_at                     timestamp without time zone            YES        None                
+details                        integer                         YES        None                
+external_id                    integer                         YES        None                
+group_id                       integer                         YES        None                
+name                           text                            YES        None                
+notes                          integer                         YES        None                
+shared_comments                boolean                         YES        None                
+shared_tickets                 boolean                         YES        None                
+updated_at                     timestamp without time zone            YES        None                
+url                            text                            YES        None                

@@ -1,0 +1,7 @@
+Table: public.ticket_tag_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+tag                            text                            YES        None                
+ticket_id                      integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                

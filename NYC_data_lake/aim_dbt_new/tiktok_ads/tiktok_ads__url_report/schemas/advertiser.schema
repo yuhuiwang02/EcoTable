@@ -1,0 +1,27 @@
+Table: public.tiktok_advertiser_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+name                           text                            YES        None                
+address                        text                            YES        None                
+company                        text                            YES        None                
+contacter                      integer                         YES        None                
+country                        text                            YES        None                
+currency                       text                            YES        None                
+description                    text                            YES        None                
+email                          text                            YES        None                
+industry                       integer                         YES        None                
+license_no                     integer                         YES        None                
+license_url                    integer                         YES        None                
+promotion_area                 integer                         YES        None                
+rejected_reason                integer                         YES        None                
+role                           text                            YES        None                
+status                         text                            YES        None                
+telephone_number               text                            YES        None                
+timezone                       text                            YES        None                
+balance                        double precision                YES        None                
+create_time                    text                            YES        None                
+language                       text                            YES        None                
+cellphone_number               text                            YES        None                
+_fivetran_synced               text                            YES        None                

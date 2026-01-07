@@ -1,0 +1,3 @@
+source_relation,date_day,organization_id,organization_name,campaign_id,campaign_name,ad_group_id,ad_group_name,ad_id,ad_name,currency,ad_status,taps,new_downloads,tap_new_downloads,redownloads,tap_redownloads,total_downloads,tap_total_downloads,conversions,tap_installs,impressions,spend,conversions_alias_should_be_included
+"",2022-07-13,3219110,Tip Tap Cat,1088388037,,1088985837,,1088718190,Cat Ad Custom,USD,ENABLED,2,1,0,0,1,1,1,0,0,300,1.85,0
+"",2022-07-14,3219110,Tip Tap Cat,1088388037,,1088985837,,1088718190,Cat Ad Custom,USD,ENABLED,6,2,0,0,2,2,2,0,0,552,4.31,0

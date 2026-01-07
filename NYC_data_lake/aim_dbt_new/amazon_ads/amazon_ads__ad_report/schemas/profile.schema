@@ -1,0 +1,17 @@
+Table: public.profile_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+account_id                     text                            YES        None                
+account_marketplace_string_id  text                            YES        None                
+account_name                   text                            YES        None                
+account_sub_type               integer                         YES        None                
+account_type                   text                            YES        None                
+account_valid_payment_method   boolean                         YES        None                
+country_code                   text                            YES        None                
+currency_code                  text                            YES        None                
+daily_budget                   integer                         YES        None                
+timezone                       text                            YES        None                

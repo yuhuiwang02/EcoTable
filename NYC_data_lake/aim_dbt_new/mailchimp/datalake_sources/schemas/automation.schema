@@ -1,0 +1,15 @@
+Table: public.automation
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+create_time                    timestamp without time zone            YES        None                
+list_id                        text                            YES        None                
+segment_id                     integer                         YES        None                
+segment_text                   integer                         YES        None                
+start_time                     timestamp without time zone            YES        None                
+status                         text                            YES        None                
+title                          text                            YES        None                
+trigger_settings               text                            YES        None                

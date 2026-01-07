@@ -1,0 +1,6 @@
+{
+  "source_name": "zendesk",
+  "table_name": "domain_name",
+  "identifier": "domain_name_data",
+  "definition_file": "models/staging/src_zendesk.yml"
+}

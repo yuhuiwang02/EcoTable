@@ -1,0 +1,7 @@
+Table: public.fba_inventory_researching_quantity_entry
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+inventory_summary_id           text                            YES        None                
+name                           text                            YES        None                
+quantity                       integer                         YES        None                

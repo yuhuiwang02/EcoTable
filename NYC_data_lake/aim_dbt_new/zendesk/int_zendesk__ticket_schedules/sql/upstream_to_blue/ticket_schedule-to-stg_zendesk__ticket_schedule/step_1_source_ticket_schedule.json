@@ -1,0 +1,6 @@
+{
+  "source_name": "zendesk",
+  "table_name": "ticket_schedule",
+  "identifier": "ticket_schedule_data",
+  "definition_file": "models/staging/src_zendesk.yml"
+}

@@ -1,0 +1,8 @@
+Table: public_asana_dev.stg_asana__section
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+section_id                     bigint                          YES        None                
+created_at                     timestamp without time zone            YES        None                
+section_name                   text                            YES        None                
+project_id                     bigint                          YES        None                

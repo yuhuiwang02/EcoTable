@@ -1,0 +1,6 @@
+{
+  "source_name": "microsoft_ads",
+  "table_name": "ad_group_history",
+  "identifier": "microsoft_ads_ad_group_history_data",
+  "definition_file": "models/staging/src_microsoft_ads.yml"
+}

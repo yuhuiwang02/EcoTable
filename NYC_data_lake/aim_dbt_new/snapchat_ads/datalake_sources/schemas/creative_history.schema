@@ -1,0 +1,9 @@
+Table: public.snapchat_creative_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+ad_account_id                  text                            YES        None                
+name                           text                            YES        None                
+web_view_url                   text                            YES        None                
+_fivetran_synced               text                            YES        None                

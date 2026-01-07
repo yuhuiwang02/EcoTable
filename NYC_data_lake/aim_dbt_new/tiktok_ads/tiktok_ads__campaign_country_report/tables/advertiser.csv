@@ -1,0 +1,5 @@
+id,name,address,company,contacter,country,currency,description,email,industry,license_no,license_url,promotion_area,rejected_reason,role,status,telephone_number,timezone,balance,create_time,language,cellphone_number,_fivetran_synced
+1,US,222 address,Comany X,,US,USD,hello,fake-email,123,,,111,,ROLE_ADVERTISER,STATUS_ENABLE,111-222-3333,Etc/GMT+5,32.12,2021-08-27 18:13:41.000,en,001-002-0003,2021-09-15 15:53:18.938
+2,Canada,111 address,Company Y,,CAN,CAN,world,fake-email,321,,,0,,ROLE_ADVERTISER,STATUS_ENABLE,222-333-4444,Etc/GMT+5,321.22,2021-03-09 20:55:37.000,en,001-003-0004,2021-09-15 15:53:07.621
+3,UK,333 address,Company Z,,UK,GBP,welcome,fake-email,456,,,222,,ROLE_ADVERTISER,STATUS_ENABLE,333-444-5555,Etc/GMT+0,150.5,2021-07-15 12:30:22.000,en,001-004-0005,2021-09-15 15:53:20.000
+4,Australia,444 address,Company W,,AU,AUD,greetings,fake-email,789,,,333,,ROLE_ADVERTISER,STATUS_ENABLE,444-555-6666,Etc/GMT+10,275.75,2021-08-01 09:15:33.000,en,001-005-0006,2021-09-15 15:53:21.000

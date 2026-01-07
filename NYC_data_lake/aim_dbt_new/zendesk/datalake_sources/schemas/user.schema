@@ -1,0 +1,36 @@
+Table: public.user_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+active                         boolean                         YES        None                
+alias                          integer                         YES        None                
+authenticity_token             integer                         YES        None                
+chat_only                      boolean                         YES        None                
+created_at                     timestamp without time zone            YES        None                
+details                        integer                         YES        None                
+email                          text                            YES        None                
+external_id                    bigint                          YES        None                
+last_login_at                  timestamp without time zone            YES        None                
+locale                         text                            YES        None                
+locale_id                      bigint                          YES        None                
+moderator                      boolean                         YES        None                
+name                           text                            YES        None                
+notes                          integer                         YES        None                
+only_private_comments          boolean                         YES        None                
+organization_id                bigint                          YES        None                
+phone                          integer                         YES        None                
+remote_photo_url               integer                         YES        None                
+restricted_agent               boolean                         YES        None                
+role                           text                            YES        None                
+shared                         boolean                         YES        None                
+shared_agent                   boolean                         YES        None                
+signature                      integer                         YES        None                
+suspended                      boolean                         YES        None                
+ticket_restriction             text                            YES        None                
+time_zone                      text                            YES        None                
+two_factor_auth_enabled        boolean                         YES        None                
+updated_at                     timestamp without time zone            YES        None                
+url                            text                            YES        None                
+verified                       boolean                         YES        None                

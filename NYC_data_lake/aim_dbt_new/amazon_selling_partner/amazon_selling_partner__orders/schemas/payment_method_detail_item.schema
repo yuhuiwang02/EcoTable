@@ -1,0 +1,6 @@
+Table: public.payment_method_detail_item
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+amazon_order_id                text                            YES        None                
+method                         text                            YES        None                

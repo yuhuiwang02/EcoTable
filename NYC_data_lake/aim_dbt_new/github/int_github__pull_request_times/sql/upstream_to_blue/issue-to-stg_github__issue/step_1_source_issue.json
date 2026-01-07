@@ -1,0 +1,6 @@
+{
+  "source_name": "github",
+  "table_name": "issue",
+  "identifier": "github_issue_data",
+  "definition_file": "models/staging/src_github.yml"
+}

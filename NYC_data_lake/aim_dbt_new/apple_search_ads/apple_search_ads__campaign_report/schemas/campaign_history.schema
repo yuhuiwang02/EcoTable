@@ -1,0 +1,25 @@
+Table: public.campaign_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+modification_time              timestamp without time zone            YES        None                
+adam_id                        integer                         YES        None                
+budget_amount                  integer                         YES        None                
+budget_currency                text                            YES        None                
+budget_orders                  text                            YES        None                
+daily_budget_amount            integer                         YES        None                
+daily_budget_currency          text                            YES        None                
+deleted                        boolean                         YES        None                
+end_time                       timestamp without time zone            YES        None                
+loc_invoice_detail_buyer_email integer                         YES        None                
+loc_invoice_detail_buyer_name  integer                         YES        None                
+loc_invoice_detail_client_name integer                         YES        None                
+loc_invoice_detail_order_number integer                         YES        None                
+name                           text                            YES        None                
+organization_id                integer                         YES        None                
+payment_model                  text                            YES        None                
+serving_state_reasons          text                            YES        None                
+serving_status                 text                            YES        None                
+start_time                     timestamp without time zone            YES        None                
+status                         text                            YES        None                

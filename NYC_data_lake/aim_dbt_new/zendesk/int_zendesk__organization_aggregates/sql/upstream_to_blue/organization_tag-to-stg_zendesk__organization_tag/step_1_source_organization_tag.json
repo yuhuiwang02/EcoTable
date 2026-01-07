@@ -1,0 +1,6 @@
+{
+  "source_name": "zendesk",
+  "table_name": "organization_tag",
+  "identifier": "organization_tag_data",
+  "definition_file": "models/staging/src_zendesk.yml"
+}

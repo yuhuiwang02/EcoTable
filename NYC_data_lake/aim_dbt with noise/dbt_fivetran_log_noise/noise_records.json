@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "total_records": 3,
+    "cell_level_count": 1,
+    "column_level_count": 1,
+    "table_level_count": 1,
+    "table_level_pivot_count": 0,
+    "table_level_unpivot_count": 1,
+    "timestamp": "2026-01-07 16:32:38"
+  },
+  "noise_records": [
+    {
+      "table_name": "destination_membership",
+      "file_name": "destination_membership.csv",
+      "noise_level": "cell",
+      "noise_type": "special_char_prefix",
+      "column": "user_id",
+      "column_type": "string",
+      "row_index": "all",
+      "affected_rows": 10,
+      "original_values_sample": [
+        "constitutionally_hazey",
+        "alternately_metallic",
+        "alice_data_engineer",
+        "bob_analyst",
+        "charlie_admin"
+      ],
+      "new_values_sample": [
+        "_constitutionally_hazey",
+        "_alternately_metallic",
+        "_alice_data_engineer",
+        "_bob_analyst",
+        "_charlie_admin"
+      ]
+    },
+    {
+      "table_name": "connection",
+      "file_name": "connection.csv",
+      "noise_level": "column",
+      "noise_type": "column_merge",
+      "join_column": "connection_name",
+      "other_column": "connector_type",
+      "merged_column": "connection_name-connector_type",
+      "description": "将连接列 connection_name 与列 connector_type 合并为 connection_name-connector_type"
+    },
+    {
+      "table_name": "incremental_mar",
+      "file_name": "incremental_mar.csv",
+      "noise_level": "table",
+      "noise_type": "unpivot",
+      "join_column": "destination_id",
+      "condition_column": "connector_id",
+      "unpivoted_columns": [
+        "destination_id",
+        "connector_id"
+      ],
+      "id_vars": [
+        "connection_name",
+        "free_type",
+        "measured_date",
+        "schema_name",
+        "sync_type",
+        "table_name",
+        "updated_at",
+        "_fivetran_synced",
+        "incremental_rows"
+      ],
+      "new_columns": [
+        "pivot-metric",
+        "pivot-value",
+        "connection_name",
+        "free_type",
+        "measured_date",
+        "schema_name",
+        "sync_type",
+        "table_name",
+        "updated_at",
+        "_fivetran_synced",
+        "incremental_rows"
+      ],
+      "description": "将 ['destination_id', 'connector_id'] unpivot为 metric/value 格式"
+    }
+  ]
+}

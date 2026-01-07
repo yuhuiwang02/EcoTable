@@ -1,0 +1,36 @@
+name: 'xero_integration_tests'
+version: '1.0.0'
+profile: 'dbt_xero'
+config-version: 2
+
+vars:
+  xero:
+    xero_account_identifier: "xero_account_data"
+    xero_contact_identifier: "xero_contact_data"
+    xero_invoice_line_item_identifier: "xero_invoice_line_item_data"
+    xero_invoice_identifier: "xero_invoice_data"
+    xero_journal_line_identifier: "xero_journal_line_data"
+    xero_journal_identifier: "xero_journal_data"
+    xero_organization_identifier: "xero_organization_data"
+    xero_bank_transaction_identifier: "xero_bank_transaction_data"
+    xero_credit_note_identifier: "xero_credit_note_data"
+    xero_invoice_line_item_has_tracking_category_identifier: "xero_invoice_line_item_has_tracking_category_data"
+    xero_journal_line_has_tracking_category_identifier: "xero_journal_line_has_tracking_category_data"
+    xero_tracking_category_identifier: "xero_tracking_category_data"
+    xero_tracking_category_has_option_identifier: "xero_tracking_category_has_option_data"
+    xero_tracking_category_option_identifier: "xero_tracking_category_option_data"    
+  xero_schema: public
+
+models:
+  +schema: "xero_{{ var('directed_schema','dev') }}"
+
+dispatch:
+  - macro_namespace: dbt_utils
+    search_order: ['spark_utils', 'dbt_utils']
+seeds:
+  +docs:
+    show: False
+
+flags:
+  send_anonymous_usage_stats: False
+  use_colors: True

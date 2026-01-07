@@ -1,0 +1,81 @@
+Table: public.orders
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+amazon_order_id                text                            YES        None                
+automated_shipping_setting_automated_carrier text                            YES        None                
+automated_shipping_setting_automated_ship_method text                            YES        None                
+automated_shipping_setting_has_automated_shipping_settings boolean                         YES        None                
+buyer_info_buyer_email         text                            YES        None                
+buyer_info_buyer_county        text                            YES        None                
+buyer_info_buyer_name          text                            YES        None                
+buyer_info_purchase_order_number text                            YES        None                
+buyer_invoice_preference       text                            YES        None                
+buyer_tax_info_buyer_business_address text                            YES        None                
+buyer_tax_info_buyer_legal_company_name text                            YES        None                
+buyer_tax_info_buyer_tax_office text                            YES        None                
+buyer_tax_info_buyer_tax_registration_id text                            YES        None                
+cba_displayable_shipping_label text                            YES        None                
+earliest_delivery_date         timestamp without time zone            YES        None                
+earliest_ship_date             timestamp without time zone            YES        None                
+easy_ship_shipment_status      text                            YES        None                
+electronic_invoice_status      text                            YES        None                
+fulfillment_channel            text                            YES        None                
+fulfillment_supply_source_id   text                            YES        None                
+has_regulated_items            boolean                         YES        None                
+is_access_point_order          boolean                         YES        None                
+is_business_order              boolean                         YES        None                
+is_estimated_ship_date_set     boolean                         YES        None                
+is_global_express_enabled      boolean                         YES        None                
+is_iba                         boolean                         YES        None                
+is_ispu                        boolean                         YES        None                
+is_premium_order               boolean                         YES        None                
+is_prime                       boolean                         YES        None                
+is_replacement_order           boolean                         YES        None                
+is_sold_by_ab                  boolean                         YES        None                
+last_update_date               timestamp without time zone            YES        None                
+latest_delivery_date           timestamp without time zone            YES        None                
+latest_ship_date               timestamp without time zone            YES        None                
+marketplace_id                 text                            YES        None                
+number_of_items_shipped        integer                         YES        None                
+number_of_items_unshipped      integer                         YES        None                
+order_channel                  text                            YES        None                
+order_status                   text                            YES        None                
+order_total_amount             character varying               YES        None                
+order_total_currency_code      text                            YES        None                
+order_type                     text                            YES        None                
+payment_method                 text                            YES        None                
+promise_response_due_date      timestamp without time zone            YES        None                
+purchase_date                  timestamp without time zone            YES        None                
+replaced_order_id              text                            YES        None                
+sales_channel                  text                            YES        None                
+seller_display_name            text                            YES        None                
+seller_order_id                text                            YES        None                
+ship_service_level             text                            YES        None                
+shipment_service_level_category text                            YES        None                
+default_ship_from_location_address_line_1 text                            YES        None                
+default_ship_from_location_address_line_2 text                            YES        None                
+default_ship_from_location_address_line_3 integer                         YES        None                
+default_ship_from_location_address_type integer                         YES        None                
+default_ship_from_location_city text                            YES        None                
+default_ship_from_location_country_code text                            YES        None                
+default_ship_from_location_county text                            YES        None                
+default_ship_from_location_district integer                         YES        None                
+default_ship_from_location_municipality integer                         YES        None                
+default_ship_from_location_name text                            YES        None                
+default_ship_from_location_phone integer                         YES        None                
+default_ship_from_location_postal_code integer                         YES        None                
+default_ship_from_location_state_or_region integer                         YES        None                
+shipping_address_address_line_1 text                            YES        None                
+shipping_address_address_line_2 integer                         YES        None                
+shipping_address_address_line_3 integer                         YES        None                
+shipping_address_address_type  integer                         YES        None                
+shipping_address_city          text                            YES        None                
+shipping_address_country_code  integer                         YES        None                
+shipping_address_county        integer                         YES        None                
+shipping_address_district      integer                         YES        None                
+shipping_address_municipality  integer                         YES        None                
+shipping_address_name          integer                         YES        None                
+shipping_address_phone         integer                         YES        None                
+shipping_address_postal_code   integer                         YES        None                
+shipping_address_state_or_region text                            YES        None                

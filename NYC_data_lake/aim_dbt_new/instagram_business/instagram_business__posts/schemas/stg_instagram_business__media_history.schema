@@ -1,0 +1,22 @@
+Table: public_instagram_business_dev.stg_instagram_business__media_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+_fivetran_id                   text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+post_caption                   text                            YES        None                
+carousel_album_id              bigint                          YES        None                
+created_timestamp              timestamp without time zone            YES        None                
+post_id                        bigint                          YES        None                
+ig_id                          bigint                          YES        None                
+is_comment_enabled             boolean                         YES        None                
+is_story                       boolean                         YES        None                
+media_type                     text                            YES        None                
+media_url                      text                            YES        None                
+post_url                       text                            YES        None                
+shortcode                      text                            YES        None                
+thumbnail_url                  integer                         YES        None                
+user_id                        bigint                          YES        None                
+username                       text                            YES        None                
+source_relation                text                            YES        None                
+is_most_recent_record          boolean                         YES        None                

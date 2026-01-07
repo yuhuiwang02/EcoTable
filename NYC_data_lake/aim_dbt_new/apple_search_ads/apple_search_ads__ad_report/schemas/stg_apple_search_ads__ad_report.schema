@@ -1,0 +1,20 @@
+Table: public_apple_search_ads_dev.stg_apple_search_ads__ad_report
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+date_day                       date                            YES        None                
+campaign_id                    integer                         YES        None                
+ad_group_id                    integer                         YES        None                
+ad_id                          integer                         YES        None                
+impressions                    integer                         YES        None                
+spend                          double precision                YES        None                
+currency                       text                            YES        None                
+conversions                    integer                         YES        None                
+tap_installs                   integer                         YES        None                
+new_downloads                  integer                         YES        None                
+tap_new_downloads              integer                         YES        None                
+redownloads                    integer                         YES        None                
+tap_redownloads                integer                         YES        None                
+taps                           integer                         YES        None                
+conversions_alias_should_be_included double precision                YES        None                

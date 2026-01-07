@@ -1,0 +1,8 @@
+Table: public.domain_name_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+index                          integer                         YES        None                
+organization_id                bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+domain_name                    text                            YES        None                

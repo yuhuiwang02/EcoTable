@@ -1,0 +1,5 @@
+source_relation,ad_id,stat_time_hour,cpc,cpm,ctr,impressions,clicks,spend,reach,conversion,cost_per_conversion,conversion_rate,likes,comments,shares,profile_visits,follows,video_play_actions,video_watched_2_s,video_watched_6_s,video_views_p_25,video_views_p_50,video_views_p_75,average_video_play,average_video_play_per_user,real_time_conversion,total_purchase_value,total_sales_lead_value
+"",1,2021-09-15 10:00:00,0,32.22,0,23,0,2.22,0,0,0,0,0,0,0,0,0,22,2,22,22,2,2,2.22,0,0,0,0
+"",2,2021-09-15 10:00:00,0,2.22,0,22,0,0.22,0,0,0,0,0,0,0,0,0,33,2,2,3,0,0,2.22,0,0,0.01,0.01
+"",3,2021-09-15 10:00:00,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2.22,0,0,0,0
+"",4,2021-09-15 10:00:00,0.22,22.22,2.22,22,2,0.22,0,2,0.22,222,2,0,0,0,0,22,2,2,2,2,2,2.22,0,2,0,0

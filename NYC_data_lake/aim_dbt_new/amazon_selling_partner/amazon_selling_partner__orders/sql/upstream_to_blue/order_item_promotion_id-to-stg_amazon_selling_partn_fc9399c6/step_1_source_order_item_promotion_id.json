@@ -1,0 +1,6 @@
+{
+  "source_name": "amazon_selling_partner",
+  "table_name": "order_item_promotion_id",
+  "identifier": "order_item_promotion_id",
+  "definition_file": "models/staging/src_amazon_selling_partner.yml"
+}

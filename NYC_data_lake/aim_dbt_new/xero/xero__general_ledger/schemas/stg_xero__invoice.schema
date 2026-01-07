@@ -1,0 +1,22 @@
+Table: public_xero_dev.stg_xero__invoice
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+invoice_id                     text                            YES        None                
+contact_id                     text                            YES        None                
+invoice_date                   date                            YES        None                
+updated_date                   text                            YES        None                
+planned_payment_date           integer                         YES        None                
+due_date                       date                            YES        None                
+expected_payment_date          integer                         YES        None                
+fully_paid_on_date             date                            YES        None                
+_fivetran_synced               text                            YES        None                
+currency_code                  text                            YES        None                
+currency_rate                  double precision                YES        None                
+invoice_number                 text                            YES        None                
+reference                      text                            YES        None                
+is_sent_to_contact             boolean                         YES        None                
+invoice_status                 text                            YES        None                
+type                           text                            YES        None                
+url                            integer                         YES        None                
+source_relation                text                            YES        None                

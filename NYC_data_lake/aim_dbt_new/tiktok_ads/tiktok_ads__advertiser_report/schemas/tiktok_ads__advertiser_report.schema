@@ -1,0 +1,31 @@
+Table: public_tiktok_ads_dev.tiktok_ads__advertiser_report
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+date_day                       date                            YES        None                
+advertiser_id                  integer                         YES        None                
+advertiser_name                text                            YES        None                
+currency                       text                            YES        None                
+clicks                         bigint                          YES        None                
+impressions                    bigint                          YES        None                
+spend                          double precision                YES        None                
+reach                          bigint                          YES        None                
+conversion                     bigint                          YES        None                
+likes                          bigint                          YES        None                
+comments                       bigint                          YES        None                
+shares                         bigint                          YES        None                
+profile_visits                 bigint                          YES        None                
+follows                        bigint                          YES        None                
+video_watched_2_s              bigint                          YES        None                
+video_watched_6_s              bigint                          YES        None                
+video_views_p_25               bigint                          YES        None                
+video_views_p_50               bigint                          YES        None                
+video_views_p_75               bigint                          YES        None                
+real_time_conversion           bigint                          YES        None                
+total_purchase_value           double precision                YES        None                
+total_sales_lead_value         double precision                YES        None                
+total_conversion_value         double precision                YES        None                
+daily_cpc                      double precision                YES        None                
+daily_cpm                      double precision                YES        None                
+daily_ctr                      bigint                          YES        None                

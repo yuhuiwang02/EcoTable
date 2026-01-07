@@ -1,0 +1,16 @@
+Table: public.ad_stats_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+customer_id                    bigint                          YES        None                
+date                           date                            YES        None                
+ad_group_id                    bigint                          YES        None                
+ad_group                       text                            YES        None                
+keyword_ad_group_criterion     text                            YES        None                
+ad_network_type                text                            YES        None                
+device                         text                            YES        None                
+ad_id                          bigint                          YES        None                
+campaign_id                    bigint                          YES        None                
+clicks                         integer                         YES        None                
+cost_micros                    integer                         YES        None                
+impressions                    integer                         YES        None                

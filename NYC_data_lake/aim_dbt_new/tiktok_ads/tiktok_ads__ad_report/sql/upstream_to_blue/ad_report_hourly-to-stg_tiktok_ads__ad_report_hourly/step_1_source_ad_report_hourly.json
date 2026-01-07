@@ -1,0 +1,6 @@
+{
+  "source_name": "tiktok_ads",
+  "table_name": "ad_report_hourly",
+  "identifier": "tiktok_ad_report_hourly_data",
+  "definition_file": "models/staging/src_tiktok_ads.yml"
+}

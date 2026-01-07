@@ -1,0 +1,222 @@
+{
+  "summary": {
+    "total_records": 9,
+    "cell_level_count": 3,
+    "column_level_count": 3,
+    "table_level_count": 3,
+    "table_level_pivot_count": 0,
+    "table_level_unpivot_count": 3,
+    "timestamp": "2026-01-07 16:32:38"
+  },
+  "noise_records": [
+    {
+      "table_name": "visitor_account_history",
+      "file_name": "visitor_account_history.csv",
+      "noise_level": "cell",
+      "noise_type": "special_char_suffix",
+      "column": "visitor_id",
+      "column_type": "string",
+      "row_index": "all",
+      "affected_rows": 41,
+      "original_values_sample": [
+        "commemoration_salient",
+        "commemoration_salient",
+        "commemoration_salient",
+        "psychosis_skeptical",
+        "psychosis_skeptical"
+      ],
+      "new_values_sample": [
+        "commemoration_salient_",
+        "commemoration_salient_",
+        "commemoration_salient_",
+        "psychosis_skeptical_",
+        "psychosis_skeptical_"
+      ]
+    },
+    {
+      "table_name": "page_history",
+      "file_name": "page_history.csv",
+      "noise_level": "cell",
+      "noise_type": "no_change",
+      "column": "group_id",
+      "column_type": "string",
+      "row_index": "all",
+      "affected_rows": 5,
+      "original_values_sample": [
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      "new_values_sample": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ]
+    },
+    {
+      "table_name": "guide_step_history",
+      "file_name": "guide_step_history.csv",
+      "noise_level": "cell",
+      "noise_type": "special_char_prefix",
+      "column": "guide_id",
+      "column_type": "string",
+      "row_index": "all",
+      "affected_rows": 5,
+      "original_values_sample": [
+        "-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "-3EVeSNAyNxKAhZXjD3AofrFxN0"
+      ],
+      "new_values_sample": [
+        "*-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "*-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "*-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "*-3EVeSNAyNxKAhZXjD3AofrFxN0",
+        "*-3EVeSNAyNxKAhZXjD3AofrFxN0"
+      ]
+    },
+    {
+      "table_name": "guide_event",
+      "file_name": "guide_event.csv",
+      "noise_level": "column",
+      "noise_type": "column_merge",
+      "join_column": "visitor_id",
+      "other_column": "type",
+      "merged_column": "visitor_id-type",
+      "description": "将连接列 visitor_id 与列 type 合并为 visitor_id-type"
+    },
+    {
+      "table_name": "feature_history",
+      "file_name": "feature_history.csv",
+      "noise_level": "column",
+      "noise_type": "column_merge",
+      "join_column": "group_id",
+      "other_column": "created_by_user_id",
+      "merged_column": "group_id-created_by_user_id",
+      "description": "将连接列 group_id 与列 created_by_user_id 合并为 group_id-created_by_user_id"
+    },
+    {
+      "table_name": "feature_event",
+      "file_name": "feature_event.csv",
+      "noise_level": "column",
+      "noise_type": "column_merge",
+      "join_column": "visitor_id",
+      "other_column": "num_events",
+      "merged_column": "visitor_id-num_events",
+      "description": "将连接列 visitor_id 与列 num_events 合并为 visitor_id-num_events"
+    },
+    {
+      "table_name": "page_event",
+      "file_name": "page_event.csv",
+      "noise_level": "table",
+      "noise_type": "unpivot",
+      "join_column": "visitor_id",
+      "condition_column": "param_parameter",
+      "unpivoted_columns": [
+        "visitor_id",
+        "param_parameter"
+      ],
+      "id_vars": [
+        "account_id",
+        "page_id",
+        "remote_ip",
+        "server_name",
+        "timestamp",
+        "user_agent",
+        "_fivetran_synced",
+        "app_id",
+        "num_events",
+        "num_minutes",
+        "_fivetran_id"
+      ],
+      "new_columns": [
+        "pivot-metric",
+        "pivot-value",
+        "account_id",
+        "page_id",
+        "remote_ip",
+        "server_name",
+        "timestamp",
+        "user_agent",
+        "_fivetran_synced",
+        "app_id",
+        "num_events",
+        "num_minutes",
+        "_fivetran_id"
+      ],
+      "description": "将 ['visitor_id', 'param_parameter'] unpivot为 metric/value 格式"
+    },
+    {
+      "table_name": "event",
+      "file_name": "event.csv",
+      "noise_level": "table",
+      "noise_type": "unpivot",
+      "join_column": "visitor_id",
+      "condition_column": "_fivetran_id",
+      "unpivoted_columns": [
+        "visitor_id",
+        "_fivetran_id"
+      ],
+      "id_vars": [
+        "account_id",
+        "remote_ip",
+        "server_name",
+        "timestamp",
+        "user_agent",
+        "_fivetran_synced",
+        "app_id",
+        "num_events",
+        "num_minutes",
+        "page_id"
+      ],
+      "new_columns": [
+        "pivot-metric",
+        "pivot-value",
+        "account_id",
+        "remote_ip",
+        "server_name",
+        "timestamp",
+        "user_agent",
+        "_fivetran_synced",
+        "app_id",
+        "num_events",
+        "num_minutes",
+        "page_id"
+      ],
+      "description": "将 ['visitor_id', '_fivetran_id'] unpivot为 metric/value 格式"
+    },
+    {
+      "table_name": "page_rule_history",
+      "file_name": "page_rule_history.csv",
+      "noise_level": "table",
+      "noise_type": "unpivot",
+      "join_column": "page_id",
+      "condition_column": "designer_hint",
+      "unpivoted_columns": [
+        "page_id",
+        "designer_hint"
+      ],
+      "id_vars": [
+        "page_last_updated_at",
+        "rule",
+        "_fivetran_synced",
+        "parsed_rule"
+      ],
+      "new_columns": [
+        "pivot-metric",
+        "pivot-value",
+        "page_last_updated_at",
+        "rule",
+        "_fivetran_synced",
+        "parsed_rule"
+      ],
+      "description": "将 ['page_id', 'designer_hint'] unpivot为 metric/value 格式"
+    }
+  ]
+}

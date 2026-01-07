@@ -1,0 +1,8 @@
+Table: public.automation_recipient
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+automation_email_id            text                            YES        None                
+member_id                      text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+list_id                        text                            YES        None                

@@ -1,0 +1,39 @@
+Table: public.guide_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+last_updated_at                text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+app_id                         integer                         YES        None                
+attribute_badge_can_change_badge_color integer                         YES        None                
+attribute_badge_color          integer                         YES        None                
+attribute_badge_height         integer                         YES        None                
+attribute_badge_image_url      integer                         YES        None                
+attribute_badge_is_only_show_once integer                         YES        None                
+attribute_badge_name           integer                         YES        None                
+attribute_badge_offset_left    integer                         YES        None                
+attribute_badge_offset_right   integer                         YES        None                
+attribute_badge_offset_top     integer                         YES        None                
+attribute_badge_position       integer                         YES        None                
+attribute_badge_show_on_event  integer                         YES        None                
+attribute_badge_use_hover      integer                         YES        None                
+attribute_badge_width          integer                         YES        None                
+attribute_device_type          text                            YES        None                
+attribute_priority             integer                         YES        None                
+attribute_type                 text                            YES        None                
+created_at                     timestamp without time zone            YES        None                
+created_by_user_id             bigint                          YES        None                
+email_state                    integer                         YES        None                
+is_multi_step                  boolean                         YES        None                
+is_training                    boolean                         YES        None                
+last_updated_by_user_id        bigint                          YES        None                
+launch_method                  text                            YES        None                
+name                           text                            YES        None                
+published_at                   text                            YES        None                
+recurrence                     integer                         YES        None                
+recurrence_eligibility_window  integer                         YES        None                
+reset_at                       timestamp without time zone            YES        None                
+root_version_id                text                            YES        None                
+stable_version_id              text                            YES        None                
+state                          text                            YES        None                

@@ -1,0 +1,6 @@
+Table: public.xero_bank_transaction_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+bank_transaction_id            text                            YES        None                
+contact_id                     text                            YES        None                

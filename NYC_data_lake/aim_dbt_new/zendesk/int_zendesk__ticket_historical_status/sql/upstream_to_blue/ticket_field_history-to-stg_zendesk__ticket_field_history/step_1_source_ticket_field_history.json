@@ -1,0 +1,6 @@
+{
+  "source_name": "zendesk",
+  "table_name": "ticket_field_history",
+  "identifier": "ticket_field_history_data",
+  "definition_file": "models/staging/src_zendesk.yml"
+}

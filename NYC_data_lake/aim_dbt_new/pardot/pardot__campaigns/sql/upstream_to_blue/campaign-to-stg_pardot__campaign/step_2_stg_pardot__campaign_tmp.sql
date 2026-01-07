@@ -1,0 +1,1 @@
+select * from "pardot"."public"."pardot_campaign_data"

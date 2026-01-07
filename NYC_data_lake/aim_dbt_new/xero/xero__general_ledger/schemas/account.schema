@@ -1,0 +1,10 @@
+Table: public.xero_account_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+account_id                     text                            YES        None                
+name                           text                            YES        None                
+code                           integer                         YES        None                
+type                           text                            YES        None                
+class                          text                            YES        None                
+_fivetran_synced               text                            YES        None                

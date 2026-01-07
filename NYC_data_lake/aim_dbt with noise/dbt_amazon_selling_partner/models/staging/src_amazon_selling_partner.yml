@@ -1,0 +1,566 @@
+version: 2
+
+sources:
+  - name: amazon_selling_partner
+    database: '{% if target.type not in ("spark") %}{{ var("amazon_selling_partner_database", target.database) }}{% endif %}'
+    schema: '{{ var("amazon_selling_partner_schema", "amazon_selling_partner") }}'
+    loader: fivetran
+
+    config:
+      loaded_at_field: _fivetran_synced
+      enabled: "{{ var('amazon_selling_partner_sources', []) == [] }}"
+
+    tables:
+      - name: orders
+        identifier: '{{ var("amazon_selling_partner_orders_identifier", "orders") }}'
+        description: '{{ doc("orders") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_orders_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: amazon_order_id
+            description: '{{ doc("amazon_order_id") }}'
+          - name: automated_shipping_setting_automated_carrier
+            description: '{{ doc("automated_shipping_setting_automated_carrier") }}'
+          - name: automated_shipping_setting_automated_ship_method
+            description: '{{ doc("automated_shipping_setting_automated_ship_method") }}'
+          - name: automated_shipping_setting_has_automated_shipping_settings
+            description: '{{ doc("automated_shipping_setting_has_automated_shipping_settings") }}'
+          - name: buyer_info_buyer_email
+            description: '{{ doc("buyer_info_buyer_email") }}'
+          - name: buyer_info_buyer_county
+            description: '{{ doc("buyer_info_buyer_county") }}'
+          - name: buyer_info_buyer_name
+            description: '{{ doc("buyer_info_buyer_name") }}'
+          - name: buyer_info_purchase_order_number
+            description: '{{ doc("buyer_info_purchase_order_number") }}'
+          - name: buyer_invoice_preference
+            description: '{{ doc("buyer_invoice_preference") }}'
+          - name: buyer_tax_info_buyer_business_address
+            description: '{{ doc("buyer_tax_info_buyer_business_address") }}'
+          - name: buyer_tax_info_buyer_legal_company_name
+            description: '{{ doc("buyer_tax_info_buyer_legal_company_name") }}'
+          - name: buyer_tax_info_buyer_tax_office
+            description: '{{ doc("buyer_tax_info_buyer_tax_office") }}'
+          - name: buyer_tax_info_buyer_tax_registration_id
+            description: '{{ doc("buyer_tax_info_buyer_tax_registration_id") }}'
+          - name: cba_displayable_shipping_label
+            description: '{{ doc("cba_displayable_shipping_label") }}'
+          - name: earliest_delivery_date
+            description: '{{ doc("earliest_delivery_date") }}'
+          - name: earliest_ship_date
+            description: '{{ doc("earliest_ship_date") }}'
+          - name: easy_ship_shipment_status
+            description: '{{ doc("easy_ship_shipment_status") }}'
+          - name: electronic_invoice_status
+            description: '{{ doc("electronic_invoice_status") }}'
+          - name: fulfillment_channel
+            description: '{{ doc("fulfillment_channel") }}'
+          - name: fulfillment_supply_source_id
+            description: '{{ doc("fulfillment_supply_source_id") }}'
+          - name: has_regulated_items
+            description: '{{ doc("has_regulated_items") }}'
+          - name: is_access_point_order
+            description: '{{ doc("is_access_point_order") }}'
+          - name: is_business_order
+            description: '{{ doc("is_business_order") }}'
+          - name: is_estimated_ship_date_set
+            description: '{{ doc("is_estimated_ship_date_set") }}'
+          - name: is_global_express_enabled
+            description: '{{ doc("is_global_express_enabled") }}'
+          - name: is_iba
+            description: '{{ doc("is_iba") }}'
+          - name: is_ispu
+            description: '{{ doc("is_ispu") }}'
+          - name: is_premium_order
+            description: '{{ doc("is_premium_order") }}'
+          - name: is_prime
+            description: '{{ doc("is_prime") }}'
+          - name: is_replacement_order
+            description: '{{ doc("is_replacement_order") }}'
+          - name: is_sold_by_ab
+            description: '{{ doc("is_sold_by_ab") }}'
+          - name: last_update_date
+            description: '{{ doc("last_update_date") }}'
+          - name: latest_delivery_date
+            description: '{{ doc("latest_delivery_date") }}'
+          - name: latest_ship_date
+            description: '{{ doc("latest_ship_date") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: number_of_items_shipped
+            description: '{{ doc("number_of_items_shipped") }}'
+          - name: number_of_items_unshipped
+            description: '{{ doc("number_of_items_unshipped") }}'
+          - name: order_channel
+            description: '{{ doc("order_channel") }}'
+          - name: order_status
+            description: '{{ doc("order_status") }}'
+          - name: order_total_amount
+            description: '{{ doc("order_total_amount") }}'
+          - name: order_total_currency_code
+            description: '{{ doc("order_total_currency_code") }}'
+          - name: order_type
+            description: '{{ doc("order_type") }}'
+          - name: payment_method
+            description: '{{ doc("payment_method") }}'
+          - name: promise_response_due_date
+            description: '{{ doc("promise_response_due_date") }}'
+          - name: purchase_date
+            description: '{{ doc("purchase_date") }}'
+          - name: replaced_order_id
+            description: '{{ doc("replaced_order_id") }}'
+          - name: sales_channel
+            description: '{{ doc("sales_channel") }}'
+          - name: seller_display_name
+            description: '{{ doc("seller_display_name") }}'
+          - name: seller_order_id
+            description: '{{ doc("seller_order_id") }}'
+          - name: ship_service_level
+            description: '{{ doc("ship_service_level") }}'
+          - name: shipment_service_level_category
+            description: '{{ doc("shipment_service_level_category") }}'
+          - name: default_ship_from_location_address_line_1
+            description: '{{ doc("default_ship_from_location_address_line_1") }}'
+          - name: default_ship_from_location_address_line_2
+            description: '{{ doc("default_ship_from_location_address_line_2") }}'
+          - name: default_ship_from_location_address_line_3
+            description: '{{ doc("default_ship_from_location_address_line_3") }}'
+          - name: default_ship_from_location_address_type
+            description: '{{ doc("default_ship_from_location_address_type") }}'
+          - name: default_ship_from_location_city
+            description: '{{ doc("default_ship_from_location_city") }}'
+          - name: default_ship_from_location_country_code
+            description: '{{ doc("default_ship_from_location_country_code") }}'
+          - name: default_ship_from_location_county
+            description: '{{ doc("default_ship_from_location_county") }}'
+          - name: default_ship_from_location_district
+            description: '{{ doc("default_ship_from_location_district") }}'
+          - name: default_ship_from_location_municipality
+            description: '{{ doc("default_ship_from_location_municipality") }}'
+          - name: default_ship_from_location_name
+            description: '{{ doc("default_ship_from_location_name") }}'
+          - name: default_ship_from_location_phone
+            description: '{{ doc("default_ship_from_location_phone") }}'
+          - name: default_ship_from_location_postal_code
+            description: '{{ doc("default_ship_from_location_postal_code") }}'
+          - name: default_ship_from_location_state_or_region
+            description: '{{ doc("default_ship_from_location_state_or_region") }}'
+          - name: shipping_address_address_line_1
+            description: '{{ doc("shipping_address_address_line_1") }}'
+          - name: shipping_address_address_line_2
+            description: '{{ doc("shipping_address_address_line_2") }}'
+          - name: shipping_address_address_line_3
+            description: '{{ doc("shipping_address_address_line_3") }}'
+          - name: shipping_address_address_type
+            description: '{{ doc("shipping_address_address_type") }}'
+          - name: shipping_address_city
+            description: '{{ doc("shipping_address_city") }}'
+          - name: shipping_address_country_code
+            description: '{{ doc("shipping_address_country_code") }}'
+          - name: shipping_address_county
+            description: '{{ doc("shipping_address_county") }}'
+          - name: shipping_address_district
+            description: '{{ doc("shipping_address_district") }}'
+          - name: shipping_address_municipality
+            description: '{{ doc("shipping_address_municipality") }}'
+          - name: shipping_address_name
+            description: '{{ doc("shipping_address_name") }}'
+          - name: shipping_address_phone
+            description: '{{ doc("shipping_address_phone") }}'
+          - name: shipping_address_postal_code
+            description: '{{ doc("shipping_address_postal_code") }}'
+          - name: shipping_address_state_or_region
+            description: '{{ doc("shipping_address_state_or_region") }}'
+
+      - name: order_item
+        identifier: '{{ var("amazon_selling_partner_order_item_identifier", "order_item") }}'
+        description: '{{ doc("order_item") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_orders_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: order_item_id
+            description: '{{ doc("order_item_id") }}'
+          - name: amazon_order_id
+            description: '{{ doc("amazon_order_id") }}'
+          - name: is_gift
+            description: '{{ doc("is_gift") }}'
+          - name: is_transparency
+            description: '{{ doc("is_transparency") }}'
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: buyer_requested_cancel_is_buyer_requested_cancel
+            description: '{{ doc("buyer_requested_cancel_is_buyer_requested_cancel") }}'
+          - name: buyer_requested_cancel_buyer_cancel_reason
+            description: '{{ doc("buyer_requested_cancel_buyer_cancel_reason") }}'
+          - name: condition_id
+            description: '{{ doc("condition_id") }}'
+          - name: condition_note
+            description: '{{ doc("condition_note") }}'
+          - name: condition_subtype_id
+            description: '{{ doc("condition_subtype_id") }}'
+          - name: deemed_reseller_category
+            description: '{{ doc("deemed_reseller_category") }}'
+          - name: ioss_number
+            description: '{{ doc("ioss_number") }}'
+          - name: item_price_amount
+            description: '{{ doc("item_price_amount") }}'
+          - name: item_price_currency_code
+            description: '{{ doc("item_price_currency_code") }}'
+          - name: item_tax_amount
+            description: '{{ doc("item_tax_amount") }}'
+          - name: item_tax_currency_code
+            description: '{{ doc("item_tax_currency_code") }}'
+          - name: points_granted_monetary_amount
+            description: '{{ doc("points_granted_monetary_amount") }}'
+          - name: points_granted_monetary_currency_code
+            description: '{{ doc("points_granted_monetary_currency_code") }}'
+          - name: points_granted_points_number
+            description: '{{ doc("points_granted_points_number") }}'
+          - name: price_designation
+            description: '{{ doc("price_designation") }}'
+          - name: product_info_detail_number_of_items
+            description: '{{ doc("product_info_detail_number_of_items") }}'
+          - name: promotion_discount_amount
+            description: '{{ doc("promotion_discount_amount") }}'
+          - name: promotion_discount_currency_code
+            description: '{{ doc("promotion_discount_currency_code") }}'
+          - name: promotion_discount_tax_currency_code
+            description: '{{ doc("promotion_discount_tax_currency_code") }}'
+          - name: promotion_discount_tax_amount
+            description: '{{ doc("promotion_discount_tax_amount") }}'
+          - name: quantity_ordered
+            description: '{{ doc("quantity_ordered") }}'
+          - name: quantity_shipped
+            description: '{{ doc("quantity_shipped") }}'
+          - name: scheduled_delivery_end_date
+            description: '{{ doc("scheduled_delivery_end_date") }}'
+          - name: scheduled_delivery_start_date
+            description: '{{ doc("scheduled_delivery_start_date") }}'
+          - name: seller_sku
+            description: '{{ doc("seller_sku") }}'
+          - name: serial_number_required
+            description: '{{ doc("serial_number_required") }}'
+          - name: shipping_discount_amount
+            description: '{{ doc("shipping_discount_amount") }}'
+          - name: shipping_discount_currency_code
+            description: '{{ doc("shipping_discount_currency_code") }}'
+          - name: shipping_discount_tax_amount
+            description: '{{ doc("shipping_discount_tax_amount") }}'
+          - name: shipping_discount_tax_currency_code
+            description: '{{ doc("shipping_discount_tax_currency_code") }}'
+          - name: shipping_price_amount
+            description: '{{ doc("shipping_price_amount") }}'
+          - name: shipping_price_currency_code
+            description: '{{ doc("shipping_price_currency_code") }}'
+          - name: shipping_tax_amount
+            description: '{{ doc("shipping_tax_amount") }}'
+          - name: shipping_tax_currency_code
+            description: '{{ doc("shipping_tax_currency_code") }}'
+          - name: store_chain_store_id
+            description: '{{ doc("store_chain_store_id") }}'
+          - name: tax_collection_model
+            description: '{{ doc("tax_collection_model") }}'
+          - name: tax_collection_responsible_party
+            description: '{{ doc("tax_collection_responsible_party") }}'
+          - name: title
+            description: '{{ doc("order_item_title") }}'
+
+      - name: order_item_promotion_id
+        identifier: '{{ var("amazon_selling_partner_order_item_promotion_id_identifier", "order_item_promotion_id") }}'
+        description: '{{ doc("order_item_promotion_id") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_orders_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: promotion_id
+            description: '{{ doc("promotion_id") }}'
+          - name: amazon_order_id
+            description: '{{ doc("amazon_order_id") }}'
+          - name: order_item_id
+            description: '{{ doc("order_item_id") }}'
+
+      - name: payment_method_detail_item
+        identifier: '{{ var("amazon_selling_partner_payment_method_detail_item_identifier", "payment_method_detail_item") }}'
+        description: '{{ doc("payment_method_detail_item") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_orders_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: amazon_order_id
+            description: '{{ doc("amazon_order_id") }}'
+          - name: method
+            description: '{{ doc("method") }}'
+
+      - name: item_product_type
+        identifier: '{{ var("amazon_selling_partner_item_product_type_identifier", "item_product_type") }}'
+        description: '{{ doc("item_product_type") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: product_type
+            description: '{{ doc("product_type") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_dimension
+        identifier: '{{ var("amazon_selling_partner_item_dimension_identifier", "item_dimension") }}'
+        description: '{{ doc("item_dimension") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: item_height_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: item_height_value
+            description: '{{ doc("item_height_value") }}'
+          - name: item_length_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: item_length_value
+            description: '{{ doc("item_length_value") }}'
+          - name: item_weight_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: item_weight_value
+            description: '{{ doc("item_weight_value") }}'
+          - name: item_width_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: item_width_value
+            description: '{{ doc("item_width_value") }}'
+          - name: package_height_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: package_height_value
+            description: '{{ doc("package_height_value") }}'
+          - name: package_length_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: package_length_value
+            description: '{{ doc("package_length_value") }}'
+          - name: package_weight_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: package_weight_value
+            description: '{{ doc("package_weight_value") }}'
+          - name: package_width_unit
+            description: '{{ doc("dimension_unit") }}'
+          - name: package_width_value
+            description: '{{ doc("package_width_value") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_image
+        identifier: '{{ var("amazon_selling_partner_item_image_identifier", "item_image") }}'
+        description: '{{ doc("item_image") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: link
+            description: '{{ doc("image_link") }}'
+          - name: variant
+            description: '{{ doc("image_variant") }}'
+          - name: height
+            description: '{{ doc("image_height") }}'
+          - name: width
+            description: '{{ doc("image_width") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_summary
+        identifier: '{{ var("amazon_selling_partner_item_summary_identifier", "item_summary") }}'
+        description: '{{ doc("item_summary") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == []}}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: adult_product
+            description: '{{ doc("adult_product") }}'
+          - name: autographed
+            description: '{{ doc("autographed") }}'
+          - name: brand
+            description: '{{ doc("brand") }}'
+          - name: display_name
+            description: '{{ doc("display_name") }}'
+          - name: classification_id
+            description: '{{ doc("classification_id") }}'
+          - name: color
+            description: '{{ doc("color") }}'
+          - name: contributors
+            description: '{{ doc("contributors") }}'
+          - name: item_classification
+            description: '{{ doc("item_classification") }}'
+          - name: item_name
+            description: '{{ doc("item_name") }}'
+          - name: manufacturer
+            description: '{{ doc("manufacturer") }}'
+          - name: memorabilia
+            description: '{{ doc("memorabilia") }}'
+          - name: model_number
+            description: '{{ doc("model_number") }}'
+          - name: package_quantity
+            description: '{{ doc("package_quantity") }}'
+          - name: part_number
+            description: '{{ doc("part_number") }}'
+          - name: release_date
+            description: '{{ doc("release_date") }}'
+          - name: size
+            description: '{{ doc("size") }}'
+          - name: style
+            description: '{{ doc("style") }}'
+          - name: trade_in_eligible
+            description: '{{ doc("trade_in_eligible") }}'
+          - name: website_display_group
+            description: '{{ doc("website_display_group") }}'
+          - name: website_display_group_name
+            description: '{{ doc("website_display_group_name") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_display_group_sales_rank
+        identifier: '{{ var("amazon_selling_partner_item_display_group_sales_rank_identifier", "item_display_group_sales_rank") }}'
+        description: '{{ doc("item_display_group_sales_rank") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: website_display_group
+            description: '{{ doc("website_display_group") }}'
+          - name: title
+            description: '{{ doc("sales_rank_title") }}'
+          - name: link
+            description: '{{ doc("sales_rank_link") }}'
+          - name: rank
+            description: '{{ doc("rank") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_classification_sales_rank
+        identifier: '{{ var("amazon_selling_partner_item_classification_sales_rank_identifier", "item_classification_sales_rank") }}'
+        description: '{{ doc("item_classification_sales_rank") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: classification_id
+            description: '{{ doc("classification_id") }}'
+          - name: title
+            description: '{{ doc("sales_rank_title") }}'
+          - name: link
+            description: '{{ doc("sales_rank_link") }}'
+          - name: rank
+            description: '{{ doc("rank") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_identifier
+        identifier: '{{ var("amazon_selling_partner_item_identifier_identifier", "item_identifier") }}'
+        description: '{{ doc("item_identifier") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: marketplace_id
+            description: '{{ doc("marketplace_id") }}'
+          - name: identifier
+            description: '{{ doc("identifier") }}'
+          - name: identifier_type
+            description: '{{ doc("identifier_type") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: item_relationship
+        identifier: '{{ var("amazon_selling_partner_item_relationship_identifier", "item_relationship") }}'
+        description: '{{ doc("item_relationship") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_catalog_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: child_asin
+            description: '{{ doc("child_asin") }}'
+          - name: parent_asin
+            description: '{{ doc("parent_asin") }}'
+          - name: type
+            description: '{{ doc("relationship_type") }}'
+          - name: _fivetran_synced
+            description: '{{ doc("_fivetran_synced") }}'
+
+      - name: fba_inventory_summary
+        identifier: '{{ var("amazon_selling_partner_fba_inventory_summary_identifier", "fba_inventory_summary") }}'
+        description: '{{ doc("fba_inventory_summary") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_fba_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: _fivetran_id
+            description: '{{ doc("inventory_summary_id") }}'
+          - name: asin
+            description: '{{ doc("asin") }}'
+          - name: granularity_id
+            description: '{{ doc("granularity_id") }}'
+          - name: granularity_type
+            description: '{{ doc("granularity_type") }}'
+          - name: carrier_damaged_quantity
+            description: '{{ doc("carrier_damaged_quantity") }}'
+          - name: condition
+            description: '{{ doc("condition") }}'
+          - name: customer_damaged_quantity
+            description: '{{ doc("customer_damaged_quantity") }}'
+          - name: defective_quantity
+            description: '{{ doc("defective_quantity") }}'
+          - name: distributor_damaged_quantity
+            description: '{{ doc("distributor_damaged_quantity") }}'
+          - name: expired_quantity
+            description: '{{ doc("expired_quantity") }}'
+          - name: fc_processing_quantity
+            description: '{{ doc("fc_processing_quantity") }}'
+          - name: fn_sku
+            description: '{{ doc("fn_sku") }}'
+          - name: fullfillable_quantity
+            description: '{{ doc("fullfillable_quantity") }}'
+          - name: inblound_shipped_quantity
+            description: '{{ doc("inblound_shipped_quantity") }}'
+          - name: inbound_receiving_quantity
+            description: '{{ doc("inbound_receiving_quantity") }}'
+          - name: inbound_working_quantity
+            description: '{{ doc("inbound_working_quantity") }}'
+          - name: last_updated_time
+            description: '{{ doc("last_updated_time") }}'
+          - name: pending_customer_order_quantity
+            description: '{{ doc("pending_customer_order_quantity") }}'
+          - name: pending_transshipment_quantity
+            description: '{{ doc("pending_transshipment_quantity") }}'
+          - name: product_name
+            description: '{{ doc("product_name") }}'
+          - name: seller_sku
+            description: '{{ doc("seller_sku") }}'
+          - name: total_quantity
+            description: '{{ doc("total_quantity") }}'
+          - name: total_researching_quantity
+            description: '{{ doc("total_researching_quantity") }}'
+          - name: total_reserved_quantity
+            description: '{{ doc("total_reserved_quantity") }}'
+          - name: total_unfulfillable_quantity
+            description: '{{ doc("total_unfulfillable_quantity") }}'
+          - name: warehouse_damaged_quantity
+            description: '{{ doc("warehouse_damaged_quantity") }}'
+
+      - name: fba_inventory_researching_quantity_entry
+        identifier: '{{ var("amazon_selling_partner_fba_inventory_researching_quantity_entry_identifier", "fba_inventory_researching_quantity_entry") }}'
+        description: '{{ doc("fba_inventory_researching_quantity_entry") }}'
+        config:
+          enabled: "{{ var('amazon_selling_partner__using_fba_module', true) and var('amazon_selling_partner_sources', []) == [] }}"
+        columns:
+          - name: inventory_summary_id
+            description: '{{ doc("inventory_summary_id") }}'
+          - name: name
+            description: '{{ doc("name") }}'
+          - name: quantity
+            description: '{{ doc("quantity") }}'

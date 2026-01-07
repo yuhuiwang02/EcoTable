@@ -1,0 +1,86 @@
+name: 'amazon_selling_partner_integration_tests'
+version: '0.2.1'
+config-version: 2
+
+profile: 'dbt_amazon_selling_partner'
+
+dispatch:
+  - macro_namespace: dbt_utils
+    search_order: ['spark_utils', 'dbt_utils']
+
+vars:
+  amazon_selling_partner:
+    amazon_selling_partner_schema: public
+
+models:
+  +schema: "amazon_selling_partner_{{ var('directed_schema','dev') }}"
+
+seeds:
+  +docs:
+    show: False
+  amazon_selling_partner_integration_tests:
+    item_identifier:
+      +tags:
+        - "catalog"
+      +column_types:
+        identifier_type: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+    orders:
+      +tags: 
+        - "orders"
+      +column_types:
+        promise_response_due_date: "timestamp"
+        last_update_date: "timestamp"
+        purchase_date: "timestamp"
+        latest_delivery_date: "timestamp"
+        latest_ship_date: "timestamp"
+        earliest_delivery_date: "timestamp"
+        earliest_ship_date: "timestamp"
+        order_total_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+    order_item:
+      +tags: 
+        - "orders"
+      +column_types:
+        item_price_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        item_tax_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        shipping_discount_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        shipping_discount_tax_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        shipping_price_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        shipping_tax_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        promotion_discount_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+        promotion_discount_tax_amount: "{{ 'string' if target.type in ('bigquery', 'spark', 'databricks') else 'varchar' }}"
+    payment_method_detail_item:
+      +tags: 
+        - "orders"
+    order_item_promotion_id:
+      +tags: 
+        - "orders"
+    item_summary:
+      +tags:
+        - "catalog"
+    item_relationship:
+      +tags:
+        - "catalog"
+    item_product_type:
+      +tags:
+        - "catalog"
+    item_display_group_sales_rank:
+      +tags:
+        - "catalog"
+    item_classification_sales_rank:
+      +tags:
+        - "catalog"
+    item_dimension:
+      +tags:
+        - "catalog"
+    item_image:
+      +tags:
+        - "catalog"
+    fba_inventory_summary:
+      +tags:
+        - "fba"
+    fba_inventory_researching_quantity_entry:
+      +tags:
+        - "fba"
+flags:
+  send_anonymous_usage_stats: False
+  use_colors: True

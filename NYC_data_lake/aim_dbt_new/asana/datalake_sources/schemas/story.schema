@@ -1,0 +1,14 @@
+Table: public.story_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+created_at                     timestamp without time zone            YES        None                
+created_by_id                  bigint                          YES        None                
+hearted                        integer                         YES        None                
+num_hearts                     integer                         YES        None                
+source                         text                            YES        None                
+target_id                      bigint                          YES        None                
+text                           text                            YES        None                
+type                           text                            YES        None                

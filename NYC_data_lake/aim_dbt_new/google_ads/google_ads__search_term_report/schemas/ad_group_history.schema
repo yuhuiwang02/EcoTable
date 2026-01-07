@@ -1,0 +1,11 @@
+Table: public.ad_group_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+updated_at                     timestamp without time zone            YES        None                
+type                           text                            YES        None                
+campaign_id                    bigint                          YES        None                
+campaign_name                  text                            YES        None                
+name                           text                            YES        None                
+status                         text                            YES        None                

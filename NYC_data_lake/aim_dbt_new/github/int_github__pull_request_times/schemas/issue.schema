@@ -1,0 +1,18 @@
+Table: public.github_issue_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+body                           text                            YES        None                
+closed_at                      timestamp without time zone            YES        None                
+created_at                     timestamp without time zone            YES        None                
+locked                         boolean                         YES        None                
+milestone_id                   integer                         YES        None                
+number                         integer                         YES        None                
+pull_request                   boolean                         YES        None                
+repository_id                  integer                         YES        None                
+state                          text                            YES        None                
+title                          text                            YES        None                
+updated_at                     timestamp without time zone            YES        None                
+user_id                        integer                         YES        None                

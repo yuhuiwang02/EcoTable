@@ -1,0 +1,37 @@
+Table: public.search_term_report_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+_fivetran_id                   text                            YES        None                
+ad_group_id                    integer                         YES        None                
+campaign_id                    integer                         YES        None                
+date                           date                            YES        None                
+ad_group_deleted               boolean                         YES        None                
+ad_group_name                  text                            YES        None                
+avg_cpa_amount                 double precision                YES        None                
+avg_cpa_currency               text                            YES        None                
+avg_cpt_amount                 double precision                YES        None                
+avg_cpt_currency               text                            YES        None                
+bid_amount_amount              double precision                YES        None                
+bid_amount_currency            text                            YES        None                
+conversion_rate                double precision                YES        None                
+conversions                    integer                         YES        None                
+deleted                        boolean                         YES        None                
+impressions                    integer                         YES        None                
+keyword                        text                            YES        None                
+keyword_display_status         text                            YES        None                
+keyword_id                     integer                         YES        None                
+lat_off_installs               integer                         YES        None                
+lat_on_installs                integer                         YES        None                
+local_spend_amount             double precision                YES        None                
+local_spend_currency           text                            YES        None                
+match_type                     text                            YES        None                
+new_downloads                  integer                         YES        None                
+redownloads                    integer                         YES        None                
+search_term_source             text                            YES        None                
+search_term_text               text                            YES        None                
+tap_through_rate               double precision                YES        None                
+taps                           integer                         YES        None                
+tap_installs                   integer                         YES        None                
+tap_new_downloads              integer                         YES        None                
+tap_redownloads                integer                         YES        None                

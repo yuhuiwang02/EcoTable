@@ -1,0 +1,11 @@
+Table: public.item_image
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+asin                           text                            YES        None                
+marketplace_id                 text                            YES        None                
+link                           text                            YES        None                
+variant                        text                            YES        None                
+height                         integer                         YES        None                
+width                          integer                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                

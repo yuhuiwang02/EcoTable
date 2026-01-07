@@ -1,0 +1,41 @@
+Table: public.application_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+last_updated_at                text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+agent_policy_prod              text                            YES        None                
+agent_policy_staging           text                            YES        None                
+agent_version_prod             text                            YES        None                
+agent_version_staging          text                            YES        None                
+application_flags_cname        boolean                         YES        None                
+application_flags_disabled     boolean                         YES        None                
+application_flags_guide_localization boolean                         YES        None                
+application_flags_guide_widget boolean                         YES        None                
+application_flags_onboarding   boolean                         YES        None                
+application_flags_prevent_code_injection boolean                         YES        None                
+application_flags_show_guides_to_anon boolean                         YES        None                
+application_flags_xhr_timings  boolean                         YES        None                
+created_at                     text                            YES        None                
+created_by_user_id             bigint                          YES        None                
+description                    integer                         YES        None                
+disabled_at                    timestamp without time zone            YES        None                
+display_name                   text                            YES        None                
+event_count                    integer                         YES        None                
+event_rate                     integer                         YES        None                
+first_event_time               text                            YES        None                
+guide_css_url                  integer                         YES        None                
+icon_url                       integer                         YES        None                
+integrated                     boolean                         YES        None                
+is_deleted                     boolean                         YES        None                
+last_updated_by_user_id        bigint                          YES        None                
+marked_for_deletion_at         timestamp without time zone            YES        None                
+name                           text                            YES        None                
+platform                       text                            YES        None                
+push_application_id            integer                         YES        None                
+record_until                   timestamp without time zone            YES        None                
+sampling_rate                  timestamp without time zone            YES        None                
+starting_event_time            timestamp without time zone            YES        None                
+store_url                      integer                         YES        None                
+subscription_id                bigint                          YES        None                

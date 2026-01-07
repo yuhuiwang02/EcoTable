@@ -1,0 +1,12 @@
+Table: public.user
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+deleted_at                     integer                         YES        None                
+first_name                     text                            YES        None                
+last_name                      text                            YES        None                
+role                           integer                         YES        None                
+user_type                      text                            YES        None                
+username                       text                            YES        None                

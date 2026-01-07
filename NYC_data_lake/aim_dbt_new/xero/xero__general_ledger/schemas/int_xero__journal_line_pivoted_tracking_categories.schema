@@ -1,0 +1,11 @@
+Table: public_xero_dev.int_xero__journal_line_pivoted_tracking_categories
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+journal_id                     text                            YES        None                
+journal_line_id                text                            YES        None                
+source_relation                text                            YES        None                
+region                         text                            YES        None                
+department                     text                            YES        None                
+location                       text                            YES        None                
+project                        text                            YES        None                

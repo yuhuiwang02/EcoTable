@@ -1,0 +1,6 @@
+{
+  "source_name": "apple_search_ads",
+  "table_name": "keyword_report",
+  "identifier": "keyword_report_data",
+  "definition_file": "models/staging/src_apple_search_ads.yml"
+}

@@ -1,0 +1,202 @@
+with base as (
+
+    select * 
+    from "instagram_business"."public_instagram_business_dev"."stg_instagram_business__media_history_tmp"
+
+),
+
+fields as (
+
+    select
+        
+    
+    
+    _fivetran_id
+    
+ as 
+    
+    _fivetran_id
+    
+, 
+    
+    
+    _fivetran_synced
+    
+ as 
+    
+    _fivetran_synced
+    
+, 
+    
+    
+    caption
+    
+ as 
+    
+    caption
+    
+, 
+    
+    
+    carousel_album_id
+    
+ as 
+    
+    carousel_album_id
+    
+, 
+    
+    
+    created_time
+    
+ as 
+    
+    created_time
+    
+, 
+    
+    
+    id
+    
+ as 
+    
+    id
+    
+, 
+    
+    
+    ig_id
+    
+ as 
+    
+    ig_id
+    
+, 
+    
+    
+    is_comment_enabled
+    
+ as 
+    
+    is_comment_enabled
+    
+, 
+    
+    
+    is_story
+    
+ as 
+    
+    is_story
+    
+, 
+    
+    
+    media_type
+    
+ as 
+    
+    media_type
+    
+, 
+    
+    
+    media_url
+    
+ as 
+    
+    media_url
+    
+, 
+    
+    
+    permalink
+    
+ as 
+    
+    permalink
+    
+, 
+    
+    
+    shortcode
+    
+ as 
+    
+    shortcode
+    
+, 
+    
+    
+    thumbnail_url
+    
+ as 
+    
+    thumbnail_url
+    
+, 
+    
+    
+    user_id
+    
+ as 
+    
+    user_id
+    
+, 
+    
+    
+    username
+    
+ as 
+    
+    username
+    
+
+
+
+
+        
+
+
+, cast('' as TEXT) as source_relation
+
+
+
+        
+    from base
+),
+
+final as (
+    
+    select 
+        _fivetran_id,
+        _fivetran_synced,
+        caption as post_caption,
+        carousel_album_id,
+        created_time as created_timestamp,
+        id as post_id,
+        ig_id,
+        is_comment_enabled,
+        is_story,
+        media_type,
+        media_url,
+        permalink as post_url,
+        shortcode,
+        thumbnail_url,
+        user_id,
+        username,
+        source_relation
+    from fields
+),
+
+is_most_recent as (
+
+    select 
+        *,
+        row_number() over (partition by post_id, source_relation order by _fivetran_synced desc) = 1 as is_most_recent_record
+    from final
+
+)
+
+select * from is_most_recent

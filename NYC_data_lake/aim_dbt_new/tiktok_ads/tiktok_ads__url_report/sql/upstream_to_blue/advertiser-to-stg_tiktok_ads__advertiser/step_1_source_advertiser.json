@@ -1,0 +1,6 @@
+{
+  "source_name": "tiktok_ads",
+  "table_name": "advertiser",
+  "identifier": "tiktok_advertiser_data",
+  "definition_file": "models/staging/src_tiktok_ads.yml"
+}

@@ -1,0 +1,30 @@
+Table: public.list
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+beamer_address                 text                            YES        None                
+contact_address_1              text                            YES        None                
+contact_address_2              integer                         YES        None                
+contact_city                   text                            YES        None                
+contact_company                text                            YES        None                
+contact_country                text                            YES        None                
+contact_state                  text                            YES        None                
+contact_zip                    text                            YES        None                
+date_created                   timestamp without time zone            YES        None                
+default_from_email             text                            YES        None                
+default_from_name              text                            YES        None                
+default_language               text                            YES        None                
+default_subject                integer                         YES        None                
+email_type_option              boolean                         YES        None                
+list_rating                    double precision                YES        None                
+name                           text                            YES        None                
+notify_on_subscribe            integer                         YES        None                
+notify_on_unsubscribe          integer                         YES        None                
+permission_reminder            text                            YES        None                
+subscribe_url_long             text                            YES        None                
+subscribe_url_short            text                            YES        None                
+use_archive_bar                boolean                         YES        None                
+visibility                     text                            YES        None                

@@ -1,0 +1,27 @@
+Table: public.pardot_visitor_activity_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             integer                         YES        None                
+_fivetran_synced               text                            YES        None                
+campaign_id                    integer                         YES        None                
+created_at                     text                            YES        None                
+email_id                       integer                         YES        None                
+email_template_id              integer                         YES        None                
+file_id                        integer                         YES        None                
+form_handler_id                integer                         YES        None                
+form_id                        integer                         YES        None                
+landing_page_id                integer                         YES        None                
+list_email_id                  integer                         YES        None                
+multivariate_test_variation_id integer                         YES        None                
+opportunity_id                 integer                         YES        None                
+paid_search_ad_id              integer                         YES        None                
+prospect_id                    integer                         YES        None                
+site_search_query_id           integer                         YES        None                
+type                           text                            YES        None                
+type_name                      text                            YES        None                
+visit_id                       integer                         YES        None                
+visitor_id                     integer                         YES        None                
+visitor_page_view_id           text                            YES        None                
+custom_redirect_id             text                            YES        None                
+details                        text                            YES        None                

@@ -1,0 +1,6 @@
+{
+  "source_name": "amazon_ads",
+  "table_name": "profile",
+  "identifier": "profile_data",
+  "definition_file": "models/staging/src_amazon_ads.yml"
+}

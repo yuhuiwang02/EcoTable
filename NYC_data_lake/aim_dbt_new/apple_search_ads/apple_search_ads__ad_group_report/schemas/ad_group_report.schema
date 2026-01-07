@@ -1,0 +1,24 @@
+Table: public.ad_group_report_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+ad_group_id                    integer                         YES        None                
+date                           date                            YES        None                
+avg_cpa_amount                 double precision                YES        None                
+avg_cpa_currency               text                            YES        None                
+avg_cpt_amount                 double precision                YES        None                
+avg_cpt_currency               text                            YES        None                
+conversion_rate                double precision                YES        None                
+conversions                    integer                         YES        None                
+impressions                    integer                         YES        None                
+lat_off_installs               integer                         YES        None                
+lat_on_installs                integer                         YES        None                
+local_spend_amount             double precision                YES        None                
+local_spend_currency           text                            YES        None                
+new_downloads                  integer                         YES        None                
+redownloads                    integer                         YES        None                
+tap_through_rate               double precision                YES        None                
+taps                           integer                         YES        None                
+tap_installs                   integer                         YES        None                
+tap_new_downloads              integer                         YES        None                
+tap_redownloads                integer                         YES        None                

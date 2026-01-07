@@ -1,0 +1,16 @@
+Table: public.xero_journal_line_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+journal_line_id                text                            YES        None                
+account_code                   integer                         YES        None                
+account_id                     text                            YES        None                
+account_name                   text                            YES        None                
+account_type                   text                            YES        None                
+description                    integer                         YES        None                
+gross_amount                   double precision                YES        None                
+journal_id                     text                            YES        None                
+net_amount                     double precision                YES        None                
+tax_amount                     double precision                YES        None                
+tax_name                       text                            YES        None                
+tax_type                       text                            YES        None                

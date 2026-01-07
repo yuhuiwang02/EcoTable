@@ -1,0 +1,21 @@
+source_relation,campaign_id,last_updated_date,bidding_strategy,creation_date,end_date,campaign_name,portfolio_id,profile_id,serving_status,start_date,state,targeting_type,budget,budget_type,effective_budget,is_most_recent_record
+"",2187,2022-08-25 15:36:51.687000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_PAUSED,2022-07-11,paused,manual,2000,daily,,t
+"",2187,2022-08-09 12:31:52.823000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,2000,daily,,f
+"",2187,2022-07-14 11:58:58.857000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_PAUSED,2022-07-11,paused,manual,2000,daily,,f
+"",2187,2022-07-12 21:19:35.684000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,2000,daily,,f
+"",2187,2022-07-12 16:31:38.031000,autoForSales,2022-07-11 22:38:16.327000,,Gold Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,1000,daily,,f
+"",2187,2022-07-11 22:38:16.327000,autoForSales,2022-07-11 22:38:16.327000,,Red Leader,1138,66,CAMPAIGN_STATUS_ENABLED,2022-07-11,enabled,manual,300,daily,,f
+"",2188,2022-08-01 12:30:00.000000,autoForSales,2022-07-15 10:20:00.000000,,Blue Leader,1139,66,CAMPAIGN_STATUS_ENABLED,2022-07-15,enabled,manual,1800,daily,,t
+"",2188,2022-07-15 10:20:00.000000,autoForSales,2022-07-15 10:20:00.000000,,Blue Leader,1139,66,CAMPAIGN_STATUS_ENABLED,2022-07-15,enabled,manual,1500,daily,,f
+"",2189,2022-07-20 14:00:00.000000,autoForSales,2022-07-20 14:00:00.000000,,Green Squadron,1139,66,CAMPAIGN_STATUS_ENABLED,2022-07-20,enabled,auto,1200,daily,,t
+"",2190,2022-08-01 09:00:00.000000,legacyForSales,2022-08-01 09:00:00.000000,,Rogue One,1140,66,CAMPAIGN_STATUS_ENABLED,2022-08-01,enabled,manual,2500,daily,,t
+"",2191,2022-08-05 11:00:00.000000,autoForSales,2022-08-05 11:00:00.000000,,AT-AT Walker,1141,67,CAMPAIGN_STATUS_ENABLED,2022-08-05,enabled,manual,3000,daily,,t
+"",2192,2022-08-10 13:00:00.000000,autoForSales,2022-08-10 13:00:00.000000,,TIE Fighter,1141,67,CAMPAIGN_STATUS_ENABLED,2022-08-10,enabled,manual,1800,daily,,t
+"",2193,2022-08-12 15:00:00.000000,legacyForSales,2022-08-12 15:00:00.000000,,Star Destroyer,1142,67,CAMPAIGN_STATUS_ENABLED,2022-08-12,enabled,manual,2200,daily,,t
+"",2194,2022-08-15 10:00:00.000000,autoForSales,2022-08-15 10:00:00.000000,,Death Star,1143,68,CAMPAIGN_STATUS_ENABLED,2022-08-15,enabled,auto,1600,daily,,t
+"",2195,2022-08-18 12:00:00.000000,legacyForSales,2022-08-18 12:00:00.000000,,Lightsaber,1144,68,CAMPAIGN_STATUS_ENABLED,2022-08-18,enabled,manual,1900,daily,,t
+"",2196,2022-08-20 14:00:00.000000,autoForSales,2022-08-20 14:00:00.000000,,Force Powers,1145,69,CAMPAIGN_STATUS_ENABLED,2022-08-20,enabled,manual,2100,daily,,t
+"",2197,2022-08-22 16:00:00.000000,autoForSales,2022-08-22 16:00:00.000000,,Jedi Training,1146,69,CAMPAIGN_STATUS_ENABLED,2022-08-22,enabled,manual,1700,daily,,t
+"",2198,2022-08-25 11:00:00.000000,legacyForSales,2022-08-25 11:00:00.000000,,Clone Army,1147,70,CAMPAIGN_STATUS_ENABLED,2022-08-25,enabled,manual,2800,daily,,t
+"",5555,2022-11-09 14:37:05.332000,legacyForSales,2022-11-09 14:37:05.332000,,Millennium Falcon,1138,66,CAMPAIGN_STATUS_ENABLED,2022-11-09,enabled,manual,250,daily,,t
+"",5555,2022-11-09 14:37:05.332000,legacyForSales,2022-11-09 14:37:05.332000,,Millennium Falcon,1138,66,CAMPAIGN_STATUS_ENABLED,2022-11-09,enabled,manual,300,daily,,f

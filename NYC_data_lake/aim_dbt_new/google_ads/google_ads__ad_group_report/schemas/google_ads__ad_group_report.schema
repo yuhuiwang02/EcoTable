@@ -1,0 +1,21 @@
+Table: public_google_ads_dev.google_ads__ad_group_report
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+date_day                       date                            YES        None                
+account_name                   text                            YES        None                
+account_id                     integer                         YES        None                
+currency_code                  text                            YES        None                
+campaign_name                  text                            YES        None                
+campaign_id                    integer                         YES        None                
+ad_group_name                  text                            YES        None                
+ad_group_id                    text                            YES        None                
+ad_group_status                text                            YES        None                
+ad_group_type                  text                            YES        None                
+spend                          numeric                         YES        None                
+clicks                         bigint                          YES        None                
+impressions                    bigint                          YES        None                
+conversions                    bigint                          YES        None                
+conversions_value              bigint                          YES        None                
+view_through_conversions       bigint                          YES        None                

@@ -1,0 +1,26 @@
+Table: public.brand_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             bigint                          YES        None                
+_fivetran_deleted              boolean                         YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+active                         boolean                         YES        None                
+brand_url                      text                            YES        None                
+default                        boolean                         YES        None                
+has_help_center                boolean                         YES        None                
+help_center_state              text                            YES        None                
+logo_content_type              text                            YES        None                
+logo_content_url               text                            YES        None                
+logo_deleted                   boolean                         YES        None                
+logo_file_name                 text                            YES        None                
+logo_height                    integer                         YES        None                
+logo_id                        integer                         YES        None                
+logo_inline                    boolean                         YES        None                
+logo_mapped_content_url        text                            YES        None                
+logo_size                      integer                         YES        None                
+logo_url                       text                            YES        None                
+logo_width                     integer                         YES        None                
+name                           text                            YES        None                
+subdomain                      text                            YES        None                
+url                            text                            YES        None                

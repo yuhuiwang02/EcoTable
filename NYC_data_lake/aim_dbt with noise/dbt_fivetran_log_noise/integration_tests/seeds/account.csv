@@ -1,0 +1,5 @@
+id,_fivetran_synced,country,created_at,name,status
+1k56c2c4xlti6_acct,2021-03-09 21:10:19.037,,2017-03-30 21:59:27.335264,spongebob,active
+acct_company_alpha,2021-04-15 10:30:20.150,US,2018-05-20 14:22:15.123456,Company Alpha,active
+acct_company_beta,2021-05-10 09:15:30.275,CA,2019-02-14 11:30:45.654321,Company Beta,active
+acct_company_gamma,2021-06-20 16:45:12.389,UK,2020-01-10 08:20:30.987654,Company Gamma,active

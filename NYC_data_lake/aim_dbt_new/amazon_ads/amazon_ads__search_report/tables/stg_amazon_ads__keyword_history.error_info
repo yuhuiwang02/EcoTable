@@ -1,0 +1,3 @@
+Error exporting table stg_amazon_ads__keyword_history: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "liuqiyue"
+
+This might be a temporary table, an ephemeral model, or there might be connection issues.

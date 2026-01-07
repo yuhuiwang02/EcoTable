@@ -1,0 +1,24 @@
+Table: public.facebook_pages_post_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             character varying               YES        None                
+updated_time                   text                            YES        None                
+_fivetran_synced               text                            YES        None                
+allowed_advertising_objects    integer                         YES        None                
+created_time                   text                            YES        None                
+is_eligible_for_promotion      boolean                         YES        None                
+is_hidden                      boolean                         YES        None                
+is_instagram_eligible          boolean                         YES        None                
+is_published                   boolean                         YES        None                
+page_id                        bigint                          YES        None                
+parent_id                      integer                         YES        None                
+privacy_allow                  integer                         YES        None                
+privacy_deny                   integer                         YES        None                
+privacy_description            text                            YES        None                
+privacy_friends                integer                         YES        None                
+privacy_value                  text                            YES        None                
+promotable_id                  character varying               YES        None                
+share_count                    integer                         YES        None                
+status_type                    text                            YES        None                
+message                        text                            YES        None                

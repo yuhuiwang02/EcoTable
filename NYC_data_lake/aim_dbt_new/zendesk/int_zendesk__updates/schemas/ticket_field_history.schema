@@ -1,0 +1,10 @@
+Table: public.ticket_field_history_data
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+field_name                     text                            YES        None                
+ticket_id                      bigint                          YES        None                
+updated                        timestamp without time zone            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+user_id                        bigint                          YES        None                
+value                          text                            YES        None                

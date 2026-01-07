@@ -1,0 +1,24 @@
+Table: public_tiktok_ads_dev.stg_tiktok_ads__ad_history
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+source_relation                text                            YES        None                
+ad_id                          integer                         YES        None                
+updated_at                     timestamp without time zone            YES        None                
+ad_group_id                    integer                         YES        None                
+advertiser_id                  integer                         YES        None                
+campaign_id                    integer                         YES        None                
+ad_name                        text                            YES        None                
+call_to_action                 text                            YES        None                
+click_tracking_url             integer                         YES        None                
+impression_tracking_url        integer                         YES        None                
+base_url                       text                            YES        None                
+url_host                       text                            YES        None                
+url_path                       text                            YES        None                
+utm_source                     text                            YES        None                
+utm_medium                     text                            YES        None                
+utm_campaign                   text                            YES        None                
+utm_content                    text                            YES        None                
+utm_term                       text                            YES        None                
+landing_page_url               text                            YES        None                
+is_most_recent_record          boolean                         YES        None                

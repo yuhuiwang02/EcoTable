@@ -1,0 +1,13 @@
+Table: public.user
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+created_at                     timestamp without time zone            YES        None                
+email                          text                            YES        None                
+email_disabled                 boolean                         YES        None                
+family_name                    text                            YES        None                
+given_name                     text                            YES        None                
+phone                          integer                         YES        None                
+verified                       boolean                         YES        None                

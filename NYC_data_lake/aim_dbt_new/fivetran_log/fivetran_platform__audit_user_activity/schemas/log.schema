@@ -1,0 +1,13 @@
+Table: public.log
+================================================================================
+Column Name                    Data Type            Length     Nullable   Default             
+--------------------------------------------------------------------------------
+id                             text                            YES        None                
+time_stamp                     timestamp without time zone            YES        None                
+_fivetran_synced               timestamp without time zone            YES        None                
+connection_id                  text                            YES        None                
+event                          text                            YES        None                
+message_data                   character varying               YES        None                
+message_event                  text                            YES        None                
+transformation_id              character varying               YES        None                
+sync_id                        text                            YES        None                
