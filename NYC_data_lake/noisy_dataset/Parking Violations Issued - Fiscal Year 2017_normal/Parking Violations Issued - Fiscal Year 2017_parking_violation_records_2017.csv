@@ -1,241 +1,481 @@
-plate_id,time_first_observed,days_parking_in_effect,violation_precinct,date_first_observed,unregistered_vehicle,house_number,from_hours_in_effect,meter_number,violation_post_code
-GPJ6404,,YYYYY,19,0,,175,0800A,,14
-55484MJ,,Y,18,0,,550,0700A,,03 6
-83499ME,,YYYYYBB,1,0,0.0,11,0800A,-,
-820236N,,YYYYYYY,120,0,,175A,,,C-PM
-GJP6086,,,70,0,,S,,,05 3
-GAM5437,1226P,Y,68,0,,8413,0800A,309-1488,21
-31234JV,,Y,114,0,,40-11,0830A,,30 4
-19195MH,,YYYYY,18,0,,1745,0700A,,05 6
-HDZ8125,,,0,0,,,,,
-AJKF11,,BBBBBBB,49,0,0.0,2181,ALL,-,
-HFB1162,1001A,Y,112,0,,89-08,0900A,417-3002,03
-GGF8851,,YYYYYYY,20,0,,168,,,25 7
-GZP7443,,,0,0,,,,,
-DFWY21,,Y,24,0,,614,0700A,,01 8
-GBB8762,,Y,13,0,,303,0830A,,A 17
-FEC9707,,BBBBBBB,84,0,0.0,183,ALL,-,
-58HG123,,,43,0,,2158,,,14
-31908MG,,YYYYYYY,14,0,,523,,,17
-0XZ5886,,Y,14,0,,601,0700A,,02 6
-AHO7519,0352P,Y,7,0,,262,0900A,102-3011,53 1
-HKJ8844,,YYYYYYY,13,0,,S,1100P,,C
-89193MG,0502P,Y,19,0,,1296,1000A,119-3004,56 7
-GUJ9172,1200P,YYYYYYY,14,0,,34,,,99 6
-HJJ7962,,YYYYYYY,19,0,,344,,,29
-GHV3169,,Y,13,0,,57,0900A,,99
-GWM1292,,BBYBBBB,72,0,0.0,278,0930A,-,
-3ZZ126,,YYYYY,14,0,,200,0600A,,30
-GWC2815,1150A,BBBBYBB,70,0,0.0,3543,1130A,-,
-GST7375,,YYYYYYY,19,0,,155,,,20 7
-JKZ3905,,YYYYY,1,0,,49,0700A,,069
-42268PC,,YYYYYYY,115,0,,82-01,,,12-A
-13141MK,,YYYYY,10,0,,508,0800A,,01
-HPP7208,,YYYYYYY,19,0,,189,,,18
-HFV5567,,,0,0,,,,,
-55436ME,0900A,YYYYY,1,0,,151,0700A,,014
-EJG2502,0234P,Y,94,0,,799,0830A,322-3005,17
-591067,,YYYYY,107,0,,161-51,0700A,,G 42
-381564,,YYYYYYY,18,0,,S,,,01 6
-60376MD,,BBBBBBB,68,0,0.0,8301,ALL,-,
-HHU2069,1214P,Y,114,0,,29-24,0900A,423-3126,29 4
-EKU9602,,,0,0,,,,,
-HDV1961,,,0,0,,,,,
-75472MC,,Y,13,0,,12,0700A,,99 6
-GTT7805,,,0,0,,,,,
-21475MG,,Y,13,0,,167,0700A,,12
-GFM4944,,Y  Y,23,0,,E,0830A,,CC4
-HDU7777,,Y  Y,71,0,,732,1200A,,16
-HSF1446,,Y  Y,52,0,,3544,0830A,,08
-62831JL,,YYYYYYY,1,0,,W,,,027
-FTW6423,,Y,114,0,,29-17,0830A,,31-A
-GSL3258,,Y,88,0,,150,0930A,,06
-T695412C,,YYYYYYY,68,0,,6930,,,G
-75022JX,,Y,33,0,,2184,0900A,,M 77
-WVZ5904,,,0,0,,,,,
-55036MB,,,23,0,,445,,,CC1
-HHC7517,,Y,63,0,,1942,0900A,,20
-4257A,,YYYYYYY,7,0,,265,,,95
-GTX1730,,YYYYYYY,18,0,,153,,,26
-PT2561T,,BBBBBBB,75,0,0.0,,ALL,-,
-GEL2381,,,0,0,,,,,
-88562MA,,YYYYYYY,115,0,,35-50,,,20
-83403MG,0944A,Y,19,20170331,,878,0830A,118-3019,25
-HEE4485,,YYYYYYY,40,0,,836,,,A 21
-56565MB,,YYYYY,13,0,,297,0800A,,A
-EHN4993,,,0,0,,,,,
-DGE3718,,YYYYYYY,47,0,,W,,,03 2
-END2848,,BBBBBBB,0,0,0.0,350,ALL,-,
-HEJ4114,,YYYYYYY,102,0,,86-11,,,36 4
-FWS9522,,Y  Y,23,0,,W,0830A,,56
-HDZ4969,,,0,0,,,,,
-FXV8878,,YYYYYYY,104,0,,67-08,,,C 42
-PDB2481,,Y,84,0,,306,0830A,,05
-HCE7395,,,23,0,,323,,,C 77
-HJV3459,,Y,47,0,,725,0730A,,G 22
-HLG4784,,YYYYYYY,110,0,,86-22,,,G 41
-T691810C,,BBBBBBB,70,0,0.0,675,ALL,-,
-GSX3238,,,0,0,,,,,
-GCN8238,,YYYYY,70,0,,W,0800A,,25
-548264,,YYYYYYY,113,0,,123-08,,,R
-GNW7279,,YYYYYYY,110,0,,N,0700A,,O
-BD2N466,,,0,0,,,,,
-GGK6604,,YYYYYYY,61,0,,1303,,,46 3
-DTZ584,,,0,0,,,,,
-L77ATD,,,0,0,,,,,
-BBP5586,,,0,0,,,,,
-T47ERT,,,0,0,,,,,
-HEZ3837,,,0,0,,,,,
-HJC9962,,,0,0,,,,,
-HHG8976,,Y,5,0,,125,0800A,,022
-JH7410,,BBBBBBB,70,0,0.0,708,ALL,-,
-T652286C,,YYYYYYY,61,0,,N,,,19
-HGF2491,,,106,0,,114-06,,,T
-M187936,,BBBBYBB,40,0,0.0,809,1200A,-,
-T662839C,,,0,0,,,,,
-82848JX,,Y,102,0,,10505,0800A,,34
-CEX6384,,,0,0,,,,,
-J18GTJ,,YYYYYYY,33,0,,N,,,01
-12861KA,,BBBBBBB,34,0,0.0,452,ALL,-,
-26796ME,,YYYYYYY,43,0,,2262,0900P,,A
-GRS4620,,YYYYYYY,61,0,,1823,,,03 3
-GXG2953,,,0,0,,,,,
-26452PC,,BBBBBBB,13,0,0.0,175,ALL,-,
-93306MC,,Y,19,0,,1523,0800A,,56 7
-GHF8800,,YYYYY,6,0,,40,0830A,,34
-51722JX,,BBBBBBB,24,0,0.0,155,ALL,-,
-57944MC,,,84,0,,W,,,01 3
-GTL7750,,YYYYYYY,114,0,,23-05,,,34
-HJE5013,,Y Y Y,45,0,,1370,1200A,,F 21
-GHE8276,,YYYYYYY,114,0,,36-19,,,28
-AM724V,,YYYYYYY,26,0,,400,,,CC8
-EEH6208,,,0,0,,,,,
-GWJ6607,,YYYYYYY,102,0,,87-48,,,34 4
-HMU1426,,,0,0,,,,,
-HPY2974,,BBBBBBB,62,0,0.0,8806,ALL,-,
-PEN7L,,Y,61,0,,4615,0930A,,40 3
-FYW7302,,YYYYY,114,0,,13-07,0600A,,M 41
-HNH1483,,YYYYY,13,0,,135,0800A,,01
-GGP1619,0405P,Y,62,0,,7,0900A,307-1345,06
-HMR4895,,Y,18,0,,227,1000A,,05
-3775559,,,0,0,,,,,
-FFM1902,,BYBBYBB,43,0,0.0,1744,1130A,-,
-84298MJ,,YYYYY,18,0,,45,0700A,,14
-RDI1400,,BBBBBBB,48,0,0.0,990,ALL,-,
-48657JA,,,0,0,,,,,
-J75FAM,,YYYYY,5,0,,35,0900A,,29
-ENB5559,,Y  Y,90,0,,277,1100A,,14 3
-ENG1179,,,0,0,,,,,
-4YC616,,Y,5,0,,105,1000A,,057
-KGP4179,,YYYYYYY,44,0,,N,,,37 2
-MLI751,,Y,115,0,,94-01,0830A,,22
-AP906Z,,Y,18,0,,580,0700A,,01 6
-VBR57E,,,0,0,,,,,
-JNH1666,,YYYYYYY,14,0,,229,,,01
-GXT1722,,Y YY,77,0,,907,0800A,,I
-20318TC,,Y,14,0,,842,0700A,,10
-H66FND,,YYYYYYY,61,0,,2347,,,33
-GFN9124,,,0,0,,,,,
-T664076C,,YYYYYYY,42,0,,412,,,A 21
-AN986X,,YYYYYYY,19,0,,348,,,C
-55HA74,,Y  Y,94,0,,710,0930A,,T 31
-HPZ3481,,YYYYYYY,103,0,,10412,,,H
-32150MD,1200P,,1,0,,10,,,06 1
-GMW1054,,,0,0,,,,,
-GZJ8527,,,0,0,,,,,
-HCK9732,,YYYYYYY,52,0,,2543,,,31
-HFS8298,,Y  Y,32,0,,N,0830A,,CCC
-GTA7581,,YYYYYYY,109,0,,49-15,,,A-AM
-HJR6157,,Y  Y,83,0,,2,0800A,,V
-62228ME,,Y  Y,63,0,,2525,0300A,,A
-GUY5191,,Y,52,0,,2615,0800A,,27 2
-FZK7031,,Y,112,0,,97-13,0830A,,01 4
-FPJ2831,,YYYYY,114,0,,34-38,0800A,,11-A
-EFC1126,,YYYYYYY,103,0,,,,,01
-T717553C,,,0,0,,,,,
-49279KA,,YYYYYYY,19,0,,1481,,,C 77
-30933JY,,Y,19,0,,1605,0830A,,53
-PREWIRED,,,0,0,,,,,
-2220568,,,19,0,,1352,,,58 7
-W60EYS,,,0,0,,,,,
-FEW7056,,,0,0,,,,,
-MGL06,,,14,0,,,,,99 6
-46516MC,,Y,13,0,,141,0700A,,99 6
-HHX7732,,Y,103,0,,89-09,0900A,,12 4
-AD20931,0110P,Y,115,20170511,,N,0900A,412-2352,23-P
-K86GLM,0318P,Y,19,0,,1065,0900A,118-3051,37
-PME5727,,YBBYBBB,42,0,0.0,1810,0800A,-,
-FLX4291,0418P,YYYYY,71,0,,1237,0200P,316-3009,16 3
-T715510C,,Y  Y,114,0,,31-19,0830A,,25 4
-EMK6746,,BBBBBBB,109,0,0.0,142-38,ALL,-,
-CZN4270,,YYYYY,107,0,,S,0800A,,42
-EXZ9820,,,0,0,,,,,
-XNC9955,,YYYYYYY,28,0,,113,0700A,,01 7
-CWN3240,,,0,0,,,,,
-GVJ7862,,,0,0,,,,,
-Z72AZV,,YYYYY,1,0,,E,0800A,,060
-18320MH,0852A,YYYYY,1,0,,33,0700A,,001
-872XZF,0130P,Y,46,0,,2423,0900A,201-3011,44
-T690511C,,,0,0,,,,,
-KGB1948,,YYYYYYY,46,0,,52,,,K
-2XG884,,,30,0,,760,,,CCC
-GMZ5887,,YYYYYYY,52,0,,3300,,,L 21
-68460JT,,,34,0,,217,,,01 7
-GUY4465,,BBBBBBB,48,0,0.0,,ALL,-,
-FTW5455,,,61,0,,1231,,,34 3
-42244JW,,Y,10,0,,407,0700A,,03 6
-IARK74,,BBBBBBB,33,0,0.0,625,ALL,-,
-HJE9067,,YYYYYYY,63,0,,3838,,,A 31
-HHK9497,,YYYYYYY,10,0,,N,,,99
-BVW9093,,,0,0,,,,,
-56989MB,,Y,112,0,,93-54,0830A,,03 4
-JSD2266,,YYYYYYY,28,0,,100,,,K 77
-FG3FJK,,BBBBBBB,18,0,0.0,313,ALL,-,
-GZX5094,,YYYYYYY,43,0,,1560,,,A 22
-DFSN38,,,0,0,,,,,
-HEX3998,,Y,67,0,,1048,0830A,,C
-70229JY,,,114,0,,N,,,35 4
-HDG6398,,,0,0,,,,,
-1R63H,,YYYYYYY,28,0,,236,,,N
-FHB6956,,YYYYYYY,115,0,,98-02,,,21 4
-AF939E,,,14,0,,112,,,12 6
-FJM6758,,YYYYYYY,83,0,,1347,,,11 3
-4ZLW60,,BBBBBBB,71,0,0.0,602,ALL,-,
-GMD7250,,,0,0,,,,,
-9N12H,,,0,0,,,,,
-BEP3083,,Y  Y,67,0,,111,0830A,,11
-31679BB,,YYYYYYY,14,0,,N,0600P,,07
-HCX7304,,,0,0,,,,,
-26733MH,,YYYYYYY,115,0,,39-21,,,51-A
-HMN7605,,,0,0,,,,,
-HAC2589,,,0,0,,,,,
-DXG7211,,YYYYYYY,45,0,,1635,,,06 2
-NVAGVUP,,,0,0,,,,,
-GPC4709,,,0,0,,,,,
-66725MD,,Y,14,0,,598,0700A,,03
-X10ECZ,,YYYYY,19,0,,680,0700A,,01 7
-HNH6762,,YYYYYYY,79,0,,414,,,CC2
-GCE6667,,YYYYYYY,52,0,,45,,,06 2
-HHM3716,,YYYYYY,14,0,,S,,,64 6
-846051N,,,121,0,,64,,,A-AM
-FHM9777,,,0,0,,,,,
-FYA7874,,Y,61,0,,620,0830A,,33 3
-GPD7665,,,0,0,,,,,
-64322JR,,Y,10,0,,251,0800A,,20 6
-FHN6409,0424P,Y,104,0,,58-12,0830A,409-3053,26
-FJF6496,,Y,114,0,,49-19,0930A,,52-A
-GHR4712,,YYYYYYY,112,0,,88-55,,,X 42
-6LC9549,,Y  Y,19,0,,370,0900A,,08
-EDK1124,,,0,0,,,,,
-FHH5858,,Y,68,0,,310,0830A,,21 3
-11636MK,,YYYYYYY,73,0,,2034,,,L
-HLK6622,,,0,0,,,,,
-GYD5364,,YYYYYYY,83,0,,1342,,,W 31
-42816JM,1225P,Y,20,20161222,,685,0900A,103-8125,49 7
-AT785G,,Y,19,0,,119,0700A,,CC1
-HGU7706,,YYYYYYY,115,0,,E,,,15 4
-739,1121A,YYYYY,70,0,,1212,0800A,305-3020,02
-FPY5552,,YYYYYYY,90,0,,263,,,16
-P23HEE,,Y,62,0,,2065,0830A,,W
-61838MG,1037A,Y,103,20170311,,14602,0900A,429-3113,14
-ENP2228,,YYYYYYY,103,0,,89-12,,,02 6
+pivot-metric,pivot-value,time_first_observed,days_parking_in_effect,violation_precinct,date_first_observed,house_number,from_hours_in_effect,meter_number,violation_post_code
+plate_id,HHG8976,,Y,5,0,125,0800A,,022
+unregistered_vehicle,,,Y,102,0,10505,0800A,,34
+plate_id,GGK6604,,YYYYYYY,61,0,1303,,,46 3
+unregistered_vehicle,,,Y,10,0,251,0800A,,20 6
+unregistered_vehicle,,,,0,0,,,,
+plate_id,48657JA,,,0,0,,,,
+plate_id,89193MG,0502P,Y,19,0,1296,1000A,119-3004,56 7
+unregistered_vehicle,,,YYYYY,19,0,680,0700A,,01 7
+unregistered_vehicle,,,YYYYYYY,19,0,348,,,C
+plate_id,PME5727,,YBBYBBB,42,0,1810,0800A,-,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,EKU9602,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,DTZ584,,,0,0,,,,
+plate_id,GJP6086,,,70,0,S,,,05 3
+plate_id,HJJ7962,,YYYYYYY,19,0,344,,,29
+unregistered_vehicle,,,Y,19,0,1605,0830A,,53
+unregistered_vehicle,,,YYYYYYY,18,0,S,,,01 6
+plate_id,2XG884,,,30,0,760,,,CCC
+unregistered_vehicle,0.0,,BBBBBBB,71,0,602,ALL,-,
+plate_id,AT785G,,Y,19,0,119,0700A,,CC1
+plate_id,JH7410,,BBBBBBB,70,0,708,ALL,-,
+plate_id,EMK6746,,BBBBBBB,109,0,142-38,ALL,-,
+plate_id,T664076C,,YYYYYYY,42,0,412,,,A 21
+unregistered_vehicle,,,YYYYYYY,79,0,414,,,CC2
+unregistered_vehicle,,,,23,0,323,,,C 77
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HLG4784,,YYYYYYY,110,0,86-22,,,G 41
+plate_id,FHN6409,0424P,Y,104,0,58-12,0830A,409-3053,26
+plate_id,GPJ6404,,YYYYY,19,0,175,0800A,,14
+plate_id,GAM5437,1226P,Y,68,0,8413,0800A,309-1488,21
+unregistered_vehicle,,1200P,,1,0,10,,,06 1
+plate_id,19195MH,,YYYYY,18,0,1745,0700A,,05 6
+unregistered_vehicle,,,Y  Y,83,0,2,0800A,,V
+plate_id,88562MA,,YYYYYYY,115,0,35-50,,,20
+plate_id,BEP3083,,Y  Y,67,0,111,0830A,,11
+plate_id,FTW6423,,Y,114,0,29-17,0830A,,31-A
+plate_id,L77ATD,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,113,0,123-08,,,R
+unregistered_vehicle,,,YYYYYYY,26,0,400,,,CC8
+plate_id,K86GLM,0318P,Y,19,0,1065,0900A,118-3051,37
+plate_id,JKZ3905,,YYYYY,1,0,49,0700A,,069
+plate_id,GCE6667,,YYYYYYY,52,0,45,,,06 2
+unregistered_vehicle,,,,14,0,,,,99 6
+unregistered_vehicle,,,YYYYYY,14,0,S,,,64 6
+plate_id,FLX4291,0418P,YYYYY,71,0,1237,0200P,316-3009,16 3
+unregistered_vehicle,,,Y,115,0,94-01,0830A,,22
+plate_id,GTA7581,,YYYYYYY,109,0,49-15,,,A-AM
+unregistered_vehicle,,,Y,88,0,150,0930A,,06
+unregistered_vehicle,,,YYYYYYY,115,0,98-02,,,21 4
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,47,0,W,,,03 2
+unregistered_vehicle,,,Y,13,0,141,0700A,,99 6
+unregistered_vehicle,,,,0,0,,,,
+plate_id,FFM1902,,BYBBYBB,43,0,1744,1130A,-,
+unregistered_vehicle,,,YYYYYYY,114,0,36-19,,,28
+plate_id,MLI751,,Y,115,0,94-01,0830A,,22
+unregistered_vehicle,,,YYYYYYY,115,0,E,,,15 4
+plate_id,GNW7279,,YYYYYYY,110,0,N,0700A,,O
+unregistered_vehicle,,,Y,19,0,119,0700A,,CC1
+plate_id,CEX6384,,,0,0,,,,
+unregistered_vehicle,,,Y,18,0,227,1000A,,05
+plate_id,3775559,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,20,0,168,,,25 7
+unregistered_vehicle,,,YYYYYYY,83,0,1342,,,W 31
+plate_id,HJE5013,,Y Y Y,45,0,1370,1200A,,F 21
+plate_id,HEE4485,,YYYYYYY,40,0,836,,,A 21
+plate_id,JSD2266,,YYYYYYY,28,0,100,,,K 77
+unregistered_vehicle,,,Y  Y,94,0,710,0930A,,T 31
+plate_id,JNH1666,,YYYYYYY,14,0,229,,,01
+unregistered_vehicle,0.0,,YBBYBBB,42,0,1810,0800A,-,
+plate_id,FEW7056,,,0,0,,,,
+unregistered_vehicle,,,Y,14,0,598,0700A,,03
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,Y  Y,32,0,N,0830A,,CCC
+plate_id,PEN7L,,Y,61,0,4615,0930A,,40 3
+plate_id,51722JX,,BBBBBBB,24,0,155,ALL,-,
+plate_id,31234JV,,Y,114,0,40-11,0830A,,30 4
+plate_id,HFS8298,,Y  Y,32,0,N,0830A,,CCC
+plate_id,26452PC,,BBBBBBB,13,0,175,ALL,-,
+plate_id,T662839C,,,0,0,,,,
+unregistered_vehicle,,,YYYYY,10,0,508,0800A,,01
+plate_id,18320MH,0852A,YYYYY,1,0,33,0700A,,001
+unregistered_vehicle,,,YYYYYYY,10,0,N,,,99
+plate_id,HDU7777,,Y  Y,71,0,732,1200A,,16
+unregistered_vehicle,,,YYYYYYY,45,0,1635,,,06 2
+unregistered_vehicle,,,,0,0,,,,
+plate_id,BD2N466,,,0,0,,,,
+plate_id,55HA74,,Y  Y,94,0,710,0930A,,T 31
+unregistered_vehicle,,,YYYYYYY,52,0,45,,,06 2
+unregistered_vehicle,,,YYYYYYY,115,0,82-01,,,12-A
+unregistered_vehicle,,,Y,61,0,620,0830A,,33 3
+unregistered_vehicle,,,YYYYYYY,103,0,,,,01
+plate_id,30933JY,,Y,19,0,1605,0830A,,53
+unregistered_vehicle,,,Y,18,0,580,0700A,,01 6
+plate_id,42268PC,,YYYYYYY,115,0,82-01,,,12-A
+plate_id,GVJ7862,,,0,0,,,,
+unregistered_vehicle,,,Y  Y,23,0,W,0830A,,56
+plate_id,62228ME,,Y  Y,63,0,2525,0300A,,A
+unregistered_vehicle,,,YYYYY,5,0,35,0900A,,29
+plate_id,GTL7750,,YYYYYYY,114,0,23-05,,,34
+unregistered_vehicle,,,YYYYYYY,83,0,1347,,,11 3
+plate_id,26733MH,,YYYYYYY,115,0,39-21,,,51-A
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,14,0,112,,,12 6
+unregistered_vehicle,,0418P,YYYYY,71,0,1237,0200P,316-3009,16 3
+unregistered_vehicle,,,Y,14,0,842,0700A,,10
+plate_id,FHH5858,,Y,68,0,310,0830A,,21 3
+plate_id,T715510C,,Y  Y,114,0,31-19,0830A,,25 4
+unregistered_vehicle,,,YYYYY,114,0,34-38,0800A,,11-A
+unregistered_vehicle,,,Y,33,0,2184,0900A,,M 77
+plate_id,GSX3238,,,0,0,,,,
+plate_id,T47ERT,,,0,0,,,,
+unregistered_vehicle,,,Y,10,0,407,0700A,,03 6
+unregistered_vehicle,,,YYYYYYY,19,0,155,,,20 7
+unregistered_vehicle,,0352P,Y,7,0,262,0900A,102-3011,53 1
+unregistered_vehicle,,,YYYYYYY,63,0,3838,,,A 31
+plate_id,HDZ8125,,,0,0,,,,
+plate_id,31679BB,,YYYYYYY,14,0,N,0600P,,07
+plate_id,ENG1179,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,40,0,836,,,A 21
+unregistered_vehicle,,0852A,YYYYY,1,0,33,0700A,,001
+unregistered_vehicle,,,YYYYY,19,0,175,0800A,,14
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HDG6398,,,0,0,,,,
+plate_id,GMD7250,,,0,0,,,,
+plate_id,32150MD,1200P,,1,0,10,,,06 1
+unregistered_vehicle,,,YYYYYYY,43,0,1560,,,A 22
+plate_id,FPJ2831,,YYYYY,114,0,34-38,0800A,,11-A
+plate_id,T695412C,,YYYYYYY,68,0,6930,,,G
+plate_id,HGU7706,,YYYYYYY,115,0,E,,,15 4
+unregistered_vehicle,,,YYYYYYY,18,0,153,,,26
+plate_id,846051N,,,121,0,64,,,A-AM
+unregistered_vehicle,,,Y,112,0,97-13,0830A,,01 4
+unregistered_vehicle,,1226P,Y,68,0,8413,0800A,309-1488,21
+plate_id,IARK74,,BBBBBBB,33,0,625,ALL,-,
+plate_id,EXZ9820,,,0,0,,,,
+plate_id,75022JX,,Y,33,0,2184,0900A,,M 77
+plate_id,84298MJ,,YYYYY,18,0,45,0700A,,14
+plate_id,HJV3459,,Y,47,0,725,0730A,,G 22
+unregistered_vehicle,,,YYYYYYY,120,0,175A,,,C-PM
+unregistered_vehicle,,,YYYYYYY,19,0,189,,,18
+unregistered_vehicle,,,,0,0,,,,
+plate_id,GWC2815,1150A,BBBBYBB,70,0,3543,1130A,-,
+unregistered_vehicle,,,YYYYYYY,102,0,87-48,,,34 4
+plate_id,GSL3258,,Y,88,0,150,0930A,,06
+plate_id,13141MK,,YYYYY,10,0,508,0800A,,01
+unregistered_vehicle,,,YYYYY,70,0,W,0800A,,25
+plate_id,NVAGVUP,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,56989MB,,Y,112,0,93-54,0830A,,03 4
+plate_id,82848JX,,Y,102,0,10505,0800A,,34
+plate_id,591067,,YYYYY,107,0,161-51,0700A,,G 42
+plate_id,GGP1619,0405P,Y,62,0,7,0900A,307-1345,06
+unregistered_vehicle,,,,34,0,217,,,01 7
+unregistered_vehicle,,,Y  Y,23,0,E,0830A,,CC4
+plate_id,GBB8762,,Y,13,0,303,0830A,,A 17
+plate_id,VBR57E,,,0,0,,,,
+plate_id,H66FND,,YYYYYYY,61,0,2347,,,33
+unregistered_vehicle,,,YYYYYYY,19,0,1481,,,C 77
+unregistered_vehicle,0.0,,YYYYYBB,1,0,11,0800A,-,
+plate_id,GFN9124,,,0,0,,,,
+plate_id,HPP7208,,YYYYYYY,19,0,189,,,18
+plate_id,548264,,YYYYYYY,113,0,123-08,,,R
+plate_id,HEX3998,,Y,67,0,1048,0830A,,C
+unregistered_vehicle,,,YYYYY,114,0,13-07,0600A,,M 41
+unregistered_vehicle,,,Y,13,0,167,0700A,,12
+plate_id,3ZZ126,,YYYYY,14,0,200,0600A,,30
+unregistered_vehicle,,,YYYYY,1,0,49,0700A,,069
+unregistered_vehicle,,,Y  Y,90,0,277,1100A,,14 3
+plate_id,X10ECZ,,YYYYY,19,0,680,0700A,,01 7
+plate_id,60376MD,,BBBBBBB,68,0,8301,ALL,-,
+unregistered_vehicle,,,YYYYY,13,0,135,0800A,,01
+plate_id,GFM4944,,Y  Y,23,0,E,0830A,,CC4
+unregistered_vehicle,,,YYYYY,18,0,1745,0700A,,05 6
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,110,0,86-22,,,G 41
+unregistered_vehicle,,,Y,114,0,29-17,0830A,,31-A
+unregistered_vehicle,,,Y,24,0,614,0700A,,01 8
+plate_id,HLK6622,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,GTT7805,,,0,0,,,,
+plate_id,GXT1722,,Y YY,77,0,907,0800A,,I
+plate_id,FZK7031,,Y,112,0,97-13,0830A,,01 4
+plate_id,DFWY21,,Y,24,0,614,0700A,,01 8
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,Y,63,0,1942,0900A,,20
+unregistered_vehicle,,,,0,0,,,,
+plate_id,820236N,,YYYYYYY,120,0,175A,,,C-PM
+plate_id,FPY5552,,YYYYYYY,90,0,263,,,16
+plate_id,2220568,,,19,0,1352,,,58 7
+plate_id,61838MG,1037A,Y,103,20170311,14602,0900A,429-3113,14
+plate_id,4YC616,,Y,5,0,105,1000A,,057
+plate_id,GST7375,,YYYYYYY,19,0,155,,,20 7
+plate_id,GHR4712,,YYYYYYY,112,0,88-55,,,X 42
+plate_id,20318TC,,Y,14,0,842,0700A,,10
+unregistered_vehicle,0.0,,BBBBBBB,0,0,350,ALL,-,
+unregistered_vehicle,0.0,,BBBBBBB,33,0,625,ALL,-,
+unregistered_vehicle,,,YYYYYYY,102,0,86-11,,,36 4
+plate_id,FJF6496,,Y,114,0,49-19,0930A,,52-A
+unregistered_vehicle,,1037A,Y,103,20170311,14602,0900A,429-3113,14
+plate_id,HDZ4969,,,0,0,,,,
+plate_id,46516MC,,Y,13,0,141,0700A,,99 6
+plate_id,6LC9549,,Y  Y,19,0,370,0900A,,08
+plate_id,T690511C,,,0,0,,,,
+plate_id,GUY5191,,Y,52,0,2615,0800A,,27 2
+unregistered_vehicle,,,,0,0,,,,
+plate_id,W60EYS,,,0,0,,,,
+plate_id,KGP4179,,YYYYYYY,44,0,N,,,37 2
+unregistered_vehicle,,,Y,114,0,40-11,0830A,,30 4
+plate_id,XNC9955,,YYYYYYY,28,0,113,0700A,,01 7
+plate_id,HMR4895,,Y,18,0,227,1000A,,05
+unregistered_vehicle,,,YYYYYYY,52,0,3300,,,L 21
+plate_id,64322JR,,Y,10,0,251,0800A,,20 6
+plate_id,66725MD,,Y,14,0,598,0700A,,03
+plate_id,DGE3718,,YYYYYYY,47,0,W,,,03 2
+plate_id,739,1121A,YYYYY,70,0,1212,0800A,305-3020,02
+plate_id,62831JL,,YYYYYYY,1,0,W,,,027
+unregistered_vehicle,,,YYYYYYY,61,0,N,,,19
+unregistered_vehicle,,,YYYYYYY,28,0,236,,,N
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,Y  Y,19,0,370,0900A,,08
+unregistered_vehicle,,,Y,62,0,2065,0830A,,W
+unregistered_vehicle,,,YYYYYYY,68,0,6930,,,G
+unregistered_vehicle,,,YYYYYYY,109,0,49-15,,,A-AM
+plate_id,68460JT,,,34,0,217,,,01 7
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,13,0,S,1100P,,C
+unregistered_vehicle,,,,30,0,760,,,CCC
+plate_id,42244JW,,Y,10,0,407,0700A,,03 6
+plate_id,GPC4709,,,0,0,,,,
+unregistered_vehicle,0.0,,BBYBBBB,72,0,278,0930A,-,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,84,0,183,ALL,-,
+unregistered_vehicle,,0405P,Y,62,0,7,0900A,307-1345,06
+unregistered_vehicle,,,YYYYYYY,14,0,229,,,01
+unregistered_vehicle,,,YYYYYYY,43,0,2262,0900P,,A
+plate_id,21475MG,,Y,13,0,167,0700A,,12
+unregistered_vehicle,,,Y  Y,67,0,111,0830A,,11
+unregistered_vehicle,,,,0,0,,,,
+plate_id,FEC9707,,BBBBBBB,84,0,183,ALL,-,
+plate_id,FTW5455,,,61,0,1231,,,34 3
+unregistered_vehicle,,,,0,0,,,,
+plate_id,75472MC,,Y,13,0,12,0700A,,99 6
+unregistered_vehicle,,1214P,Y,114,0,29-24,0900A,423-3126,29 4
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,34,0,452,ALL,-,
+unregistered_vehicle,0.0,,BBBBBBB,109,0,142-38,ALL,-,
+unregistered_vehicle,,,,84,0,W,,,01 3
+plate_id,P23HEE,,Y,62,0,2065,0830A,,W
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HJR6157,,Y  Y,83,0,2,0800A,,V
+unregistered_vehicle,,,,0,0,,,,
+plate_id,58HG123,,,43,0,2158,,,14
+unregistered_vehicle,,,YYYYYYY,46,0,52,,,K
+plate_id,ENB5559,,Y  Y,90,0,277,1100A,,14 3
+plate_id,ENP2228,,YYYYYYY,103,0,89-12,,,02 6
+unregistered_vehicle,,,YYYYY,13,0,297,0800A,,A
+unregistered_vehicle,,,,61,0,1231,,,34 3
+plate_id,EHN4993,,,0,0,,,,
+plate_id,93306MC,,Y,19,0,1523,0800A,,56 7
+plate_id,42816JM,1225P,Y,20,20161222,685,0900A,103-8125,49 7
+plate_id,HHC7517,,Y,63,0,1942,0900A,,20
+unregistered_vehicle,,1001A,Y,112,0,89-08,0900A,417-3002,03
+plate_id,MGL06,,,14,0,,,,99 6
+unregistered_vehicle,,,YYYYY,107,0,161-51,0700A,,G 42
+unregistered_vehicle,,,YYYYY,1,0,E,0800A,,060
+plate_id,HSF1446,,Y  Y,52,0,3544,0830A,,08
+unregistered_vehicle,,,Y,112,0,93-54,0830A,,03 4
+unregistered_vehicle,,,,70,0,S,,,05 3
+plate_id,EDK1124,,,0,0,,,,
+plate_id,HMN7605,,,0,0,,,,
+plate_id,GMW1054,,,0,0,,,,
+plate_id,GXG2953,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,61,0,1303,,,46 3
+plate_id,HAC2589,,,0,0,,,,
+plate_id,70229JY,,,114,0,N,,,35 4
+plate_id,31908MG,,YYYYYYY,14,0,523,,,17
+unregistered_vehicle,,,,0,0,,,,
+plate_id,RDI1400,,BBBBBBB,48,0,990,ALL,-,
+unregistered_vehicle,,,YYYYYYY,73,0,2034,,,L
+unregistered_vehicle,,,YYYYYYY,7,0,265,,,95
+plate_id,49279KA,,YYYYYYY,19,0,1481,,,C 77
+unregistered_vehicle,,0130P,Y,46,0,2423,0900A,201-3011,44
+unregistered_vehicle,,0944A,Y,19,20170331,878,0830A,118-3019,25
+unregistered_vehicle,,,,23,0,445,,,CC1
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,24,0,155,ALL,-,
+unregistered_vehicle,,1121A,YYYYY,70,0,1212,0800A,305-3020,02
+plate_id,GMZ5887,,YYYYYYY,52,0,3300,,,L 21
+unregistered_vehicle,,,,0,0,,,,
+plate_id,11636MK,,YYYYYYY,73,0,2034,,,L
+plate_id,HMU1426,,,0,0,,,,
+plate_id,WVZ5904,,,0,0,,,,
+plate_id,BBP5586,,,0,0,,,,
+unregistered_vehicle,,,,114,0,N,,,35 4
+plate_id,GUJ9172,1200P,YYYYYYY,14,0,34,,,99 6
+unregistered_vehicle,,,Y,5,0,105,1000A,,057
+plate_id,EJG2502,0234P,Y,94,0,799,0830A,322-3005,17
+plate_id,GYD5364,,YYYYYYY,83,0,1342,,,W 31
+unregistered_vehicle,0.0,,BBBBYBB,40,0,809,1200A,-,
+plate_id,J75FAM,,YYYYY,5,0,35,0900A,,29
+plate_id,FG3FJK,,BBBBBBB,18,0,313,ALL,-,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HFV5567,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,61,0,2347,,,33
+plate_id,FWS9522,,Y  Y,23,0,W,0830A,,56
+plate_id,DXG7211,,YYYYYYY,45,0,1635,,,06 2
+plate_id,HDV1961,,,0,0,,,,
+unregistered_vehicle,,,Y,47,0,725,0730A,,G 22
+plate_id,Z72AZV,,YYYYY,1,0,E,0800A,,060
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,14,0,N,0600P,,07
+unregistered_vehicle,,,YYYYYYY,44,0,N,,,37 2
+unregistered_vehicle,,,,121,0,64,,,A-AM
+unregistered_vehicle,,,,43,0,2158,,,14
+unregistered_vehicle,,,Y,84,0,306,0830A,,05
+plate_id,AF939E,,,14,0,112,,,12 6
+plate_id,BVW9093,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,114,0,23-05,,,34
+plate_id,AP906Z,,Y,18,0,580,0700A,,01 6
+unregistered_vehicle,,,,106,0,114-06,,,T
+plate_id,GZX5094,,YYYYYYY,43,0,1560,,,A 22
+plate_id,AJKF11,,BBBBBBB,49,0,2181,ALL,-,
+plate_id,FYW7302,,YYYYY,114,0,13-07,0600A,,M 41
+plate_id,J18GTJ,,YYYYYYY,33,0,N,,,01
+unregistered_vehicle,,,YYYYYYY,115,0,39-21,,,51-A
+plate_id,HJE9067,,YYYYYYY,63,0,3838,,,A 31
+plate_id,FXV8878,,YYYYYYY,104,0,67-08,,,C 42
+plate_id,EFC1126,,YYYYYYY,103,0,,,,01
+unregistered_vehicle,,,YYYYYYY,90,0,263,,,16
+plate_id,CZN4270,,YYYYY,107,0,S,0800A,,42
+plate_id,9N12H,,,0,0,,,,
+plate_id,GWM1292,,BBYBBBB,72,0,278,0930A,-,
+unregistered_vehicle,0.0,1150A,BBBBYBB,70,0,3543,1130A,-,
+unregistered_vehicle,,,,19,0,1352,,,58 7
+plate_id,GZP7443,,,0,0,,,,
+unregistered_vehicle,,,Y,61,0,4615,0930A,,40 3
+plate_id,FYA7874,,Y,61,0,620,0830A,,33 3
+plate_id,1R63H,,YYYYYYY,28,0,236,,,N
+unregistered_vehicle,0.0,,BBBBBBB,48,0,,ALL,-,
+plate_id,HCK9732,,YYYYYYY,52,0,2543,,,31
+unregistered_vehicle,,,Y,5,0,125,0800A,,022
+unregistered_vehicle,,,YYYYY,107,0,S,0800A,,42
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,Y,19,0,1523,0800A,,56 7
+unregistered_vehicle,,,Y,103,0,89-09,0900A,,12 4
+unregistered_vehicle,,0234P,Y,94,0,799,0830A,322-3005,17
+unregistered_vehicle,0.0,,BBBBBBB,70,0,708,ALL,-,
+unregistered_vehicle,,,YYYYYYY,61,0,1823,,,03 3
+plate_id,DFSN38,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,42,0,412,,,A 21
+plate_id,GWJ6607,,YYYYYYY,102,0,87-48,,,34 4
+unregistered_vehicle,,1225P,Y,20,20161222,685,0900A,103-8125,49 7
+plate_id,83499ME,,YYYYYBB,1,0,11,0800A,-,
+unregistered_vehicle,,,Y,14,0,601,0700A,,02 6
+unregistered_vehicle,0.0,,BBBBBBB,62,0,8806,ALL,-,
+unregistered_vehicle,,,YYYYY,14,0,200,0600A,,30
+plate_id,HEJ4114,,YYYYYYY,102,0,86-11,,,36 4
+unregistered_vehicle,,,Y  Y,52,0,3544,0830A,,08
+unregistered_vehicle,,0900A,YYYYY,1,0,151,0700A,,014
+unregistered_vehicle,,,YYYYYYY,52,0,2543,,,31
+unregistered_vehicle,,,Y,67,0,1048,0830A,,C
+unregistered_vehicle,,,Y  Y,63,0,2525,0300A,,A
+unregistered_vehicle,0.0,,BBBBBBB,18,0,313,ALL,-,
+unregistered_vehicle,,,YYYYYYY,104,0,67-08,,,C 42
+plate_id,26796ME,,YYYYYYY,43,0,2262,0900P,,A
+unregistered_vehicle,,,Y,13,0,57,0900A,,99
+plate_id,FHM9777,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,75,0,,ALL,-,
+unregistered_vehicle,,,YYYYYYY,14,0,523,,,17
+unregistered_vehicle,,,YYYYYYY,33,0,N,,,01
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HNH6762,,YYYYYYY,79,0,414,,,CC2
+plate_id,55036MB,,,23,0,445,,,CC1
+plate_id,HPZ3481,,YYYYYYY,103,0,10412,,,H
+unregistered_vehicle,,,YYYYYYY,19,0,344,,,29
+unregistered_vehicle,,,,0,0,,,,
+plate_id,PREWIRED,,,0,0,,,,
+plate_id,HNH1483,,YYYYY,13,0,135,0800A,,01
+plate_id,GTX1730,,YYYYYYY,18,0,153,,,26
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,13,0,175,ALL,-,
+unregistered_vehicle,,,YYYYYYY,115,0,35-50,,,20
+unregistered_vehicle,,,Y,13,0,12,0700A,,99 6
+unregistered_vehicle,,,Y YY,77,0,907,0800A,,I
+unregistered_vehicle,,,YYYYYYY,28,0,113,0700A,,01 7
+unregistered_vehicle,,0110P,Y,115,20170511,N,0900A,412-2352,23-P
+unregistered_vehicle,0.0,,BBBBBBB,49,0,2181,ALL,-,
+plate_id,HEZ3837,,,0,0,,,,
+plate_id,4ZLW60,,BBBBBBB,71,0,602,ALL,-,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYY,18,0,45,0700A,,14
+plate_id,CWN3240,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,112,0,88-55,,,X 42
+plate_id,GZJ8527,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,48,0,990,ALL,-,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,T652286C,,YYYYYYY,61,0,N,,,19
+plate_id,PDB2481,,Y,84,0,306,0830A,,05
+plate_id,HFB1162,1001A,Y,112,0,89-08,0900A,417-3002,03
+unregistered_vehicle,,0502P,Y,19,0,1296,1000A,119-3004,56 7
+plate_id,AD20931,0110P,Y,115,20170511,N,0900A,412-2352,23-P
+plate_id,GEL2381,,,0,0,,,,
+unregistered_vehicle,,,Y,13,0,303,0830A,,A 17
+unregistered_vehicle,,,Y Y Y,45,0,1370,1200A,,F 21
+plate_id,872XZF,0130P,Y,46,0,2423,0900A,201-3011,44
+unregistered_vehicle,,,YYYYYYY,103,0,89-12,,,02 6
+plate_id,T691810C,,BBBBBBB,70,0,675,ALL,-,
+plate_id,T717553C,,,0,0,,,,
+unregistered_vehicle,,,Y  Y,71,0,732,1200A,,16
+plate_id,GCN8238,,YYYYY,70,0,W,0800A,,25
+unregistered_vehicle,,,YYYYYYY,110,0,N,0700A,,O
+unregistered_vehicle,,,YYYYYYY,103,0,10412,,,H
+plate_id,HGF2491,,,106,0,114-06,,,T
+unregistered_vehicle,,,,0,0,,,,
+plate_id,GHE8276,,YYYYYYY,114,0,36-19,,,28
+plate_id,END2848,,BBBBBBB,0,0,350,ALL,-,
+plate_id,HHM3716,,YYYYYY,14,0,S,,,64 6
+plate_id,M187936,,BBBBYBB,40,0,809,1200A,-,
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,0.0,,BBBBBBB,68,0,8301,ALL,-,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,12861KA,,BBBBBBB,34,0,452,ALL,-,
+plate_id,GGF8851,,YYYYYYY,20,0,168,,,25 7
+unregistered_vehicle,,1200P,YYYYYYY,14,0,34,,,99 6
+unregistered_vehicle,,,,0,0,,,,
+plate_id,HHU2069,1214P,Y,114,0,29-24,0900A,423-3126,29 4
+unregistered_vehicle,,,,0,0,,,,
+plate_id,0XZ5886,,Y,14,0,601,0700A,,02 6
+unregistered_vehicle,,,Y  Y,114,0,31-19,0830A,,25 4
+plate_id,57944MC,,,84,0,W,,,01 3
+plate_id,83403MG,0944A,Y,19,20170331,878,0830A,118-3019,25
+plate_id,GPD7665,,,0,0,,,,
+plate_id,HHK9497,,YYYYYYY,10,0,N,,,99
+plate_id,4257A,,YYYYYYY,7,0,265,,,95
+plate_id,AHO7519,0352P,Y,7,0,262,0900A,102-3011,53 1
+plate_id,AM724V,,YYYYYYY,26,0,400,,,CC8
+unregistered_vehicle,,0424P,Y,104,0,58-12,0830A,409-3053,26
+plate_id,HCX7304,,,0,0,,,,
+plate_id,56565MB,,YYYYY,13,0,297,0800A,,A
+plate_id,KGB1948,,YYYYYYY,46,0,52,,,K
+unregistered_vehicle,,,,0,0,,,,
+plate_id,AN986X,,YYYYYYY,19,0,348,,,C
+plate_id,GHF8800,,YYYYY,6,0,40,0830A,,34
+plate_id,PT2561T,,BBBBBBB,75,0,,ALL,-,
+unregistered_vehicle,,,Y,68,0,310,0830A,,21 3
+unregistered_vehicle,,,YYYYY,6,0,40,0830A,,34
+plate_id,FHB6956,,YYYYYYY,115,0,98-02,,,21 4
+plate_id,HHX7732,,Y,103,0,89-09,0900A,,12 4
+plate_id,55436ME,0900A,YYYYY,1,0,151,0700A,,014
+plate_id,GHV3169,,Y,13,0,57,0900A,,99
+unregistered_vehicle,,,Y,52,0,2615,0800A,,27 2
+unregistered_vehicle,0.0,,BBBBBBB,70,0,675,ALL,-,
+unregistered_vehicle,,0318P,Y,19,0,1065,0900A,118-3051,37
+unregistered_vehicle,,,Y,114,0,49-19,0930A,,52-A
+unregistered_vehicle,,,YYYYYYY,28,0,100,,,K 77
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,GRS4620,,YYYYYYY,61,0,1823,,,03 3
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,,0,0,,,,
+plate_id,GUY4465,,BBBBBBB,48,0,,ALL,-,
+plate_id,EEH6208,,,0,0,,,,
+plate_id,HKJ8844,,YYYYYYY,13,0,S,1100P,,C
+plate_id,FJM6758,,YYYYYYY,83,0,1347,,,11 3
+plate_id,55484MJ,,Y,18,0,550,0700A,,03 6
+unregistered_vehicle,,,Y,18,0,550,0700A,,03 6
+unregistered_vehicle,,,,0,0,,,,
+unregistered_vehicle,,,YYYYYYY,1,0,W,,,027
+plate_id,HJC9962,,,0,0,,,,
+plate_id,HPY2974,,BBBBBBB,62,0,8806,ALL,-,
+unregistered_vehicle,0.0,,BYBBYBB,43,0,1744,1130A,-,
+plate_id,HCE7395,,,23,0,323,,,C 77
+plate_id,381564,,YYYYYYY,18,0,S,,,01 6

@@ -1,109 +1,109 @@
 oid,location_name,council_district,technology_related_courses,fri_open,bin,workstation_number,staffed,access_notes,media_and_entertainment_ex,mon_open,wireline_dwn,type_of_device_available
-NYPL035,High Bridge Library,16.0,Y,10:00 AM - 6:00 PM,2003163.0,31.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DYCDPCCJA789,Jacob A. Riis Neighborhood Settlement Community Center,26.0,Y,1:00 AM - 9:00 AM,4433386.0,,N,,Y,9:00 AM - 5:00 PM,0.0,
-DFTAPCCREG904,Scheuer House of Coney Island Older Adult Center,47.0,Y,9:00 AM - 5:00 PM,3321762.0,2.0,N,Age 60+,N,9:00 AM - 5:00 PM,94.4,"Wi-fi Hotspots,Tablets"
-BPL016,Coney Island Library,47.0,Y,10:00AM - 6:00PM,3189001.0,12.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-DYCDPCCSO374,South Jamaica Cornerstone Community Center,28.0,Y,9:00 AM - 11:00 PM,4435245.0,6.0,Y,,N,9:00 AM - 11:00 PM,250.8,"Desktops,Laptops,Wi-fi Hotspots"
-DFTAPCCFOR894,Club Holliswood Older Adult Center,23.0,,8:00 AM - 4:00 PM,4226088.0,0.0,N,Age 60+,N,8:00 AM - 4:00 PM,107.1,
-DFTAPCCCYP476,Cypress Hills Adult Social Club,42.0,Y,8:15 AM - 4:15 PM,,0.0,N,60 years or older,N,8:15 AM - 4:15 PM,523.5,
-DFTAPCCCEN483,Saint Nicholas Social Club,9.0,Y,9:00 AM - 5:00 PM,1058707.0,7.0,Y,Must be 60 /years or older,N,9:00 AM - 5:00 PM,420.2,"Desktops,Laptops,Scanners,Microphones,Tablets,Printers,Wi-fi Hotspots"
-PARKS011,Greenbelt Media Lab,50.0,Y,6:30am-8:30pm,5107273.0,9.0,N,All ages; Recreation Center membership required,N,6:30am-8:30pm,,Desktops
-NYPL034,Harry Belafonte 115th Street Library,9.0,Y,10:00 AM - 5:00 PM,1055236.0,23.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCJEW986,Sue Ginsburg Older Adult Center,13.0,Y,8:30 AM - 4:30 PM,2093415.0,4.0,Y,Age 60+,N,8:30 AM - 4:30 PM,93.3,"Headsets,Tablets,Printers"
-DFTAPCCSER221,SAGE Center Harlem,9.0,Y,10:00 AM - 6:00 PM,,3.0,N,60+ and a SAGE member,N,10:00 AM - 6:00 PM,529.3,"Desktops,Printers"
-QPL041,North Forest Park Library,29.0,Y,10am - 6pm,4076687.0,8.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-DYCDPCCST102,Stanley M. Isaacs Neighborhood Community Center,8.0,Y,9:00 AM - 9:00 PM,1082367.0,,N,,Y,9:00 AM - 9:00 PM,0.0,
-DFTAPCCEAS260,Melrose Mott Haven Neighborhood Senior Center,17.0,Y,9:00 AM - 12:00 PM,2090413.0,6.0,Y,Age 60+,Y,9:00 AM - 3:00 PM,45.8,"Desktops,Tablets,Printers"
-DFTAPCCGRE925,Independence Plaza Older Adult Center,1.0,Y,9:00 AM - 3:00 PM,1075706.0,0.0,N,Age 60+,N,9:00 AM - 3:00 PM,466.3,"Laptops,Scanners,Wi-fi Hotspots"
-DFTAPCCTHE856,Carver Neighborhood Older Adults Center,8.0,Y,9:00 AM - 5:00 PM,1082659.0,16.0,N,Age 60+,N,9:00 AM - 5:00 PM,96.0,"Desktops,Cameras,Scanners,Printers"
-DFTAPCCCAT754,St Charles Neighborhood Senior Center,33.0,,9:00 AM - 5:00 PM,3001825.0,6.0,Y,"To become a member, clients must be 60 years of age or older.",N,9:00 AM - 5:00 PM,87.5,"Desktops,Printers"
+DYCDPCCCA372,Highbridge Gardens Community Center,16.0,Y,2pm-10pm,2095219.0,7.0,Y,,Y,2pm-10pm,328.0,Desktops
+NYPL011,Belmont Library and Enrico Fermi Cultural Center,15.0,Y,10:00 AM - 6:00 PM,2012129.0,14.0,Y,,N,10:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL067,Seward Park Library,1.0,Y,10:00 AM - 5:00 PM,1004053.0,33.0,Y,,N,10:00 AM - 8:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DYCDPCCCO983,Washington Community Center,8.0,Y,9:00 AM - 9:00 PM,1079203.0,,N,,Y,9:00 AM - 9:00 PM,0.0,
+QPL026,Hillcrest Library,24.0,Y,10am - 6pm,4155032.0,11.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+DFTAPCCSUN250,Shore Hill Neighborhood Senior Center,47.0,Y,9:00 AM - 5:00 PM,3322532.0,3.0,Y,,N,9:00 AM - 5:00 PM,192.9,Tablets
+DYCDPCCCA247,Albany Cornerstone  Community Center,36.0,Y,10:30 AM - 8:30 PM,3324617.0,,N,,N,10:30 AM - 8:30 PM,25.0,Desktops
+DYCDPCCSO374,South Jamaica Ckrnerstone Community Center,28.0,Y,9:00 AM - 11:00 PM,4435245.0,6.0,Y,,N,9:00 AM - 11:00 PM,250.8,"Desktops,Laptops,Wi-fi Hotspots"
+QPL043,Ozone Park Library,32.0,Y,10am - 6pm,4189526.0,18.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
 PARKS019,McCarren Media Lab,33.0,Y,6pm-12am,3067525.0,13.0,Y,All ages; Recreation Center membership required,Y,10am-6pm,143.5,Desktops
+DFTAPCCJEW249,Bay Eden Neighborhood Senior Center,12.0,Y,8:00 AM - 4:00 PM,2093741.0,10.0,Y,"Age 60+ years, a resident of NYC, and registered member of Bay Eden OAC.",N,8:00 AM - 4:00 PM,93.0,"Desktops,Headsets,Printers,Cameras,Wi-fi Hotspots"
+DFTAPCCROC798,SNAP of Eastern Queens Older Adult Center,23.0,Y,9:00 AM - 3:00 PM,4537294.0,,N,Age 60+,N,9:00 AM - 3:00 PM,0.0,
+NYCHADV04,Digital Van 4,,Y,9:00 AM - 3:00 PM,,8.0,Y,The eligbility requirement is that you must be under the age of 12 and be accompanied by an adult.,N,9:00 AM - 3:00 PM,,"Wi-fi Hotspots,Desktops,Printers"
+PARKS011,Greenbelt Media Lab,50.0,Y,6:30am-8:30pm,5107273.0,9.0,N,All ages; Recreation Center membership required,N,6:30am-8:30pm,,Desktops
+DFTAPCCWES273,The Center At The Red Oak Neighborhood Senior Center,7.0,Y,8:30 AM - 4:00 PM,1055957.0,6.0,N,Must be an Older Adult Center member OR a WSFSSH resident.,Y,8:30 AM - 4:00 PM,163.9,"Desktops,Chargers,Tablets,Printers"
+DFTAPCCALL90-20,Allen Community International Tower Senior Center,27.0,Y,9:00 AM - 4:00 PM,4209721.0,4.0,N,Must be an older adult aged 60 and above.,N,9:00 AM - 4:00 PM,0.0,"Desktops,Printers"
+QPL065,Woodhaven Library,32.0,Y,10am - 6pm,4181578.0,11.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+DYCDPCCSU422,Berry Cornerstone Community Center,50.0,Y,9:00 AM - 5:00 PM,5109569.0,12.0,Y,,N,9:00 AM - 5:00 PM,540.4,"Desktops,Wi-fi Hotspots,Headsets"
+NYPL037,Huguenot Park Library,51.0,Y,10:00 AM - 5:00 PM,5083401.0,11.0,Y,,N,10:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCAME673,Amico 59th St Neighborhood Senior Citizens Center,44.0,Y,10:00 AM - 6:00 PM,3141065.0,6.0,Y,age 60 and membesrhip for center,Y,10:00 AM - 6:00 PM,315.1,Desktops
+DYCDPCCDI336,Butler Cornerstone Community Center,16.0,Y,10am- 10pm,2092072.0,8.0,Y,,N,10am- 10pm,82.2,"Desktops,Laptops"
+QPL030,Jackson Heights Library,25.0,Y,10am - 6pm,4029693.0,28.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+nypl035,High Bridge Library,16.0,Y,10:00 AM - 6:00 PM,2003163.0,31.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCRIS9,ridgewood bushwick isc,34.0,Y,8:00 AM - 4:00 PM,3387594.0,12.0,Y,"The program is designed for adults aged 60 and over. To participate in the computer class, individual must first be registered members of the center. Additionally, due to limited space, advance registration for the class is required.",Y,8:00 AM - 4:00 PM,67.2,"Desktops,Cameras,Headsets,Tablets,Chargers"
+DYCDPCCST102,Stanley M. Isaacs Neighborhood Community Center,8.0,Y,9:00 AM - 9:00 PM,1082367.0,,N,,Y,9:00 AM - 9:00 PM,0.0,
+QPL037,Maspeth Library,30.0,Y,10am - 6pm,4308052.0,12.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+BPL037,Macon Library,36.0,Y,10:00AM - 6:00PM,3046408.0,18.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+BPL039,Marcy Library,36.0,Y,10:00AM - 6:00PM,3049472.0,24.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+BPL042,Mill Basin Library,46.0,Y,10:00AM - 6:00PM,3235910.0,20.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+DFTAPCCFOR725,Willoughby Neighborhood Senior Center,35.0,Y,8:00 AM - 4:00 PM,3399809.0,9.0,Y,Age 60+,N,8:00 AM - 4:00 PM,118.3,"Desktops,Printers,Scanners,Chargers,Cameras,Microphones,Wi-fi Hotspots"
+DYCDPCCPO350,Polo Grounds Cornerstone Community Center,,Y,10am-10pm,,12.0,Y,,N,10am-10pm,94.1,"Desktops,Wi-fi Hotspots"
+DYCDPCCBR801,Classic Cornerstone Community Center,17.0,Y,8:30 AM - 4:30 PM,2120133.0,,N,,N,8:30 AM - 4:30 PM,113.0,Desktops
+dftapccreg904,Scheuer House of Coney Island Older Adult Center,47.0,Y,9:00 AM - 5:00 PM,3321762.0,2.0,N,Age 60+,N,9:00 AM - 5:00 PM,94.4,"Wi-fi Hotspots,Tablets"
+NYPL042,Kingsbridge Library,11.0,Y,10:00 AM - 5:00 PM,2119474.0,39.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL030,Great Kills Library,51.0,Y,10:00 AM - 5:00 PM,5070285.0,13.0,Y,,N,11:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL004,67th Street Library,5.0,Y,10:00 AM - 5:00 PM,1044749.0,26.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL005,96th Street Library,5.0,Y,10:00 AM - 5:00 PM,1048501.0,15.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL017,City Island Library,13.0,Y,10:00 AM - 5:00 PM,2122890.0,9.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCRIS752,Ridgewood Bushwick Older Adult Center,37.0,Y,8:00 AM - 4:00 PM,3074237.0,11.0,N,Age 60+,N,8:00 AM - 4:00 PM,0.0,"Desktops,Printers"
+QPL001,Arverne Library,31.0,Y,10am - 6pm,4301922.0,19.0,Y,,N,10am - 6pm,500.0,"Laptops,Tablets,Desktops"
+NYPL092,Yorkville Library,5.0,Y,10:00 AM - 5:00 PM,1044180.0,19.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCST.828,Bronx House Weinberg Older Adult Center,13.0,Y,9:00 AM - 5:00 PM,2088568.0,12.0,N,Age 60+,Y,9:00 AM - 5:00 PM,497.9,Desktops
+DFTAPCCCAT754,St Charles Neighborhood Senior Center,33.0,,9:00 AM - 5:00 PM,3001825.0,6.0,Y,"To become a member, clients must be 60 years of age or older.",N,9:00 AM - 5:00 PM,87.5,"Desktops,Printers"
+NYPL079,Todt Hill-Westerleigh Library,50.0,Y,10:00 AM - 5:00 PM,5035398.0,15.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCTHE856,Carver Neighborhood Older Adults Center,8.0,Y,9:00 AM - 5:00 PM,1082659.0,16.0,N,Age 60+,N,9:00 AM - 5:00 PM,96.0,"Desktops,Cameras,Scanners,Printers"
+NYPL090,Woodlawn Heights Library,11.0,Y,10:00 AM - 5:00 PM,2019288.0,13.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+PARKS022,Red Hook Media Lab,38.0,Y,6pm-12am,3008670.0,,Y,All ages; Recreation Center membership required,N,11:30am-7:30pm,74.6,Desktops
+DFTAPCCBAY803,Bay Ridge Center,47.0,Y,8:30 AM - 4:30 PM,3144947.0,14.0,Y,Age 60+,N,8:30 AM - 4:30 PM,43.7,Desktops
+QPL025,Glendale Library,32.0,Y,10am - 6pm,4090100.0,19.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+DFTAPCCCHU296,Polo Grounds Senior Center,9.0,Y,9:00 AM - 5:00 PM,,4.0,N,Adults 60 and older are allowed access.,Y,9:00 AM - 5:00 PM,393.0,"Desktops,Cameras,Printers"
+BPL021,Dyker Library,,Y,10:00AM - 6:00PM,,13.0,Y,,N,10:00AM - 6:00PM,10.0,"Laptops,Desktops"
+DYCDPCCFL873,Glenwood Community Center,45.0,Y,8:00 AM - 11:00 PM,3331003.0,4.0,N,,N,8:00 AM - 11:00 PM,55.0,"Desktops,Wi-fi Hotspots,Tablets,Video Cameras,3D Printer,Printers"
+NYPL077,The New York Public Library for the Performing Arts,6.0,Y,10:30 AM - 6:00 PM,1028832.0,99.0,Y,,N,10:30 AM - 8:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCSTE400_0,Maria Lawton Neighborhood Senior Center,36.0,Y,8:30 AM - 4:00 PM,3341752.0,,N,Age 60+,N,8:30 AM - 4:00 PM,28.0,
+BPL030,Highlawn Library,43.0,Y,10:00AM - 6:00PM,3175253.0,13.0,Y,,N,10:00AM - 6:00PM,101.0,Desktops
 BPL049,Rugby Library,45.0,Y,10:00AM - 6:00PM,3103730.0,20.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
 QPL009,Broad Channel Library,32.0,Y,10am - 6pm,4297581.0,5.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-DFTAPCCNYC332,Lenox Hill Neighborhood House,5.0,Y,8:00 AM - 6:00 PM,1044826.0,12.0,Y,"Must be members of the Older Adult Centers, i.e. 60 or older and resident of 5 boroughs",Y,8:00 AM - 6:00 PM,94.0,"Laptops,Tablets,Printers,Wi-fi Hotspots"
-DFTAPCCCON421,Hamilton Grange Older Adult Center,9.0,Y,9:00 AM - 5:00 PM,1085780.0,4.0,N,,N,9:00 AM - 5:00 PM,1.0,"Desktops,Printers"
-DFTAPCCSEL111,Benjamin Rosenthal-Prince Street Innovative Older Adult Center,20.0,Y,8:30 AM - 4:00 PM,4117390.0,14.0,N,Must be age 60+ and registered as a member,N,8:30 AM - 4:00 PM,650.8,"Desktops,Printers"
-QPL065,Woodhaven Library,32.0,Y,10am - 6pm,4181578.0,11.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-NYPL008,Andrew Heiskell Braille and Talking Book Library,3.0,Y,10:00 AM - 5:00 PM,1076145.0,13.0,Y,,N,10:00 AM - 5:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCHAN13-28,Hanac Angelo Petromelis Older Adult Center,19.0,Y,8:00 AM- 3:30 PM,4096960.0,3.0,N,Member over 60,Y,8:00 AM- 3:30 PM,300.0,"Desktops,Chargers"
-DFTAPCCBAY803,Bay Ridge Center,47.0,Y,8:30 AM - 4:30 PM,3144947.0,14.0,Y,Age 60+,N,8:30 AM - 4:30 PM,43.7,Desktops
-NYPL004,67th Street Library,5.0,Y,10:00 AM - 5:00 PM,1044749.0,26.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-BPL019,Cypress Hills Library,42.0,Y,10:00AM - 6:00PM,3252993.0,9.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-DFTAPCCALL90-20,Allen Community International Tower Senior Center,27.0,Y,9:00 AM - 4:00 PM,4209721.0,4.0,N,Must be an older adult aged 60 and above.,N,9:00 AM - 4:00 PM,0.0,"Desktops,Printers"
-DFTAPCCOAT854,Senior Planet NYC,3.0,Y,10:00 AM - 5:00 PM,1015006.0,23.0,Y,Age 60+,Y,10:00 AM - 5:00 PM,79.1,"Desktops,Tablets,Headsets"
-QPL053,Ridgewood Library,30.0,Y,10am - 6pm,4083512.0,21.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-BPL021,Dyker Library,,Y,10:00AM - 6:00PM,,13.0,Y,,N,10:00AM - 6:00PM,10.0,"Laptops,Desktops"
-QPL043,Ozone Park Library,32.0,Y,10am - 6pm,4189526.0,18.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-NYPL049,Morrisania Library,17.0,Y,10:00 AM - 5:00 PM,2004303.0,20.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-NYPL037,Huguenot Park Library,51.0,Y,10:00 AM - 5:00 PM,5083401.0,11.0,Y,,N,10:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCUNI364,Lillian Wald Older Adult Center (OAC),2.0,Y,8:00 AM - 3:00 PM,1004369.0,6.0,Y,Must be a resident of NYC and be of 60+ years of age.,Y,8:00 AM - 3:00 PM,148.6,"Desktops,Laptops,Chargers,Tablets"
-DYCDPCCSU422,Berry Cornerstone Community Center,50.0,Y,9:00 AM - 5:00 PM,5109569.0,12.0,Y,,N,9:00 AM - 5:00 PM,540.4,"Desktops,Wi-fi Hotspots,Headsets"
-QPL008,Briarwood Library,24.0,Y,10am - 6pm,4206518.0,15.0,Y,,N,10am - 6pm,500.0,Desktops
-DYCDPCCBR801,Classic Cornerstone Community Center,17.0,Y,8:30 AM - 4:30 PM,2120133.0,,N,,N,8:30 AM - 4:30 PM,113.0,Desktops
-BPL030,Highlawn Library,43.0,Y,10:00AM - 6:00PM,3175253.0,13.0,Y,,N,10:00AM - 6:00PM,101.0,Desktops
-NYPL083,"Van Cortlandt Library, Arline Schwarzman Building",11.0,Y,10:00 AM - 5:00 PM,2116521.0,28.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-BPL042,Mill Basin Library,46.0,Y,10:00AM - 6:00PM,3235910.0,20.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-DFTAPCCAME673,Amico 59th St Neighborhood Senior Citizens Center,44.0,Y,10:00 AM - 6:00 PM,3141065.0,6.0,Y,age 60 and membesrhip for center,Y,10:00 AM - 6:00 PM,315.1,Desktops
-PARKS024,St. James Media Lab,14.0,Y,6pm-12am,2118325.0,,Y,All ages; Recreation Center membership required,N,10am-6pm,43.3,Desktops
-NYPL067,Seward Park Library,1.0,Y,10:00 AM - 5:00 PM,1004053.0,33.0,Y,,N,10:00 AM - 8:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-BPL020,DeKalb Library,34.0,Y,10:00AM - 6:00PM,3073751.0,11.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-DFTAPCCSTE400_0,Maria Lawton Neighborhood Senior Center,36.0,Y,8:30 AM - 4:00 PM,3341752.0,,N,Age 60+,N,8:30 AM - 4:00 PM,28.0,
-BPL009,Brownsville Library,41.0,Y,10:00AM - 6:00PM,3080669.0,14.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-NYPL017,City Island Library,13.0,Y,10:00 AM - 5:00 PM,2122890.0,9.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCCAT287,KCS Corona Senior Center,21.0,Y,9:00 AM - 5:00 PM,4430244.0,4.0,N,Age 60+,Y,9:00 AM - 5:00 PM,835.0,"Laptops,Wi-fi Hotspots,Chargers,Printers,Scanners"
-QPL030,Jackson Heights Library,25.0,Y,10am - 6pm,4029693.0,28.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-DFTAPCCWES273,The Center At The Red Oak Neighborhood Senior Center,7.0,Y,8:30 AM - 4:00 PM,1055957.0,6.0,N,Must be an Older Adult Center member OR a WSFSSH resident.,Y,8:30 AM - 4:00 PM,163.9,"Desktops,Chargers,Tablets,Printers"
-QPL037,Maspeth Library,30.0,Y,10am - 6pm,4308052.0,12.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-DFTAPCCJEW460,Woodstock Older Adult Center,4.0,Y,8:00 AM - 4:00 PM,1022613.0,,Y,Age 60+,N,8:00 AM - 4:00 PM,1.0,
-DFTAPCCJEW657,Coop City Dreiser Community Center,12.0,Y,,2097469.0,0.0,N,Age 60+,N,,90.5,
-DFTAPCCRIS752,Ridgewood Bushwick Older Adult Center,37.0,Y,8:00 AM - 4:00 PM,3074237.0,11.0,N,Age 60+,N,8:00 AM - 4:00 PM,0.0,"Desktops,Printers"
-NYPL079,Todt Hill-Westerleigh Library,50.0,Y,10:00 AM - 5:00 PM,5035398.0,15.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DYCDPCCPH330,Soundview Cornerstone Community Center,18.0,Y,10:00 AM - 10:00 PM,2092647.0,,N,,Y,10:00 AM - 10:00 PM,50.0,
+DFTAPCCFOR894,Club Holliswood Older Adult Center,23.0,,8:00 AM - 4:00 PM,4226088.0,0.0,N,Age 60+,N,8:00 AM - 4:00 PM,107.1,
+QPL041,North Forest Park Library,29.0,Y,10am - 6pm,4076687.0,8.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+DYCDPCCCA653,Howard Houses Community Center,41.0,Y,10:00 AM - 10:00 PM,3348343.0,10.0,Y,,N,2:00 PM - 10:00 PM,79.1,Desktops
+DFTAPCCJAC640,Queensbridge-Riis Neighborhood Senior Center,26.0,Y,9:00 AM - 5:00 PM,4433386.0,13.0,N,,N,9:00 AM - 5:00 PM,395.0,"Desktops,Printers,Headsets"
 DFTAPCCWAY177,Glenmore Social Club/ Glenmore Plaza Senior Center,41.0,,10:00 AM - 6:00 PM,3391650.0,10.0,Y,,N,10:00 AM - 6:00 PM,0.0,Desktops
-DYCDPCCPO350,Polo Grounds Cornerstone Community Center,,Y,10am-10pm,,12.0,Y,,N,10am-10pm,94.1,"Desktops,Wi-fi Hotspots"
-PARKS022,Red Hook Media Lab,38.0,Y,6pm-12am,3008670.0,,Y,All ages; Recreation Center membership required,N,11:30am-7:30pm,74.6,Desktops
-NYPL042,Kingsbridge Library,11.0,Y,10:00 AM - 5:00 PM,2119474.0,39.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCBER733,Vandalia Neighborhood Senior Center,42.0,Y,8:00 AM - 4:00 PM,3348859.0,12.0,Y,60+,N,8:00 AM - 4:00 PM,164.7,"Desktops,Printers"
-DYCDPCCGR156,Tompkins Cornerstone  Community Center,36.0,Y,2:00 PM - 10:00 PM,3324248.0,,N,,N,2:00 PM - 10:00 PM,100.0,
-NYPL077,The New York Public Library for the Performing Arts,6.0,Y,10:30 AM - 6:00 PM,1028832.0,99.0,Y,,N,10:30 AM - 8:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCCON421,Hamilton Grange Older Adult Center,9.0,Y,9:00 AM - 5:00 PM,1085780.0,4.0,N,,N,9:00 AM - 5:00 PM,1.0,"Desktops,Printers"
+DFTAPCCCEN483,Saint Nicholas Social Club,9.0,Y,9:00 AM - 5:00 PM,1058707.0,7.0,Y,Must be 60 /years or older,N,9:00 AM - 5:00 PM,420.2,"Desktops,Laptops,Scanners,Microphones,Tablets,Printers,Wi-fi Hotspots"
+DYCDPCCHE821,Astoria Cornerstone Community Center,22.0,Y,2:00 PM - 10:00 PM,4430787.0,,N,,N,2:00 PM - 10:00 PM,25.0,
+PARKS024,St. James Media Lab,14.0,Y,6pm-12am,2118325.0,,Y,All ages; Recreation Center membership required,N,10am-6pm,43.3,Desktops
+DFTAPCCCYP476,Cypress Hills Adult Social Club,42.0,Y,8:15 AM - 4:15 PM,,0.0,N,60 years or older,N,8:15 AM - 4:15 PM,523.5,
+DFTAPCCJEW986,Sue Ginsburg Older Adult Center,13.0,Y,8:30 AM - 4:30 PM,2093415.0,4.0,Y,Age 60+,N,8:30 AM - 4:30 PM,93.3,"Headsets,Tablets,Printers"
+NYPL083,"Van Cortlandt Library, Arline Schwarzman Building",11.0,Y,10:00 AM - 5:00 PM,2116521.0,28.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCOAT854,Senior Planet NYC,3.0,Y,10:00 AM - 5:00 PM,1015006.0,23.0,Y,Age 60+,Y,10:00 AM - 5:00 PM,79.1,"Desktops,Tablets,Headsets"
+DFTAPCCUNI364,Lillian Wald Older Adult Center (OAC),2.0,Y,8:00 AM - 3:00 PM,1004369.0,6.0,Y,Must be a resident of NYC and be of 60+ years of age.,Y,8:00 AM - 3:00 PM,148.6,"Desktops,Laptops,Chargers,Tablets"
+DFTAPCCSEL3430-2,Latimer Neighborhood Senior Center,20.0,Y,9:00 AM - 4:00 PM,4443410.0,0.0,N,"Must be a member of our center, be 60+ and living in NYC.",N,9:00 AM - 4:00 PM,309.5,"Desktops,Laptops"
+DFTAPCCSEL111,Benjamin Rosenthal-Prince Street Innovative Older Adult Center,20.0,Y,8:30 AM - 4:00 PM,4117390.0,14.0,N,Must be age 60+ and registered as a member,N,8:30 AM - 4:00 PM,650.8,"Desktops,Printers"
+BPL009,Brownsville Library,41.0,Y,10:00AM - 6:00PM,3080669.0,14.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+DFTAPCCJEW460,Woodstock Older Adult Center,4.0,Y,8:00 AM - 4:00 PM,1022613.0,,Y,Age 60+,N,8:00 AM - 4:00 PM,1.0,
+NYPL016,Chatham Square Library,1.0,Y,10:00 AM - 6:00 PM,1003425.0,23.0,Y,,N,09:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DYCDPCCMO669,Grant Cornerstone Community Center,7.0,Y,6:00 PM - 10:00 PM,1084095.0,,N,,Y,6:00 PM - 10:00 PM,25.0,
+DYCDPCCKI726,Kips Bay Boys & Girls Club Castle Hill Unit,18.0,Y,4:30 PM - 9:00 PM,2092673.0,,N,,Y,4:30 PM - 9:00 PM,0.0,
+dycdpccja789,Jacob A. Riis Neighborhood Settlement Community Center,26.0,Y,1:00 AM - 9:00 AM,4433386.0,,N,,Y,9:00 AM - 5:00 PM,0.0,
+QPL021,Flushing Library,20.0,Y,10am - 6pm,4114282.0,76.0,Y,,N,10am - 8pm,1000.0,"Laptops,Tablets,Desktops"
+NYPL049,Morrisania Library,17.0,Y,10:00 AM - 5:00 PM,2004303.0,20.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+NYPL034,Harry Belafonte 115th Street Library,9.0,Y,10:00 AM - 5:00 PM,1055236.0,23.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DYCDPCCGR484,Lafayette Cornerstone  Community Center,36.0,Y,2:00 PM - 10:00 PM,3321871.0,,N,,N,2:00 PM - 10:00 PM,100.0,
 PARKS004,Brownsville Media Lab,42.0,Y,7pm-12am,3085992.0,17.0,Y,All ages; Recreation Center membership required,Y,,84.9,"Desktops,Laptops"
 DFTAPCCALL123,Allen Community Rockaway Blvd Neighborhood Senior Center,28.0,Y,8:00 AM - 4:00 PM,4261337.0,4.0,N,Age 60+,N,8:00 AM - 4:00 PM,50.4,"Desktops,Printers"
-DFTAPCCST.828,Bronx House Weinberg Older Adult Center,13.0,Y,9:00 AM - 5:00 PM,2088568.0,12.0,N,Age 60+,Y,9:00 AM - 5:00 PM,497.9,Desktops
-DYCDPCCMO669,Grant Cornerstone Community Center,7.0,Y,6:00 PM - 10:00 PM,1084095.0,,N,,Y,6:00 PM - 10:00 PM,25.0,
-DFTAPCCROC798,SNAP of Eastern Queens Older Adult Center,23.0,Y,9:00 AM - 3:00 PM,4537294.0,,N,Age 60+,N,9:00 AM - 3:00 PM,0.0,
-QPL023,Fresh Meadows Library,23.0,Y,10am - 6pm,4444054.0,12.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-DYCDPCCKI726,Kips Bay Boys & Girls Club Castle Hill Unit,18.0,Y,4:30 PM - 9:00 PM,2092673.0,,N,,Y,4:30 PM - 9:00 PM,0.0,
-QPL021,Flushing Library,20.0,Y,10am - 6pm,4114282.0,76.0,Y,,N,10am - 8pm,1000.0,"Laptops,Tablets,Desktops"
-DFTAPCCSUN250,Shore Hill Neighborhood Senior Center,47.0,Y,9:00 AM - 5:00 PM,3322532.0,3.0,Y,,N,9:00 AM - 5:00 PM,192.9,Tablets
-DFTAPCCSEL3430-2,Latimer Neighborhood Senior Center,20.0,Y,9:00 AM - 4:00 PM,4443410.0,0.0,N,"Must be a member of our center, be 60+ and living in NYC.",N,9:00 AM - 4:00 PM,309.5,"Desktops,Laptops"
-DFTAPCCJEW249,Bay Eden Neighborhood Senior Center,12.0,Y,8:00 AM - 4:00 PM,2093741.0,10.0,Y,"Age 60+ years, a resident of NYC, and registered member of Bay Eden OAC.",N,8:00 AM - 4:00 PM,93.0,"Desktops,Headsets,Printers,Cameras,Wi-fi Hotspots"
-NYPL005,96th Street Library,5.0,Y,10:00 AM - 5:00 PM,1048501.0,15.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-NYPL018,Clason's Point Library,17.0,Y,10:00 AM - 5:00 PM,2025381.0,28.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-BPL039,Marcy Library,36.0,Y,10:00AM - 6:00PM,3049472.0,24.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
-QPL025,Glendale Library,32.0,Y,10am - 6pm,4090100.0,19.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-QPL026,Hillcrest Library,24.0,Y,10am - 6pm,4155032.0,11.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
-NYPL016,Chatham Square Library,1.0,Y,10:00 AM - 6:00 PM,1003425.0,23.0,Y,,N,09:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-PARKS034,Williamsbridge Oval Media Lab,11.0,Y,7pm-12am,2018251.0,,Y,All ages; Recreation Center membership required,Y,8am-7pm,281.0,Desktops
-QPL001,Arverne Library,31.0,Y,10am - 6pm,4301922.0,19.0,Y,,N,10am - 6pm,500.0,"Laptops,Tablets,Desktops"
-DYCDPCCDI336,Butler Cornerstone Community Center,16.0,Y,10am- 10pm,2092072.0,8.0,Y,,N,10am- 10pm,82.2,"Desktops,Laptops"
+DYCDPCCGR156,Tompkins Cornerstone  Community Center,36.0,Y,2:00 PM - 10:00 PM,3324248.0,,N,,N,2:00 PM - 10:00 PM,100.0,
 DFTAPCCCAT108,Bayside Older Adult Center,23.0,Y,8:00 AM - 4:00 PM,4161696.0,9.0,N,,N,8:00 AM - 4:00 PM,93.9,"Desktops,Wi-fi Hotspots"
-DFTAPCCMAN313,Dyckman Neighborhood Senior Center,10.0,Y,8:30 AM - 4:30 PM,1080032.0,4.0,N,Individuals must be age 60+ to have access the computers/tablet.,N,8:30 AM - 4:30 PM,79.6,"Desktops,Tablets,Microphones,Printers"
-DFTAPCCFOR725,Willoughby Neighborhood Senior Center,35.0,Y,8:00 AM - 4:00 PM,3399809.0,9.0,Y,Age 60+,N,8:00 AM - 4:00 PM,118.3,"Desktops,Printers,Scanners,Chargers,Cameras,Microphones,Wi-fi Hotspots"
+DFTAPCCJEW657,Coop City Dreiser Community Center,12.0,Y,,2097469.0,0.0,N,Age 60+,N,,90.5,
+PARKS034,Williamsbridge Oval Media Lab,11.0,Y,7pm-12am,2018251.0,,Y,All ages; Recreation Center membership required,Y,8am-7pm,281.0,Desktops
+NYPL018,Clason's Point Library,17.0,Y,10:00 AM - 5:00 PM,2025381.0,28.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+QPL053,Ridgewood Library,30.0,Y,10am - 6pm,4083512.0,21.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+B PL016,Coney Island Library,47.0,Y,10:00AM - 6:00PM,3189001.0,12.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+DFTAPCCNYC332,Lenox Hill Neighborhood House,5.0,Y,8:00 AM - 6:00 PM,1044826.0,12.0,Y,"Must be members of the Older Adult Centers, i.e. 60 or older and resident of 5 boroughs",Y,8:00 AM - 6:00 PM,94.0,"Laptops,Tablets,Printers,Wi-fi Hotspots"
+QPL023,Fresh Meadows Library,23.0,Y,10am - 6pm,4444054.0,12.0,Y,,N,10am - 6pm,500.0,"Tablets,Desktops"
+BPL020,DeKalb Library,34.0,Y,10:00AM - 6:00PM,3073751.0,11.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+BPL019,Cypress Hills Library,42.0,Y,10:00AM - 6:00PM,3252993.0,9.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+DFTAPCCMAN313,Dyckman Neighbo rhood Senior Center,10.0,Y,8:30 AM - 4:30 PM,1080032.0,4.0,N,Individuals must be age 60+ to have access the computers/tablet.,N,8:30 AM - 4:30 PM,79.6,"Desktops,Tablets,Microphones,Printers"
+DFTAPCCBER733,Vandalia Neighborhood Senior Center,42.0,Y,8:00 AM - 4:00 PM,3348859.0,12.0,Y,60+,N,8:00 AM - 4:00 PM,164.7,"Desktops,Printers"
+QPL008,Briarwood Library,24.0,Y,10am - 6pm,4206518.0,15.0,Y,,N,10am - 6pm,500.0,Desktops
+DFTAPCCHAN13-28,Hanac Angelo Petromelis Older Adult Center,19.0,Y,8:00 AM- 3:30 PM,4096960.0,3.0,N,Member over 60,Y,8:00 AM- 3:30 PM,300.0,"Desktops,Chargers"
 DFTAPCCJEW544,Club 76 Older Adult Center,6.0,Y,8:00 AM - 4:00 PM,1030146.0,0.0,N,Age 60+,N,8:00 AM - 4:00 PM,0.0,Laptops
-DYCDPCCCA653,Howard Houses Community Center,41.0,Y,10:00 AM - 10:00 PM,3348343.0,10.0,Y,,N,2:00 PM - 10:00 PM,79.1,Desktops
-NYPL090,Woodlawn Heights Library,11.0,Y,10:00 AM - 5:00 PM,2019288.0,13.0,Y,,N,10:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DFTAPCCJAC640,Queensbridge-Riis Neighborhood Senior Center,26.0,Y,9:00 AM - 5:00 PM,4433386.0,13.0,N,,N,9:00 AM - 5:00 PM,395.0,"Desktops,Printers,Headsets"
-NYPL011,Belmont Library and Enrico Fermi Cultural Center,15.0,Y,10:00 AM - 6:00 PM,2012129.0,14.0,Y,,N,10:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DYCDPCCPH330,Soundview Cornerstone Community Center,18.0,Y,10:00 AM - 10:00 PM,2092647.0,,N,,Y,10:00 AM - 10:00 PM,50.0,
-DYCDPCCHE821,Astoria Cornerstone Community Center,22.0,Y,2:00 PM - 10:00 PM,4430787.0,,N,,N,2:00 PM - 10:00 PM,25.0,
-DYCDPCCCA372,Highbridge Gardens Community Center,16.0,Y,2pm-10pm,2095219.0,7.0,Y,,Y,2pm-10pm,328.0,Desktops
-DYCDPCCCO983,Washington Community Center,8.0,Y,9:00 AM - 9:00 PM,1079203.0,,N,,Y,9:00 AM - 9:00 PM,0.0,
-DFTAPCCRIS9,Ridgewood Bushwick Isc,34.0,Y,8:00 AM - 4:00 PM,3387594.0,12.0,Y,"The program is designed for adults aged 60 and over. To participate in the computer class, individual must first be registered members of the center. Additionally, due to limited space, advance registration for the class is required.",Y,8:00 AM - 4:00 PM,67.2,"Desktops,Cameras,Headsets,Tablets,Chargers"
-DFTAPCCCHU296,Polo Grounds Senior Center,9.0,Y,9:00 AM - 5:00 PM,,4.0,N,Adults 60 and older are allowed access.,Y,9:00 AM - 5:00 PM,393.0,"Desktops,Cameras,Printers"
+DFTAPCCGRE925,Independence Plaza Older Adult Center,1.0,Y,9:00 AM - 3:00 PM,1075706.0,0.0,N,Age 60+,N,9:00 AM - 3:00 PM,466.3,"Laptops,Scanners,Wi-fi Hotspots"
+NYPL008,Andrew Heiskell Braille and Talking Book Library,3.0,Y,10:00 AM - 5:00 PM,1076145.0,13.0,Y,,N,10:00 AM - 5:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
+DFTAPCCCAT287,KCSC,21.0,Y,9:00 AM - 5:00 PM,4430244.0,4.0,N,Age 60+,Y,9:00 AM - 5:00 PM,835.0,"Laptops,Wi-fi Hotspots,Chargers,Printers,Scanners"
 DFTAPCCWAY464,Tilden Neighborhood Senior Center,41.0,Y,11:00 AM - 10:30 PM,3326549.0,0.0,N,,N,11:00 AM - 10:30 PM,230.0,"Laptops,Scanners,Printers"
-DYCDPCCGR484,Lafayette Cornerstone  Community Center,36.0,Y,2:00 PM - 10:00 PM,3321871.0,,N,,N,2:00 PM - 10:00 PM,100.0,
-NYPL030,Great Kills Library,51.0,Y,10:00 AM - 5:00 PM,5070285.0,13.0,Y,,N,11:00 AM - 6:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-NYPL092,Yorkville Library,5.0,Y,10:00 AM - 5:00 PM,1044180.0,19.0,Y,,N,11:00 AM - 7:00 PM,1000.0,"Laptops,Desktops,Chromebooks"
-DYCDPCCFL873,Glenwood Community Center,45.0,Y,8:00 AM - 11:00 PM,3331003.0,4.0,N,,N,8:00 AM - 11:00 PM,55.0,"Desktops,Wi-fi Hotspots,Tablets,Video Cameras,3D Printer,Printers"
-NYCHADV04,Digital Van 4,,Y,9:00 AM - 3:00 PM,,8.0,Y,The eligbility requirement is that you must be under the age of 12 and be accompanied by an adult.,N,9:00 AM - 3:00 PM,,"Wi-fi Hotspots,Desktops,Printers"
-DYCDPCCCA247,Albany Cornerstone  Community Center,36.0,Y,10:30 AM - 8:30 PM,3324617.0,,N,,N,10:30 AM - 8:30 PM,25.0,Desktops
-BPL037,Macon Library,36.0,Y,10:00AM - 6:00PM,3046408.0,18.0,Y,,N,10:00AM - 6:00PM,101.0,"Laptops,Desktops"
+DFTAPCCSER221,SAGE Center Harlem,9.0,Y,10:00 AM - 6:00 PM,,3.0,N,60+ and a SAGE member,N,10:00 AM - 6:00 PM,529.3,"Desktops,Printers"
+DFTAPCCEAS260,Melrose Mott Haven Neighborhood Senior Center,17.0,Y,9:00 AM - 12:00 PM,2090413.0,6.0,Y,Age 60+,Y,9:00 AM - 3:00 PM,45.8,"Desktops,Tablets,Printers"

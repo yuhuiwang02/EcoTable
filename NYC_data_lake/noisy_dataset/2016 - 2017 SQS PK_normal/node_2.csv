@@ -1,209 +1,209 @@
-program_code,location_1,location_2,enrollment,meals,early_drop_off_available,effective_school_leadership_survey_percent_positive,ecers_activities_rating,late_pick_up_available
-02M126,80 Catherine Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",42.0,Breakfast/Lunch,No,1.0,3.0,No
-18K244,5404 Tilden Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",26.0,Breakfast/Lunch,No,0.92,4.0,No
-20K192,4715 18th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",29.0,Breakfast/Lunch/Snack(s),No,,3.0,No
-15KBMU,199 14th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",22.0,Breakfast/Lunch/Snack(s),Yes,1.0,3.0,Yes
-24Q153,60-02 60th Lane,"{'human_address': '{""address"": """", ""city"": ""MASPETH"", ""state"": ""NY"", ""zip"": ""11378""}'}",18.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-09X073,1020 Anderson Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10452""}'}",36.0,Breakfast/Lunch,No,0.96,3.0,No
-25Q169,18-25 212th Street,"{'human_address': '{""address"": """", ""city"": ""BAYSIDE"", ""state"": ""NY"", ""zip"": ""11360""}'}",35.0,Breakfast/Lunch,No,1.0,3.0,No
-18K115,1500 East 92nd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",97.0,Breakfast/Lunch/Snack(s),Yes,0.96,1.0,No
-23K446,76 Riverdale Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",36.0,Breakfast/Lunch,No,0.86,4.0,No
-32K075,95 Grove Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",33.0,Breakfast/Lunch,No,0.8,3.0,No
-02M111,440 West 53rd Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10019""}'}",43.0,Breakfast/Lunch,No,1.0,1.0,Yes
-14KABG,563 Bedford Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",30.0,Contact program directly for details,No,1.0,3.0,No
-24Q102,55-24 Van Horn Street,"{'human_address': '{""address"": """", ""city"": ""ELMHURST"", ""state"": ""NY"", ""zip"": ""11373""}'}",40.0,Breakfast/Lunch,No,0.91,4.0,No
-17KBOL,160 Parkside Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11226""}'}",36.0,Lunch/Snack(s),Yes,1.0,4.0,Yes
-23K178,2163 Dean Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11233""}'}",36.0,Contact program directly for details,No,1.0,4.0,No
-28Q101,2 Russell Place,"{'human_address': '{""address"": """", ""city"": ""FOREST HILLS"", ""state"": ""NY"", ""zip"": ""11375""}'}",18.0,Breakfast/Lunch/Snack(s),Yes,1.0,3.0,Yes
-02M130,143 Baxter Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10013""}'}",36.0,Breakfast/Lunch,No,0.92,3.0,No
-14K031,75 Meserole Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",69.0,Breakfast/Lunch,No,0.96,3.0,No
-14KBMA,80 Skillman Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",23.0,,,1.0,4.0,
-31R006,555 Page Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10307""}'}",35.0,Breakfast/Lunch,No,,4.0,No
-31RAFV,144 Bloomingdale Road,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",25.0,Lunch/Snack(s),Yes,0.73,3.0,Yes
-13KCQE,69 Macdonough Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",18.0,Breakfast/Lunch,Yes,0.98,3.0,No
-27Q362,535 Briar Place,"{'human_address': '{""address"": """", ""city"": ""FAR ROCKAWAY"", ""state"": ""NY"", ""zip"": ""11691""}'}",54.0,Breakfast/Lunch,No,1.0,3.0,No
-12X463,1180 Tinton Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",22.0,Breakfast/Lunch,Yes,1.0,1.0,No
-22KBFD,2017 Beverley Road,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11226""}'}",99.0,Breakfast/Lunch/Snack(s),No,0.93,3.0,No
-31R036,255 Ionia Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",86.0,Breakfast/Lunch,Yes,0.84,3.0,Yes
-20KBPY,8411 Fort Hamilton Parkway,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11209""}'}",48.0,Lunch/Snack(s),Yes,1.0,4.0,Yes
-31R042,380 Genesee Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",54.0,Breakfast/Lunch,No,1.0,4.0,No
-29Q136,201-15 115th Avenue,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",38.0,Breakfast/Lunch/Snack(s),Yes,1.0,4.0,No
-28Q174,65-10 Dieterle Crescent,"{'human_address': '{""address"": """", ""city"": ""REGO PARK"", ""state"": ""NY"", ""zip"": ""11374""}'}",35.0,Breakfast/Lunch,No,0.95,4.0,No
-30Q234,30-15 29th Street,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",35.0,Breakfast/Lunch,No,0.89,4.0,No
-19KBPA,2150 Linden Boulevard,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11207""}'}",22.0,Breakfast/Lunch/Snack(s),Yes,,3.0,Yes
-14K034,131 Norman Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",36.0,Breakfast/Lunch,No,0.91,3.0,No
-04M146,421 East 106th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",24.0,Breakfast/Lunch,No,,3.0,No
-32KBSA,77 Wilson Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",28.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,Yes
-05M175,175 West 134th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10030""}'}",26.0,Breakfast/Lunch/Snack(s),No,0.95,1.0,No
-17KBJH,420 Lefferts Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11225""}'}",30.0,Breakfast/Lunch/Snack(s),Yes,0.91,3.0,Yes
-25Q129,128-02 7 Avenue,"{'human_address': '{""address"": """", ""city"": ""COLLEGE POINT"", ""state"": ""NY"", ""zip"": ""11356""}'}",54.0,,,0.94,4.0,
-15K118,211 8th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",68.0,Breakfast/Lunch/Snack(s),Yes,1.0,3.0,Yes
-21KABN,5302 21st Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",25.0,Contact program directly for details,No,0.98,4.0,No
-30QBHR,34-47 88th Street,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11372""}'}",20.0,Breakfast/Lunch/Snack(s),No,0.87,3.0,No
-22K193,2515 Avenue L,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11210""}'}",18.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,No
-30QAYI,4922 30 Avenue,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11377""}'}",13.0,,,0.97,3.0,
-10X023,2151 Washington Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10457""}'}",48.0,Breakfast/Lunch,No,0.91,3.0,Yes
-15K230,1 Albemarle Road,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11218""}'}",72.0,Breakfast/Lunch/Snack(s),No,0.99,4.0,Yes
-22KBQU,1612 Quentin Road,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11229""}'}",18.0,Breakfast/Lunch/Snack(s),Yes,1.0,4.0,Yes
-15KBYJ,383 3rd Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",44.0,Breakfast/Lunch,Yes,0.9,4.0,Yes
-04M155,319 East 117th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10035""}'}",13.0,Breakfast/Lunch/Snack(s),No,,1.0,No
-01M063,121 East 3rd Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",22.0,Breakfast/Lunch/Snack(s),Yes,1.0,1.0,Yes
-26Q221,57-40 Marathon Parkway,"{'human_address': '{""address"": """", ""city"": ""LITTLE NECK"", ""state"": ""NY"", ""zip"": ""11362""}'}",18.0,Breakfast/Lunch,No,,4.0,No
-24Q007,80-55 Cornish Avenue,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11373""}'}",57.0,Breakfast/Lunch,No,0.94,4.0,No
-14KAZJ,725 Leonard Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",8.0,Contact program directly for details,No,,3.0,No
-13K093,31 New York Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",34.0,Breakfast/Lunch,No,0.94,3.0,No
-02M397,12 Spruce Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",36.0,Breakfast/Lunch/Snack(s),No,0.88,3.0,No
-15K032,317 Hoyt Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11231""}'}",33.0,Breakfast/Lunch/Snack(s),Yes,0.98,4.0,Yes
-27Q273,88-07 102nd Street,"{'human_address': '{""address"": """", ""city"": ""RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11418""}'}",36.0,Breakfast/Lunch,No,0.96,4.0,No
-06M005,3703 Tenth Avenue,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10034""}'}",41.0,Breakfast/Lunch,No,0.97,3.0,No
-05MBFX,300 W 145th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10039""}'}",20.0,Breakfast/Lunch/Snack(s),Yes,0.96,3.0,Yes
-07X029,758 Courtlandt Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",29.0,Breakfast/Lunch,Yes,0.98,4.0,No
-31R055,54 Osborne Street,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",36.0,Contact program directly for details,No,1.0,3.0,No
-01M140,123 Ridge Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10002""}'}",18.0,Breakfast/Lunch/Snack(s),No,0.98,2.0,Yes
-31R008,112 Lindenwood Road,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10308""}'}",18.0,Breakfast/Lunch,No,1.0,3.0,No
-32K106,1328 Putnam Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",24.0,Breakfast/Lunch,No,,4.0,No
-21KBQN,49 Avenue W,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11223""}'}",19.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-02M150,334 Greenwich Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10013""}'}",18.0,Breakfast/Lunch,No,0.95,3.0,No
-05M129,425 West 130th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",36.0,Breakfast/Lunch/Snack(s),Yes,0.82,4.0,No
-11XALA,2547 East Tremont Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10461""}'}",20.0,Breakfast/Lunch/Snack(s),No,,3.0,No
-21K100,2951 West 3rd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11224""}'}",52.0,Breakfast/Lunch,Yes,0.96,3.0,No
-84M518,2050 Second Avenue,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",21.0,Breakfast/Lunch/Snack(s),No,0.92,3.0,No
-02M001,8 Henry Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",34.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,No
-32K384,242 Cooper Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11207""}'}",27.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,No
-30QBDC,33-27 97th Street,"{'human_address': '{""address"": """", ""city"": ""CORONA"", ""state"": ""NY"", ""zip"": ""11368""}'}",47.0,Breakfast/Lunch/Snack(s),No,0.9,3.0,No
-10XAMQ,3880 Sedgwick Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10463""}'}",70.0,Breakfast/Lunch/Snack(s),Yes,0.98,3.0,Yes
-31R013,191 Vermont Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10305""}'}",18.0,Breakfast/Lunch,No,,4.0,No
-13K287,50 Navy Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11201""}'}",26.0,Breakfast/Lunch,Yes,0.99,3.0,No
-18K272,101-24 Seaview Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",49.0,Breakfast/Lunch,No,0.95,1.0,No
-21KBQP,8885 26th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",27.0,Contact program directly for details,Yes,,4.0,Yes
-17KBEZ,995 Carroll Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11225""}'}",53.0,Breakfast/Lunch/Snack(s),No,0.96,4.0,No
-09XALW,507 East 165th Street,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",48.0,Breakfast/Lunch/Snack(s),No,,3.0,No
-31RAFQ,360 Seaview Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10305""}'}",,,,,,
-27Q062,97-25 108th Street,"{'human_address': '{""address"": """", ""city"": ""SOUTH RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11419""}'}",36.0,Breakfast/Lunch,Yes,0.9,4.0,No
-15KBMN,298 Sixth Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",26.0,Lunch/Snack(s),Yes,0.94,3.0,Yes
-05M197,2230 5th Avenue,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10037""}'}",20.0,Breakfast/Lunch/Snack(s),Yes,1.0,4.0,Yes
-26Q205,75-25 Bell Boulevard,"{'human_address': '{""address"": """", ""city"": ""OAKLAND GARDENS"", ""state"": ""NY"", ""zip"": ""11364""}'}",36.0,Breakfast/Lunch,No,1.0,4.0,Yes
-20KABC,6101 16th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",71.0,Lunch/Snack(s),No,1.0,3.0,No
-18KARQ,5566 KINGS HIGHWAY,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",24.0,,,0.55,3.0,
-13KBCV,34 Kosciuszko Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",53.0,Breakfast/Lunch/Snack(s),Yes,0.7,3.0,Yes
-18K208,4801 Avenue D,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",36.0,Breakfast/Lunch,Yes,0.95,3.0,No
-01MBKU,131 Broome Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10002""}'}",21.0,Breakfast/Lunch/Snack(s),Yes,0.96,1.0,Yes
-08X152,1007 EVERGREEN AVENUE,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10472""}'}",71.0,,,,3.0,
-15KBFQ,4917 Fourth Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",19.0,Breakfast/Lunch/Snack(s),Yes,1.0,4.0,Yes
-14K017,208 North 5 Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",24.0,Breakfast/Lunch,Yes,,1.0,No
-05M517,168 Morningside Avenue,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",18.0,Breakfast/Lunch,Yes,0.82,3.0,Yes
-30QBLF,27-17 27th Street,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",12.0,Breakfast/Lunch/Snack(s),Yes,,3.0,No
-17KASG,1185 Park Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",29.0,Breakfast/Lunch/Snack(s),Yes,,3.0,Yes
-05M036,123 Morningside Drive,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",65.0,Breakfast/Lunch/Snack(s),No,0.91,3.0,No
-18KCLF,900 Lenox Road,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",35.0,Breakfast/Lunch,Yes,,3.0,Yes
-12X536,1827 Archer Street,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10460""}'}",18.0,Breakfast/Lunch,Yes,0.96,3.0,No
-20KBPR,825 57 Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",28.0,,,0.89,4.0,
-23K165,76 Lott Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",34.0,Breakfast/Lunch,No,0.93,4.0,No
-19KBKX,546 JAMAICA AVENUE,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",9.0,Breakfast/Lunch/Snack(s),Yes,1.0,3.0,Yes
-30Q084,22-45 41st Street,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11105""}'}",40.0,Breakfast/Lunch,No,1.0,3.0,No
-17K191,1600 Park Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11233""}'}",18.0,Breakfast/Lunch,Yes,0.92,3.0,No
-13K305,344 Monroe Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",8.0,Breakfast/Lunch,No,1.0,3.0,No
-23K323,210 Chester Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",36.0,Breakfast/Lunch,Yes,1.0,3.0,No
-22KBRL,3321 Avenue N,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",15.0,Lunch/Snack(s),Yes,1.0,4.0,Yes
-24Q068,59-09 Saint Felix Avenue,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",50.0,Breakfast/Lunch,No,0.98,4.0,No
-14KBMG,299 North 7 Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",,,,,3.0,
-02M089,201 Warren Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10282""}'}",36.0,Breakfast/Lunch,No,1.0,3.0,No
-07X001,335 East 152nd Street,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",36.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,No
-25Q209,16-10 Utopia Parkway,"{'human_address': '{""address"": """", ""city"": ""WHITESTONE"", ""state"": ""NY"", ""zip"": ""11357""}'}",18.0,Breakfast/Lunch,No,0.95,4.0,No
-17KBOF,671 Prospect Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",39.0,Breakfast/Lunch/Snack(s),No,0.92,1.0,Yes
-30Q078,48-09 Center Boulevard,"{'human_address': '{""address"": """", ""city"": ""LONG ISLAND CITY"", ""state"": ""NY"", ""zip"": ""11109""}'}",35.0,Breakfast/Lunch,No,0.73,4.0,No
-09X028,1861 Anthony Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10457""}'}",46.0,Breakfast/Lunch,No,1.0,4.0,No
-20KBPV,7104 13 Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11228""}'}",,,,,4.0,
-04MAGN,314 East 110th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",34.0,Breakfast/Lunch/Snack(s),Yes,0.86,4.0,Yes
-13KBNK,262 Lexington Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",19.0,Contact program directly for details,No,,3.0,No
-20K180,5601 16th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",25.0,Breakfast/Lunch,No,0.97,3.0,No
-29Q360,199-10 112th Avenue,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",14.0,Contact program directly for details,No,0.91,4.0,No
-29Q134,203-02 109th Avenue,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",20.0,Breakfast/Lunch,No,1.0,3.0,No
-28QBJK,94-12 160th Street,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11451""}'}",14.0,Breakfast/Lunch,Yes,,3.0,No
-84K702,241 Emerson Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",15.0,Breakfast/Lunch,No,1.0,3.0,No
-18KAKU,4410 Avenue D,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",28.0,Breakfast/Lunch/Snack(s),Yes,0.99,4.0,Yes
-28Q303,108-55 69th Avenue,"{'human_address': '{""address"": """", ""city"": ""FOREST HILLS"", ""state"": ""NY"", ""zip"": ""11375""}'}",36.0,Breakfast/Lunch,No,0.99,3.0,No
-07XANC,425 E 159th Street,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",20.0,Lunch/Snack(s),No,0.97,3.0,No
-15KAWC,15 Hanover Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11201""}'}",47.0,,,0.95,3.0,
-19K346,1400 Pennsylvania Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11239""}'}",48.0,Breakfast/Lunch,No,0.96,4.0,Yes
-22KADW,3867 Shore Parkway,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",31.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-09X110,580 Crotona Park South,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",34.0,Breakfast/Lunch,No,1.0,2.0,No
-31R011,50 Jefferson Street,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10304""}'}",26.0,Breakfast/Lunch/Snack(s),No,0.92,3.0,No
-29Q195,253-50 149th Avenue,"{'human_address': '{""address"": """", ""city"": ""ROSEDALE"", ""state"": ""NY"", ""zip"": ""11422""}'}",59.0,Breakfast/Lunch,Yes,1.0,3.0,Yes
-15KBMQ,55 Hanson Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11217""}'}",19.0,Contact program directly for details,Yes,0.82,3.0,Yes
-15KBFN,333 2nd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",26.0,Breakfast/Lunch/Snack(s),Yes,0.97,3.0,Yes
-25Q164,138-01 77th Avenue,"{'human_address': '{""address"": """", ""city"": ""FLUSHING"", ""state"": ""NY"", ""zip"": ""11367""}'}",33.0,Breakfast/Lunch,No,0.99,4.0,Yes
-26Q018,86-35 235th Court,"{'human_address': '{""address"": """", ""city"": ""QUEENS VILLAGE"", ""state"": ""NY"", ""zip"": ""11427""}'}",18.0,Breakfast/Lunch,No,1.0,3.0,No
-23KBAZ,232 Powell Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",38.0,Breakfast/Lunch/Snack(s),Yes,0.91,4.0,Yes
-22K251,1037 East 54th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",51.0,Breakfast/Lunch,No,0.93,3.0,No
-25QAFY,4550 195th Street,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11358""}'}",72.0,Breakfast/Lunch,Yes,0.88,4.0,Yes
-32KBEB,1307 Greene Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",74.0,Breakfast/Lunch/Snack(s),No,0.98,4.0,Yes
-17K221,791 Empire Boulevard,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",31.0,Breakfast/Lunch,No,1.0,3.0,No
-32KBGU,295 Woodbine Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",59.0,Breakfast/Lunch/Snack(s),Yes,0.97,4.0,Yes
-04M964,19 East 103rd Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",18.0,Breakfast/Lunch/Snack(s),No,0.97,1.0,No
-24Q088,60-85 Catalpa Avenue,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",34.0,Breakfast/Lunch/Snack(s),No,0.86,4.0,No
-24Q305,378 Seneca Avenue,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",32.0,Breakfast/Lunch,Yes,0.95,4.0,No
-11X078,1400 Needham Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10469""}'}",36.0,Breakfast/Lunch,No,1.0,3.0,No
-02M011,320 West 21st Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10011""}'}",18.0,Breakfast/Lunch/Snack(s),No,1.0,3.0,No
-20KBQB,762 59th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",43.0,Breakfast/Lunch/Snack(s),Yes,1.0,4.0,Yes
-29Q037,179-37 137th Avenue,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11434""}'}",44.0,Breakfast/Lunch/Snack(s),No,0.88,3.0,No
-06M008,465 West 167th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10032""}'}",46.0,Breakfast/Lunch,No,1.0,3.0,No
-21KBAE,133 27 Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",,,,,,
-20K112,7115 15th Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11228""}'}",17.0,Breakfast/Lunch/Snack(s),Yes,0.81,4.0,No
-03M145,150 West 105th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10025""}'}",51.0,Breakfast/Lunch,No,0.95,2.0,No
-28Q349,88-08 164th Street,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11432""}'}",35.0,Contact program directly for details,No,0.92,4.0,No
-22K203,5101 Avenue M,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",84.0,Breakfast/Lunch,No,0.96,3.0,No
-20K200,1940 Benson Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",40.0,Breakfast/Lunch,Yes,0.98,3.0,Yes
-23K327,111 Bristol Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",25.0,Breakfast/Lunch,No,0.88,3.0,No
-20KBPS,1681 49th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",37.0,Breakfast/Lunch/Snack(s),Yes,0.92,3.0,Yes
-18KAVQ,9502 Seaview Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",64.0,Breakfast/Lunch/Snack(s),Yes,0.99,3.0,Yes
-27Q316,90-07 101st Avenue,"{'human_address': '{""address"": """", ""city"": ""OZONE PARK"", ""state"": ""NY"", ""zip"": ""11416""}'}",144.0,Breakfast/Lunch,No,1.0,3.0,No
-21KAOV,1102 Avenue L,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11230""}'}",27.0,Contact program directly for details,No,1.0,4.0,No
-01M015,333 East 4th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",17.0,Breakfast/Lunch,No,0.94,2.0,No
-31R003,80 South Goff Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",36.0,Breakfast/Lunch,Yes,0.99,3.0,Yes
-17K705,443 St Marks Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11238""}'}",53.0,Breakfast/Lunch,Yes,0.99,3.0,Yes
-27Q253,1307 Central Avenue,"{'human_address': '{""address"": """", ""city"": ""FAR ROCKAWAY"", ""state"": ""NY"", ""zip"": ""11691""}'}",32.0,Breakfast/Lunch/Snack(s),No,0.89,1.0,No
-08X304,2750 Lafayette Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10465""}'}",35.0,Breakfast/Lunch,No,1.0,3.0,No
-07XASK,170 Brown Place,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10454""}'}",,,,,3.0,
-32K274,800 Bushwick Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",27.0,Breakfast/Lunch,Yes,1.0,3.0,No
-02M212,328 West 48th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10036""}'}",36.0,Breakfast/Lunch/Snack(s),No,0.95,3.0,Yes
-04MATB,1724-26 Madison Avenue,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",20.0,Breakfast/Lunch/Snack(s),No,0.95,3.0,Yes
-17K770,60 East 94th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",34.0,Breakfast/Lunch,No,1.0,4.0,Yes
-12X067,2024 Mohegan Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10460""}'}",44.0,Breakfast/Lunch,No,0.9,3.0,No
-09X199,1449 Shakespeare Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10452""}'}",41.0,Lunch/Snack(s),No,1.0,3.0,No
-20KBJO,1349/53 50th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11219""}'}",27.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-18K268,133 East 53rd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",32.0,Breakfast/Lunch,Yes,1.0,1.0,No
-22KATR,2953 Avenue X,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",,,,,,
-19K677,605 Shepherd Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",28.0,Breakfast/Lunch/Snack(s),No,,4.0,No
-31RAAN,200 Boscombe Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",17.0,Lunch/Snack(s),Yes,0.98,4.0,Yes
-30Q222,86-15 37th Avenue,"{'human_address': '{""address"": """", ""city"": ""JACKSON HEIGHTS"", ""state"": ""NY"", ""zip"": ""11372""}'}",40.0,Contact program directly for details,Yes,0.94,4.0,Yes
-22KAOQ,2611 Avenue Z,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",7.0,Breakfast,Yes,,4.0,Yes
-30Q111,37-15 13th Street,"{'human_address': '{""address"": """", ""city"": ""LONG ISLAND CITY"", ""state"": ""NY"", ""zip"": ""11101""}'}",20.0,Breakfast/Lunch,No,0.78,4.0,Yes
-27Q155,130-02 115th Avenue,"{'human_address': '{""address"": """", ""city"": ""SOUTH OZONE PARK"", ""state"": ""NY"", ""zip"": ""11420""}'}",54.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-32KBRA,600 Hart Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",62.0,Breakfast/Lunch/Snack(s),Yes,0.97,1.0,Yes
-19KBJQ,921 Hegeman Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",50.0,Breakfast/Lunch/Snack(s),Yes,0.98,4.0,Yes
-30Q017,28-37 29th Street,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",44.0,Breakfast/Lunch,No,0.99,3.0,Yes
-26QASH,64-41 Utopia Parkway,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11365""}'}",32.0,Breakfast/Lunch/Snack(s),Yes,0.88,3.0,Yes
-17KAFB,721 Lincoln Place,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",14.0,Lunch/Snack(s),No,1.0,3.0,No
-30Q228,32-63 93rd Street,"{'human_address': '{""address"": """", ""city"": ""EAST ELMHURST"", ""state"": ""NY"", ""zip"": ""11369""}'}",33.0,Breakfast/Lunch,No,1.0,3.0,No
-27Q254,84-40 101st Street,"{'human_address': '{""address"": """", ""city"": ""RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11418""}'}",34.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-17K394,188 Rochester Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",60.0,Breakfast/Lunch,Yes,0.8,3.0,No
-18KBOW,141 East 40th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",25.0,Contact program directly for details,Yes,0.94,3.0,No
-25Q242,29-66 137th Street,"{'human_address': '{""address"": """", ""city"": ""FLUSHING"", ""state"": ""NY"", ""zip"": ""11354""}'}",36.0,Breakfast/Lunch,No,0.98,3.0,No
-14K018,101 Maujer Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11206""}'}",16.0,Breakfast/Lunch,Yes,0.92,3.0,No
-23K156,104 Sutter Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",35.0,Breakfast/Lunch,No,1.0,4.0,No
-32KAJI,438 Grove Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",17.0,Breakfast/Lunch,No,1.0,3.0,Yes
-06M210,501-503 West 152nd Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10031""}'}",18.0,Breakfast/Lunch,No,0.87,4.0,No
-21KBWQ,2960 West 27th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11224""}'}",28.0,Breakfast/Lunch/Snack(s),Yes,,3.0,No
-16KBNN,971 Dekalb Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",,,,,,
-22KAMW,555 Ocean Parkway,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11218""}'}",27.0,Contact program directly for details,No,,,No
-24Q199,39-20 48th Avenue,"{'human_address': '{""address"": """", ""city"": ""SUNNYSIDE"", ""state"": ""NY"", ""zip"": ""11104""}'}",52.0,Contact program directly for details,No,0.99,4.0,No
-31R022,1860 Forest Avenue,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10303""}'}",18.0,Breakfast/Lunch/Snack(s),No,,3.0,No
-17KBLJ,60 East 93rd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",47.0,Breakfast/Lunch/Snack(s),No,0.89,3.0,No
-20KAHX,257 Bay Ridge Avenue,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",144.0,Breakfast/Lunch/Snack(s),Yes,0.99,4.0,Yes
-08X069,560 Thieriot Avenue,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10473""}'}",54.0,Breakfast/Lunch,No,0.95,3.0,No
-31R009,1055 Targee Street,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10304""}'}",36.0,Breakfast/Lunch,No,0.96,4.0,Yes
-20KBIZ,1363 50th Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11219""}'}",60.0,Breakfast/Lunch/Snack(s),No,1.0,4.0,No
-28Q048,108-29 155th Street,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11433""}'}",53.0,Breakfast/Lunch,No,0.94,3.0,No
-15KBEP,713 43rd Street,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11232""}'}",72.0,Breakfast/Lunch/Snack(s),No,0.94,3.0,No
-01M064,600 East 6th Street,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",21.0,Breakfast/Lunch/Snack(s),No,,1.0,Yes
+program_code,location_2,enrollment,meals,effective_school_leadership_survey_percent_positive,ecers_activities_rating,late_pick_up_available,nan with location_1,No with location_1,Yes with location_1
+30QBLF,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",12.0,Breakfast/Lunch/Snack(s),,3.0,No,,,27-17 27th Street
+04MATB,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",20.0,Breakfast/Lunch/Snack(s),0.95,3.0,Yes,,1724-26 Madison Avenue,
+15KBYJ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",44.0,Breakfast/Lunch,0.9,4.0,Yes,,,383 3rd Avenue
+28QBJK,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11451""}'}",14.0,Breakfast/Lunch,,3.0,No,,,94-12 160th Street
+20KBPV,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11228""}'}",,,,4.0,,7104 13 Avenue,,
+21KAOV,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11230""}'}",27.0,Contact program directly for details,1.0,4.0,No,,1102 Avenue L,
+32K075,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",33.0,Breakfast/Lunch,0.8,3.0,No,,95 Grove Street,
+14K031,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",69.0,Breakfast/Lunch,0.96,3.0,No,,75 Meserole Avenue,
+17KBEZ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11225""}'}",53.0,Breakfast/Lunch/Snack(s),0.96,4.0,No,,995 Carroll Street,
+04M155,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10035""}'}",13.0,Breakfast/Lunch/Snack(s),,1.0,No,,319 East 117th Street,
+01M064,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",21.0,Breakfast/Lunch/Snack(s),,1.0,Yes,,600 East 6th Street,
+19K677,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",28.0,Breakfast/Lunch/Snack(s),,4.0,No,,605 Shepherd Avenue,
+17KBJH,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11225""}'}",30.0,Breakfast/Lunch/Snack(s),0.91,3.0,Yes,,,420 Lefferts Avenue
+30Q017,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",44.0,Breakfast/Lunch,0.99,3.0,Yes,,28-37 29th Street,
+17K705,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11238""}'}",53.0,Breakfast/Lunch,0.99,3.0,Yes,,,443 St Marks Avenue
+05M129,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",36.0,Breakfast/Lunch/Snack(s),0.82,4.0,No,,,425 West 130th Street
+23KBAZ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",38.0,Breakfast/Lunch/Snack(s),0.91,4.0,Yes,,,232 Powell Street
+20K112,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11228""}'}",17.0,Breakfast/Lunch/Snack(s),0.81,4.0,No,,,7115 15th Avenue
+02M001,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",34.0,Breakfast/Lunch/Snack(s),1.0,3.0,No,,8 Henry Street,
+01M140,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10002""}'}",18.0,Breakfast/Lunch/Snack(s),0.98,2.0,Yes,,123 Ridge Street,
+01M063,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",22.0,Breakfast/Lunch/Snack(s),1.0,1.0,Yes,,,121 East 3rd Street
+19KBPA,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11207""}'}",22.0,Breakfast/Lunch/Snack(s),,3.0,Yes,,,2150 Linden Boulevard
+10X023,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10457""}'}",48.0,Breakfast/Lunch,0.91,3.0,Yes,,2151 Washington Avenue,
+01M015,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10009""}'}",17.0,Breakfast/Lunch,0.94,2.0,No,,333 East 4th Street,
+15K230,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11218""}'}",72.0,Breakfast/Lunch/Snack(s),0.99,4.0,Yes,,1 Albemarle Road,
+06M005,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10034""}'}",41.0,Breakfast/Lunch,0.97,3.0,No,,3703 Tenth Avenue,
+18KAKU,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",28.0,Breakfast/Lunch/Snack(s),0.99,4.0,Yes,,,4410 Avenue D
+28Q174,"{'human_address': '{""address"": """", ""city"": ""REGO PARK"", ""state"": ""NY"", ""zip"": ""11374""}'}",35.0,Breakfast/Lunch,0.95,4.0,No,,65-10 Dieterle Crescent,
+04M146,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",24.0,Breakfast/Lunch,,3.0,No,,421 East 106th Street,
+02M089,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10282""}'}",36.0,Breakfast/Lunch,1.0,3.0,No,,201 Warren Street,
+02M011,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10011""}'}",18.0,Breakfast/Lunch/Snack(s),1.0,3.0,No,,320 West 21st Street,
+32KAJI,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",17.0,Breakfast/Lunch,1.0,3.0,Yes,,438 Grove Street,
+25Q169,"{'human_address': '{""address"": """", ""city"": ""BAYSIDE"", ""state"": ""NY"", ""zip"": ""11360""}'}",35.0,Breakfast/Lunch,1.0,3.0,No,,18-25 212th Street,
+31RAAN,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",17.0,Lunch/Snack(s),0.98,4.0,Yes,,,200 Boscombe Avenue
+17KBLJ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",47.0,Breakfast/Lunch/Snack(s),0.89,3.0,No,,60 East 93rd Street,
+22K203,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",84.0,Breakfast/Lunch,0.96,3.0,No,,5101 Avenue M,
+02M130,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10013""}'}",36.0,Breakfast/Lunch,0.92,3.0,No,,143 Baxter Street,
+31R003,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",36.0,Breakfast/Lunch,0.99,3.0,Yes,,,80 South Goff Avenue
+15K032,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11231""}'}",33.0,Breakfast/Lunch/Snack(s),0.98,4.0,Yes,,,317 Hoyt Street
+30Q222,"{'human_address': '{""address"": """", ""city"": ""JACKSON HEIGHTS"", ""state"": ""NY"", ""zip"": ""11372""}'}",40.0,Contact program directly for details,0.94,4.0,Yes,,,86-15 37th Avenue
+25QAFY,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11358""}'}",72.0,Breakfast/Lunch,0.88,4.0,Yes,,,4550 195th Street
+08X152,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10472""}'}",71.0,,,3.0,,1007 EVERGREEN AVENUE,,
+02M212,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10036""}'}",36.0,Breakfast/Lunch/Snack(s),0.95,3.0,Yes,,328 West 48th Street,
+24Q068,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",50.0,Breakfast/Lunch,0.98,4.0,No,,59-09 Saint Felix Avenue,
+12X463,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",22.0,Breakfast/Lunch,1.0,1.0,No,,,1180 Tinton Avenue
+15KAWC,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11201""}'}",47.0,,0.95,3.0,,15 Hanover Place,,
+30QAYI,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11377""}'}",13.0,,0.97,3.0,,4922 30 Avenue,,
+31R011,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10304""}'}",26.0,Breakfast/Lunch/Snack(s),0.92,3.0,No,,50 Jefferson Street,
+10XAMQ,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10463""}'}",70.0,Breakfast/Lunch/Snack(s),0.98,3.0,Yes,,,3880 Sedgwick Avenue
+27Q316,"{'human_address': '{""address"": """", ""city"": ""OZONE PARK"", ""state"": ""NY"", ""zip"": ""11416""}'}",144.0,Breakfast/Lunch,1.0,3.0,No,,90-07 101st Avenue,
+21KBWQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11224""}'}",28.0,Breakfast/Lunch/Snack(s),,3.0,No,,,2960 West 27th Street
+20K180,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",25.0,Breakfast/Lunch,0.97,3.0,No,,5601 16th Avenue,
+20K192,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",29.0,Breakfast/Lunch/Snack(s),,3.0,No,,4715 18th Avenue,
+07X029,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",29.0,Breakfast/Lunch,0.98,4.0,No,,,758 Courtlandt Avenue
+13K287,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11201""}'}",26.0,Breakfast/Lunch,0.99,3.0,No,,,50 Navy Street
+20KBJO,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11219""}'}",27.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,1349/53 50th Street,
+29Q134,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",20.0,Breakfast/Lunch,1.0,3.0,No,,203-02 109th Avenue,
+27Q254,"{'human_address': '{""address"": """", ""city"": ""RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11418""}'}",34.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,84-40 101st Street,
+01MBKU,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10002""}'}",21.0,Breakfast/Lunch/Snack(s),0.96,1.0,Yes,,,131 Broome Street
+22KATR,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",,,,,,2953 Avenue X,,
+18K272,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",49.0,Breakfast/Lunch,0.95,1.0,No,,101-24 Seaview Avenue,
+28Q349,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11432""}'}",35.0,Contact program directly for details,0.92,4.0,No,,88-08 164th Street,
+07XASK,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10454""}'}",,,,3.0,,170 Brown Place,,
+16KBNN,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",,,,,,971 Dekalb Avenue,,
+23K165,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",34.0,Breakfast/Lunch,0.93,4.0,No,,76 Lott Avenue,
+05MBFX,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10039""}'}",20.0,Breakfast/Lunch/Snack(s),0.96,3.0,Yes,,,300 W 145th Street
+17K770,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",34.0,Breakfast/Lunch,1.0,4.0,Yes,,60 East 94th Street,
+07XANC,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",20.0,Lunch/Snack(s),0.97,3.0,No,,425 E 159th Street,
+18KCLF,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",35.0,Breakfast/Lunch,,3.0,Yes,,,900 Lenox Road
+23K327,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",25.0,Breakfast/Lunch,0.88,3.0,No,,111 Bristol Street,
+23K156,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",35.0,Breakfast/Lunch,1.0,4.0,No,,104 Sutter Avenue,
+30Q234,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11102""}'}",35.0,Breakfast/Lunch,0.89,4.0,No,,30-15 29th Street,
+27Q155,"{'human_address': '{""address"": """", ""city"": ""SOUTH OZONE PARK"", ""state"": ""NY"", ""zip"": ""11420""}'}",54.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,130-02 115th Avenue,
+13K305,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",8.0,Breakfast/Lunch,1.0,3.0,No,,344 Monroe Street,
+05M175,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10030""}'}",26.0,Breakfast/Lunch/Snack(s),0.95,1.0,No,,175 West 134th Street,
+14KBMG,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",,,,3.0,,299 North 7 Street,,
+24Q305,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",32.0,Breakfast/Lunch,0.95,4.0,No,,,378 Seneca Avenue
+09X073,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10452""}'}",36.0,Breakfast/Lunch,0.96,3.0,No,,1020 Anderson Avenue,
+27Q062,"{'human_address': '{""address"": """", ""city"": ""SOUTH RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11419""}'}",36.0,Breakfast/Lunch,0.9,4.0,No,,,97-25 108th Street
+20KBPR,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",28.0,,0.89,4.0,,825 57 Street,,
+24Q007,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11373""}'}",57.0,Breakfast/Lunch,0.94,4.0,No,,80-55 Cornish Avenue,
+31R022,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10303""}'}",18.0,Breakfast/Lunch/Snack(s),,3.0,No,,1860 Forest Avenue,
+15KBMQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11217""}'}",19.0,Contact program directly for details,0.82,3.0,Yes,,,55 Hanson Place
+28Q101,"{'human_address': '{""address"": """", ""city"": ""FOREST HILLS"", ""state"": ""NY"", ""zip"": ""11375""}'}",18.0,Breakfast/Lunch/Snack(s),1.0,3.0,Yes,,,2 Russell Place
+17KBOF,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",39.0,Breakfast/Lunch/Snack(s),0.92,1.0,Yes,,671 Prospect Place,
+15KBMN,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",26.0,Lunch/Snack(s),0.94,3.0,Yes,,,298 Sixth Avenue
+22KADW,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",31.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,3867 Shore Parkway,
+14K034,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",36.0,Breakfast/Lunch,0.91,3.0,No,,131 Norman Avenue,
+06M210,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10031""}'}",18.0,Breakfast/Lunch,0.87,4.0,No,,501-503 West 152nd Street,
+32KBRA,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",62.0,Breakfast/Lunch/Snack(s),0.97,1.0,Yes,,,600 Hart Street
+17K191,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11233""}'}",18.0,Breakfast/Lunch,0.92,3.0,No,,,1600 Park Place
+22KAMW,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11218""}'}",27.0,Contact program directly for details,,,No,,555 Ocean Parkway,
+11XALA,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10461""}'}",20.0,Breakfast/Lunch/Snack(s),,3.0,No,,2547 East Tremont Avenue,
+20KBPS,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",37.0,Breakfast/Lunch/Snack(s),0.92,3.0,Yes,,,1681 49th Street
+31R036,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",86.0,Breakfast/Lunch,0.84,3.0,Yes,,,255 Ionia Avenue
+13KBCV,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",53.0,Breakfast/Lunch/Snack(s),0.7,3.0,Yes,,,34 Kosciuszko Street
+24Q199,"{'human_address': '{""address"": """", ""city"": ""SUNNYSIDE"", ""state"": ""NY"", ""zip"": ""11104""}'}",52.0,Contact program directly for details,0.99,4.0,No,,39-20 48th Avenue,
+32KBSA,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",28.0,Breakfast/Lunch/Snack(s),1.0,3.0,Yes,,77 Wilson Avenue,
+15K118,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",68.0,Breakfast/Lunch/Snack(s),1.0,3.0,Yes,,,211 8th Street
+09X110,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",34.0,Breakfast/Lunch,1.0,2.0,No,,580 Crotona Park South,
+22KBFD,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11226""}'}",99.0,Breakfast/Lunch/Snack(s),0.93,3.0,No,,2017 Beverley Road,
+29Q360,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",14.0,Contact program directly for details,0.91,4.0,No,,199-10 112th Avenue,
+18K208,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",36.0,Breakfast/Lunch,0.95,3.0,No,,,4801 Avenue D
+24Q153,"{'human_address': '{""address"": """", ""city"": ""MASPETH"", ""state"": ""NY"", ""zip"": ""11378""}'}",18.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,60-02 60th Lane,
+18K244,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",26.0,Breakfast/Lunch,0.92,4.0,No,,5404 Tilden Avenue,
+05M197,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10037""}'}",20.0,Breakfast/Lunch/Snack(s),1.0,4.0,Yes,,,2230 5th Avenue
+11X078,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10469""}'}",36.0,Breakfast/Lunch,1.0,3.0,No,,1400 Needham Avenue,
+84M518,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",21.0,Breakfast/Lunch/Snack(s),0.92,3.0,No,,2050 Second Avenue,
+29Q195,"{'human_address': '{""address"": """", ""city"": ""ROSEDALE"", ""state"": ""NY"", ""zip"": ""11422""}'}",59.0,Breakfast/Lunch,1.0,3.0,Yes,,,253-50 149th Avenue
+32KBGU,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",59.0,Breakfast/Lunch/Snack(s),0.97,4.0,Yes,,,295 Woodbine Street
+30Q111,"{'human_address': '{""address"": """", ""city"": ""LONG ISLAND CITY"", ""state"": ""NY"", ""zip"": ""11101""}'}",20.0,Breakfast/Lunch,0.78,4.0,Yes,,37-15 13th Street,
+20KBQB,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",43.0,Breakfast/Lunch/Snack(s),1.0,4.0,Yes,,,762 59th Street
+18KBOW,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",25.0,Contact program directly for details,0.94,3.0,No,,,141 East 40th Street
+28Q048,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11433""}'}",53.0,Breakfast/Lunch,0.94,3.0,No,,108-29 155th Street,
+24Q088,"{'human_address': '{""address"": """", ""city"": ""RIDGEWOOD"", ""state"": ""NY"", ""zip"": ""11385""}'}",34.0,Breakfast/Lunch/Snack(s),0.86,4.0,No,,60-85 Catalpa Avenue,
+31R013,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10305""}'}",18.0,Breakfast/Lunch,,4.0,No,,191 Vermont Avenue,
+12X536,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10460""}'}",18.0,Breakfast/Lunch,0.96,3.0,No,,,1827 Archer Street
+32K106,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",24.0,Breakfast/Lunch,,4.0,No,,1328 Putnam Avenue,
+05M036,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",65.0,Breakfast/Lunch/Snack(s),0.91,3.0,No,,123 Morningside Drive,
+03M145,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10025""}'}",51.0,Breakfast/Lunch,0.95,2.0,No,,150 West 105th Street,
+20K200,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",40.0,Breakfast/Lunch,0.98,3.0,Yes,,,1940 Benson Avenue
+02M111,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10019""}'}",43.0,Breakfast/Lunch,1.0,1.0,Yes,,440 West 53rd Street,
+14KABG,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",30.0,Contact program directly for details,1.0,3.0,No,,563 Bedford Avenue,
+05M517,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10027""}'}",18.0,Breakfast/Lunch,0.82,3.0,Yes,,,168 Morningside Avenue
+22KBRL,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",15.0,Lunch/Snack(s),1.0,4.0,Yes,,,3321 Avenue N
+14K018,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11206""}'}",16.0,Breakfast/Lunch,0.92,3.0,No,,,101 Maujer Street
+09X028,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10457""}'}",46.0,Breakfast/Lunch,1.0,4.0,No,,1861 Anthony Avenue,
+14K017,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11211""}'}",24.0,Breakfast/Lunch,,1.0,No,,,208 North 5 Street
+19KBJQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",50.0,Breakfast/Lunch/Snack(s),0.98,4.0,Yes,,,921 Hegeman Avenue
+25Q242,"{'human_address': '{""address"": """", ""city"": ""FLUSHING"", ""state"": ""NY"", ""zip"": ""11354""}'}",36.0,Breakfast/Lunch,0.98,3.0,No,,29-66 137th Street,
+23K446,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",36.0,Breakfast/Lunch,0.86,4.0,No,,76 Riverdale Avenue,
+28Q303,"{'human_address': '{""address"": """", ""city"": ""FOREST HILLS"", ""state"": ""NY"", ""zip"": ""11375""}'}",36.0,Breakfast/Lunch,0.99,3.0,No,,108-55 69th Avenue,
+19KBKX,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11208""}'}",9.0,Breakfast/Lunch/Snack(s),1.0,3.0,Yes,,,546 JAMAICA AVENUE
+08X304,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10465""}'}",35.0,Breakfast/Lunch,1.0,3.0,No,,2750 Lafayette Avenue,
+22K251,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11234""}'}",51.0,Breakfast/Lunch,0.93,3.0,No,,1037 East 54th Street,
+22K193,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11210""}'}",18.0,Breakfast/Lunch/Snack(s),1.0,3.0,No,,2515 Avenue L,
+14KBMA,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",23.0,,1.0,4.0,,80 Skillman Street,,
+22KAOQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11235""}'}",7.0,Breakfast,,4.0,Yes,,,2611 Avenue Z
+26QASH,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11365""}'}",32.0,Breakfast/Lunch/Snack(s),0.88,3.0,Yes,,,64-41 Utopia Parkway
+21KABN,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",25.0,Contact program directly for details,0.98,4.0,No,,5302 21st Avenue,
+14KAZJ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11222""}'}",8.0,Contact program directly for details,,3.0,No,,725 Leonard Street,
+30Q228,"{'human_address': '{""address"": """", ""city"": ""EAST ELMHURST"", ""state"": ""NY"", ""zip"": ""11369""}'}",33.0,Breakfast/Lunch,1.0,3.0,No,,32-63 93rd Street,
+09X199,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10452""}'}",41.0,Lunch/Snack(s),1.0,3.0,No,,1449 Shakespeare Avenue,
+25Q164,"{'human_address': '{""address"": """", ""city"": ""FLUSHING"", ""state"": ""NY"", ""zip"": ""11367""}'}",33.0,Breakfast/Lunch,0.99,4.0,Yes,,138-01 77th Avenue,
+21KBQN,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11223""}'}",19.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,49 Avenue W,
+31RAFQ,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10305""}'}",,,,,,360 Seaview Avenue,,
+02M150,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10013""}'}",18.0,Breakfast/Lunch,0.95,3.0,No,,334 Greenwich Street,
+24Q102,"{'human_address': '{""address"": """", ""city"": ""ELMHURST"", ""state"": ""NY"", ""zip"": ""11373""}'}",40.0,Breakfast/Lunch,0.91,4.0,No,,55-24 Van Horn Street,
+15KBEP,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11232""}'}",72.0,Breakfast/Lunch/Snack(s),0.94,3.0,No,,713 43rd Street,
+27Q253,"{'human_address': '{""address"": """", ""city"": ""FAR ROCKAWAY"", ""state"": ""NY"", ""zip"": ""11691""}'}",32.0,Breakfast/Lunch/Snack(s),0.89,1.0,No,,1307 Central Avenue,
+31R008,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10308""}'}",18.0,Breakfast/Lunch,1.0,3.0,No,,112 Lindenwood Road,
+20KAHX,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",144.0,Breakfast/Lunch/Snack(s),0.99,4.0,Yes,,,257 Bay Ridge Avenue
+09XALW,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10456""}'}",48.0,Breakfast/Lunch/Snack(s),,3.0,No,,507 East 165th Street,
+31R055,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",36.0,Contact program directly for details,1.0,3.0,No,,54 Osborne Street,
+31RAFV,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10309""}'}",25.0,Lunch/Snack(s),0.73,3.0,Yes,,,144 Bloomingdale Road
+12X067,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10460""}'}",44.0,Breakfast/Lunch,0.9,3.0,No,,2024 Mohegan Avenue,
+26Q221,"{'human_address': '{""address"": """", ""city"": ""LITTLE NECK"", ""state"": ""NY"", ""zip"": ""11362""}'}",18.0,Breakfast/Lunch,,4.0,No,,57-40 Marathon Parkway,
+26Q205,"{'human_address': '{""address"": """", ""city"": ""OAKLAND GARDENS"", ""state"": ""NY"", ""zip"": ""11364""}'}",36.0,Breakfast/Lunch,1.0,4.0,Yes,,75-25 Bell Boulevard,
+25Q129,"{'human_address': '{""address"": """", ""city"": ""COLLEGE POINT"", ""state"": ""NY"", ""zip"": ""11356""}'}",54.0,,0.94,4.0,,128-02 7 Avenue,,
+06M008,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10032""}'}",46.0,Breakfast/Lunch,1.0,3.0,No,,465 West 167th Street,
+20KBPY,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11209""}'}",48.0,Lunch/Snack(s),1.0,4.0,Yes,,,8411 Fort Hamilton Parkway
+18KARQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",24.0,,0.55,3.0,,5566 KINGS HIGHWAY,,
+04M964,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",18.0,Breakfast/Lunch/Snack(s),0.97,1.0,No,,19 East 103rd Street,
+18KAVQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",64.0,Breakfast/Lunch/Snack(s),0.99,3.0,Yes,,,9502 Seaview Avenue
+13KBNK,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",19.0,Contact program directly for details,,3.0,No,,262 Lexington Avenue,
+30QBDC,"{'human_address': '{""address"": """", ""city"": ""CORONA"", ""state"": ""NY"", ""zip"": ""11368""}'}",47.0,Breakfast/Lunch/Snack(s),0.9,3.0,No,,33-27 97th Street,
+04MAGN,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10029""}'}",34.0,Breakfast/Lunch/Snack(s),0.86,4.0,Yes,,,314 East 110th Street
+02M397,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",36.0,Breakfast/Lunch/Snack(s),0.88,3.0,No,,12 Spruce Street,
+17KBOL,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11226""}'}",36.0,Lunch/Snack(s),1.0,4.0,Yes,,,160 Parkside Avenue
+23K178,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11233""}'}",36.0,Contact program directly for details,1.0,4.0,No,,2163 Dean Street,
+29Q037,"{'human_address': '{""address"": """", ""city"": ""JAMAICA"", ""state"": ""NY"", ""zip"": ""11434""}'}",44.0,Breakfast/Lunch/Snack(s),0.88,3.0,No,,179-37 137th Avenue,
+02M126,"{'human_address': '{""address"": """", ""city"": ""New York"", ""state"": ""NY"", ""zip"": ""10038""}'}",42.0,Breakfast/Lunch,1.0,3.0,No,,80 Catherine Street,
+07X001,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10451""}'}",36.0,Breakfast/Lunch/Snack(s),1.0,3.0,No,,335 East 152nd Street,
+31R042,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10312""}'}",54.0,Breakfast/Lunch,1.0,4.0,No,,380 Genesee Avenue,
+15KBMU,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",22.0,Breakfast/Lunch/Snack(s),1.0,3.0,Yes,,,199 14th Street
+32K384,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11207""}'}",27.0,Breakfast/Lunch/Snack(s),1.0,3.0,No,,242 Cooper Street,
+21K100,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11224""}'}",52.0,Breakfast/Lunch,0.96,3.0,No,,,2951 West 3rd Street
+84K702,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11205""}'}",15.0,Breakfast/Lunch,1.0,3.0,No,,241 Emerson Place,
+27Q273,"{'human_address': '{""address"": """", ""city"": ""RICHMOND HILL"", ""state"": ""NY"", ""zip"": ""11418""}'}",36.0,Breakfast/Lunch,0.96,4.0,No,,88-07 102nd Street,
+15KBFQ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11220""}'}",19.0,Breakfast/Lunch/Snack(s),1.0,4.0,Yes,,,4917 Fourth Avenue
+18K115,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11236""}'}",97.0,Breakfast/Lunch/Snack(s),0.96,1.0,No,,,1500 East 92nd Street
+17K394,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",60.0,Breakfast/Lunch,0.8,3.0,No,,,188 Rochester Avenue
+17K221,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",31.0,Breakfast/Lunch,1.0,3.0,No,,791 Empire Boulevard,
+13K093,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",34.0,Breakfast/Lunch,0.94,3.0,No,,31 New York Avenue,
+13KCQE,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",18.0,Breakfast/Lunch,0.98,3.0,No,,,69 Macdonough Street
+29Q136,"{'human_address': '{""address"": """", ""city"": ""SAINT ALBANS"", ""state"": ""NY"", ""zip"": ""11412""}'}",38.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,,201-15 115th Avenue
+25Q209,"{'human_address': '{""address"": """", ""city"": ""WHITESTONE"", ""state"": ""NY"", ""zip"": ""11357""}'}",18.0,Breakfast/Lunch,0.95,4.0,No,,16-10 Utopia Parkway,
+31R006,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10307""}'}",35.0,Breakfast/Lunch,,4.0,No,,555 Page Avenue,
+31R009,"{'human_address': '{""address"": """", ""city"": ""Staten Island"", ""state"": ""NY"", ""zip"": ""10304""}'}",36.0,Breakfast/Lunch,0.96,4.0,Yes,,1055 Targee Street,
+08X069,"{'human_address': '{""address"": """", ""city"": ""Bronx"", ""state"": ""NY"", ""zip"": ""10473""}'}",54.0,Breakfast/Lunch,0.95,3.0,No,,560 Thieriot Avenue,
+20KABC,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11204""}'}",71.0,Lunch/Snack(s),1.0,3.0,No,,6101 16th Avenue,
+19K346,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11239""}'}",48.0,Breakfast/Lunch,0.96,4.0,Yes,,1400 Pennsylvania Avenue,
+27Q362,"{'human_address': '{""address"": """", ""city"": ""FAR ROCKAWAY"", ""state"": ""NY"", ""zip"": ""11691""}'}",54.0,Breakfast/Lunch,1.0,3.0,No,,535 Briar Place,
+18K268,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11203""}'}",32.0,Breakfast/Lunch,1.0,1.0,No,,,133 East 53rd Street
+17KASG,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11213""}'}",29.0,Breakfast/Lunch/Snack(s),,3.0,Yes,,,1185 Park Place
+32K274,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11221""}'}",27.0,Breakfast/Lunch,1.0,3.0,No,,,800 Bushwick Avenue
+21KBAE,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",,,,,,133 27 Avenue,,
+26Q018,"{'human_address': '{""address"": """", ""city"": ""QUEENS VILLAGE"", ""state"": ""NY"", ""zip"": ""11427""}'}",18.0,Breakfast/Lunch,1.0,3.0,No,,86-35 235th Court,
+30QBHR,"{'human_address': '{""address"": """", ""city"": ""Queens"", ""state"": ""NY"", ""zip"": ""11372""}'}",20.0,Breakfast/Lunch/Snack(s),0.87,3.0,No,,34-47 88th Street,
+23K323,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11212""}'}",36.0,Breakfast/Lunch,1.0,3.0,No,,,210 Chester Street
+15KBFN,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11215""}'}",26.0,Breakfast/Lunch/Snack(s),0.97,3.0,Yes,,,333 2nd Street
+21KBQP,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11214""}'}",27.0,Contact program directly for details,,4.0,Yes,,,8885 26th Avenue
+30Q078,"{'human_address': '{""address"": """", ""city"": ""LONG ISLAND CITY"", ""state"": ""NY"", ""zip"": ""11109""}'}",35.0,Breakfast/Lunch,0.73,4.0,No,,48-09 Center Boulevard,
+20KBIZ,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11219""}'}",60.0,Breakfast/Lunch/Snack(s),1.0,4.0,No,,1363 50th Street,
+30Q084,"{'human_address': '{""address"": """", ""city"": ""ASTORIA"", ""state"": ""NY"", ""zip"": ""11105""}'}",40.0,Breakfast/Lunch,1.0,3.0,No,,22-45 41st Street,
+17KAFB,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11216""}'}",14.0,Lunch/Snack(s),1.0,3.0,No,,721 Lincoln Place,
+22KBQU,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11229""}'}",18.0,Breakfast/Lunch/Snack(s),1.0,4.0,Yes,,,1612 Quentin Road
+32KBEB,"{'human_address': '{""address"": """", ""city"": ""Brooklyn"", ""state"": ""NY"", ""zip"": ""11237""}'}",74.0,Breakfast/Lunch/Snack(s),0.98,4.0,Yes,,1307 Greene Avenue,
