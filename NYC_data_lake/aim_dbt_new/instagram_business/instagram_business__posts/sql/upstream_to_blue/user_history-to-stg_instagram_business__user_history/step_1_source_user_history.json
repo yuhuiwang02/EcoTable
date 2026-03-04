@@ -1,6 +1,0 @@
-{
-  "source_name": "instagram_business",
-  "table_name": "user_history",
-  "identifier": "instagram_business_user_history_data",
-  "definition_file": "models/staging/src_instagram_business.yml"
-}

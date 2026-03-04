@@ -1,6 +1,0 @@
-{
-  "source_name": "github",
-  "table_name": "repo_team",
-  "identifier": "github_repo_team_data",
-  "definition_file": "models/staging/src_github.yml"
-}

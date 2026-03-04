@@ -1,6 +1,0 @@
-{
-  "source_name": "github",
-  "table_name": "user",
-  "identifier": "github_user_data",
-  "definition_file": "models/staging/src_github.yml"
-}

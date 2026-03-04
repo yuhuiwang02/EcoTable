@@ -1,8 +1,0 @@
-Table: public_xero_dev.stg_xero__tracking_category_has_option
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-tracking_category_id           text                            YES        None                
-tracking_option_id             text                            YES        None                
-_fivetran_synced               text                            YES        None                
-source_relation                text                            YES        None                

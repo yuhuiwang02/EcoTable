@@ -1,6 +1,0 @@
-{
-  "source_name": "amazon_selling_partner",
-  "table_name": "item_display_group_sales_rank",
-  "identifier": "item_display_group_sales_rank",
-  "definition_file": "models/staging/src_amazon_selling_partner.yml"
-}

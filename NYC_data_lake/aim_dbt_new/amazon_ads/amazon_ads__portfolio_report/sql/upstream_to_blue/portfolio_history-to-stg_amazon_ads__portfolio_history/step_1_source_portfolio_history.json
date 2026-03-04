@@ -1,6 +1,0 @@
-{
-  "source_name": "amazon_ads",
-  "table_name": "portfolio_history",
-  "identifier": "portfolio_history_data",
-  "definition_file": "models/staging/src_amazon_ads.yml"
-}

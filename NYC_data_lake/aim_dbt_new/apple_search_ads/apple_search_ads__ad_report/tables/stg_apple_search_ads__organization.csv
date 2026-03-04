@@ -1,8 +1,0 @@
-source_relation,organization_id,currency,payment_model,organization_name,time_zone
-"",3162550,USD,PAYG,Joseph Markiewicz,UTC
-"",3219110,USD,PAYG,Tip Tap Cat,UTC
-"",3219111,EUR,PAYG,Gaming Studio,Europe/London
-"",3219112,EUR,PAYG,App Developer Pro,Asia/Tokyo
-"",3219113,GBP,PAYG,Mobile Apps Inc,UTC
-"",3219114,GBP,PAYG,Tech Innovations,Europe/London
-"",3219115,USD,PAYG,Digital Solutions,UTC

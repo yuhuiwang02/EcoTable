@@ -1,7 +1,0 @@
-Table: public.xero_contact_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-contact_id                     text                            YES        None                
-name                           text                            YES        None                
-_fivetran_deleted              boolean                         YES        None                

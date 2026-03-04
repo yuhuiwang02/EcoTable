@@ -1,6 +1,0 @@
-{
-  "source_name": "mailchimp",
-  "table_name": "automation_email",
-  "identifier": "automation_email",
-  "definition_file": "models/staging/src_mailchimp.yml"
-}

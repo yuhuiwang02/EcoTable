@@ -1,9 +1,0 @@
-id,_fivetran_synced,account_id,created_at,name,region
-ups_trampoline,2021-03-12 20:20:40.650,1k56c2c4xlti6_acct,2019-07-09 07:21:03.935607,s_test,us-test
-television_trace,2021-03-12 20:20:40.624,1k56c2c4xlti6_acct,2019-07-10 08:07:48.374015,s_gcp,us-test
-obtained_willow,2023-05-18 15:55:02.025000,1k56c2c4xlti6_acct,2020-05-18 17:28:42.535908,dbt_package_testing_bigquery,us-test
-egg_shell,2021-04-20 12:30:15.789,acct_company_alpha,2020-03-15 10:15:20.456789,prod_snowflake,us-east-1
-warehouse_datahub,2021-05-15 14:22:30.123,acct_company_alpha,2020-04-20 09:30:15.321654,prod_databricks,us-west-2
-analytics_platform,2021-06-25 11:45:20.456,acct_company_beta,2020-06-10 13:45:30.789123,prod_bigquery,us-central1
-data_lake_storage,2021-07-10 15:30:45.789,acct_company_beta,2020-08-05 11:20:45.456789,prod_redshift,eu-west-1
-business_intel,2021-08-20 10:15:30.321,acct_company_gamma,2021-01-15 14:30:20.123456,prod_postgres,eu-central-1

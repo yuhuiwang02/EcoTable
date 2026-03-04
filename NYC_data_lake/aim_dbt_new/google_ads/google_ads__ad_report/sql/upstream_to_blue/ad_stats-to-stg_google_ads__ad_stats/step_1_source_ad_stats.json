@@ -1,6 +1,0 @@
-{
-  "source_name": "google_ads",
-  "table_name": "ad_stats",
-  "identifier": "ad_stats_data",
-  "definition_file": "models/staging/src_google_ads.yml"
-}

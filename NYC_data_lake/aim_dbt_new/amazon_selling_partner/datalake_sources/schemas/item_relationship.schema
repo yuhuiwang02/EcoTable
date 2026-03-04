@@ -1,8 +1,0 @@
-Table: public.item_relationship
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-child_asin                     text                            YES        None                
-parent_asin                    text                            YES        None                
-type                           text                            YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                

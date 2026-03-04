@@ -1,7 +1,0 @@
-Table: public.order_item_promotion_id
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-promotion_id                   text                            YES        None                
-amazon_order_id                text                            YES        None                
-order_item_id                  text                            YES        None                

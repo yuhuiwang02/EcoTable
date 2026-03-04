@@ -1,7 +1,0 @@
-Table: public.xero_organization_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-organisation_id                text                            YES        None                
-financial_year_end_month       integer                         YES        None                
-financial_year_end_day         integer                         YES        None                

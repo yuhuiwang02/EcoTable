@@ -1,6 +1,0 @@
-{
-  "source_name": "facebook_pages",
-  "table_name": "lifetime_post_metrics_total",
-  "identifier": "facebook_pages_lifetime_post_metrics_total_data",
-  "definition_file": "models/staging/src_facebook_pages.yml"
-}

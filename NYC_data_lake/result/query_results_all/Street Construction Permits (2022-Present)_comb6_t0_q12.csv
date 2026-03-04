@@ -1,6 +1,0 @@
-boroughname,category,count,avg_value,total_value,max_value
-BROOKLYN,Small,191,,,
-BROOKLYN,Large,70,5280.0,369600.0,5280.0
-BROOKLYN,Medium,1,300.0,300.0,300.0
-MANHATTAN,Small,16,,,
-QUEENS,Small,1,,,

@@ -1,6 +1,0 @@
-{
-  "source_name": "pendo",
-  "table_name": "application_history",
-  "identifier": "application_history",
-  "definition_file": "models/staging/src_pendo.yml"
-}

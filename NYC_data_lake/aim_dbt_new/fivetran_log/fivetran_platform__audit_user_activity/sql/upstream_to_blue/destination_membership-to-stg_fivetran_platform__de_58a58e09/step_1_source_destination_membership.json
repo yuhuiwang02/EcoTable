@@ -1,6 +1,0 @@
-{
-  "source_name": "fivetran_platform",
-  "table_name": "destination_membership",
-  "identifier": "destination_membership",
-  "definition_file": "models/staging/src_fivetran_platform.yml"
-}

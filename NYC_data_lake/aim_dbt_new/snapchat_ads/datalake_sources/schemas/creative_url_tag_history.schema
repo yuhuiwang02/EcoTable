@@ -1,8 +1,0 @@
-Table: public.snapchat_creative_url_tag_history_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-creative_id                    text                            YES        None                
-key                            text                            YES        None                
-value                          text                            YES        None                
-updated_at                     timestamp without time zone            YES        None                

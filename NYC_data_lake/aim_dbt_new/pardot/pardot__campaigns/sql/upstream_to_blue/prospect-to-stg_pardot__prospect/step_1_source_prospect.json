@@ -1,6 +1,0 @@
-{
-  "source_name": "pardot",
-  "table_name": "prospect",
-  "identifier": "pardot_prospect_data",
-  "definition_file": "models/staging/src_pardot.yml"
-}

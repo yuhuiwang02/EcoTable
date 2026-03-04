@@ -1,1 +1,0 @@
-select * from "pardot"."public"."pardot_opportunity_data"

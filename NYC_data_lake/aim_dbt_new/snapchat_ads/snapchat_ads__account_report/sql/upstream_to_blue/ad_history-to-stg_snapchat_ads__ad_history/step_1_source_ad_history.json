@@ -1,6 +1,0 @@
-{
-  "source_name": "snapchat_ads",
-  "table_name": "ad_history",
-  "identifier": "snapchat_ad_history_data",
-  "definition_file": "models/staging/src_snapchat.yml"
-}

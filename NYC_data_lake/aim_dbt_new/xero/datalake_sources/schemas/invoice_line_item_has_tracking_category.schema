@@ -1,9 +1,0 @@
-Table: public.xero_invoice_line_item_has_tracking_category_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-invoice_id                     text                            YES        None                
-line_item_id                   text                            YES        None                
-tracking_category_id           text                            YES        None                
-option                         text                            YES        None                
-_fivetran_synced               text                            YES        None                

@@ -1,6 +1,0 @@
-{
-  "source_name": "amazon_selling_partner",
-  "table_name": "item_identifier",
-  "identifier": "item_identifier",
-  "definition_file": "models/staging/src_amazon_selling_partner.yml"
-}

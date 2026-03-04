@@ -1,8 +1,0 @@
-id,currency,name,payment_model,role_names,time_zone
-3162550,USD,Joseph Markiewicz,PAYG,"[""API Campaign Manager""]",UTC
-3219110,USD,Tip Tap Cat,PAYG,"[""API Campaign Manager""]",UTC
-3219111,EUR,Gaming Studio,PAYG,"[""API Campaign Manager""]",Europe/London
-3219112,EUR,App Developer Pro,PAYG,"[""API Campaign Manager""]",Asia/Tokyo
-3219113,GBP,Mobile Apps Inc,PAYG,"[""API Campaign Manager""]",UTC
-3219114,GBP,Tech Innovations,PAYG,"[""API Campaign Manager""]",Europe/London
-3219115,USD,Digital Solutions,PAYG,"[""API Campaign Manager""]",UTC

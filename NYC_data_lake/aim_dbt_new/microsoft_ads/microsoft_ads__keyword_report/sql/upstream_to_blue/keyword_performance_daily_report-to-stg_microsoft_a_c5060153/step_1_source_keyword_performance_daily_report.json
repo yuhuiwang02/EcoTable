@@ -1,6 +1,0 @@
-{
-  "source_name": "microsoft_ads",
-  "table_name": "keyword_performance_daily_report",
-  "identifier": "microsoft_ads_keyword_performance_daily_report_data",
-  "definition_file": "models/staging/src_microsoft_ads.yml"
-}

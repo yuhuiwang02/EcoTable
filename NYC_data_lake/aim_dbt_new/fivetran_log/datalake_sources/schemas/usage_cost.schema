@@ -1,8 +1,0 @@
-Table: public.usage_cost
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-destination_id                 text                            YES        None                
-measured_month                 text                            YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                
-amount                         double precision                YES        None                

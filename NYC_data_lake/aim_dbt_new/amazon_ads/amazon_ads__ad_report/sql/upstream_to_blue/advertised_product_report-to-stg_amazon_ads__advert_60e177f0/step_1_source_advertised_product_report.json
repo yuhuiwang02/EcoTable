@@ -1,6 +1,0 @@
-{
-  "source_name": "amazon_ads",
-  "table_name": "advertised_product_report",
-  "identifier": "advertised_product_report_data",
-  "definition_file": "models/staging/src_amazon_ads.yml"
-}

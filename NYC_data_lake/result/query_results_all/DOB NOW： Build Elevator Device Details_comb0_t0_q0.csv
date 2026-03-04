@@ -1,6 +1,0 @@
-elevator_type,elevator_landing,elevator_control,door_monitoring_circuits,cargovernor_tripping_speed,elevator_length_feet,glass_hoistway,travel_from_floor
-Passenger,L-80,Solid State,True,850.0,985.0,False,L
-Passenger,38,Solid State,False,855.0,400.0,False,L
-Passenger,C-PH,Solid State,False,,375.0,False,C
-Passenger,15,Solid State,True,970.0,360.0,False,L-20
-Passenger,"LL, L, 11-21",Solid State,True,855.0,280.0,False,LL

@@ -1,7 +1,0 @@
-Table: public.time_zone_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-time_zone                      text                            YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                
-standard_offset                text                            YES        None                

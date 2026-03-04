@@ -1,9 +1,0 @@
-Table: public_zendesk_dev.int_zendesk__ticket_schedules
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-ticket_id                      bigint                          YES        None                
-source_relation                text                            YES        None                
-schedule_id                    text                            YES        None                
-schedule_created_at            timestamp without time zone            YES        None                
-schedule_invalidated_at        timestamp with time zone            YES        None                

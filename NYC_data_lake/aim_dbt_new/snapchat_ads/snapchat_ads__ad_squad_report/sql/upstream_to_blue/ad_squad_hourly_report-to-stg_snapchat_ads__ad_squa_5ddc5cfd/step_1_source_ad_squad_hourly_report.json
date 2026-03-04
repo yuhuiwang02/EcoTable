@@ -1,6 +1,0 @@
-{
-  "source_name": "snapchat_ads",
-  "table_name": "ad_squad_hourly_report",
-  "identifier": "snapchat_ad_squad_hourly_report_data",
-  "definition_file": "models/staging/src_snapchat.yml"
-}

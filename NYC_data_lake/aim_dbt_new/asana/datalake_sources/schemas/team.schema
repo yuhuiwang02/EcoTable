@@ -1,9 +1,0 @@
-Table: public.team_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-id                             bigint                          YES        None                
-_fivetran_deleted              boolean                         YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                
-name                           text                            YES        None                
-organization_id                bigint                          YES        None                

@@ -1,6 +1,0 @@
-{
-  "source_name": "xero",
-  "table_name": "tracking_category_has_option",
-  "identifier": "xero_tracking_category_has_option_data",
-  "definition_file": "models/staging/src_xero.yml"
-}

@@ -1,9 +1,0 @@
-Table: public.github_issue_merged_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-commit_sha                     text                            YES        None                
-issue_id                       integer                         YES        None                
-merged_at                      timestamp without time zone            YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                
-actor_id                       integer                         YES        None                

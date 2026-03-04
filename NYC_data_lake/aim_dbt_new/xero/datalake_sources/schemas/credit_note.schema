@@ -1,6 +1,0 @@
-Table: public.xero_credit_note_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-credit_note_id                 text                            YES        None                
-contact_id                     text                            YES        None                

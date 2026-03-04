@@ -1,6 +1,0 @@
-{
-  "source_name": "google_ads",
-  "table_name": "ad_group_criterion_history",
-  "identifier": "ad_group_criterion_history_data",
-  "definition_file": "models/staging/src_google_ads.yml"
-}

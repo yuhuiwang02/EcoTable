@@ -1,6 +1,0 @@
-{
-  "source_name": "amazon_ads",
-  "table_name": "campaign_level_report",
-  "identifier": "campaign_level_report_data",
-  "definition_file": "models/staging/src_amazon_ads.yml"
-}

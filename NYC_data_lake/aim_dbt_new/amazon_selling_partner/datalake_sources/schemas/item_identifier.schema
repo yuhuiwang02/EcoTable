@@ -1,9 +1,0 @@
-Table: public.item_identifier
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-asin                           text                            YES        None                
-marketplace_id                 text                            YES        None                
-identifier                     integer                         YES        None                
-identifier_type                character varying               YES        None                
-_fivetran_synced               timestamp without time zone            YES        None                

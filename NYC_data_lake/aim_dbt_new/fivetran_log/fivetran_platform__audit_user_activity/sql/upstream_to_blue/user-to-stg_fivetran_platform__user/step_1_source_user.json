@@ -1,6 +1,0 @@
-{
-  "source_name": "fivetran_platform",
-  "table_name": "user",
-  "identifier": "user",
-  "definition_file": "models/staging/src_fivetran_platform.yml"
-}

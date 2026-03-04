@@ -1,6 +1,0 @@
-{
-  "source_name": "instagram_business",
-  "table_name": "media_insights",
-  "identifier": "instagram_business_media_insights_data",
-  "definition_file": "models/staging/src_instagram_business.yml"
-}

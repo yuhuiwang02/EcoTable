@@ -1,6 +1,0 @@
-{
-  "source_name": "asana",
-  "table_name": "section",
-  "identifier": "section_data",
-  "definition_file": "models/staging/src_asana.yml"
-}

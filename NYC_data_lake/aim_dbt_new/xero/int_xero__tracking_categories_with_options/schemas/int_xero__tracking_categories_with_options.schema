@@ -1,9 +1,0 @@
-Table: public_xero_dev.int_xero__tracking_categories_with_options
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-tracking_category_id           text                            YES        None                
-tracking_category_name         text                            YES        None                
-tracking_option_id             text                            YES        None                
-tracking_option_name           text                            YES        None                
-source_relation                text                            YES        None                

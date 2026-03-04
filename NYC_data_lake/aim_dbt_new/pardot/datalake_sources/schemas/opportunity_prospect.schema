@@ -1,8 +1,0 @@
-Table: public.pardot_opportunity_prospect_data
-================================================================================
-Column Name                    Data Type            Length     Nullable   Default             
---------------------------------------------------------------------------------
-opportunity_id                 integer                         YES        None                
-prospect_id                    integer                         YES        None                
-_fivetran_synced               text                            YES        None                
-updated_at                     text                            YES        None                
