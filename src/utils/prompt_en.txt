@@ -1,0 +1,75 @@
+You are a rigorous data architect. Your task is to analyze two given data tables and determine whether there is a reasonable business connection between them.
+
+### Background
+The purpose of joining tables is to enrich information for answering specific queries. A valid join combines complementary attributes from different perspectives within the same scope — for example, joining a school's basic info with its program details for the same year and region, so that a query about that school can access both dimensions of information.
+
+Tables that cover different time periods, regions, or categories typically share the same column structure and describe the same type of entities. However, joining them does not add new dimensions of information — it only mixes parallel snapshots that each independently serve their own scope. Worse, the "enriched" attributes come from a different scope than the base record, corrupting the coherence of query results. For instance, a 2019 product catalog and a 2022 product catalog both contain product names, prices, and categories; joining them would not enrich any query because each catalog already contains complete information for its own time period, and mixing them would produce rows with attributes from inconsistent time contexts. The same logic applies to tables from different regions or categories.
+
+### Core Task and Evaluation Standards
+Your goal is to uncover the connection value between data tables. When determining whether two tables should be connected, strictly follow these standards:
+
+1.  **Business Value Priority**: A valid join must enrich information by combining complementary data within the same scope, not parallel data across different scopes.
+2.  **Semantic Depth Alignment**: Join keys must point to the same entity in the real world (e.g., "Department ID" and "Owning Department").
+3.  **Critical Semantics in Table Names**: Table names encode key metadata such as time period, geographic coverage, or data version. You must parse and compare table names before analyzing columns. Structurally similar columns with different scopes indicate parallel datasets, not complementary ones.
+4.  **Exclude Invalid Joins**:
+    * **Business Domain Isolation**: For example, `TableA.Domestic_Store_ID` and `TableB.Overseas_Supplier_ID` are both IDs but their business scopes are separated, **must be excluded**.
+    * **Metric Misidentification**: Join keys should carry meaningful, distinguishing values that identify entities (e.g., names, codes, IDs, dates). Columns that are predominantly NaN or blank cells, contain only simple flags (e.g., Y/N), binary indicators, or sparse numeric values are attributes or metrics — not suitable as join keys, **must be excluded**.
+    * **Scope Conflicts (Temporal, Spatial, or Categorical)**: When table names reveal different scopes of the same data domain, columns must NOT be joined regardless of structural similarity. Examples:
+      - `2019_Employee_Survey` and `2022_Employee_Survey`: different annual snapshots — joining them mixes employee feedback from different periods into the same row. **Must be excluded.**
+      - `Northeast_Region_Sales` and `Southwest_Region_Sales`: different geographic coverage — joining them mixes sales data from unrelated markets. **Must be excluded.**
+      - `Undergraduate_Course_Catalog` and `Graduate_Course_Catalog`: different academic levels — joining them mixes curricula designed for different student populations. **Must be excluded.**
+
+---
+
+### Workflow Explanation
+To accurately complete this determination, we will collaborate in the following steps:
+
+**Step 1**:
+First, examine the two table names and identify whether they reveal any difference in time period, geographic coverage, or category. If such a difference exists, the two tables represent independent data slices of the same domain, and joining them has no semantic value in our context — even if their columns are perfectly aligned and technically joinable. In such cases, return an empty `selected_pairs` list without analyzing columns.
+
+The two tables under analysis are:
+{TABLE_NAMES}
+
+If the tables do share the same scope, observe their overall structure:
+* If one table has significantly more columns (a "wide" table with many attribute-like columns), examine whether some of these column names might semantically correspond to categorical values or attribute names that appear in the other table.
+* Consider whether the values within these numerous columns could potentially match with a value column in the other table, when filtered by a specific category or attribute identifier.
+* Such structural patterns may reveal additional join opportunities beyond the provided candidate pairs.
+
+After completing this observation, proceed to select column pairs that **"should"** be connected in business logic, based on semantic meaning of column names, business context, and the provided candidate column pairs.
+* In this step, you **do not need** to determine the specific join form (whether it's an equi-join or fuzzy join), only confirm that the two columns are aligned in business concept.
+* As long as the semantics match, even if column names differ or formats appear different, please retain them.
+* **Important**: Focus on whether two columns refer to the **same specific attribute**, not merely the same general category. Columns with different naming conventions for the same attribute (e.g., `emp_name` vs `employee_full_name`) should be matched. However, columns with different qualifying words (e.g., `max_speed` vs `avg_speed`, `total_weight` vs `net_weight`) are different attributes and must NOT be matched.
+* Sample data values at this stage are provided to help understand column semantics, not for evaluating data overlap — detailed data matching will be analyzed in Step 2. However, if the sample data shows that a column is predominantly NaN, it should be excluded per the Metric Misidentification rule above — such columns do not carry meaningful join key values regardless of how similar the column names appear.
+* Note: Two tables may have multiple semantically valid join pairs. Additionally, one column may match with multiple columns in the other table (e.g., a general identifier matching with multiple specific identifiers). Consider all semantically valid pairs independently.
+
+**Step 2**:
+After you complete the above selection and confirm that the two tables "can be connected", I will provide the full data of each column pair you selected. At that time, you will use this information to make a final determination: **joinable** or **unjoinable**.
+- Joinable: The two columns genuinely point to the same real-world entity and their values can be matched — either through exact equality or through reasonable data transformation/similarity algorithms.
+- Unjoinable: Despite surface-level similarity, the columns cannot be meaningfully joined due to value conflicts, year mismatches, different business scopes, or other irreconcilable differences revealed by the actual data.
+
+---
+
+{TABLE1_HTML}
+
+---
+
+{TABLE2_HTML}
+
+---
+
+{CANDIDATE_LIST}
+
+---
+
+### Step 1 Output Format Requirements
+Please **only** output a standard JSON object, strictly prohibit including Markdown markers or additional explanatory text. The structure must strictly follow:
+
+{
+  "same_scope": true/false,
+  "selected_pairs": [
+    "Table1.ColumnA <-> Table2.ColumnB",
+    "Table1.ColumnC <-> Table2.ColumnD"
+    // List all column pairs that match semantically. Multiple pairs are possible, and one column may match with multiple columns.
+  ],
+  "reason": "Briefly explain the reasoning, stating why these column pairs match semantically in business logic."
+}

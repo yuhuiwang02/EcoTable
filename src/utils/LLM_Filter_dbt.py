@@ -290,7 +290,7 @@ async def main():
         for r in old_data['detailed_results']:
             old_metrics_map[r['sample_id']] = r['metrics']
             old_selected_map[r['sample_id']] = r['selected_tables']
-              f"R={old_data['metrics']['recall']:.4f} F1={old_data['metrics']['f1']:.4f}{Style.RESET_ALL}")
+            f"R={old_data['metrics']['recall']:.4f} F1={old_data['metrics']['f1']:.4f}{Style.RESET_ALL}"
 
     if num_samples and num_samples < len(raw_data):
         sample_indices = list(range(num_samples))
@@ -373,7 +373,8 @@ async def main():
         output_dir,
         f'dbt_216_llm_filter_top{TOP_K}_{len(results)}samples.json'
     )
-
+    cost_input = TOTAL_PROMPT_TOKENS / 1_000_000 * 2.5
+    cost_output = TOTAL_COMPLETION_TOKENS / 1_000_000 * 10
     output_data = {
         'metadata': {
             'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
