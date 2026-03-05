@@ -1,0 +1,256 @@
+[
+  {
+    "name": "int_mailchimp__automation_recipients",
+    "dataset": "mailchimp",
+    "edges": [
+      [
+        "mailchimp_automation_email",
+        "mailchimp_automation"
+      ],
+      [
+        "mailchimp_automation_email",
+        "mailchimp_automation_recipient"
+      ]
+    ]
+  },
+  {
+    "name": "int_mailchimp__automation_unsubscribes",
+    "dataset": "mailchimp",
+    "edges": [
+      [
+        "mailchimp_automation_email",
+        "mailchimp_unsubscribe"
+      ],
+      [
+        "mailchimp_automation_email",
+        "mailchimp_automation"
+      ]
+    ]
+  },
+  {
+    "name": "mailchimp__automation_activities",
+    "dataset": "mailchimp",
+    "edges": [
+      [
+        "mailchimp_automation_email",
+        "mailchimp_automation"
+      ],
+      [
+        "mailchimp_automation_email",
+        "mailchimp_automation_recipient_activity"
+      ]
+    ]
+  },
+  {
+    "name": "pardot__campaigns",
+    "dataset": "pardot",
+    "edges": [
+      [
+        "pardot_campaign",
+        "pardot_prospect"
+      ],
+      [
+        "pardot_campaign",
+        "pardot_opportunity"
+      ]
+    ]
+  },
+  {
+    "name": "int_pendo__feature_info",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_feature_history",
+        "pendo_page_history"
+      ],
+      [
+        "pendo_feature_history",
+        "pendo_application_history"
+      ],
+      [
+        "pendo_feature_history",
+        "pendo_user"
+      ],
+      [
+        "pendo_feature_history",
+        "pendo_stg_pendo__group_tmp"
+      ]
+    ]
+  },
+  {
+    "name": "int_pendo__account_daily_metrics",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_event",
+        "pendo_feature_event"
+      ],
+      [
+        "pendo_event",
+        "pendo_page_event"
+      ]
+    ]
+  },
+  {
+    "name": "int_pendo__page_info",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_page_history",
+        "pendo_user"
+      ],
+      [
+        "pendo_page_history",
+        "pendo_stg_pendo__group_tmp"
+      ],
+      [
+        "pendo_page_history",
+        "pendo_page_rule_history"
+      ],
+      [
+        "pendo_page_history",
+        "pendo_application_history"
+      ],
+      [
+        "pendo_page_history",
+        "pendo_feature_history"
+      ]
+    ]
+  },
+  {
+    "name": "int_pendo__visitor_daily_metrics",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_event",
+        "pendo_feature_event"
+      ],
+      [
+        "pendo_event",
+        "pendo_page_event"
+      ]
+    ]
+  },
+  {
+    "name": "int_pendo__guide_info",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_guide_history",
+        "pendo_guide_step_history"
+      ],
+      [
+        "pendo_guide_history",
+        "pendo_application_history"
+      ],
+      [
+        "pendo_guide_history",
+        "pendo_user"
+      ]
+    ]
+  },
+  {
+    "name": "pendo__feature_event",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_feature_event",
+        "pendo_int_pendo__feature_info"
+      ],
+      [
+        "pendo_feature_event",
+        "pendo_account_history"
+      ],
+      [
+        "pendo_feature_event",
+        "pendo_visitor_history"
+      ]
+    ]
+  },
+  {
+    "name": "pendo__page_event",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_page_event",
+        "pendo_account_history"
+      ],
+      [
+        "pendo_page_event",
+        "pendo_int_pendo__page_info"
+      ],
+      [
+        "pendo_page_event",
+        "pendo_visitor_history"
+      ]
+    ]
+  },
+  {
+    "name": "pendo__guide_event",
+    "dataset": "pendo",
+    "edges": [
+      [
+        "pendo_guide_event",
+        "pendo_int_pendo__guide_info"
+      ],
+      [
+        "pendo_guide_event",
+        "pendo_account_history"
+      ],
+      [
+        "pendo_guide_event",
+        "pendo_visitor_history"
+      ]
+    ]
+  },
+  {
+    "name": "int_zendesk__ticket_aggregates",
+    "dataset": "zendesk",
+    "edges": [
+      [
+        "zendesk_ticket",
+        "zendesk_ticket_tag"
+      ],
+      [
+        "zendesk_ticket",
+        "zendesk_brand"
+      ]
+    ]
+  },
+  {
+    "name": "int_zendesk__updates",
+    "dataset": "zendesk",
+    "edges": [
+      [
+        "zendesk_ticket",
+        "zendesk_ticket_chat"
+      ],
+      [
+        "zendesk_ticket",
+        "zendesk_ticket_field_history"
+      ],
+      [
+        "zendesk_ticket",
+        "zendesk_ticket_comment"
+      ],
+      [
+        "zendesk_ticket_chat",
+        "zendesk_ticket_chat_event"
+      ]
+    ]
+  },
+  {
+    "name": "int_zendesk__organization_aggregates",
+    "dataset": "zendesk",
+    "edges": [
+      [
+        "zendesk_organization",
+        "zendesk_organization_tag"
+      ],
+      [
+        "zendesk_organization",
+        "zendesk_domain_name"
+      ]
+    ]
+  }
+]

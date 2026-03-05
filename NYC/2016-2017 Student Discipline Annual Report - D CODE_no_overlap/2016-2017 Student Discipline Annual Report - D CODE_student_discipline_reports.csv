@@ -1,0 +1,334 @@
+dbn,location_name,b60_using_weapon_category_i_to_attempt_injury_upon_school_personnel_students_others_s,a42_bomb_threat_r,b20_leaving_class_or_school_premises_w_o_permission_p,b27_tampering_altering_records_or_documents_p,a30_vandalism_graffiti_s,b19_inappropriate_use_of_electronic_technology_p,a48_starting_a_fire_r,b34_sexually_suggestive_verbal_physical_p,b35_posting_or_distributing_literature_or_material_containing_a_threat_of_violence_injury_or_harm_including_posting_such_material_on_the_internet_d_i_only_r,a41_false_activation_of_fire_disaster_alarm_r,b32_posting_distributing_unauthorized_libelous_material_p,a25_bringing_unauthorized_visitors_to_school_r,b29_possession_of_property_w_o_authorization_s,b29_possession_of_property_w_o_authorization_r,b54_group_violence_p,a39_possession_of_controlled_substances_or_prescription_medication_w_o_authorization_illegal_drugs_drug_paraphernalia_or_alcohol_s,b23_using_slurs_bias_p,a06_disrupting_the_educational_process_p,b57_selling_distributing_illegal_drugs_or_control_substance_p,b40_intimidating_and_bullying_behavior_r,b37_coercion_threats_r,b37_coercion_threats_s,a33_altercation_and_or_physically_aggressive_behavior_s,b25_bringing_unauthorized_visitors_to_school_r,b23_using_slurs_bias_r,a32_posting_distributing_literature_or_material_containing_threats_p,sy1617_total_removals_suspensions,b36_altercation_and_or_physically_aggressive_behavior_s,b52_using_force_against_inflicting_to_inflicting_serious_injury_to_ssa_or_school_personnel_s,a50_using_force_against_inflicting_to_inflicting_serious_injury_to_ssa_or_school_personnel_p,b31_scholastic_dishonesty_r,b50_starting_a_fire_s,a59_using_weapon_other_than_category_i_or_ii_to_inflict_injury_upon_school_personnel_students_others_s,b34_sexually_suggestive_verbal_physical_r,b08_verbally_rude_or_disrespectful_r,a46_weapon_possession_category_ii_p,b54_group_violence_r,a39_possession_of_controlled_substances_or_prescription_medication_w_o_authorization_illegal_drugs_drug_paraphernalia_or_alcohol_p,a50_using_force_against_inflicting_to_inflicting_serious_injury_to_ssa_or_school_personnel_s,b61_using_weapon_other_than_category_i_or_ii_to_inflict_injury_upon_school_personnel_students_others_p,a11_smoking_p,b47_inciting_causing_riot_p,b16_lying_to_giving_false_information_r,a07_verbally_rude_or_disrespectful_p,administrative_district,a44_reckless_behavior_that_causes_serious_injury_r,b22_trespassing_r,a23_using_slurs_bias_p,b14_gambling_r,a43_reckless_behavior_with_substantial_risk_of_serious_injury_s,a47_using_controlled_substances_w_o_authorization_illegal_drugs_or_alcohol_p,b26_gang_related_behavior_r,b25_bringing_unauthorized_visitors_to_school_s,a30_vandalism_graffiti_r,a55_selling_distributing_illegal_drugs_or_control_substance_s,b59_using_weapon_category_ii_to_attempt_injury_upon_school_personnel_students_others_s,b52_using_force_against_inflicting_to_inflicting_serious_injury_to_ssa_or_school_personnel_p,a56_weapon_possession_category_i_s,a17_leaving_class_or_school_premises_w_o_permission_p,b47_inciting_causing_riot_s,a37_intimidating_and_bullying_behavior_p,a39_possession_of_controlled_substances_or_prescription_medication_w_o_authorization_illegal_drugs_drug_paraphernalia_or_alcohol_r,b29_possession_of_property_w_o_authorization_p,b07_disrupting_the_educational_process_r,a28_inappropriate_or_unwanted_physical_contact_grades_4_5_only_r,a48_starting_a_fire_p,b60_using_weapon_category_i_to_attempt_injury_upon_school_personnel_students_others_p,b33_engaging_in_sexual_conduct_r,b35_posting_or_distributing_literature_or_material_containing_a_threat_of_violence_injury_or_harm_including_posting_such_material_on_the_internet_d_i_only_p,b08_verbally_rude_or_disrespectful_p,a38_sexually_suggestive_verbal_physical_s,b58_weapon_possession_category_i_s,a26_possession_of_property_w_o_authorization_s,b54_group_violence_s
+04M050,P.S. 050 Vito Marcantonio,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M116,P.S. 116 Mary Lindley Murray,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X103,P.S. 103 Hector Fontanez,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,69,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M343,The Peck Slip School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M527,P.S. 527 - East Side School for Social Action,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M189,P.S. 189,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X507,Stevenson Yabc,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X076,P.S. 076 The Bennington School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,81,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M442,"Ballet Tech, NYC Public School for Dance",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X042,P.S. 042 Claremont,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K032,P.S. 032 Samuel Mills Sprole,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X508,Bronxdale High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K492,Academy of Arts and Letters,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K246,M.S. 246 Walt Whitman,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K589,Arts & Media Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,22,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K590,Medgar Evers College Preparatory School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,55,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M422,Quest to Learn,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,90,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7
+16K243,P.S. 243K- The Weeksville School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M348,Washington Heights Expeditionary Learning School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,51,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X199,P.S. 199X - The Shakespeare School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,25,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+04M377,Renaissance School of the Arts,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K584,M.S. 584,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,21,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X383,Emolior Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M199,P.S. 199 Jessie Isador Straus,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M439,Manhattan Village Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M132,P.S. 132 Juan Pablo Duarte,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M103,Dos Puentes Elementary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K463,Secondary School for Journalism,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M054,J.H.S. 054 Booker T. Washington,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,46,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K335,P.S. 335 Granville T. Woods,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X253,Bronx High School for Writing and Communication Ar,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,62,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X249,Bronx Health Sciences High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M475,Stuyvesant High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,45,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M128,P.S. 128 Audubon,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,55,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K616,Brooklyn High School for Leadership and Community,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,24,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K582,M.S. 582,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X524,Crotona International High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,34,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X537,Bronx Arena High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,23,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M123,P.S. 123 Mahalia Jackson,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,37,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X287,North Bronx School of Empowerment,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,37,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X152,P.S. 152 Evergreen,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K115,P.S. 115 Daniel Mucatel School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X288,Collegiate Institute for Math and Science,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,43,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M114,East Side Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K118,The Maurice Sendak Community School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K114,P.S. 114 Ryder Elementary,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K423,Brooklyn Frontiers High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,44,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K569,Kurt Hahn Expeditionary Learning School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,67,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R
+11X289,The Young Scholars Academy of The Bronx,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,76,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6
+07X025,P.S. 025 Bilingual School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X691,Bronx Little School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M670,Thurgood Marshall Academy for Learning and Social,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,50,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X048,P.S. 048 Joseph R. Drake,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M161,P.S. 161 Pedro Albizu Campos,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M098,P.S. 098 Shorac Kappock,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M489,High School of Economics and Finance,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,27,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X068,P.S. 068 Bronx,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,23,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M135,The Urban Assembly School for Emergency Management,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,76,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X003,P.S. 3 Raul Julia Micro Society,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K010,"Magnet School of Math, Science and Design Technolo",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M544,Independence High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M288,Food and Finance High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M500,Unity Center for Urban Technologies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K256,P.S. 256 Benjamin Banneker,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K660,W. H. Maxwell Career and Technical Education High,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,67,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M494,High School of Arts and Technology,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,110,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M420,High School for Health Professions and Human Servi,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,81,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M403,The Global Learning Collaborative,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,25,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X904,T. Roosevelt Evening Hs T/R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K065,P.S. 065,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M362,Columbia Secondary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X535,Rose Hill Pre-K Center,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X284,Bronx School of Law and Finance,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X126,P.S. 126 Dr Marjorie H Dunbar,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,21,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K577,Conselyea Preparatory School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X065,P.S. 065 Mother Hale Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X564,Claremont International HS,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X670,Health Opportunities High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,37,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R
+15K321,P.S. 321 William Penn,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K839,M.S. 839,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X231,Eagle Academy for Young Men,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,22,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K353,Elijah Stroud Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X447,Creston Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X437,Fordham High School for the Arts,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X312,Millennium Art Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,117,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K039,P.S. 039 Henry Bristow,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X542,Pelham Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,42,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K044,P.S. 044 Marcus Garvey,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X480,Bronx Regional High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,42,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X302,M.S. 302 Luisa Dessus Cruz,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,36,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K489,W.E.B. Dubois Academic High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K290,P.S. 290 Juan Morel Campos,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K380,P.S. 380 John Wayne Elementary,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K056,P.S. 056 Lewis H. Latimer,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K901,G. Westinghouse Evening H.S.,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K635,Olympus Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,30,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X291,P.S. 291,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M458,Forsyth Satellite Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M304,Mott Hall High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,72,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,15
+02M418,Millennium High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K287,P.S. 287 Bailey K. Ashford,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X243,West Bronx Academy for the Future,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,39,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K023,P.S. 023 Carter G. Woodson,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X551,The Urban Assembly Bronx Academy of Letters,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,237,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,56,R,R,R,R,R,R,R,R,R,R
+09X328,New Millennium Business Academy Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X214,P.S. 214,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,95,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K015,P.S. 015 Patrick F. Daly,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K092,P.S. 092 Adrian Hegeman,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M630,Art and Design High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,38,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K510,World Academy for Total Community Health High Scho,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,48,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M115,P.S. 115 Alexander Humboldt,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K484,Ronald Edmonds Learning Center II,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M163,P.S. 163 Alfred E. Smith,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K289,P.S. 289 George V. Brower,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K662,Liberty Avenue Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K181,P.S. 181 Brooklyn,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K529,West Brooklyn Community High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K615,Transit Tech Career and Technical Education High S,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,68,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R
+08X301,M.S. 301 Paul L. Dunbar,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+20K104,P.S./I.S. 104 The Fort Hamilton School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,35,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X057,P.S. 057 Crescent,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X504,Kennedy Yabc,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X054,P.S./I.S. 54,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X180,M.S. 180 Dr. Daniel Hale Williams,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,82,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K006,Norma Adams Clemons Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K257,P.S. 257 John F. Hylan,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X365,Academy for Language and Technology,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,32,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K189,P.S. 189 The Bilingual Center,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X018,P.S. 018 John Peter Zenger,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X138,P.S. 138 Samuel Randall,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K922,South Shore Educational Complex Yabc,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M305,"Urban Assembly Academy of Government and Law, The",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,86,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K366,The Science And Medicine Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,97,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R
+15K295,P.S. 295,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M369,Urban Assembly School for the Performing Arts,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,31,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M615,Chelsea Career and Technical Education High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,21,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K107,P.S. 107 John W. Kimball,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K575,Bedford Stuyvesant Preparatory High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X106,P.S. 106 Parkchester,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M209,Hamilton Grange Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X379,Jill Chaifetz Transfer High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K040,P.S. 040 George W. Carver,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M267,"East Side Elementary School, PS 267",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M552,Gregorio Luperon High School for Science and Mathe,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X169,Baychester Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,33,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+20K102,P.S. 102 The Bayview,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M545,High School for Dual Language and Asian Studies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K691,Fort Greene Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,29,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K202,P.S. 202 Ernest S. Jenkyns,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,30,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M296,High School of Hospitality Management,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,93,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M183,P.S. 183 Robert L. Stevenson,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+04M825,Isaac Newton Middle School for Math & Science,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,29,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X534,District 11 Pre-K Center,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K464,Park Slope Collegiate,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X361,The Highbridge Green School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X382,"Elementary School for Math, Science, and Technolog",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X001,P.S. 001 Courtlandt School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X080,J.H.S. 080 The Mosholu Parkway,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K605,George Westinghouse Career and Technical Education,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,136,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M046,P.S. 046 Arthur Tappan,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,100,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M655,Life Sciences Secondary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,48,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M438,International High School at Union Square,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M130,P.S. 130 Hernando De Soto,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X442,"Celia Cruz Bronx High School of Music, The",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X305,Pablo Neruda Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,154,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K677,East New York Elementary School of Excellence,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X433,High School for Teaching and the Professions,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,31,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M151,Yorkville Community School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,42,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K588,Middle School for Art and Philosophy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,56,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R
+07X500,Hostos-Lincoln Academy of Science,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X517,Frederick Douglass Academy III Secondary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,23,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M134,P.S. 134 Henrietta Szold,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,42,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M397,Spruce Street School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X388,Pan American International High School at Monroe,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,26,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X153,P.S. 153 Helen Keller,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M448,University Neighborhood High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K398,P.S. 398 Walter Weaver,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X150,P.S. 150 Charles James Fox,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,117,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X032,P.S. 032 Belmont,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M302,KAPPA IV,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,20,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M650,Cascades High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X511,Bronx Envision Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,64,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X061,P.S. 061 Francisco Oller,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M278,Paula Hedbavny School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M605,Humanities Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M421,West Prep Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,47,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M165,P.S. 165 Robert E. Simon,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,63,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K477,School for Legal Studies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,29,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M092,P.S. 092 Mary McLeod Bethune,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X343,Academy of Applied Mathematics and Technology,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,52,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R
+03M256,M.S. 256 Academic & Athletic Excellence,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,50,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K770,P.S. 770 New American Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M005,P.S. 005 Ellen Lurie,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M325,P.S. 325,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X223,M.S. 223 The Laboratory School of Finance and Tech,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K557,Brooklyn Gardens Elementary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M076,P.S. 076 A. Philip Randolph,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,90,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X562,Blueprint Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M250,M.S. 250 West Side Collaborative Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,29,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M400,High School for Environmental Studies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,142,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K007,P.S. 007 Abraham Lincoln,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X274,The New American Academy at Roberto Clemente State,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M143,J.H.S. 143 Eleanor Roosevelt,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,39,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M285,Harlem Renaissance High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,26,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M258,Community Action School - MS 258,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,69,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K124,P.S. 124 Silas B. Dutcher,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+04M057,James Weldon Johnson,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K497,The Boerum Hill School for International Studies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,29,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X565,High School for Energy and Technology,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,34,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M087,P.S. 087 William Sherman,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K067,P.S. 067 Charles A. Dorsey,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K578,Brooklyn Bridge Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M006,P.S. 006 Lillie D. Blake,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X561,Bronx Compass High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,73,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X023,P.S. 023 The New Children's School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M291,West End Secondary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X107,P.S. 107,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X314,Fairmont Neighborhood School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K669,Research and Service High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X333,P.S. 333 - The Museum School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X270,Academy for Scholarship and Entrepreneurship: A Co,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,63,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K698,South Brooklyn Community High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X320,Pelham Lab High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,39,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K439,Brooklyn International High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M140,P.S. 140 Nathan Straus,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K629,Cultural Academy for the Arts and Sciences,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,89,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K546,High School for Public Service: Heroes of Tomorrow,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X007,Milton Fein School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M311,Amistad Dual Language School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M125,P.S. 125 Ralph Bunche,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X112,P.S. 112 Bronxwood,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X479,Bronx Career and College Preparatory High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,88,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K659,Cypress Hills Collegiate Preparatory School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X558,Westchester Square Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,76,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X196,P.S. 196,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X008,P.S. 008 Isaac Varian,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,21,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K093,P.S. 093 William H. Prescott,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational C,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,65,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M473,Washington Irving Yabc,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K765,Nelson Mandela High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,44,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K241,P.S. 241 Emma L. Johnston,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M540,A. Philip Randolph Campus High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,51,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R
+14K126,John Ericsson Middle School 126,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,77,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X413,Bronx High School for Medical Science,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K059,P.S. 059 William Floyd,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X374,Knowledge and Power Preparatory Academy Internatio,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X455,Harry S Truman High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,38,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R
+13K020,P.S. 020 Clinton Hill,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M157,The Urban Assembly School for Global Commerce,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,40,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K393,Frederick Douglass Academy IV Secondary School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K158,P.S. 158 Warwick,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X059,P.S. 059 The Community School of Technology,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M011,P.S. 011 William T. Harris,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X412,Bronx High School of Business,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,49,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K088,J.H.S. 088 Peter Rouget,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,28,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M008,P.S. 008 Luis Belliard,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X327,Comprehensive Model School Project M.S. 327,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,109,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X349,Bronx River High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,74,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M517,Teachers College Community School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K610,Automotive High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,59,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K026,P.S. 026 Jesse Owens,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K448,Brooklyn Secondary School for Collaborative Studie,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,110,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K567,Brooklyn Theatre Arts High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,107,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M499,Frederick Douglass Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,22,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X427,Community School for Social Justice,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,58,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K467,Erasmus Yabc,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M167,J.H.S. 167 Robert F. Wagner,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,89,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M290,P.S. 290 Manhattan New School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M972,Office of Academic Policy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X545,Bronx Aerospace High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,130,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M425,Leadership and Public Service High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,68,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M407,Institute for Collaborative Education,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K224,P.S. 224 Hale A. Woodruff,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X277,P.S. 277,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K598,Middle School of Marketing and Legal Studies,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X062,P.S. 062 Inocensio Casanova,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X318,"I.S. X318 Math, Science & Technology Through Arts",R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,124,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X145,J.H.S. 145 Arturo Toscanini,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+11X468,Pelham Academy of Academics and Community Engageme,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X217,School of Performing Arts,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X094,P.S. 094 Kings College School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,94,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K504,High School for Civil Rights,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,37,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+06M462,The College Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,24,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R
+03M541,Manhattan / Hunter Science High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K364,I.S. 364 Gateway,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M260,M.S. 260 Clinton School Writers & Artists,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M893,Jacob Riis School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K213,P.S. 213 New Lots,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M077,P.S. 77 Lower Lab School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K412,"Brooklyn Community High School of Communication, A",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K351,The Urban Assembly Unison School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,37,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M416,Eleanor Roosevelt High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K159,P.S. 159 Isaac Pitkin,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,73,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K478,"The High School for Enterprise, Business and Techn",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,91,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R
+02M600,The High School of Fashion Industries,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,34,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X045,Thomas C. Giordano Middle School 45,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,133,13,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,7
+19K306,P.S. 306 Ethan Allen,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X313,I.S. 313 School of Leadership Development,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X505,"Bronx School for Law, Government and Justice",R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,75,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X478,The Cinema School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M042,P.S. 042 Benjamin Altman,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+15K230,P.S. 230 Doris L. Cohen,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M241,STEM Institute of Manhattan,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M404,Innovation Diploma Plus,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,44,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+17K399,P.S. 399 Stanley Eugene Clark,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,17,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X014,P.S. X014 Senator John Calandra,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+04M375,Mosaic Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,4,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+09X525,Bronx Leadership Academy High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+18K272,P.S. 272 Curtis Estabrook,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,30,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,18,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M565,Urban Academy Laboratory High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K110,P.S. 110 The Monitor,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+03M859,Special Music School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,3,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K328,P.S. 328 Phyllis Wheatley,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+01M064,P.S. 064 Robert Simon,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,6,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+16K594,Gotham Professional Arts Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,57,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,16,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+07X547,New Explorers High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,78,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,9,R,R
+10X391,The Angelo Patri Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,35,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R
+19K218,J.H.S. 218 James P. Sinnott,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,46,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+19K654,Van Siclen Community Middle School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,35,9,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,19,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X353,World View High School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,30,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+13K270,P.S. 270 Johann DeKalb,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,7,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,13,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X213,Bronx Engineering and Technology Academy,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,11,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X081,P.S. 081 Robert J. Christen,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X536,P.S. 536,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+12X212,P.S. 212,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M414,N.Y.C. Museum School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,15,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+08X392,Bronx Delta School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,8,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+14K016,P.S. 016 Leonard Dunkly,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,14,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+02M550,Liberty High School Academy for Newcomers,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,2,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+05M194,P.S. 194 Countee Cullen,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,0,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,5,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+10X315,P.S. 315 Lab School,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,12,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,10,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R

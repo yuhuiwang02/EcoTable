@@ -1,0 +1,210 @@
+bin,comparable_rental_1_dist_from_coop_in_miles,comparable_rental_1_year_built,postcode,council_district,manhattan_condominium_property_market_value_per_sqft,nta,comparable_rental_1_address,census_tract,manhattan_condominium_property_building_classification
+1013595.0,0.5,1904,10018.0,3.0,172.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,1265 BROADWAY,111.0,R4-ELEVATOR
+1026878.0,0.55,2002,10019.0,3.0,177.0,Clinton                                                                    ,520 WEST 48 STREET,139.0,R9-CONDOPS
+1026318.0,0.75,1906,10023.0,3.0,299.0,Lincoln Square                                                             ,135 CENTRAL PARK WEST,145.0,R4-ELEVATOR
+1030444.0,0.45,2002,10023.0,6.0,197.0,Lincoln Square                                                             ,140 RIVERSIDE BOULEVARD,159.0,R4-ELEVATOR
+1032699.0,0.15,1926,10024.0,6.0,108.0,Upper West Side                                                            ,147 WEST 79 STREET,167.0,R4-ELEVATOR
+1030544.0,0.1,1901,10023.0,6.0,116.0,Lincoln Square                                                             ,2139 BROADWAY,159.0,R4-ELEVATOR
+1087118.0,0.15,1930,10016.0,2.0,196.0,Midtown-Midtown South                                                      ,9 EAST 32 STREET,74.0,R4-ELEVATOR
+1008052.0,0.2,1900,10012.0,3.0,104.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,26 CARMINE STREET,49.0,R9-CONDOPS
+102057900.00%,0.55,1998,10010.0,2.0,221.0,Gramercy                                                                   ,347 EAST 33 STREET,64.0,R4-ELEVATOR
+1083734.0,0.35,1998,10019.0,3.0,177.0,Clinton                                                                    ,810 8 AVENUE,139.0,R4-ELEVATOR
+1070131.0,0.25,2002,10023.0,3.0,206.0,Lincoln Square                                                             ,1930 BROADWAY,145.0,R4-ELEVATOR
+1086107.0,0.3,1922,10024.0,6.0,116.0,Upper West Side                                                            ,2333 BROADWAY,179.0,R4-ELEVATOR
+1087620.0,0.65,1986,10003.0,2.0,216.0,East Village                                                               ,298 MULBERRY STREET,42.0,R4-ELEVATOR
+1087253.0,0.4,2003,10002.0,1.0,191.0,Chinatown                                                                  ,81 EAST 3 STREET,18.0,R4-ELEVATOR
+1076074.0,0.55,1920,10011.0,3.0,112.0,West Village                                                               ,643 BROADWAY,63.0,R9-CONDOPS
+1076149.0,0.3,1910,10003.0,2.0,173.0,Gramercy                                                                   ,151 EAST 26 STREET,50.0,R4-ELEVATOR
+1013429.0,0.15,1927,10011.0,3.0,143.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,208 WEST 23 STREET,93.0,R9-CONDOPS
+,0.25,1975,10021.0,5.0,190.0,Lenox Hill-Roosevelt Island                                                ,211 EAST 70 STREET,134.0,R9-CONDOPS
+1077841.0,0.15,1989,10019.0,3.0,207.0,Clinton                                                                    ,227 WEST 48 STREET,127.0,R4-ELEVATOR
+1038909.0,0.4,1975,10017.0,4.0,306.0,Turtle Bay-East Midtown                                                    ,1044 2 AVENUE,90.0,R4-ELEVATOR
+1072488.0,0.35,1975,10065.0,5.0,216.0,Lenox Hill-Roosevelt Island                                                ,218 EAST 72 STREET,118.0,R4-ELEVATOR
+1087513.0,0.15,1974,10022.0,4.0,242.0,Turtle Bay-East Midtown                                                    ,422 EAST 53 STREET,98.0,R4-ELEVATOR
+1002434.0,1.05,1998,10013.0,1.0,135.0,Chinatown                                                                  ,70 BATTERY PLACE,29.0,R4-ELEVATOR
+1030352.0,0.35,1999,10023.0,6.0,175.0,Lincoln Square                                                             ,160 RIVERSIDE BOULEVARD,155.0,R4-ELEVATOR
+1001589.0,0.3,1915,10013.0,1.0,149.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,43 WHITE STREET,21.0,R4-ELEVATOR
+1016177.0,0.25,1907,10003.0,2.0,221.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,27 WEST 16 STREET,52.0,R4-ELEVATOR
+1039464.0,1.45,1986,10017.0,4.0,206.0,Turtle Bay-East Midtown                                                    ,353 EAST 78 STREET,98.0,R4-ELEVATOR
+1087243.0,0.45,1930,10004.0,1.0,201.0,Battery Park City-Lower Manhattan                                          ,100 MAIDEN LANE,13.0,R4-ELEVATOR
+1045832.0,1.25,1980,10021.0,5.0,211.0,Lenox Hill-Roosevelt Island                                                ,1680 3 AVENUE,124.0,R4-ELEVATOR
+1041534.0,0.7,1967,10021.0,4.0,203.0,Upper East Side-Carnegie Hill                                              ,1033 3 AVENUE,130.0,R4-ELEVATOR
+1009092.0,0.25,1940,10003.0,2.0,111.0,West Village                                                               ,20 5 AVENUE,59.0,R9-CONDOPS
+1039489.0,0.35,1982,10017.0,4.0,216.0,Turtle Bay-East Midtown                                                    ,333 EAST 56 STREET,98.0,R4-ELEVATOR
+1083854.0,0.6,1927,10024.0,6.0,140.0,Upper West Side                                                            ,308 WEST 93 STREET,169.0,R4-ELEVATOR
+1066782.0,0.55,1938,10012.0,1.0,162.0,West Village                                                               ,21 EAST 9 STREET,5502.0,R4-ELEVATOR
+1076331.0,0.3,1962,10128.0,5.0,142.0,Yorkville                                                                  ,306 EAST 96 STREET,152.0,R4-ELEVATOR
+1001505.0,0.55,1929,10007.0,1.0,167.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,110 GREENWICH STREET,21.0,R4-ELEVATOR
+1010290.0,0.85,1929,10013.0,3.0,217.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,11 WAVERLY PLACE,37.0,R4-ELEVATOR
+1087494.0,0.85,1929,10013.0,3.0,197.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,11 WAVERLY PLACE,37.0,R4-ELEVATOR
+1087504.0,0.25,1911,10011.0,3.0,220.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,12 EAST 22 STREET,54.0,R4-ELEVATOR
+108723800.00%,0.0,2004,10004.0,1.0,211.0,Battery Park City-Lower Manhattan                                          ,211 NORTH END AVENUE,31704.0,R4-ELEVATOR
+1087720.0,0.65,2002,10069.0,6.0,255.0,Lincoln Square                                                             ,1930 BROADWAY,151.0,R4-ELEVATOR
+1001877.0,0.1,1999,10013.0,1.0,168.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,336 BROADWAY,33.0,R4-ELEVATOR
+1087292.0,1.0,1997,10044.0,5.0,211.0,Lenox Hill-Roosevelt Island                                                ,150 EAST 57 STREET,23801.0,R4-ELEVATOR
+1071151.0,0.2,2005,10024.0,6.0,206.0,Upper West Side                                                            ,2495 BROADWAY,175.0,R9-CONDOPS
+1077812.0,0.7,1900,10002.0,1.0,158.0,Chinatown                                                                  ,90 CLINTON STREET,8.0,R4-ELEVATOR
+1027472.0,0.15,1981,10023.0,6.0,196.0,Lincoln Square                                                             ,45 WEST 60 STREET,149.0,R4-ELEVATOR
+1076128.0,1.2,1948,10011.0,3.0,170.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,304 EAST 20 STREET,83.0,R9-CONDOPS
+1043270.0,0.4,1975,10075.0,4.0,212.0,Upper East Side-Carnegie Hill                                              ,218 EAST 72 STREET,140.0,R4-ELEVATOR
+1041317.0,0.5,1930,10021.0,4.0,202.0,Upper East Side-Carnegie Hill                                              ,320 EAST 65 STREET,122.0,R4-ELEVATOR
+1032320.0,0.3,2005,10024.0,6.0,206.0,Upper West Side                                                            ,2495 BROADWAY,173.0,R4-ELEVATOR
+1036926.0,0.2,1983,10022.0,4.0,216.0,Turtle Bay-East Midtown                                                    ,240 EAST 59 STREET,11203.0,R4-ELEVATOR
+1087512.0,1.2,1980,10017.0,4.0,228.0,Turtle Bay-East Midtown                                                    ,203 EAST 69 STREET,90.0,R4-ELEVATOR
+1087833.0,0.25,1930,10003.0,2.0,236.0,West Village                                                               ,127 PARK AVENUE SOUTH,61.0,R4-ELEVATOR
+1084293.0,0.2,1916,10019.0,4.0,140.0,Midtown-Midtown South                                                      ,51 WEST 55 STREET,137.0,R4-ELEVATOR
+1087530.0,0.35,1900,10012.0,1.0,206.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,40 PRINCE STREET,49.0,R4-ELEVATOR
+1066627.0,0.55,1900,10009.0,2.0,75.0,East Village                                                               ,291 EAST 3 STREET,34.0,R2-WALK-UP
+1087495.0,0.8,2003,10013.0,3.0,216.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,756 WASHINGTON STREET,37.0,R4-ELEVATOR
+1047961.0,0.1,1986,10128.0,5.0,201.0,Upper East Side-Carnegie Hill                                              ,203 EAST 86 STREET,14802.0,R4-ELEVATOR
+1087941.0,0.15,2005,10011.0,3.0,222.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,30 WEST 18 STREET,54.0,R4-ELEVATOR
+1028839.0,0.2,1974,10023.0,6.0,216.0,Lincoln Square                                                             ,139 COLUMBUS AVENUE,153.0,R4-ELEVATOR
+1.0879800E+6,0.15,2001,10036.0,3.0,211.0,Clinton                                                                    ,311 WEST 50 STREET,127.0,R4-ELEVATOR
+1015487.0,0.25,1911,10011.0,3.0,212.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,12 EAST 22 STREET,54.0,R4-ELEVATOR
+1051113.0,0.25,1978,10075.0,5.0,173.0,Yorkville                                                                  ,516 EAST 86 STREET,136.0,R4-ELEVATOR
+1013894.0,0.0,1920,10011.0,3.0,140.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,274 WEST 19 STREET,87.0,R4-ELEVATOR
+1087057.0,0.4,1910,10002.0,1.0,108.0,Lower East Side                                                            ,174 CANAL STREET,6.0,R4-ELEVATOR
+1071116.0,0.65,1927,10024.0,6.0,140.0,Upper West Side                                                            ,308 WEST 93 STREET,167.0,R4-ELEVATOR
+1001193.0,0.1,1920,10038.0,1.0,191.0,Battery Park City-Lower Manhattan                                          ,17 JOHN STREET,1502.0,R4-ELEVATOR
+1047142.0,0.45,1985,10128.0,4.0,170.0,Upper East Side-Carnegie Hill                                              ,128 EAST 85 STREET,16001.0,R4-ELEVATOR
+1037604.0,0.1,1986,10017.0,4.0,226.0,Turtle Bay-East Midtown                                                    ,245 EAST 44 STREET,90.0,R4-ELEVATOR
+1087055.0,0.2,1915,10013.0,1.0,141.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,34 MULBERRY STREET,31.0,R4-ELEVATOR
+1045589.0,0.3,1979,10021.0,5.0,211.0,Lenox Hill-Roosevelt Island                                                ,206 EAST 72 STREET,124.0,R4-ELEVATOR
+1084795.0,0.15,1948,10010.0,2.0,168.0,Gramercy                                                                   ,304 EAST 20 STREET,64.0,R9-CONDOPS
+1020423.0,0.45,1981,10003.0,2.0,197.0,Gramercy                                                                   ,425 EAST 76 STREET,48.0,R4-ELEVATOR
+1044134.0,0.8,1900,10075.0,4.0,168.0,Lenox Hill-Roosevelt Island                                                ,5 EAST 63 STREET,134.0,R4-ELEVATOR
+1010086.0,0.55,1959,10014.0,3.0,136.0,West Village                                                               ,120 UNIVERSITY PLACE,67.0,R4-ELEVATOR
+1023743.0,0.7,1939,10019.0,4.0,154.0,Midtown-Midtown South                                                      ,341 WEST 45 STREET,137.0,R9-CONDOPS
+1043138.0,0.2,1899,10021.0,4.0,172.0,Upper East Side-Carnegie Hill                                              ,74 EAST 79 STREET,128.0,R4-ELEVATOR
+1066879.0,0.05,1929,10012.0,1.0,111.0,West Village                                                               ,136 WEST 4 STREET,65.0,R9-CONDOPS
+1001451.0,0.1,1921,10007.0,1.0,163.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,53 PARK PLACE,21.0,R4-ELEVATOR
+1085936.0,1.05,2003,10026.0,9.0,116.0,Central Harlem South                                                       ,327 EAST 100 STREET,190.0,R9-CONDOPS
+1084603.0,1.4,2002,10002.0,1.0,222.0,Chinatown                                                                  ,527 EAST 13 STREET,8.0,R4-ELEVATOR
+1012691.0,0.5,2000,10011.0,3.0,177.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,160 WEST 22 STREET,93.0,R4-ELEVATOR
+1.0877240E+6,0.85,2003,10011.0,3.0,212.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,756 WASHINGTON STREET,91.0,R4-ELEVATOR
+1084932.0,0.05,1929,10012.0,1.0,115.0,West Village                                                               ,136 WEST 4 STREET,65.0,R9-CONDOPS
+1002127.0,0.75,1998,10013.0,1.0,160.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,70 BATTERY PLACE,39.0,R4-ELEVATOR
+1002844.0,0.1,1900,10013.0,1.0,135.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,36 LAIGHT STREET,39.0,R4-ELEVATOR
+1041086.0,0.35,1979,10065.0,4.0,236.0,Upper East Side-Carnegie Hill                                              ,1261 2 AVENUE,122.0,R4-ELEVATOR
+1002154.0,0.75,1998,10013.0,1.0,112.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,70 BATTERY PLACE,33.0,R9-CONDOPS
+1011760.0,0.85,1930,10014.0,3.0,119.0,West Village                                                               ,52 EAST 13 STREET,75.0,R9-CONDOPS
+1087703.0,0.45,1987,10036.0,3.0,217.0,Clinton                                                                    ,419 WEST 52 STREET,121.0,R4-ELEVATOR
+1007673.0,0.05,1910,10012.0,1.0,99.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,423 WEST BROADWAY,49.0,R4-ELEVATOR
+1037840.0,0.1,1986,10017.0,4.0,201.0,Turtle Bay-East Midtown                                                    ,245 EAST 44 STREET,90.0,R4-ELEVATOR
+1078985.0,0.25,2002,10004.0,1.0,170.0,Battery Park City-Lower Manhattan                                          ,10 LIBERTY STREET,9.0,R4-ELEVATOR
+1001050.0,0.25,1920,10006.0,1.0,169.0,Battery Park City-Lower Manhattan                                          ,17 JOHN STREET,13.0,R4-ELEVATOR
+1009321.0,0.1,1959,10003.0,2.0,109.0,West Village                                                               ,120 UNIVERSITY PLACE,61.0,R4-ELEVATOR
+1007077.0,0.25,1900,10013.0,1.0,104.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,188 AVENUE OF THE AMERICA,47.0,R9-CONDOPS
+1039848.0,0.85,1961,10022.0,4.0,142.0,Turtle Bay-East Midtown                                                    ,225 EAST 70 STREET,98.0,R4-ELEVATOR
+1086518.0,1.05,2001,10026.0,9.0,144.0,Central Harlem South                                                       ,1501 LEXINGTON AVENUE,190.0,R4-ELEVATOR
+1042069.0,0.15,1968,10065.0,4.0,164.0,Upper East Side-Carnegie Hill                                              ,1081 3 AVENUE,11402.0,R9-CONDOPS
+1080244.0,0.25,1987,10014.0,3.0,237.0,West Village                                                               ,114 HORATIO STREET,75.0,R4-ELEVATOR
+1009425.0,0.4,1920,10011.0,3.0,115.0,West Village                                                               ,643 BROADWAY,63.0,R9-CONDOPS
+1001556.0,0.25,1921,10013.0,1.0,108.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,53 PARK PLACE,39.0,R9-CONDOPS
+1048139.0,1.0,1961,10128.0,4.0,163.0,Upper East Side-Carnegie Hill                                              ,225 EAST 70 STREET,14802.0,R4-ELEVATOR
+1007740.0,0.1,1900,10012.0,1.0,108.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,188 AVENUE OF THE AMERICA,49.0,R4-ELEVATOR
+,0.3,1910,,,140.0,,306 WEST 47 STREET,,R4-ELEVATOR
+1079134.0,0.75,1996,10013.0,1.0,100.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,223 EAST 6 STREET,45.0,R4-ELEVATOR
+1011377.0,0.25,1896,10014.0,3.0,168.0,West Village                                                               ,133 CHARLES STREET,77.0,R9-CONDOPS
+1017882.0,0.25,1939,10003.0,2.0,149.0,Gramercy                                                                   ,124 EAST 24 STREET,50.0,R9-CONDOPS
+1015494.0,0.2,1907,10011.0,3.0,221.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,27 WEST 16 STREET,54.0,R4-ELEVATOR
+1045956.0,0.15,1920,10021.0,5.0,163.0,Lenox Hill-Roosevelt Island                                                ,334 EAST 79 STREET,132.0,R4-ELEVATOR
+1084885.0,0.2,1920,10002.0,2.0,99.0,East Village                                                               ,629 EAST 5 STREET,3002.0,R4-ELEVATOR
+1088428.0,0.9,2004,10035.0,9.0,169.0,Central Harlem North-Polo Grounds                                          ,138 EAST 112 STREET,206.0,R4-ELEVATOR
+1079162.0,0.35,1915,10007.0,1.0,149.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,43 WHITE STREET,21.0,R4-ELEVATOR
+1032526.0,0.4,1903,10025.0,6.0,140.0,Upper West Side                                                            ,2350 BROADWAY,177.0,R4-ELEVATOR
+1070070.0,0.45,1998,10019.0,3.0,149.0,Clinton                                                                    ,614 10 AVENUE,133.0,R4-ELEVATOR
+1086104.0,0.3,1930,10014.0,3.0,222.0,West Village                                                               ,330 BLEECKER STREET,69.0,R4-ELEVATOR
+1031581.0,0.55,1925,10024.0,6.0,116.0,Upper West Side                                                            ,310 WEST 95 STREET,173.0,R4-ELEVATOR
+1022060.0,0.15,1980,10016.0,4.0,192.0,Turtle Bay-East Midtown                                                    ,330 EAST 39 STREET,8601.0,R4-ELEVATOR
+1087672.0,0.25,1999,10011.0,3.0,217.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,460 WEST 20 STREET,99.0,R4-ELEVATOR
+1048582.0,0.25,1989,10028.0,5.0,173.0,Yorkville                                                                  ,241 EAST 86 STREET,138.0,R4-ELEVATOR
+1076272.0,1.05,1964,10022.0,4.0,144.0,Turtle Bay-East Midtown                                                    ,519 EAST 76 STREET,108.0,R9-CONDOPS
+1073762.0,0.6,1981,10128.0,5.0,173.0,Yorkville                                                                  ,221 EAST 82 STREET,15601.0,R4-ELEVATOR
+1087678.0,0.65,1987,10036.0,3.0,196.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,419 WEST 52 STREET,117.0,R9-CONDOPS
+1081496.0,0.45,1914,10065.0,5.0,173.0,Lenox Hill-Roosevelt Island                                                ,334 EAST 74 STREET,118.0,R9-CONDOPS
+1019731.0,0.4,1962,10010.0,2.0,163.0,Gramercy                                                                   ,135 3 AVENUE,64.0,R9-CONDOPS
+1087725.0,0.25,2000,10003.0,2.0,221.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,51 WEST 22 STREET,52.0,R4-ELEVATOR
+1068169.0,0.5,1900,10011.0,3.0,115.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,328 8 AVENUE,81.0,R9-CONDOPS
+1015096.0,0.35,1928,10001.0,3.0,210.0,Midtown-Midtown South                                                      ,324 WEST 30 STREET,95.0,R4-ELEVATOR
+1041297.0,0.6,1931,10021.0,4.0,241.0,Upper East Side-Carnegie Hill                                              ,305 EAST 63 STREET,122.0,R4-ELEVATOR
+1075794.0,0.5,1900,10002.0,1.0,195.0,Lower East Side                                                            ,93 AVENUE D,12.0,R4-ELEVATOR
+1009091.0,0.3,1964,10003.0,2.0,119.0,West Village                                                               ,92 PARK AVENUE SOUTH,59.0,R9-CONDOPS
+1087647.0,1.3,1987,10022.0,5.0,273.0,Turtle Bay-East Midtown                                                    ,1195 LEXINGTON AVENUE,108.0,R4-ELEVATOR
+1.0431730E+6,0.35,1980,10021.0,4.0,228.0,Upper East Side-Carnegie Hill                                              ,203 EAST 69 STREET,128.0,R4-ELEVATOR
+1028173.0,0.35,1928,10023.0,6.0,140.0,Lincoln Square                                                             ,133 WEST 71 STREET,149.0,R4-ELEVATOR
+1087759.0,0.2,1900,10011.0,3.0,103.0,West Village                                                               ,27 WASHINGTON SQUARE NORT,63.0,R4-ELEVATOR
+1065321.0,0.0,1998,10280.0,1.0,196.0,Battery Park City-Lower Manhattan                                          ,50 BATTERY PLACE,31704.0,R4-ELEVATOR
+1034093.0,0.35,1907,10024.0,6.0,149.0,Upper West Side                                                            ,125 RIVERSIDE DRIVE,179.0,R4-ELEVATOR
+1019668.0,0.05,1930,10010.0,2.0,140.0,Gramercy                                                                   ,220 EAST 22 STREET,64.0,R4-ELEVATOR
+1000835.0,0.2,1907,10005.0,1.0,196.0,Battery Park City-Lower Manhattan                                          ,84 WILLIAM STREET,7.0,R4-ELEVATOR
+1065475.0,0.0,1998,10280.0,1.0,196.0,Battery Park City-Lower Manhattan                                          ,50 BATTERY PLACE,31704.0,R4-ELEVATOR
+1067116.0,0.3,1930,10014.0,3.0,154.0,West Village                                                               ,669 WASHINGTON STREET,69.0,R4-ELEVATOR
+1070696.0,0.2,1923,10023.0,6.0,116.0,Lincoln Square                                                             ,2054 BROADWAY,155.0,R9-CONDOPS
+1048556.0,0.25,1985,10028.0,5.0,171.0,Yorkville                                                                  ,128 EAST 85 STREET,138.0,R4-ELEVATOR
+1087710.0,0.45,2002,10003.0,2.0,236.0,East Village                                                               ,527 EAST 13 STREET,40.0,R9-CONDOPS
+1002045.0,0.25,1920,10013.0,1.0,137.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,75 LEONARD STREET,39.0,R4-ELEVATOR
+1008142.0,0.65,1920,10014.0,3.0,111.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,312 BOWERY,37.0,R4-ELEVATOR
+1008080.0,0.1,1900,10012.0,3.0,104.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,188 AVENUE OF THE AMERICA,49.0,R2-WALK-UP
+1019536.0,0.25,1911,10003.0,2.0,168.0,Gramercy                                                                   ,239 PARK AVENUE SOUTH,48.0,R4-ELEVATOR
+1084303.0,0.55,1999,10024.0,6.0,196.0,Upper West Side                                                            ,2527 BROADWAY,171.0,R4-ELEVATOR
+1020214.0,0.2,1950,10016.0,4.0,163.0,Murray Hill-Kips Bay                                                       ,41 PARK AVENUE,78.0,R4-ELEVATOR
+,0.3,1960,10016.0,2.0,221.0,Murray Hill-Kips Bay                                                       ,657 2 AVENUE,72.0,R4-ELEVATOR
+1017030.0,0.2,1930,10016.0,4.0,158.0,Midtown-Midtown South                                                      ,121 EAST 31 STREET,74.0,R4-ELEVATOR
+1046261.0,0.45,1979,10021.0,5.0,236.0,Lenox Hill-Roosevelt Island                                                ,206 EAST 72 STREET,124.0,R4-ELEVATOR
+1008013.0,0.35,1900,10012.0,1.0,140.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,40 PRINCE STREET,49.0,R4-ELEVATOR
+1082612.0,0.55,1910,10009.0,2.0,116.0,East Village                                                               ,51 EAST 2 STREET,34.0,R2-WALK-UP
+1084726.0,0.1,1980,10128.0,4.0,192.0,Upper East Side-Carnegie Hill                                              ,1680 3 AVENUE,15801.0,R9-CONDOPS
+1038465.0,0.2,1963,10022.0,4.0,189.0,Turtle Bay-East Midtown                                                    ,311 EAST 54 STREET,98.0,R4-ELEVATOR
+1085778.0,0.0,1998,10280.0,1.0,246.0,Battery Park City-Lower Manhattan                                          ,400 CHAMBERS STREET,31704.0,R4-ELEVATOR
+1043547.0,0.55,1979,10065.0,4.0,218.0,Lenox Hill-Roosevelt Island                                                ,206 EAST 72 STREET,110.0,R4-ELEVATOR
+1001215.0,0.1,1905,10038.0,1.0,174.0,Battery Park City-Lower Manhattan                                          ,135 WILLIAM STREET,1502.0,R4-ELEVATOR
+1013724.0,0.0,1901,10011.0,3.0,149.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,236 WEST 15 STREET,81.0,R2-WALK-UP
+1044390.0,0.5,1969,10065.0,5.0,191.0,Lenox Hill-Roosevelt Island                                                ,1385 YORK AVENUE,110.0,R4-ELEVATOR
+1080300.0,0.25,1929,10011.0,3.0,177.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,241 9 AVENUE,99.0,R4-ELEVATOR
+1080748.0,0.15,1907,10003.0,2.0,196.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,27 WEST 16 STREET,52.0,R4-ELEVATOR
+1033386.0,0.15,2005,10024.0,6.0,206.0,Upper West Side                                                            ,2495 BROADWAY,175.0,R4-ELEVATOR
+1039474.0,0.25,1900,10022.0,4.0,228.0,Turtle Bay-East Midtown                                                    ,230 EAST 54 STREET,98.0,R2-WALK-UP
+1002836.0,0.1,1900,10013.0,1.0,118.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,36 LAIGHT STREET,39.0,R4-ELEVATOR
+1073786.0,0.45,1980,10028.0,5.0,190.0,Yorkville                                                                  ,1588 3 AVENUE,14401.0,R4-ELEVATOR
+1085795.0,0.7,1920,10009.0,2.0,141.0,Lower East Side                                                            ,67 PITT STREET,28.0,R2-WALK-UP
+1016304.0,0.25,1999,10010.0,2.0,206.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,736 AVENUE OF THE AMERICA,56.0,R4-ELEVATOR
+1079153.0,0.15,1964,10007.0,1.0,160.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,38 MURRAY STREET,21.0,R4-ELEVATOR
+1011185.0,0.3,2003,10014.0,3.0,237.0,West Village                                                               ,756 WASHINGTON STREET,73.0,R4-ELEVATOR
+1013828.0,0.05,1905,10011.0,3.0,192.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,259 WEST 15 STREET,81.0,R4-ELEVATOR
+1.0152720E+6,0.8,2000,10018.0,4.0,227.0,Midtown-Midtown South                                                      ,51 WEST 22 STREET,113.0,R4-ELEVATOR
+1048792.0,0.3,1985,10028.0,5.0,191.0,Yorkville                                                                  ,449 EAST 83 STREET,14602.0,R4-ELEVATOR
+1047949.0,0.15,1929,10028.0,4.0,165.0,Upper East Side-Carnegie Hill                                              ,16S EAST 83 STREET,14801.0,R9-CONDOPS
+104586200.00%,0.35,1920,10021.0,5.0,165.0,Lenox Hill-Roosevelt Island                                                ,334 EAST 79 STREET,124.0,R4-ELEVATOR
+1033227.0,0.25,1906,10024.0,6.0,112.0,Upper West Side                                                            ,200 RIVERSIDE DRIVE,175.0,R4-ELEVATOR
+1051139.0,0.15,1930,10028.0,5.0,154.0,Yorkville                                                                  ,402 EAST 83 STREET,136.0,R4-ELEVATOR
+1087651.0,0.4,2002,10023.0,6.0,206.0,Lincoln Square                                                             ,140 RIVERSIDE BOULEVARD,147.0,R4-ELEVATOR
+1084914.0,0.05,1900,10012.0,1.0,190.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,40 PRINCE STREET,43.0,R4-ELEVATOR
+1046842.0,0.25,1926,10028.0,4.0,216.0,Upper East Side-Carnegie Hill                                              ,1085 PARK AVENUE,15001.0,R4-ELEVATOR
+1023717.0,0.65,1910,10019.0,4.0,154.0,Midtown-Midtown South                                                      ,306 WEST 47 STREET,137.0,R4-ELEVATOR
+1076205.0,0.35,1997,10019.0,3.0,216.0,Clinton                                                                    ,831 8 AVENUE,139.0,R4-ELEVATOR
+1041237.0,0.45,1961,10065.0,4.0,167.0,Upper East Side-Carnegie Hill                                              ,225 EAST 70 STREET,122.0,R9-CONDOPS
+1014780.0,0.0,2000,10011.0,3.0,164.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,160 WEST 22 STREET,87.0,R4-ELEVATOR
+1066698.0,0.85,1995,10003.0,2.0,164.0,East Village                                                               ,150 FORSYTH STREET,40.0,R4-ELEVATOR
+1085819.0,0.45,1900,10009.0,2.0,138.0,East Village                                                               ,291 EAST 3 STREET,34.0,R2-WALK-UP
+1006142.0,0.45,1914,10003.0,2.0,160.0,East Village                                                               ,77 DELANCEY STREET,3602.0,R4-ELEVATOR
+1087722.0,0.65,2000,10018.0,3.0,226.0,Clinton                                                                    ,220 WEST 26 STREET,115.0,R4-ELEVATOR
+1087867.0,0.6,2004,10038.0,1.0,210.0,Battery Park City-Lower Manhattan                                          ,211 NORTH END AVENUE,1502.0,R4-ELEVATOR
+1006221.0,0.35,1910,10003.0,2.0,148.0,East Village                                                               ,149 ESSEX STREET,38.0,R9-CONDOPS
+1087723.0,0.15,2000,10011.0,3.0,165.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 ,180 WEST 20 STREET,91.0,R4-ELEVATOR
+1087770.0,0.25,1980,10016.0,2.0,221.0,Midtown-Midtown South                                                      ,115 EAST 34 STREET,74.0,R4-ELEVATOR
+1066890.0,0.25,1959,10003.0,2.0,134.0,East Village                                                               ,120 UNIVERSITY PLACE,42.0,R4-ELEVATOR
+1026892.0,0.05,1963,10019.0,3.0,177.0,Clinton                                                                    ,863 9 AVENUE,139.0,R4-ELEVATOR
+1071878.0,1.25,1910,10022.0,4.0,175.0,Turtle Bay-East Midtown                                                    ,48 EAST 76 STREET,98.0,R4-ELEVATOR
+1002740.0,0.4,1997,10013.0,1.0,146.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,147 CHAMBERS STREET,33.0,R4-ELEVATOR
+1030741.0,0.1,1922,10023.0,6.0,149.0,Upper West Side                                                            ,244 WEST 74 STREET,163.0,R4-ELEVATOR
+1029969.0,0.05,1913,10023.0,6.0,140.0,Lincoln Square                                                             ,113 WEST 71 STREET,157.0,R4-ELEVATOR
+1037599.0,0.6,1983,10017.0,4.0,200.0,Turtle Bay-East Midtown                                                    ,240 EAST 59 STREET,90.0,R4-ELEVATOR
+1000792.0,0.3,1900,10006.0,1.0,163.0,Battery Park City-Lower Manhattan                                          ,21 MAIDEN LANE,13.0,R4-ELEVATOR
+1070591.0,0.25,1900,10024.0,6.0,177.0,Upper West Side                                                            ,331 COLUMBUS AVENUE,165.0,R4-ELEVATOR
+1.0757060E+6,0.2,1988,10013.0,1.0,197.0,SoHo-TriBeCa-Civic Center-Little Italy                                     ,101 DUANE STREET,21.0,R4-ELEVATOR
+1033103.0,0.25,1963,10024.0,6.0,144.0,Upper West Side                                                            ,210 WEST 89 STREET,171.0,R4-ELEVATOR
+1017114.0,0.05,1955,10016.0,2.0,159.0,Midtown-Midtown South                                                      ,30 PARK AVENUE,74.0,R9-CONDOPS
+1087700.0,0.9,1997,10004.0,1.0,221.0,Battery Park City-Lower Manhattan                                          ,147 CHAMBERS STREET,9.0,R4-ELEVATOR
+1086247.0,0.0,1999,10069.0,6.0,221.0,Lincoln Square                                                             ,160 RIVERSIDE BOULEVARD,151.0,R4-ELEVATOR
+1.0266060E+6,0.0,1940,10019.0,3.0,116.0,Clinton                                                                    ,445 WEST 48 STREET,127.0,R9-CONDOPS

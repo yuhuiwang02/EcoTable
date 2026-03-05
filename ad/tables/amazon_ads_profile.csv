@@ -1,0 +1,21 @@
+id,_fivetran_deleted,_fivetran_synced,account_id,account_marketplace_string_id,account_name,account_sub_type,account_type,account_valid_payment_method,country_code,currency_code,daily_budget,timezone
+66,f,2022-12-16 23:08:24.26,ENTITY31174,XYZ123,Palpatine,,vendor,t,US,USD,0,America/Los_Angeles
+126,false,2022-12-15 01:46:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,92.38,America/Los_Angeles
+109,true,2023-01-04 04:38:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,-30.41,America/Los_Angeles
+66,true,2022-12-08 12:52:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,-49.52,America/Los_Angeles
+152,true,2022-12-29 16:37:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,-59.29,America/Los_Angeles
+93,false,2022-11-23 23:48:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,98.45,America/Los_Angeles
+66,true,2022-12-18 21:26:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,-23.28,America/Los_Angeles
+126,false,2022-12-08 15:25:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,-30.98,America/Los_Angeles
+162,true,2022-12-31 06:44:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,-22.78,America/Los_Angeles
+66,true,2022-12-19 17:29:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,74.19,America/Los_Angeles
+121,false,2022-12-08 18:52:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,23.49,America/Los_Angeles
+119,true,2022-12-14 02:56:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,59.23,America/Los_Angeles
+141,false,2022-11-26 06:41:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,-0.47,America/Los_Angeles
+93,false,2022-12-16 07:50:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,97.53,America/Los_Angeles
+126,false,2023-01-10 08:20:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,98.54,America/Los_Angeles
+107,false,2022-11-17 18:03:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,24.18,America/Los_Angeles
+66,false,2023-01-06 13:10:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,-59.84,America/Los_Angeles
+66,false,2023-01-14 14:59:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,72.03,America/Los_Angeles
+66,false,2022-11-17 07:42:24,ENTITY31174,XYZ123,Palpatine,,vendor,false,US,USD,34.97,America/Los_Angeles
+111,false,2023-01-14 18:22:24,ENTITY31174,XYZ123,Palpatine,,vendor,true,US,USD,89.25,America/Los_Angeles

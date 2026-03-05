@@ -1,0 +1,572 @@
+[
+  {
+    "table": "targeting_keyword_report",
+    "dataset": "amazon_ads",
+    "actions_count": 2,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "keyword_id",
+        "merged_with": "campaign_budget_amount",
+        "new_column": "keyword_id-campaign_budget_amount"
+      },
+      {
+        "type": "cell",
+        "column": "campaign_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "keyword_history",
+    "dataset": "microsoft_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "ad_group_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "ad_group_history",
+    "dataset": "microsoft_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "campaign_id",
+        "merged_with": "end_date",
+        "new_column": "campaign_id-end_date"
+      }
+    ]
+  },
+  {
+    "table": "campaign_history",
+    "dataset": "tiktok_ads",
+    "actions_count": 0,
+    "actions": []
+  },
+  {
+    "table": "product_ad_history",
+    "dataset": "amazon_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "state",
+        "new_column": "id-state"
+      }
+    ]
+  },
+  {
+    "table": "order_item",
+    "dataset": "amazon_selling_partner",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "asin",
+        "merged_with": "ioss_number",
+        "new_column": "asin-ioss_number"
+      }
+    ]
+  },
+  {
+    "table": "item_product_type",
+    "dataset": "amazon_selling_partner",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "asin",
+        "merged_with": "marketplace_id",
+        "new_column": "asin-marketplace_id"
+      }
+    ]
+  },
+  {
+    "table": "item_classification_sales_rank",
+    "dataset": "amazon_selling_partner",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "asin",
+        "column_type": "string",
+        "noise_method": "special_char"
+      }
+    ]
+  },
+  {
+    "table": "item_identifier",
+    "dataset": "amazon_selling_partner",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "asin",
+        "merged_with": "_fivetran_synced",
+        "new_column": "asin-_fivetran_synced"
+      }
+    ]
+  },
+  {
+    "table": "int_amazon_selling_partner__item",
+    "dataset": "amazon_selling_partner",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "asin",
+        "merged_with": "item_height_value",
+        "new_column": "asin-item_height_value"
+      }
+    ]
+  },
+  {
+    "table": "search_term_report",
+    "dataset": "apple_search_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "unpivot",
+        "condition_column": "ad_group_name",
+        "join_column": "campaign_id"
+      }
+    ]
+  },
+  {
+    "table": "organization",
+    "dataset": "zendesk",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "ad_group_report",
+    "dataset": "apple_search_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "ad_group_id",
+        "merged_with": "avg_cpa_currency",
+        "new_column": "ad_group_id-avg_cpa_currency"
+      }
+    ]
+  },
+  {
+    "table": "keyword_report",
+    "dataset": "apple_search_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "tap_through_rate",
+        "new_column": "id-tap_through_rate"
+      }
+    ]
+  },
+  {
+    "table": "ad_history",
+    "dataset": "tiktok_ads",
+    "actions_count": 0,
+    "actions": []
+  },
+  {
+    "table": "section",
+    "dataset": "asana",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "project_id",
+        "new_column": "id-project_id"
+      }
+    ]
+  },
+  {
+    "table": "int_asana__task_assignee",
+    "dataset": "asana",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "task_id",
+        "merged_with": "assignee_user_id",
+        "new_column": "task_id-assignee_user_id"
+      }
+    ]
+  },
+  {
+    "table": "stg_fivetran_platform__transformation_runs",
+    "dataset": "fivetran_log",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "destination_id",
+        "merged_with": "updated_at",
+        "new_column": "destination_id-updated_at"
+      }
+    ]
+  },
+  {
+    "table": "repo_team",
+    "dataset": "github",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "pivot",
+        "pivot_column": "permission",
+        "join_column_as_value": "team_id"
+      }
+    ]
+  },
+  {
+    "table": "team",
+    "dataset": "github",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "skipped_structure_incompatible"
+      }
+    ]
+  },
+  {
+    "table": "pull_request",
+    "dataset": "github",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "issue_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "pull_request_review",
+    "dataset": "github",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "pull_request_id",
+        "merged_with": "_fivetran_synced",
+        "new_column": "pull_request_id-_fivetran_synced"
+      }
+    ]
+  },
+  {
+    "table": "issue_merged",
+    "dataset": "github",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "issue_id",
+        "column_type": "numeric",
+        "noise_method": "percentage_format"
+      }
+    ]
+  },
+  {
+    "table": "account_history",
+    "dataset": "pendo",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "last_visit",
+        "new_column": "id-last_visit"
+      }
+    ]
+  },
+  {
+    "table": "campaign_stats",
+    "dataset": "google_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "active_view_viewability",
+        "new_column": "id-active_view_viewability"
+      }
+    ]
+  },
+  {
+    "table": "media_history",
+    "dataset": "instagram_business",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "user_id",
+        "merged_with": "ig_id",
+        "new_column": "user_id-ig_id"
+      }
+    ]
+  },
+  {
+    "table": "media_insights",
+    "dataset": "instagram_business",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "reel_likes",
+        "new_column": "id-reel_likes"
+      }
+    ]
+  },
+  {
+    "table": "user_history",
+    "dataset": "instagram_business",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "follows_count",
+        "new_column": "id-follows_count"
+      }
+    ]
+  },
+  {
+    "table": "automation_recipient",
+    "dataset": "mailchimp",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "automation_email_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "search_query_performance_daily_report",
+    "dataset": "microsoft_ads",
+    "actions_count": 3,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "account_id",
+        "merged_with": "language",
+        "new_column": "account_id-language"
+      },
+      {
+        "type": "cell",
+        "column": "keyword_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      },
+      {
+        "type": "cell",
+        "column": "ad_group_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "campaign_performance_daily_report",
+    "dataset": "microsoft_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "campaign_id",
+        "column_type": "numeric",
+        "noise_method": "percentage_format"
+      }
+    ]
+  },
+  {
+    "table": "keyword_performance_daily_report",
+    "dataset": "microsoft_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "campaign_id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "feature_history",
+    "dataset": "pendo",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "page_id",
+        "merged_with": "dirty",
+        "new_column": "page_id-dirty"
+      }
+    ]
+  },
+  {
+    "table": "application_history",
+    "dataset": "pendo",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "id",
+        "column_type": "numeric",
+        "noise_method": "scientific_notation"
+      }
+    ]
+  },
+  {
+    "table": "visitor_history",
+    "dataset": "pendo",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "n_id",
+        "new_column": "id-n_id"
+      }
+    ]
+  },
+  {
+    "table": "guide_event",
+    "dataset": "pendo",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "visitor_id",
+        "column_type": "string",
+        "noise_method": "lowercase"
+      }
+    ]
+  },
+  {
+    "table": "campaign_geo_region_daily_report",
+    "dataset": "snapchat_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "unpivot",
+        "condition_column": "attachment_view_completion",
+        "join_column": "campaign_id"
+      }
+    ]
+  },
+  {
+    "table": "adgroup_history",
+    "dataset": "tiktok_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "adgroup_id",
+        "merged_with": "video_download",
+        "new_column": "adgroup_id-video_download"
+      }
+    ]
+  },
+  {
+    "table": "campaign_country_report",
+    "dataset": "tiktok_ads",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "skipped_structure_incompatible"
+      }
+    ]
+  },
+  {
+    "table": "tracking_category_has_option",
+    "dataset": "xero",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "row",
+        "subtype": "skipped_structure_incompatible"
+      }
+    ]
+  },
+  {
+    "table": "account",
+    "dataset": "xero",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "code",
+        "merged_with": "type",
+        "new_column": "code-type"
+      }
+    ]
+  },
+  {
+    "table": "brand",
+    "dataset": "zendesk",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "id",
+        "merged_with": "_fivetran_synced",
+        "new_column": "id-_fivetran_synced"
+      }
+    ]
+  },
+  {
+    "table": "ticket_chat_event",
+    "dataset": "zendesk",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "cell",
+        "column": "chat_id",
+        "column_type": "string",
+        "noise_method": "lowercase"
+      }
+    ]
+  },
+  {
+    "table": "ticket_field_history",
+    "dataset": "zendesk",
+    "actions_count": 1,
+    "actions": [
+      {
+        "type": "column",
+        "join_column": "ticket_id",
+        "merged_with": "updated",
+        "new_column": "ticket_id-updated"
+      }
+    ]
+  }
+]

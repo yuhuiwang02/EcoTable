@@ -1,0 +1,8 @@
+connection_name,schema_name,table_name,destination_id,measured_month,last_measured_at,free_monthly_active_rows,paid_monthly_active_rows,total_monthly_active_rows,connector_type,connection_id,destination_name
+this_connection,that_connection,drop_table,ups_trampoline,2022-02-01 00:00:00,2022-02-22,0,1,1,s3,this_connection,s_test
+this_connection,this_connection,my_table,ups_trampoline,2022-01-01 00:00:00,2022-01-31,0,46,46,s3,this_connection,s_test
+this_connection,that_connection,drop_table,television_trace,2022-03-01 00:00:00,2022-03-05,0,10,10,s3,this_connection,s_gcp
+this_connection,that_connection,drop_table,television_trace,2021-09-01 00:00:00,2021-09-19,0,0,0,s3,this_connection,s_gcp
+this_connection,that_connection,drop_table,television_trace,2022-06-01 00:00:00,2022-06-08,0,2,2,s3,this_connection,s_gcp
+this_connection,that_connection,drop_table,television_trace,2022-07-01 00:00:00,2022-07-29,0,5,5,s3,this_connection,s_gcp
+this_connection,that_connection,drop_table,television_trace,2022-05-01 00:00:00,2022-05-14,0,1,1,s3,this_connection,s_gcp

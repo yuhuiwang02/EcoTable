@@ -1,0 +1,108 @@
+address_street,full_location_address,full_location_phone_number,community_district,wireline_up,device_loaning,nta_code,calendar_year,borough_name,sat_open,:@computed_region_sbqj_enih
+"323 Roebling Street, 11211, Brooklyn, New York, USA","323 Roebling Street, 11211, Brooklyn, New York, USA",(718) 408-6792,301.0,10.0,N,BK0102,2025,Brooklyn,Closed,56.0
+"23-11 31st Road, 11106, Queens, New York, USA","23-11 31st Road, 11106, Queens, New York, USA",(718)-626-1500,401.0,73.8,N,QN0103,2025,Queens,Closed,72.0
+"501 Carlton Avenue, 11238, Brooklyn, New York, USA","501 Carlton Avenue, 11238, Brooklyn, New York, USA",(718) 783-7329,302.0,0.0,N,BK0203,2025,Brooklyn,10:00 AM - 5:00 PM,55.0
+"7712 18 Avenue, 11214, Brooklyn, New York, USA","7712 18 Avenue, 11214, Brooklyn, New York, USA",(7!8) 621-1081,311.0,13.5,Y,BK1101,2025,Brooklyn,Closed,37.0
+"720 East Manhattan, 11203, Brooklyn, New York, USA","720 East Manhattan, 11203, Brooklyn, New York, USA",(718) 773-7400,,5.0,Y,,2025,Brooklyn,Closed,40.0
+"131 Beach 19th Street, 11691, Queens, New York, USA","131 Beach 19th Street, 11691, Queens, New York, USA",(718) 434-8670,414.0,250.0,Y,QN1401,2025,Queens,Closed,59.0
+"570 East 137th Street, 10454, Bronx, New York, USA","570 East 137th Street, 10454, Bronx, New York, USA",(646)-214-2450,201.0,26.8,Y,BX0101,2025,Bronx,Closed,23.0
+"210 Alexander Avenue, 10454, Bronx, New York, USA","210 Alexander Avenue, 10454, Bronx, New York, USA",(718) 993-9355,201.0,0.0,N,BX0101,2025,Bronx,10:00 AM - 10:00 PM,23.0
+"81 East 181st Street, 10453, Bronx, New York, USA","81 East 181st Street, 10453, Bronx, New York, USA",(718) 933-5300,205.0,30.6,N,BX0503,2025,Bronx,Closed,29.0
+"501 Brielle Avenue, 10314, Staten Island, New York, USA","501 Brielle Avenue, 10314, Staten Island, New York, USA",(718) 667-3545,502.0,,Y,SI0203,2025,Staten Island,8am-3pm,75.0
+"3601 Surf Avenue , 11224, Brooklyn, New York, USA","3601 Surf Agenue , 11224, Brooklyn, New York, USA",(718) 373-3954,313.0,60.0,Y,BK1302,2025,Brooklyn,Closed,35.0
+"711 Seagirt Avenue, 11691, Queens, New York, USA","711 Seagirt Avenue, 11691, Queens, New York, USA",(718) 471-3110,414.0,51.0,N,QN1401,2025,Queens,Closed,59.0
+"127 East 58th Street, 10022, Manhattan, New York, USA","127 East 58th Street, 10022, Manhattan, New York, USA",(212) 759-7358,105.0,1000.0,Y,MN0604,2025,Manhattan,10:00 AM - 5:00 PM,10.0
+"425 Avenue of the Americas, 10011, Manhattan, New York, USA","425 Avenue of the Americas, 10011, Manhattan, New York, USA",(212) 243-4334,102.0,1000.0,Y,MN0203,2025,Manhattan,10:00 AM - 5:00 PM,3.0
+"455 Fifth Avenue, 10016, Manhattan, New York, USA","455 Fifth Avenue, 10016, Manhattan, New York, USA",(917)-275-6975,105.0,1000.0,Y,MN0502,2025,Manhattan,10:00 AM - 6:00 PM,8.0
+"756 10th Avenue, 10019, Manhattan, New York, USA","756 10th Avenue, 10019, Manhattan, New York, USA",(646) 726-4299,104.0,0.0,N,MN0402,2025,Manhattan,8:30 A.M - 4:30 P.M,10.0
+"10-25 41st Avenue, 11101, Queens, New York, USA","10-25 41st avenue, 11101, queens, new york, usa",(718) 784-7447,401.0,0.0,N,QN0105,2025,Queens,Closed,72.0
+"503 West 145th Street, 10031, Manhattan, New York, USA","503 West 145th Street, 10031, Manhattan, New York, USA",(212) 926-2147,109.0,1000.0,Y,MN0903,2025,Manhattan,11:00 AM - 5:00 PM,19.0
+"92-06 156th Avenue, 11414, Queens, New York, USA","92-06 156th Avenue, 11414, Queens, New York, USA",(718) 641-7086,410.0,500.0,Y,QN1003,2025,Queens,10am - 5pm,64.0
+"55 Pierrepont Street, 11201, Brooklyn, New York, USA","55 Pierrepont Street, 11201, Brooklyn, New York, USA",(718)-855-0326,302.0,10.8,N,BK0201,2025,Brooklyn,Closed,54.0
+"128-16 Rockaway Boulevard, 11420, Queens, New York, USA","128-16 Rockaway Boulevard, 11420, Queens, New York, USA",(718) 529-1660,410.0,500.0,Y,QN1001,2025,Queens,10am - 5pm,64.0
+"35-30 35th Street, 11106, Queens, New York, USA","35-30 35th Street, 11106, Queens, New York, USA",(718) 349-0444,401.0,22.9,Y,QN0103,2025,Queens,,72.0
+"1901 Mermaid Ave. (Near W. 19th St.), 11224, Brooklyn, New York, USA","1901 mermaid ave. (near w. 19th st.), 11224, brooklyn, new york, usa",(718) 265-3220,313.0,15.0,Y,BK1302,2025,Brooklyn,10:00AM - 5:00 PM,35.0
+"114 Taylor Street, 11249, Brooklyn, New York, USA","114 Taylor Street, 11249, Brooklyn, New York, USA",(718) 388-9242,301.0,10.0,N,BK0103,2025,Brooklyn,Closed,56.0
+"415 E 93rd St, 10128, Manhattan, New York, USA","415 E 93rd St, 10128, Manhattan, New York, USA",(212) 360-7620,108.0,0.0,N,MN0803,2025,Manhattan,Closed,11.0
+"715 East 105 Street, 11236, Brooklyn, New York, USA","715 East 105 Street, 11236, Brooklyn, New York, USA",(718) 257-0152,318.0,10.0,N,BK1803,2025,Brooklyn,10:00 AM - 10:00 PM,42.0
+"950 Union Avenue, 10459, Bronx, New York, USA","950 Union Avenue, 10459, Bronx, New York, USA",(718) 328-2810,203.0,28.1,Y,BX0202,2025,Bronx,Closed,25.0
+"340 Bushwick Avenue, 11206, Brooklyn, New York, USA","340 Bushwick Avenue, 11206, Brooklyn, New York, USA",(718) 602-1348,301.0,60.0,Y,BK0104,2025,Brooklyn,10:00AM - 5:00 PM,56.0
+"332 E 70th Street, 10021, Manhattan, New York, USA","332 E 70th Street, 10021, Manhattan, New York, USA",(212) 744-5022,108.0,5.1,N,MN0801,2025,Manhattan,Varies,11.0
+"10-43 41st Avenue, 11101, Queens, New York, USA","10-43 41st Avenue, 11101, Queens, New York, USA",(718) 937-6266,401.0,500.0,Y,QN0105,2025,Queens,10am - 5pm,72.0
+"109-04 160th Street, 11433, Queens, New York, USA","109-04 160th Street, 11433, Queens, New York, USA",(718) 297-7237 ext273,412.0,293.9,Y,QN1202,2025,Queens,10:00 AM - 5:00 PM,61.0
+"2424 Boston Road, 10467, Bronx, New York, USA","2424 Boston Road, 10467, Bronx, New York, USA",(718) 547-8827,211.0,21.4,Y,BX1104,2025,Bronx,Closed,32.0
+"106-20 Shore Front Parkway, 11694, Queens, New York, USA","106-20 Shore Front Parkway, 11694, Queens, New York, USA",(718)-634-3044,414.0,82.8,N,QN1403,2025,Queens,Closed,58.0
+"6802 Fort Hamilton Pkwy (at 68th St.), 11219, Brooklyn, New York, USA","6802 Fort Hamilton Pkwy (at 68th St.), 11219, Brooklyn, New York, USA",(718) 748-8001,310.0,10.0,Y,BK1002,2025,Brooklyn,10:00AM - 5:00 PM,41.0
+"1255 East 233rd Street, 10466, Bronx, New York, USA","1255 East 233rd Street, 10466, Bronx, New York, USA",(718) 798-3355,212.0,1000.0,Y,BX1202,2025,Bronx,10:00 AM - 5:00 PM,30.0
+"1320 Webster Avenue, 10456, Bronx, New York, USA","1320 Webster Avenue, 10456, Bronx, New York, USA",(718) 538-1515,203.0,33.8,Y,BX0302,2025,Bronx,Closed,25.0
+"463A 7th Street, 11215, Brooklyn, New York, USA","463A 7th Street, 11215, Brooklyn, New York, USA",(718)-832-3726,306.0,8.8,Y,BK0602,2025,Brooklyn,Closed,50.0
+"334 Madison Street, 10002, Manhattan, New York, USA","334 Madison Street, 10002, Manhattan, New York, USA",(212) 406-5044,103.0,37.3,N,MN0302,2025,Manhattan,Closed,4.0
+"776 Lorimer Street, 11222, Brooklyn, New York, USA","776 Lorimer Street, 11222, Brooklyn, New York, USA",(718) 218-2380,301.0,160.8,Y,BK0102,2025,Brooklyn,,57.0
+"9727 Seaview Ave. at E. 98th St. near Rockaway Pkwy., 11236, Brooklyn, New York, USA","9727 Seaview Ave. at E. 98th St. near Rockaway Pkwy., 11236, Brooklyn, New York, USA",(718) 241-3571,,15.0,Y,,2025,Brooklyn,10:00AM - 5:00 PM,42.0
+"203 Arlington Ave. at Warwick St., 11207, Brooklyn, New York, USA","203 Arlington Ave. at Warwick St., 11207, Brooklyn, New York, USA",(718) 277-6105,305.0,15.0,Y,BK0501,2025,Brooklyn,10:00AM - 5:00 PM,47.0
+"285 East 205th Street, 10467, Bronx, New York, USA","285 East 205th Street, 10467, Bronx, New York, USA",(718) 882-8239,207.0,1000.0,Y,BX0703,2025,Bronx,10:00 AM - 5:00 PM,34.0
+"37-44 21st Street, 11101, Queens, New York, USA","37-44 21st Street, 11101, Queens, New York, USA",(718) 752-3700,401.0,500.0,Y,QN0105,2025,Queens,10am - 5pm,72.0
+"131-40 Fowler Avenue, 11355, Queens, New York, USA","131-40 Fowler Avenue, 11355, Queens, New York, USA",(718) 353-7853,407.0,559.6,Y,QN8191,2025,Queens,10am-4pm,67.0
+"312 East 109 Street, 10029, Manhattan, New York, USA","312 East 109 Street, 10029, Manhattan, New York, USA",(212) 423-9665,111.0,13.4,N,MN1101,2025,Manhattan,Closed,14.0
+"7201 8th Avenue, 11228, Brooklyn, New York, USA","7201 8th Avenue, 11228, Brooklyn, New York, USA",(347) 560-6622,310.0,0.0,N,BK1002,2025,Brooklyn,Closed,41.0
+"2035 Nostrand Ave., 11210, Brooklyn, New York, USA","2035 Nostrand Ave., 11210, Brooklyn, New York, USA",(718) 421-1159,317.0,15.0,Y,BK1702,2025,Brooklyn,10:00AM - 5:00 PM,40.0
+"431 6th Ave, 11215, Brooklyn, New York, USA","431 6th Ave, 11215, Brooklyn, New York, USA",(718) 832-1853,306.0,60.0,Y,BK0602,2025,Brooklyn,10:00AM - 5:00 PM,50.0
+"161 Corbin Place, 11235, Brooklyn, New York, USA","161 Corbin Place, 11235, Brooklyn, New York, USA",(718) 646-4100,315.0,93.5,Y,BK1303,2025,Brooklyn,Closed,36.0
+"195 Graham Avenue, 11206, Brooklyn, New York, USA","195 Graham Avenue, 11206, Brooklyn, New York, USA",(347) 352-8788,301.0,3.0,N,BK0104,2025,Brooklyn,10:00 AM - 5:00 PM,56.0
+"3060 Middletown Road, 10461, Bronx, New York, USA","3060 Middletown Road, 10461, Bronx, New York, USA",(718) 792-6744,210.0,1000.0,Y,BX1002,2025,Bronx,10:00 AM - 5:00 PM,28.0
+"135 Second Avenue, 10003, Manhattan, New York, USA","135 Second Avenue, 10003, Manhattan, New York, USA",(212) 674-0947,103.0,1000.0,Y,MN0303,2025,Manhattan,10:00 AM - 5:00 PM,5.0
+"72-33 Vleigh Place, 11367, Queens, New York, USA","72-33 Vleigh Place, 11367, Queens, New York, USA",(718) 261-6654,408.0,500.0,Y,QN0801,2025,Queens,Closed,65.0
+"311 Greenwich Street 2nd Floor, 10013, Manhattan, New York, USA","311 Greenwich Street 2nd Floor, 10013, Manhattan, New York, USA",(212) 267-0499,101.0,10.5,Y,MN0102,2025,Manhattan,Closed,1.0
+"10 Jersey Street, 10012, Manhattan, New York, USA","10 Jersey Street, 10012, Manhattan, New York, USA",(212) 966-3424,102.0,1000.0,Y,MN0201,2025,Manhattan,10:00 AM - 5:00 PM,2.0
+"25 Fourth Ave. at Pacific St., 11217, Brooklyn, New York, USA","25 Fourth Ave. at Pacific St., 11217, Brooklyn, New York, USA",(718) 638-1531,306.0,200.0,Y,BK0602,2025,Brooklyn,10:00AM - 5:00 PM,50.0
+"188 Lincoln Avenue, 10454, Bronx, New York, USA","188 Lincoln Avenue, 10454, Bronx, New York, USA",(718) 665-2168,201.0,25.0,N,BX0101,2025,Bronx,Closed,23.0
+"150 West 100th Street, 10025, Manhattan, New York, USA","150 West 100th Street, 10025, Manhattan, New York, USA",(212) 222-8030,107.0,1000.0,Y,MN0703,2025,Manhattan,10:00 AM - 5:00 PM,15.0
+"86-25 Francis Lewis Boulevard, 11427, Queens, New York, USA","86-25 Francis Lewis Boulevard, 11427, Queens, New York, USA",(718) 454-6157,408.0,20.9,N,QN0804,2025,Queens,Closed,65.0
+"78 West 168th Street, 10452, Bronx, New York, USA","78 West 168th Street, 10452, Beonx, New York, USA",(718) 293-7800,204.0,1000.0,Y,BX0402,2025,Bronx,10:00 AM - 5:00 PM,27.0
+"5701 Avenue H, 11234, Brooklyn, New York, USA","5701 Avenue H, 11234, Brooklyn, New York, USA",(718)-241-7711,318.0,86.0,Y,BK1801,2025,Brooklyn,Closed,38.0
+"104 West 136th Street, 10030, Manhattan, New York, USA","104 West 136th Street, 10030, Manhattan, New York, USA",(212) 491-2070,110.0,1000.0,Y,MN1002,2025,Manhattan,11:00 AM - 5:00 PM,20.0
+"9502 Seaview Avenue, 11236, Brooklyn, New York, USA","9502 Seaview Avenue, 11236, Brooklyn, New York, USA",(718) 251-3700,318.0,77.6,Y,BK1803,2025,Brooklyn,Closed,42.0
+"35-32 21st Street, 11106, Queens, New York, USA","35-32 21st Street, 11106, Queens, New York, USA",(718) 784-2112,401.0,500.0,Y,QN0105,2025,Queens,Closed,72.0
+"3450 Boston Road, 10469, Bronx, New York, USA","3450 Boston Road, 10469, Bronx, New York, USA",(718) 654-9200,212.0,293.9,N,BX1202,2025,Bronx,Closed,30.0
+"155 Norway Avenue, 10305, Staten Island, New York, USA","155 Norway Avenue, 10305, Staten Island, New York, USA",(718) 815-0689,502.0,322.3,Y,SI0201,2025,Staten Island,3:00 PM - 11:00 PM,76.0
+"108-19 71st Avenue, 11375, Queens, New York, USA","108-19 71st Avenue, 11375, Queens, New York, USA",(718) 268-7934,406.0,500.0,Y,QN0602,2025,Queens,10am - 5pm,70.0
+"476 Fountain Avenue, 11208, Brooklyn, New York, USA","476 Fountain Avenue, 11208, Brooklyn, New York, USA",(347) 529-7333,305.0,30.4,N,BK0503,2025,Brooklyn,Closed,47.0
+"43-31 39th Street, 11104, Queens, New York, USA","43-31 39th Street, 11104, Queens, New York, USA",(718) 784-6173,402.0,20.0,Y,QN0202,2025,Queens,Closed,66.0
+"232 W 60th Street, 10023, Manhattan, New York, USA","232 W 60th Street, 10023, Manhattan, New York, USA",(212) 397-3159,107.0,86.6,Y,MN0701,2025,Manhattan,9am-3:30pm,12.0
+"155-06 Roosevelt Avenue, 11354, Queens, New York, USA","155-06 Roosevelt Avenue, 11354, Queens, New York, USA",(718) 461-1616,407.0,500.0,Y,QN0704,2025,Queens,10am - 5pm,67.0
+"Richmond Terrace & Faber Street, 10302, Staten Island, New York, USA","Richmond Terrace & Faber Street, 10302, Staten Island, New York, USA",(718) 816-5558,,68.2,Y,,2025,Staten Island,12pm-8pm,75.0
+"72-31 Metropolitan Avenue, 11379, Queens, New York, USA","72-31 Metropolitan Avenue, 11379, Queens, New York, USA",(718) 326-1390,405.0,500.0,Y,QN0504,2025,Queens,10am - 5pm,62.0
+"1000 Utica Ave. , 11203, Brooklyn, New York, USA","1000 Utica Ave. , 11203, Brooklyn, New York, USA",(718) 566-0054,317.0,15.0,Y,BK1703,2025,Brooklyn,10:00AM - 5:00 PM,40.0
+"1305 Cortelyou Rd. at Argyle Rd., 11226, Brooklyn, New York, USA","1305 Cortelyou Rd. at Argyle Rd., 11226, Brooklyn, New York, USA",(718) 693-7763,314.0,15.0,Y,BK1402,2025,Brooklyn,10:00AM - 5:00 PM,43.0
+"203 West 115th Street, 10026, Manhattan, New York, USA","203 West 115th Street, 10026, Manhattan, New York, USA",(212)-666-9393,110.0,1000.0,Y,MN1001,2025,Manhattan,10:00 AM - 5:00 PM,18.0
+"143-22 109th Avenue, 11435, Queens, New York, USA","143-22 109th Avenue, 11435, Queens, New York, USA",(718)-291-3935,412.0,195.5,Y,QN1202,2025,Queens,Closed,61.0
+"3016 Yates Avenue, 10469, Bronx, New York, USA","3016 Yates Avenue, 10469, Bronx, New York, USA",(347) 609-9960,211.0,13.3,Y,BX1103,2025,Bronx,10am to 9pm,32.0
+"1776 Story Avenue, 10473, Bronx, New York, USA","1776 Story Avenue, 10473, Bronx, New York, USA",(718) 893-3484,209.0,0.0,Y,BX0902,2025,Bronx,Closed,26.0
+"392 Blake Avenue, 11212, Brooklyn, New York, USA","392 Blake Avenue, 11212, Brooklyn, New York, USA",(718) 485-3719,316.0,29.0,N,BK1602,2025,Brooklyn,9:00 AM - 10:00 PM,46.0
+"2633 Adam Clayton Powell, Jr. Blvd., 10039, Manhattan, New York, USA","2633 Adam Clayton Powell, Jr. Blvd., 10039, Manhattan, New York, USA",(212)-281-4900,110.0,1000.0,Y,MN1002,2025,Manhattan,10:00 AM - 5:00 PM,20.0
+"214 Stuyvesant Avenue, 11221, Brooklyn, New York, USA","214 Stuyvesant Avenue, 11221, Brooklyn, New York, USA",(718) 226-0481 x50402,303.0,79.0,Y,BK0302,2025,Brooklyn,10am-5pm,52.0
+"850 E. 59th St. at Paerdegat Ave. , 11234, Brooklyn, New York, USA","850 E. 59th St. at Paerdegat Ave. , 11234, Brooklyn, New York, USA",(718) 241-3994,318.0,15.0,Y,BK1801,2025,Brooklyn,10:00AM - 5:00 PM,38.0
+"211 West 131st Street, 10027, Manhattan, New York, USA","211 West 131st Street, 10027, Manhattan, New York, USA",(212) 749-8428,110.0,420.2,Y,MN1002,2025,Manhattan,Closed,20.0
+"765 Manida Street, 10474, Bronx, New York, USA","765 Manida Street, 10474, Bronx, New York, USA",(718) 860-5544,202.0,92.0,Y,BX0201,2025,Bronx,8am-8pm,24.0
+"975 Waring Avenue, 10469, Bronx, New York, USA","975 Waring Avenue, 10469, Bronx, New York, USA",(718)-881-1758,211.0,80.0,Y,BX1104,2025,Bronx,Closed,32.0
+"86-07 Broadway, 11373, Queens, New York, USA","86-07 Broadway, 11373, Queens, New York, USA",(718) 271-1020,404.0,500.0,Y,QN0401,2025,Queens,10am - 5pm,68.0
+"196-36 Northern Boulevard, 11358, Queens, New York, USA","196-36 Northern Boulevard, 11358, Queens, New York, USA",(718) 357-6643,411.0,500.0,Y,QN1101,2025,Queens,10am - 5pm,69.0
+"55 East 102nd Street , 10029, Manhattan, New York, USA","55 East 102nd Street , 10029, Manhattan, New York, USA",(212) 289-2708,111.0,80.0,N,MN1101,2025,Manhattan,Closed,14.0
+"221 West 143rd Street, 10030, Manhattan, New York, USA","221 West 143rd Street, 10030, Manhattan, New York, USA",(646) 660-8953,110.0,227.5,Y,MN1002,2025,Manhattan,Closed,20.0
+"98-27 Metropolitan Avenue, 11375, Queens, New York, USA","98-27 Metropolitan Avenue, 11375, Queens, New York, USA",(718) 261-5512,406.0,500.0,Y,QN0602,2025,Queens,10am - 5pm,70.0
+"14-01 Astoria Boulevard, 11102, Queens, New York, USA","14-01 Astoria Boulevard, 11102, Queens, New York, USA",(718) 278-2220,401.0,500.0,Y,QN0102,2025,Queens,10am - 5pm,72.0
+"8 Thomas S. Boyland St. at Macon St., 11233, Brooklyn, New York, USA","8 Thomas S. Boyland St. at Macon St., 11233, Brooklyn, New York, USA",(718) 573-5224,,15.0,Y,,2025,Brooklyn,10:00AM - 5:00 PM,46.0
+"204 East 23rd Street 2nd Floor Manhattan, 10010, Manhattan, New York, USA","204 East 23rd Street 2nd Floor Manhattan, 10010, Manhattan, New York, USA",(646) 395-8083,106.0,34.0,N,MN0602,2025,Manhattan,Closed,7.0
+"372 East 152nd Street, 10455, Bronx, New York, USA","372 East 152nd Street, 10455, Bronx, New York, USA",(718) 665-2280,201.0,45.1,Y,BX0102,2025,Bronx,Closed,23.0
+"103-34 Lefferts Boulevard, 11419, Queens, New York, USA","103-34 Lefferts Boulevard, 11419, Queens, New York, USA",(718) 843-5950,410.0,500.0,Y,QN1001,2025,Queens,10am - 5pm,64.0
+"218-13 Linden Boulevard, 11411, Queens, New York, USA","218-13 Linden Boulevard, 11411, Queens, New York, USA",(718) 528-3535,413.0,500.0,Y,QN1304,2025,Queens,10am - 5pm,63.0
+"16-26 Cross Bay Boulevard, 11693, Queens, New York, USA","16-26 Cross Bay Boulevard, 11693, Queens, New York, USA",(718) 318-4943,414.0,500.0,Y,QN1403,2025,Queens,10am - 5pm,58.0
+"89-11 Merrick Boulevard, 11432, Queens, New York, USA","89-11 Merrick Boulevard, 11432, Queens, New York, USA",(718) 990-0700,412.0,500.0,Y,QN1201,2025,Queens,10am - 5pm,61.0
+"286 Cadman Plaza West, 11201, Brooklyn, New York, USA","286 Cadman Plaza West, 11201, Brooklyn, New York, USA",(718) 623-7100,302.0,200.0,Y,BK0201,2025,Brooklyn,10:00AM - 5:00 PM,54.0
+"157 Brabant Street, 10303, Staten Island, New York, USA","157 Brabant Street, 10303, Staten Island, New York, USA",(718) 698-0800,501.0,0.0,Y,SI0107,2025,Staten Island,3:00 PM - 11:00 PM,75.0
+"2600 Ocean Avenue , 11229, Brooklyn, New York, USA","2600 Ocean Avenue , 11229, Brooklyn, New York, USA",(718) 891-1110,315.0,10.5,N,BK1502,2025,Brooklyn,Closed,36.0
+"9 Murray Street, 10007, Manhattan, New York, USA","9 Murray Street, 10007, Manhattan, New York, USA",(212) 732-8186,101.0,1000.0,Y,MN0102,2025,Manhattan,10:00 AM - 5:00 PM,1.0
+"195 Linden Street, 11221, Brooklyn, New York, USA","195 Linden Street, 11221, Brooklyn, New York, USA",(718) 455-1100,304.0,22.3,Y,BK0402,2025,Brooklyn,Closed,53.0
+"225 Bricktown Way, 10309, Staten Island, New York, USA","225 Bricktown Way, 10309, Staten Island, New York, USA",(929) 284-3660,503.0,1000.0,Y,SI0305,2025,Staten Island,10:00 AM - 5:00 PM,77.0
+"20 Washington Square North, 10011, Manhattan, New York, USA","20 Washington Square North, 10011, Manhattan, New York, USA",(212)-777-3555 x 106,102.0,293.9,N,MN0202,2025,Manhattan,Closed,3.0
+"562-574 Madison Street, 11221, Brooklyn, New York, USA","562-574 Madison Street, 11221, Brooklyn, New York, USA",(718)-230-0824,303.0,324.2,Y,BK0302,2025,Brooklyn,Closed,52.0

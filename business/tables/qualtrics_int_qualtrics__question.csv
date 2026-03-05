@@ -1,0 +1,6 @@
+question_id,parent_question_id,question_text,survey_id,question_description,question_description_option,sub_question_key,sub_question_text,question_type,selector,sub_selector,is_data_hidden,is_data_private,is_question_deleted,validation_setting_force_response,validation_setting_force_response_type,validation_setting_type,data_export_tag,choice_data_export_tag,block_id,block_description,block_question_randomization,block_type,block_visibility,is_block_locked,is_block_deleted,next_answer_id,next_choice_id,source_relation
+QID9,QID9,Marks,SV_6Jcja72TpOiHjdX,Marks,UseText,,,CS,VRTL,TX,f,f,f,,,None,Q9,,,,,,,,,1,6,""
+QID9,QID9,Marks,SV_afWZKdnyaANAL5j,Marks,UseText,,,CS,VRTL,TX,f,f,f,,,None,Q9,,,,,,,,,1,6,""
+QID26,QID26,Click to write the question text,SV_djzINkbJIFJUs05,Click to write the question text,UseText,,,CS,VRTL,TX,,,f,,,None,Q21,,,,,,,,,1,4,""
+QID9,QID9,Marks,SV_06auvDLqWENyV6t,Marks,UseText,,,CS,VRTL,TX,f,f,f,,,None,Q9,,,,,,,,,1,6,""
+QID1,QID1,Tell About experience ?&nbsp;,SV_06auvDLqWENyV6t,Tell About experience ? ,UseText,,,DB,TB,,f,f,f,,,None,Q1,,,,,,,,,1,4,""

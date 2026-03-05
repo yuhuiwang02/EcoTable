@@ -1,0 +1,481 @@
+pivot-metric,pivot-value,permitid,axle2weight,totalnoofaxle,axle3loadrating,loadindescription,axle4space,loadoutheight,vehicletype,loadoutdescription,overalllength,vehicletypeother,steeringnooftires
+fullapplicationno,Jac-2015102-978,4229,23000.0,3.0,6990.0,,,,Dump Truck,,23.05,,2.0
+leasecompanyname,,2758,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+leasecompanyname,,3812,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,2475,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,con-20151027-1071,4322,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3248,35338.0,2.0,,,,,,,41.05,,
+leasecompanyname,,3356,19653.0,3.0,,,,,,,38.11,,
+fullapplicationno,Cor1-2014813-825,2555,23000.0,3.0,5750.0,,,,Cement Truck,,29.01,,2.0
+leasecompanyname,,3795,,,,Raw Bulk Milk,,12.03,,Empty,,,
+fullapplicationno,Cra-2015122-112,3273,36700.0,2.0,,,,,,,43.07,,
+leasecompanyname,,4395,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,Sup-20161229-1158,5886,22800.0,4.0,,,4.04,,,,43.1,,
+leasecompanyname,,4503,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2014925-1043,2773,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,2457,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3981,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3656,,,,,,,Tractor Trailer,,,,
+fullapplicationno,DEF1-2015119-87,3248,35338.0,2.0,,,,,,,41.05,,
+fullapplicationno,con-2015113-1228,4479,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-2015317-298,3459,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,Mon-2015123-122,3283,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4460,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,2633,23000.0,3.0,24020.0,,,,Other Single,,30.0,STAK,2.0
+leasecompanyname,,4366,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Val-201555-511,3672,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+fullapplicationno,Val-2015810-843,4004,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+fullapplicationno,A.-201569-626,3787,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3016,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,CAS1-2015831-905,4156,28640.0,3.0,28640.0,,,,Cement Truck,,33.06,,2.0
+leasecompanyname,,2561,29500.0,3.0,26600.0,,,,Dump Truck,,28.0,,2.0
+leasecompanyname,,4574,23291.0,4.0,,,5.05,,,,41.01,,
+fullapplicationno,Val-201539-255,3416,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+leasecompanyname,,2773,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,con-2014924-1025,2755,23000.0,3.0,5750.0,,,,Other Single,,28.06,utility,2.0
+leasecompanyname,,2711,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3133,22000.0,3.0,22000.0,,,,Dump Truck,,35.0,,2.0
+fullapplicationno,con-2015113-1221,4472,23000.0,3.0,24050.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,4328,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+fullapplicationno,SEV-201478-754,2484,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+fullapplicationno,con-2015826-880,4131,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,KIN-201536-236,3397,24680.0,3.0,8170.0,,,,Other Single,,35.0,BOOM TRUCK,2.0
+leasecompanyname,,4383,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,con-2015113-1216,4467,23000.0,3.0,5750.0,,,,Other Single,,34.0,vACTOR,2.0
+leasecompanyname,,2784,,,,,,,Tractor Trailer,,,,
+fullapplicationno,RAN-2015411-414,3575,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-20141125-1238,2968,,,,Bulk Raw MIlk,,11.06,,Empty,,,
+leasecompanyname,,2484,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+leasecompanyname,,2479,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,4472,23000.0,3.0,24050.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,2451,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,K &-2014117-1191,2921,29500.0,3.0,32400.0,,,,Dump Truck,,26.0,,2.0
+fullapplicationno,J.R-20141210-1308,3038,24000.0,2.0,,,,,Dump Truck,,20.04,,2.0
+fullapplicationno,Eas1-20141217-1390,3120,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3827,28800.0,3.0,6900.0,,,,Dump Truck,,23.05,,2.0
+fullapplicationno,Bay-20171129-767,6659,25000.0,3.0,,,,,,,23.03,,
+fullapplicationno,Wor-201492-851,2581,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3447,29500.0,3.0,9920.0,,,,Cement Truck,,23.09,,2.0
+leasecompanyname,,3273,36700.0,2.0,,,,,,,43.07,,
+leasecompanyname,,4322,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,Lon-20141210-1322,3052,10355.0,4.0,,,4.06,,,,33.06,,
+fullapplicationno,NYC1-20151019-1039,4290,,,,Raw Bulk Milk,,12.03,,Empty,,,
+fullapplicationno,SJ-201498-884,2614,23165.0,3.0,8800.0,,,,Other Single,,29.08,,2.0
+leasecompanyname,,2943,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3670,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3766,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Wor-2015318-329,3490,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Val-2014811-818,2548,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,EIG-2015317-286,3447,29500.0,3.0,9920.0,,,,Cement Truck,,23.09,,2.0
+fullapplicationno,SJ-201539-239,3400,25750.0,3.0,8800.0,,,,Other Single,,32.06,,2.0
+fullapplicationno,Val-2015713-746,3907,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3790,,,,Raw Bulk Milk,,12.03,,Empty,,,
+leasecompanyname,,2803,26000.0,3.0,26000.0,,,,Dump Truck,,35.0,,2.0
+fullapplicationno,Ult-2014729-794,2524,16006.0,3.0,,,,,,,35.08,,
+leasecompanyname,,3383,22000.0,3.0,9370.0,,,,Other Single,,32.04,TANK TRUCK,2.0
+leasecompanyname,,4269,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3480,,,,Bulk Raw Milk,,12.0,,Empty,,,
+fullapplicationno,SKA-2015116-63,3224,32200.0,2.0,,,,,,,41.02,,
+leasecompanyname,,2696,23000.0,3.0,5750.0,,,,Other Single,,34.0,stak,2.0
+fullapplicationno,L.F-201572-713,3874,16100.0,2.0,,,,,,,32.0,,
+fullapplicationno,Wor-2015318-322,3483,,,,Bulk Raw Milk,,12.0,,Empty,,,
+fullapplicationno,con-2015112-1178,4429,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,con-2014919-991,2721,23000.0,3.0,5750.0,,,,Other Single,,34.0,066UTILITY,2.0
+fullapplicationno,Wor-2015317-311,3472,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3416,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+fullapplicationno,NEW3-20141222-1404,3134,29500.0,3.0,32400.0,,,,Dump Truck,,28.0,,2.0
+fullapplicationno,ARC-201488-812,2542,26880.0,3.0,7610.0,,,,Other Single,,34.06,ROLLOFF,2.0
+fullapplicationno,Wor-20141125-1225,2955,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,Yon-2015821-875,4126,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3452,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3483,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,4479,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-2015317-319,3480,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,3245,36000.0,2.0,,,,,,,41.05,,
+fullapplicationno,The1-201478-759,2489,25000.0,3.0,7660.0,,,,Dump Truck,,31.06,,2.0
+leasecompanyname,,4222,28095.0,3.0,8800.0,,,,Other Single,,21.03,,2.0
+fullapplicationno,St-20141212-1361,3091,23000.0,3.0,6610.0,,,,Dump Truck,,22.04,,2.0
+leasecompanyname,,5946,25000.0,3.0,,,,,,,28.01,,
+fullapplicationno,Val-20151015-1008,4259,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+leasecompanyname,,3805,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,3446,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,COR-201585-808,3969,33500.0,2.0,,,,,Dump Truck,,20.06,,2.0
+fullapplicationno,G.A-201547-400,3561,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+leasecompanyname,,2702,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+fullapplicationno,NYC1-2015612-659,3820,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,2453,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,con-2015910-925,4176,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3944,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,Wor-20141125-1213,2943,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3199,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3484,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,2546,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,S.-2015123-128,3289,16000.0,4.0,,,4.06,,,,53.0,,
+fullapplicationno,Sup-20141217-1394,3124,10380.0,5.0,,,4.07,,,,39.04,,
+fullapplicationno,Sal-201599-915,4166,26880.0,3.0,6720.0,,,,Dump Truck,,34.06,,2.0
+leasecompanyname,,3512,23300.0,4.0,,,5.05,,,,36.01,,
+fullapplicationno,New1-2015116-79,3240,26100.0,2.0,,,,,,,38.02,,
+fullapplicationno,Val-201518-38,3199,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-20151029-1120,4371,23000.0,3.0,5750.0,,,,Other Single,,34.0,DUMP,2.0
+leasecompanyname,,4665,26500.0,3.0,,,,,,,25.05,,
+fullapplicationno,Dem-2015325-355,3516,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Val-2014811-816,2546,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,4259,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+fullapplicationno,Val-201539-254,3415,29500.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-2014919-981,2711,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,4330,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,con-2015112-1169,4420,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Cra-2015122-109,3270,36700.0,2.0,,,,,,,41.05,,
+fullapplicationno,con-2014924-1027,2757,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+leasecompanyname,,4006,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3399,24210.0,3.0,8800.0,,,,Other Single,,32.0,,2.0
+leasecompanyname,,4176,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3936,,,,Raw Bulk Milk,,12.03,,Empty,,,
+fullapplicationno,Wor-2014626-721,2451,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,6796,18740.0,4.0,,,4.06,,,,34.11,,
+leasecompanyname,,2606,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,con-2014918-966,2696,23000.0,3.0,5750.0,,,,Other Single,,34.0,stak,2.0
+leasecompanyname,,3115,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4471,23000.0,3.0,24020.0,,,,Other Single,,34.0,Utility,2.0
+leasecompanyname,,3907,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3548,29500.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-2015112-1199,4450,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+fullapplicationno,Val-201539-252,3413,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+leasecompanyname,,2721,23000.0,3.0,5750.0,,,,Other Single,,34.0,066UTILITY,2.0
+fullapplicationno,M-Q-201577-732,3893,18636.0,5.0,,,4.02,,,,40.0,,
+fullapplicationno,Sup-2015125-1333,4584,10380.0,5.0,,,4.07,,,,39.04,,
+fullapplicationno,Wor-201477-749,2479,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,con-2015112-1167,4418,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,2634,26000.0,3.0,8800.0,,,,Other Single,,34.05,,2.0
+leasecompanyname,,4432,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-2015611-644,3805,,,,Bulk Raw Milk,,12.0,,Empty,,,
+fullapplicationno,Ecc1-20151118-1280,4531,28640.0,3.0,28640.0,,,,Dump Truck,,27.0,,2.0
+fullapplicationno,con-2014925-1047,2777,23000.0,3.0,5750.0,,,,Other Single,,34.0,vACTOR,2.0
+leasecompanyname,,3872,29500.0,3.0,8100.0,,,,Dump Truck,,32.06,,2.0
+leasecompanyname,,4276,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3459,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,4156,28640.0,3.0,28640.0,,,,Cement Truck,,33.06,,2.0
+leasecompanyname,,2524,16006.0,3.0,,,,,,,35.08,,
+fullapplicationno,Hal-2015430-495,3656,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-20151029-1132,4383,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Par-20141014-1107,2837,29500.0,3.0,8100.0,,,,Dump Truck,,24.11,,2.0
+leasecompanyname,,4180,29500.0,3.0,9920.0,,,,Cement Truck,,33.0,,2.0
+fullapplicationno,NYC1-2015720-775,3936,,,,Raw Bulk Milk,,12.03,,Empty,,,
+leasecompanyname,,4517,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+leasecompanyname,,3400,25750.0,3.0,8800.0,,,,Other Single,,32.06,,2.0
+leasecompanyname,,3575,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4570,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-20151028-1097,4348,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,4290,,,,Raw Bulk Milk,,12.03,,Empty,,,
+fullapplicationno,NYC1-20151019-1044,4295,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,Bay-20141211-1325,3055,33000.0,2.0,,,,,,,41.02,,
+leasecompanyname,,2713,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,A.-2014610-690,2420,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Bay-20151214-1414,4665,26500.0,3.0,,,,,,,25.05,,
+fullapplicationno,PET-2015216-174,3335,32400.0,2.0,,,,,Other Single,,26.0,TANK TRUCK,4.0
+fullapplicationno,All-2015114-57,3218,20907.0,3.0,,,,,,,36.06,,
+fullapplicationno,New1-2015116-84,3245,36000.0,2.0,,,,,,,41.05,,
+leasecompanyname,,3397,24680.0,3.0,8170.0,,,,Other Single,,35.0,BOOM TRUCK,2.0
+fullapplicationno,con-2014918-952,2682,22700.0,3.0,5675.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3224,32200.0,2.0,,,,,,,41.02,,
+leasecompanyname,,3134,29500.0,3.0,32400.0,,,,Dump Truck,,28.0,,2.0
+fullapplicationno,Val-2015328-370,3531,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3239,36000.0,2.0,,,,,,,41.05,,
+fullapplicationno,con-2014919-987,2717,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,2955,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,4378,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,2973,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-2015317-294,3455,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3937,,,,Raw Bulk Milk,,12.03,,Empty,,,
+leasecompanyname,,2462,,,,,,,Tractor Trailer,,,,
+fullapplicationno,SJ-2015101-971,4222,28095.0,3.0,8800.0,,,,Other Single,,21.03,,2.0
+leasecompanyname,,2467,,,,,,,Tractor Trailer,,,,
+fullapplicationno,NYC1-2015612-651,3812,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,3472,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Mid-20141219-1403,3133,22000.0,3.0,22000.0,,,,Dump Truck,,35.0,,2.0
+fullapplicationno,SSP-20141226-1410,3140,16937.0,5.0,,,4.06,,,,45.05,,
+leasecompanyname,,3874,16100.0,2.0,,,,,,,32.0,,
+fullapplicationno,New1-2015116-78,3239,36000.0,2.0,,,,,,,41.05,,
+fullapplicationno,Wor-2015317-300,3461,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,con-2015113-1220,4471,23000.0,3.0,24020.0,,,,Other Single,,34.0,Utility,2.0
+fullapplicationno,Alm-201587-824,3985,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2015112-1175,4426,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3895,26400.0,3.0,,,,,,,35.07,,
+leasecompanyname,,3055,33000.0,2.0,,,,,,,41.02,,
+leasecompanyname,,2648,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+fullapplicationno,ISL-201472-732,2462,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Mid-2015105-987,4238,26000.0,3.0,26000.0,,,,Dump Truck,,35.0,,2.0
+leasecompanyname,,2682,22700.0,3.0,5675.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3415,29500.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,3498,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3249,38124.0,2.0,,,,,,,41.11,,
+fullapplicationno,con-2014917-924,2654,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,4584,10380.0,5.0,,,4.07,,,,39.04,,
+fullapplicationno,Wor-2014626-723,2453,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,Val-2014106-1076,2806,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,2736,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank,2.0
+leasecompanyname,,2855,23000.0,3.0,24020.0,,,,Other Single,,30.0,STAK,2.0
+fullapplicationno,con-2015317-284,3445,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+leasecompanyname,,3470,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2548,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-20141020-1125,2855,23000.0,3.0,24020.0,,,,Other Single,,30.0,STAK,2.0
+fullapplicationno,Y.M-2014926-1054,2784,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4216,26000.0,3.0,8800.0,,,,Other Single,,34.05,,2.0
+leasecompanyname,,3461,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,2420,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2014918-958,2688,22700.0,3.0,5675.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,C.A-2015615-661,3822,27720.0,3.0,6610.0,,,,Dump Truck,,21.11,,2.0
+fullapplicationno,con-2014917-910,2640,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4000,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,2511,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2968,,,,Bulk Raw MIlk,,11.06,,Empty,,,
+fullapplicationno,Yon-2015529-589,3750,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4295,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,con-20151027-1079,4330,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3283,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2489,25000.0,3.0,7660.0,,,,Dump Truck,,31.06,,2.0
+leasecompanyname,,2581,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3607,29500.0,3.0,29500.0,,,,Cement Truck,,32.04,,2.0
+leasecompanyname,,2596,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,4120,29500.0,3.0,8000.0,,,,Other Single,,29.0,,2.0
+fullapplicationno,con-2015113-1209,4460,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,3141,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Bar-2015414-418,3579,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2014919-976,2706,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,4473,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,A.-20141211-1324,3054,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,6621,23294.0,3.0,,,,,,,27.09,,
+leasecompanyname,,3992,23000.0,3.0,5750.0,,,,Cement Truck,,29.01,,2.0
+leasecompanyname,,3490,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,NEW3-2014814-831,2561,29500.0,3.0,26600.0,,,,Dump Truck,,28.0,,2.0
+fullapplicationno,ABL-2017621-384,6276,15500.0,4.0,,,2.09,,,,37.1,,
+leasecompanyname,,4420,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,CRA1-201577-734,3895,26400.0,3.0,,,,,,,35.07,,
+leasecompanyname,,2646,23000.0,3.0,5750.0,,,,Other Single,,34.0,1003utility,2.0
+leasecompanyname,,3270,36700.0,2.0,,,,,,,41.05,,
+leasecompanyname,,4450,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+leasecompanyname,,2954,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,PET-2015227-222,3383,22000.0,3.0,9370.0,,,,Other Single,,32.04,TANK TRUCK,2.0
+leasecompanyname,,3672,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+fullapplicationno,CRA1-2015325-351,3512,23300.0,4.0,,,5.05,,,,36.01,,
+fullapplicationno,Dou-2015528-585,3746,29500.0,3.0,7375.0,,,,Dump Truck,,26.05,,2.0
+fullapplicationno,Wor-20141125-1230,2960,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3516,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-20141125-1239,2969,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,NYC1-201562-605,3766,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Sca-2015420-446,3607,29500.0,3.0,29500.0,,,,Cement Truck,,32.04,,2.0
+fullapplicationno,Wor-20141125-1224,2954,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,2755,23000.0,3.0,5750.0,,,,Other Single,,28.06,utility,2.0
+fullapplicationno,PET-2015216-175,3336,29500.0,3.0,9370.0,,,,Other Single,,33.0,TANK TRUCK,2.0
+fullapplicationno,con-2014924-1028,2758,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+leasecompanyname,,2614,23165.0,3.0,8800.0,,,,Other Single,,29.08,,2.0
+leasecompanyname,,2777,23000.0,3.0,5750.0,,,,Other Single,,34.0,vACTOR,2.0
+leasecompanyname,,3531,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,NYC1-2015720-785,3946,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,Wor-2015317-309,3470,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2716,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3969,33500.0,2.0,,,,,Dump Truck,,20.06,,2.0
+leasecompanyname,,3274,36700.0,2.0,,,,,,,43.07,,
+fullapplicationno,SJ-2015101-965,4216,26000.0,3.0,8800.0,,,,Other Single,,34.05,,2.0
+leasecompanyname,,2914,,,,,,,Tractor Trailer,,,,
+fullapplicationno,A.-201554-499,3660,,,,,,,Tractor Trailer,,,,
+fullapplicationno,NYC1-201586-820,3981,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,4531,28640.0,3.0,28640.0,,,,Dump Truck,,27.0,,2.0
+leasecompanyname,,4451,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+leasecompanyname,,2640,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Eas1-2014117-1184,2914,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2495,28640.0,3.0,29500.0,,,,Cement Truck,,33.06,,2.0
+fullapplicationno,con-2015112-1200,4451,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+fullapplicationno,Wor-201492-876,2606,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3455,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3976,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,4238,26000.0,3.0,26000.0,,,,Dump Truck,,35.0,,2.0
+leasecompanyname,,4467,23000.0,3.0,5750.0,,,,Other Single,,34.0,vACTOR,2.0
+leasecompanyname,,3893,18636.0,5.0,,,4.02,,,,40.0,,
+fullapplicationno,RAN-20141126-1243,2973,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Bov-2014814-830,2560,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Mon-2015121-1319,4570,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3946,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,con-2015113-1217,4468,23000.0,3.0,5750.0,,,,Other Single,,34.0,VACTOR,2.0
+fullapplicationno,C.-20141229-1411,3141,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Mid-2014106-1073,2803,26000.0,3.0,26000.0,,,,Dump Truck,,35.0,,2.0
+fullapplicationno,con-2014922-1006,2736,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank,2.0
+fullapplicationno,Cas-2014107-1079,4120,29500.0,3.0,8000.0,,,,Other Single,,29.0,,2.0
+leasecompanyname,,5886,22800.0,4.0,,,4.04,,,,43.1,,
+fullapplicationno,NYC1-201569-629,3790,,,,Raw Bulk Milk,,12.03,,Empty,,,
+leasecompanyname,,2692,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,con-20151027-1089,4340,22700.0,3.0,5675.0,,,,Other Single,,34.0,1019utility,2.0
+fullapplicationno,Val-201542-377,3538,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+leasecompanyname,,4429,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-201492-866,2596,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,3288,17000.0,4.0,,,4.06,,,,53.0,,
+fullapplicationno,con-2015212-163,3324,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+leasecompanyname,,3120,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-201492-871,2601,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,NYC1-20151019-1045,4296,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,2654,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3787,,,,,,,Tractor Trailer,,,,
+fullapplicationno,J.B-2015116-1252,4503,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-2014627-727,2457,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,3451,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,Wor-2015318-323,3484,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,3186,35330.0,2.0,,,,,,,41.02,,
+leasecompanyname,,2599,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,4426,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3254,38499.0,2.0,,,,,,,43.08,,
+leasecompanyname,,3736,21000.0,4.0,,,4.06,,,,45.0,,
+leasecompanyname,,3538,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+leasecompanyname,,4296,,,,Raw Bulk Milk,,11.06,,Empty,,,
+leasecompanyname,,2555,23000.0,3.0,5750.0,,,,Cement Truck,,29.01,,2.0
+leasecompanyname,,3336,29500.0,3.0,9370.0,,,,Other Single,,33.0,TANK TRUCK,2.0
+leasecompanyname,,4131,23000.0,3.0,24020.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3561,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+leasecompanyname,,4371,23000.0,3.0,5750.0,,,,Other Single,,34.0,DUMP,2.0
+fullapplicationno,con-2015821-872,4123,23000.0,3.0,24020.0,,,,Other Single,,34.0,Utility,2.0
+leasecompanyname,,2942,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,con-2014320-307,2037,22500.0,3.0,5625.0,,,,Other Single,,34.0,,2.0
+fullapplicationno,con-2014919-990,2720,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,S.-2015123-127,3288,17000.0,4.0,,,4.06,,,,53.0,,
+leasecompanyname,,3479,,,,Bulk Raw Milk,,12.0,,Empty,,,
+leasecompanyname,,3091,23000.0,3.0,6610.0,,,,Dump Truck,,22.04,,2.0
+fullapplicationno,Cas-2014107-1077,4118,29500.0,3.0,8000.0,,,,Other Single,,32.07,,2.0
+leasecompanyname,,3558,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+leasecompanyname,,3413,29500.0,3.0,8800.0,,,,Other Single,,30.03,CONCRETE MIXER,2.0
+fullapplicationno,con-2014919-983,2713,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3218,20907.0,3.0,,,,,,,36.06,,
+leasecompanyname,,4229,23000.0,3.0,6990.0,,,,Dump Truck,,23.05,,2.0
+leasecompanyname,,3445,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,Atl-20171128-729,6621,23294.0,3.0,,,,,,,27.09,,
+leasecompanyname,,2560,,,,,,,Tractor Trailer,,,,
+fullapplicationno,LA 1-2015915-929,4180,29500.0,3.0,9920.0,,,,Cement Truck,,33.0,,2.0
+leasecompanyname,,2601,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3820,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,con-20151029-1128,4379,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-20141125-1240,2970,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2921,29500.0,3.0,32400.0,,,,Dump Truck,,26.0,,2.0
+fullapplicationno,Vin-201572-718,3879,29500.0,3.0,9230.0,,,,Dump Truck,,25.04,,2.0
+leasecompanyname,,3989,26000.0,3.0,6600.0,,,,Cement Truck,,29.05,,2.0
+fullapplicationno,con-20151029-1127,4378,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,2837,29500.0,3.0,8100.0,,,,Dump Truck,,24.11,,2.0
+leasecompanyname,,2605,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2688,22700.0,3.0,5675.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Ecc1-2014722-781,2511,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Val-201546-387,3548,29500.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,4166,26880.0,3.0,6720.0,,,,Dump Truck,,34.06,,2.0
+fullapplicationno,Cor1-201588-831,3992,23000.0,3.0,5750.0,,,,Cement Truck,,29.01,,2.0
+leasecompanyname,,3822,27720.0,3.0,6610.0,,,,Dump Truck,,21.11,,2.0
+leasecompanyname,,4348,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,3879,29500.0,3.0,9230.0,,,,Dump Truck,,25.04,,2.0
+fullapplicationno,Val-201546-394,3555,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-2014918-972,2702,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,2810,29500.0,3.0,8000.0,,,,Other Single,,33.07,,2.0
+fullapplicationno,Val-2015810-839,4000,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,CAS1-20151118-1283,4534,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3335,32400.0,2.0,,,,,Other Single,,26.0,TANK TRUCK,4.0
+fullapplicationno,Wor-201492-869,2599,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3054,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2726,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Cor1-201588-828,3989,26000.0,3.0,6600.0,,,,Cement Truck,,29.05,,2.0
+leasecompanyname,,4468,23000.0,3.0,5750.0,,,,Other Single,,34.0,VACTOR,2.0
+fullapplicationno,con-20151117-1266,4517,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,con-2015113-1222,4473,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,Val-201555-509,3670,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,con-20151029-1144,4395,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,2960,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,TRI1-201812-6,6796,18740.0,4.0,,,4.06,,,,34.11,,
+fullapplicationno,con-2017109-608,6500,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,3289,16000.0,4.0,,,4.06,,,,53.0,,
+fullapplicationno,Val-2015810-845,4006,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,NOR-201517-25,3186,35330.0,2.0,,,,,,,41.02,,
+fullapplicationno,La-2015630-711,3872,29500.0,3.0,8100.0,,,,Dump Truck,,32.06,,2.0
+leasecompanyname,,4418,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-20141125-1212,2942,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,con-20151027-1077,4328,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+fullapplicationno,SJ-2014915-904,2634,26000.0,3.0,8800.0,,,,Other Single,,34.05,,2.0
+leasecompanyname,,2720,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3798,28640.0,3.0,28640.0,,,,Cement Truck,,33.06,,2.0
+fullapplicationno,con-2014918-962,2692,22500.0,3.0,5625.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,3442,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+leasecompanyname,,3449,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,con-2014917-918,2648,22700.0,3.0,5675.0,,,,Other Single,,34.0,utility,2.0
+leasecompanyname,,4123,23000.0,3.0,24020.0,,,,Other Single,,34.0,Utility,2.0
+leasecompanyname,,2466,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4126,,,,,,,Tractor Trailer,,,,
+fullapplicationno,C.-20141229-1414,3144,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2014912-903,2633,23000.0,3.0,24020.0,,,,Other Single,,30.0,STAK,2.0
+fullapplicationno,US-2015120-93,3254,38499.0,2.0,,,,,,,43.08,,
+fullapplicationno,Wor-2015317-291,3452,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,2037,22500.0,3.0,5625.0,,,,Other Single,,34.0,,2.0
+fullapplicationno,LA 1-2015316-281,3442,29500.0,3.0,9920.0,,,,Cement Truck,,31.0,,2.0
+fullapplicationno,Cas-2014107-1080,2810,29500.0,3.0,8000.0,,,,Other Single,,33.07,,2.0
+leasecompanyname,,3240,26100.0,2.0,,,,,,,38.02,,
+leasecompanyname,,3746,29500.0,3.0,7375.0,,,,Dump Truck,,26.05,,2.0
+fullapplicationno,con-20151029-1115,4366,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,3140,16937.0,5.0,,,4.06,,,,45.05,,
+leasecompanyname,,2564,29500.0,3.0,32400.0,,,,Dump Truck,,28.0,,2.0
+fullapplicationno,L&M-2015525-575,3736,21000.0,4.0,,,4.06,,,,45.0,,
+fullapplicationno,Val-201546-397,3558,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+leasecompanyname,,3750,,,,,,,Tractor Trailer,,,,
+fullapplicationno,con-2015317-285,3446,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+leasecompanyname,,2806,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+leasecompanyname,,2969,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,CAS1-2014715-765,2495,28640.0,3.0,29500.0,,,,Cement Truck,,33.06,,2.0
+fullapplicationno,ISL-201472-736,2466,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2901,22000.0,3.0,7640.0,,,,Other Single,,25.02,FUEL TANK,2.0
+fullapplicationno,NOR-201716-54,5946,25000.0,3.0,,,,,,,28.01,,
+leasecompanyname,,6276,15500.0,4.0,,,2.09,,,,37.1,,
+leasecompanyname,,3038,24000.0,2.0,,,,,Dump Truck,,20.04,,2.0
+fullapplicationno,NYC1-201586-815,3976,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,3555,29000.0,3.0,8800.0,,,,Other Single,,31.03,CONCRETE MIXER,2.0
+fullapplicationno,Jac-2015616-666,3827,28800.0,3.0,6900.0,,,,Dump Truck,,23.05,,2.0
+leasecompanyname,,4534,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,3124,10380.0,5.0,,,4.07,,,,39.04,,
+leasecompanyname,,3052,10355.0,4.0,,,4.06,,,,33.06,,
+fullapplicationno,NYC1-2015720-776,3937,,,,Raw Bulk Milk,,12.03,,Empty,,,
+fullapplicationno,NYC1-20151019-1025,4276,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2542,26880.0,3.0,7610.0,,,,Other Single,,34.06,ROLLOFF,2.0
+fullapplicationno,Wor-201477-745,2475,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Bed-2016928-710,5438,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,4118,29500.0,3.0,8000.0,,,,Other Single,,32.07,,2.0
+fullapplicationno,SJ-201539-238,3399,24210.0,3.0,8800.0,,,,Other Single,,32.0,,2.0
+leasecompanyname,,2970,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,4470,23000.0,3.0,24020.0,,,,Other Single,,35.0,DUMP,2.0
+leasecompanyname,,4004,29000.0,3.0,8800.0,,,,Other Single,,31.03,,2.0
+leasecompanyname,,3985,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2706,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,,6659,25000.0,3.0,,,,,,,23.03,,
+fullapplicationno,NYC1-2015720-783,3944,,,,Raw Bulk Milk,,11.06,,Empty,,,
+fullapplicationno,con-2014917-916,2646,23000.0,3.0,5750.0,,,,Other Single,,34.0,1003utility,2.0
+fullapplicationno,con-2015112-1181,4432,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,Wor-2015317-318,3479,,,,Bulk Raw Milk,,12.0,,Empty,,,
+fullapplicationno,Wor-2015317-288,3449,,,,Bulk Raw Milk,,12.03,,Empty,,,
+fullapplicationno,DEF1-2015119-88,3249,38124.0,2.0,,,,,,,41.11,,
+leasecompanyname,,3660,,,,,,,Tractor Trailer,,,,
+fullapplicationno,NYC1-201569-634,3795,,,,Raw Bulk Milk,,12.03,,Empty,,,
+leasecompanyname,,3324,23000.0,3.0,24020.0,,,,Other Single,,34.0,Tank,2.0
+fullapplicationno,Wor-201492-875,2605,,,,Bulk Raw Milk,,11.06,,Empty,,,
+leasecompanyname,,2757,23000.0,3.0,5750.0,,,,Other Single,,34.0,tank truck,2.0
+fullapplicationno,Eas1-20141217-1385,3115,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-2015317-290,3451,,,,Bulk Raw Milk,,12.03,,Empty,,,
+leasecompanyname,,4340,22700.0,3.0,5675.0,,,,Other Single,,34.0,1019utility,2.0
+leasecompanyname,,3144,,,,,,,Tractor Trailer,,,,
+fullapplicationno,NYC1-20151019-1018,4269,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,Ast-2015224-195,3356,19653.0,3.0,,,,,,,38.11,,
+fullapplicationno,Wor-2014128-1286,3016,,,,Bulk Raw Milk,,11.06,,Empty,,,
+fullapplicationno,SMG-2014729-795,2525,29000.0,3.0,8100.0,,,,Dump Truck,,20.11,,2.0
+leasecompanyname,,3579,,,,,,,Tractor Trailer,,,,
+leasecompanyname,,2717,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+fullapplicationno,Eas-2015121-1323,4574,23291.0,4.0,,,5.05,,,,41.01,,
+fullapplicationno,CAS1-2015611-637,3798,28640.0,3.0,28640.0,,,,Cement Truck,,33.06,,2.0
+fullapplicationno,NEW3-2014815-834,2564,29500.0,3.0,32400.0,,,,Dump Truck,,28.0,,2.0
+leasecompanyname,,4379,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+fullapplicationno,con-2014919-986,2716,23000.0,3.0,5750.0,,,,Dump Truck,,34.0,,2.0
+leasecompanyname,,2525,29000.0,3.0,8100.0,,,,Dump Truck,,20.11,,2.0
+fullapplicationno,con-2014919-996,2726,23000.0,3.0,5750.0,,,,Other Single,,34.0,UTILITY,2.0
+leasecompanyname,Bedford Carp Construction Corp,5438,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Cra-2015122-113,3274,36700.0,2.0,,,,,,,43.07,,
+fullapplicationno,con-2015113-1219,4470,23000.0,3.0,24020.0,,,,Other Single,,35.0,DUMP,2.0
+leasecompanyname,,6500,23000.0,3.0,5750.0,,,,Other Single,,34.0,utility,2.0
+fullapplicationno,Ene-2014113-1171,2901,22000.0,3.0,7640.0,,,,Other Single,,25.02,FUEL TANK,2.0
+fullapplicationno,ISL-201472-737,2467,,,,,,,Tractor Trailer,,,,
+fullapplicationno,Wor-2015318-337,3498,,,,Bulk Raw Milk,,11.06,,Empty,,,

@@ -1,0 +1,7 @@
+contact_id,is_xm_directory_contact,is_research_core_contact,directory_id,email,email_domain,first_name,last_name,external_data_reference,language,is_unsubscribed_from_directory,unsubscribed_from_directory_at,last_modified_at,mailing_list_ids,count_mailing_lists_subscribed_to,count_mailing_lists_unsubscribed_from,created_at,source_relation
+hersanid,f,t,,bingbong@gmail.com,gmail.com,bing,bong,bingo123,EN,,,,ML_553543t34t534,1,0,2023-06-05 03:06:31.097,""
+CID_0VVnnbsmkvMGyrj,t,f,POOL_vw3p9mEAf692Aql,abc@abc.com,abc.com,S,M,,,f,,2020-08-04 09:53:30.138,"CG_T1Ppmm6s8WF9uRr, CG_3GrJHnIL1pkJw1P",2,0,2020-07-09 08:32:46.467,""
+CID_0pkCodbTgpX4awd,t,f,POOL_vw3p9mEAf692Aql,abc1@abc1.com,abc1.com,Saksham,Malhotra,,,f,,2020-06-24 15:44:46.38,CG_2B4IIbgp8ZC0NVn,1,0,2020-06-24 15:44:46.38,""
+CID_d060swLlNUKGa1L,t,f,POOL_vw3p9mEAf692Aql,abc2@abc2.com,abc2.com,Saksham,,,,f,,2020-06-24 15:45:38.798,CG_2B4IIbgp8ZC0NVn,1,0,2020-06-24 15:45:38.798,""
+CID_6fEsreE9bM67AVv,t,f,POOL_vw3p9mEAf692Aql,abc3@abc3.com,abc3.com,,Malhotra,,,f,,2020-06-24 15:49:29.33,CG_2B4IIbgp8ZC0NVn,1,0,2020-06-24 15:49:29.33,""
+CID_71bfBUYt4qS6Fsp,t,f,POOL_vw3p9mEAf692Aql,connect2me@gmail.com,gmail.com,me k,Aggarwal,,,f,,2020-08-07 09:48:20.651,,,,2020-08-06 05:50:32.126,""

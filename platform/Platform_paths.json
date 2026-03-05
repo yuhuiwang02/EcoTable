@@ -1,0 +1,130 @@
+[
+  {
+    "name": "int_asana__task_projects",
+    "dataset": "asana",
+    "edges": [
+      [
+        "asana_task_section",
+        "asana_project_task"
+      ],
+      [
+        "asana_task_section",
+        "asana_section"
+      ],
+      [
+        "asana_project_task",
+        "asana_project"
+      ]
+    ]
+  },
+  {
+    "name": "int_asana__project_user",
+    "dataset": "asana",
+    "edges": [
+      [
+        "asana_project_task",
+        "asana_project"
+      ],
+      [
+        "asana_project_task",
+        "asana_int_asana__task_assignee"
+      ]
+    ]
+  },
+  {
+    "name": "fivetran_platform__connection_status",
+    "dataset": "fivetran_log",
+    "edges": [
+      [
+        "fivetran_log_connection",
+        "fivetran_log_log"
+      ],
+      [
+        "fivetran_log_connection",
+        "fivetran_log_destination"
+      ]
+    ]
+  },
+  {
+    "name": "fivetran_platform__usage_history",
+    "dataset": "fivetran_log",
+    "edges": [
+      [
+        "fivetran_log_fivetran_platform__mar_table_history",
+        "fivetran_log_stg_fivetran_platform__credits_used"
+      ],
+      [
+        "fivetran_log_fivetran_platform__mar_table_history",
+        "fivetran_log_stg_fivetran_platform__transformation_runs"
+      ],
+      [
+        "fivetran_log_stg_fivetran_platform__credits_used",
+        "fivetran_log_stg_fivetran_platform__usage_cost"
+      ]
+    ]
+  },
+  {
+    "name": "fivetran_platform__mar_table_history",
+    "dataset": "fivetran_log",
+    "edges": [
+      [
+        "fivetran_log_incremental_mar",
+        "fivetran_log_connection"
+      ],
+      [
+        "fivetran_log_incremental_mar",
+        "fivetran_log_destination"
+      ]
+    ]
+  },
+  {
+    "name": "int_github__repository_teams",
+    "dataset": "github",
+    "edges": [
+      [
+        "github_repo_team",
+        "github_repository"
+      ],
+      [
+        "github_repo_team",
+        "github_team"
+      ]
+    ]
+  },
+  {
+    "name": "int_github__pull_request_times",
+    "dataset": "github",
+    "edges": [
+      [
+        "github_pull_request",
+        "github_issue_merged"
+      ],
+      [
+        "github_pull_request",
+        "github_requested_reviewer_history"
+      ],
+      [
+        "github_pull_request",
+        "github_issue"
+      ],
+      [
+        "github_pull_request",
+        "github_pull_request_review"
+      ]
+    ]
+  },
+  {
+    "name": "int_github__pull_request_reviewers",
+    "dataset": "github",
+    "edges": [
+      [
+        "github_user",
+        "github_requested_reviewer_history"
+      ],
+      [
+        "github_user",
+        "github_pull_request_review"
+      ]
+    ]
+  }
+]

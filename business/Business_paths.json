@@ -1,0 +1,122 @@
+[
+  {
+    "name": "amazon_selling_partner__orders",
+    "dataset": "amazon_selling_partner",
+    "edges": [
+      [
+        "amazon_selling_partner_orders",
+        "amazon_selling_partner_order_item_promotion_id"
+      ],
+      [
+        "amazon_selling_partner_orders",
+        "amazon_selling_partner_order_item"
+      ],
+      [
+        "amazon_selling_partner_orders",
+        "amazon_selling_partner_payment_method_detail_item"
+      ]
+    ]
+  },
+  {
+    "name": "int_amazon_selling_partner__item",
+    "dataset": "amazon_selling_partner",
+    "edges": [
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_product_type"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_image"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_display_group_sales_rank"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_relationship"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_dimension"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_classification_sales_rank"
+      ],
+      [
+        "amazon_selling_partner_item_summary",
+        "amazon_selling_partner_item_identifier"
+      ]
+    ]
+  },
+  {
+    "name": "amazon_selling_partner__order_items",
+    "dataset": "amazon_selling_partner",
+    "edges": [
+      [
+        "amazon_selling_partner_order_item",
+        "amazon_selling_partner_order_item_promotion_id"
+      ],
+      [
+        "amazon_selling_partner_order_item",
+        "amazon_selling_partner_int_amazon_selling_partner__item"
+      ],
+      [
+        "amazon_selling_partner_order_item",
+        "amazon_selling_partner_orders"
+      ]
+    ]
+  },
+  {
+    "name": "amazon_selling_partner__item_inventory",
+    "dataset": "amazon_selling_partner",
+    "edges": [
+      [
+        "amazon_selling_partner_fba_inventory_summary",
+        "amazon_selling_partner_int_amazon_selling_partner__item"
+      ],
+      [
+        "amazon_selling_partner_fba_inventory_summary",
+        "amazon_selling_partner_fba_inventory_researching_quantity_entry"
+      ]
+    ]
+  },
+  {
+    "name": "int_xero__tracking_categories_with_options",
+    "dataset": "xero",
+    "edges": [
+      [
+        "xero_tracking_category_has_option",
+        "xero_tracking_category_option"
+      ],
+      [
+        "xero_tracking_category_has_option",
+        "xero_tracking_category"
+      ]
+    ]
+  },
+  {
+    "name": "xero__invoice_line_items",
+    "dataset": "xero",
+    "edges": [
+      [
+        "xero_invoice_line_item",
+        "xero_invoice"
+      ],
+      [
+        "xero_invoice_line_item",
+        "xero_int_xero__invoice_line_item_pivoted_tracking_categories"
+      ],
+      [
+        "xero_invoice_line_item",
+        "xero_account"
+      ],
+      [
+        "xero_invoice",
+        "xero_contact"
+      ]
+    ]
+  }
+]

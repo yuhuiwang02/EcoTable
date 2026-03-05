@@ -1,0 +1,21 @@
+id,currency,name,payment_model,role_names,time_zone
+3219110,USD,Joseph Markiewicz,PAYG,"[""API Campaign Manager""]",UTC
+3219110,USD,Tip Tap Cat,LOC,"[""API Campaign Manager""]",UTC
+3219110,USD,Tip Tap Cat,STANDARD,"[""API Campaign Manager""]",UTC
+3219139,USD,Tip Tap Cat,PREMIUM,"[""API Campaign Manager""]",UTC
+3219187,USD,Joseph Markiewicz,ENTERPRISE,"[""API Campaign Manager""]",UTC
+3219175,USD,Tip Tap Cat,PAYG,"[""API Campaign Manager""]",UTC
+3219182,USD,Tip Tap Cat,LOC,"[""API Campaign Manager""]",UTC
+3219110,USD,Tip Tap Cat,STANDARD,"[""API Campaign Manager""]",UTC
+3219134,USD,Joseph Markiewicz,PREMIUM,"[""API Campaign Manager""]",UTC
+3219110,USD,Tip Tap Cat,ENTERPRISE,"[""API Campaign Manager""]",UTC
+3219139,USD,Tip Tap Cat,PAYG,"[""API Campaign Manager""]",UTC
+3219135,USD,Tip Tap Cat,LOC,"[""API Campaign Manager""]",UTC
+3219138,USD,Joseph Markiewicz,STANDARD,"[""API Campaign Manager""]",UTC
+3219176,USD,Tip Tap Cat,PREMIUM,"[""API Campaign Manager""]",UTC
+3219139,USD,Tip Tap Cat,ENTERPRISE,"[""API Campaign Manager""]",UTC
+3219175,USD,Tip Tap Cat,PAYG,"[""API Campaign Manager""]",UTC
+3219121,USD,Joseph Markiewicz,LOC,"[""API Campaign Manager""]",UTC
+3219175,USD,Tip Tap Cat,STANDARD,"[""API Campaign Manager""]",UTC
+3219135,USD,Tip Tap Cat,PREMIUM,"[""API Campaign Manager""]",UTC
+3219110,USD,Tip Tap Cat,ENTERPRISE,"[""API Campaign Manager""]",UTC

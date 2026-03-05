@@ -1,0 +1,186 @@
+latitude,longitude,book_ahead_service,fatal_crash_details,industry_sector,base_provides_safety_training,download_pdf_report,:@computed_region_f5dn_yrer,sector_average_base_safety_violations_per_vehicle,bin
+40.819497,-73.88907,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01051.pdf'},8.0,0.03,2006322.0
+40.922042,-74.069773,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01854.pdf'},,0.01,
+40.711192,-73.951373,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01492.pdf'},36.0,0.03,3062729.0
+40.782137,-73.826104,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01976.pdf'},22.0,0.01,4099032.0
+40.764583,-73.83384,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02845.pdf'},22.0,0.02,4308685.0
+40.701122,-73.83138,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02772.pdf'},46.0,0.02,4539223.0
+40.602225,-73.99315,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01336.pdf'},1.0,0.03,3165913.0
+40.751777,-73.930235,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02569.pdf'},39.0,0.03,4445806.0
+40.871273,-73.847835,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00029.pdf'},59.0,0.03,2056136.0
+40.779966,-73.898038,Yes,,luxury limo,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01236.pdf'},39.0,0.01,4016134.0
+40.807098,-73.952675,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00919.pdf'},18.0,0.03,1058485.0
+40.675852,-73.96356,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01741.pdf'},16.0,0.03,3028882.0
+40.765944,-73.912989,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00992.pdf'},39.0,0.03,4011371.0
+40.756839,-73.999141,Yes,,black car,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02067.pdf'},12.0,0.02,1012498.0
+40.803251,-73.90843,Yes,,luxury limo,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00078.pdf'},49.0,0.01,2004009.0
+40.59092,-73.961,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02429.pdf'},32.0,0.02,3195540.0
+40.617782,-74.101897,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01268.pdf'},4.0,0.03,5006704.0
+40.737289,-73.89592,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02457.pdf'},53.0,0.01,
+40.625703,-73.939761,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02639.pdf'},5.0,0.02,3208261.0
+40.752235,-73.85365,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00290.pdf'},65.0,0.03,4044997.0
+40.735627,-73.93612,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00111.pdf'},53.0,0.02,4003618.0
+40.75273,-74.006408,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02865.pdf'},12.0,0.02,1079184.0
+40.592698,-73.948855,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02382.pdf'},32.0,0.01,3336740.0
+40.82848,-73.394994,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01912.pdf'},,0.02,
+40.740878,-73.942043,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00837.pdf'},53.0,0.01,4000770.0
+40.688403,-73.819306,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02050.pdf'},62.0,0.03,4203928.0
+40.830027,-73.9723,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02662.pdf'},,0.01,
+40.752792,-73.88013,Yes,,livery,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00889.pdf'},65.0,0.03,4029523.0
+40.75273,-74.00641,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02882.pdf'},12.0,0.02,1079184.0
+40.681771,-73.98047,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01406.pdf'},68.0,0.03,3006280.0
+40.733779,-73.635348,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02518.pdf'},,0.02,
+40.59092,-73.961,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02536.pdf'},32.0,0.03,3195540.0
+40.717166,-73.857354,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02707.pdf'},40.0,0.03,4467417.0
+40.823087,-74.155516,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02113.pdf'},,0.01,
+40.864833,-73.92718,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01083.pdf'},47.0,0.03,1064228.0
+40.615053,-73.98053,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02420.pdf'},1.0,0.03,3133318.0
+40.680078,-73.958011,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00373.pdf'},69.0,0.03,3057847.0
+40.74393,-73.98819,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02800.pdf'},11.0,0.02,1015653.0
+40.74844,-73.93946,No,,luxury limo,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02512.pdf'},53.0,0.01,4005121.0
+40.633003,-74.134202,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02279.pdf'},4.0,0.03,5093473.0
+40.745304,-73.95305,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00053.pdf'},53.0,0.02,4000343.0
+40.816898,-73.92174,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02507.pdf'},49.0,0.02,2000892.0
+40.59013,-73.97402,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02891.pdf'},32.0,0.01,3195029.0
+40.680573,-73.858435,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01553.pdf'},46.0,0.03,4188806.0
+44.049572,-73.459721,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00225.pdf'},,0.03,1004044.0
+40.733337,-73.794706,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02841.pdf'},25.0,0.02,4149719.0
+40.82983,-73.94008,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01777.pdf'},37.0,0.03,1087011.0
+40.64135,-74.003067,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02396.pdf'},2.0,0.03,3137523.0
+40.640231,-73.918947,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02687.pdf'},5.0,0.03,3222497.0
+41.239825,-73.692715,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02574.pdf'},,0.01,
+40.707629,-73.875081,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01420.pdf'},54.0,0.03,
+40.829521,-73.94488,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01980.pdf'},37.0,0.01,1062192.0
+40.663353,-73.99894,Yes,,black car,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00628.pdf'},9.0,0.02,3395147.0
+40.828071,-73.898435,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02534.pdf'},34.0,0.02,2005052.0
+40.846629,-73.91736,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01285.pdf'},6.0,0.03,2008806.0
+40.754776,-73.931454,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02789.pdf'},39.0,0.02,4004533.0
+40.622778,-74.028889,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00475.pdf'},10.0,0.03,3153491.0
+40.678543,-73.944104,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00318.pdf'},69.0,0.03,3054005.0
+40.604462,-73.97275,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01243.pdf'},1.0,0.03,3177125.0
+40.673678,-73.731189,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02748.pdf'},63.0,0.03,4430502.0
+40.636171,-73.995073,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01029.pdf'},2.0,0.03,3137677.0
+40.624117,-73.993096,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02761.pdf'},1.0,0.02,3132375.0
+40.79961,-73.96671,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02782.pdf'},20.0,0.03,1056593.0
+40.660823,-73.738945,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01391.pdf'},63.0,0.03,4438958.0
+40.64171,-73.981345,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01146.pdf'},2.0,0.03,3404971.0
+40.755791,-73.88638,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02612.pdf'},65.0,0.02,4026894.0
+40.619195,-73.9831,Yes,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02047.pdf'},2.0,0.03,3132226.0
+40.716862,-73.958563,Yes,,black car,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02401.pdf'},36.0,0.02,3062202.0
+40.694913,-74.2986,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02173.pdf'},,0.01,
+40.707766,-73.80283,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01056.pdf'},25.0,0.03,4208929.0
+40.675021,-73.93308,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01485.pdf'},16.0,0.03,3035882.0
+40.940024,-73.993747,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02127.pdf'},,0.01,
+40.702722,-73.986888,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00859.pdf'},68.0,0.03,3000090.0
+40.628931,-73.94306,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01638.pdf'},5.0,0.03,3207322.0
+40.626121,-74.02424,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01918.pdf'},10.0,0.03,3150916.0
+40.636722,-73.983023,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02675.pdf'},2.0,0.03,3125696.0
+40.727327,-73.895678,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02369.pdf'},54.0,0.02,4431957.0
+40.6792,-73.749348,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02704.pdf'},63.0,0.03,4279239.0
+40.58133,-73.96395,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02614.pdf'},21.0,0.03,3196389.0
+40.771813,-73.924094,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01506.pdf'},39.0,0.03,4431110.0
+40.625609,-73.998684,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02331.pdf'},10.0,0.02,3141853.0
+40.635003,-74.13572,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02893.pdf'},4.0,0.02,5025524.0
+40.714797,-73.959738,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01312.pdf'},36.0,0.03,3062461.0
+40.678992,-73.674019,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02011.pdf'},,0.01,
+40.880322,-73.83821,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02728.pdf'},29.0,0.03,2000000.0
+40.854042,-73.979192,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02797.pdf'},,0.01,
+40.703281,-73.892304,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02334.pdf'},54.0,0.02,4088385.0
+40.640752,-73.92954,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02794.pdf'},61.0,0.02,3106182.0
+40.797865,-73.93448,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00882.pdf'},7.0,0.03,1054719.0
+40.70212,-73.82873,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00337.pdf'},46.0,0.03,4193532.0
+40.753913,-73.986417,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02406.pdf'},11.0,0.01,1015281.0
+40.847125,-73.932031,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00334.pdf'},47.0,0.03,1063606.0
+40.850482,-73.93131,Yes,,livery,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00221.pdf'},47.0,0.03,1063680.0
+40.68342,-73.871853,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01469.pdf'},45.0,0.03,3092798.0
+40.71643,-73.74506,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01311.pdf'},63.0,0.03,4226127.0
+40.694627,-73.954583,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02585.pdf'},69.0,0.03,3329636.0
+40.765513,-73.885949,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02683.pdf'},65.0,0.01,4535421.0
+40.772864,-73.74484,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01250.pdf'},26.0,0.03,
+40.712662,-73.783031,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02646.pdf'},41.0,0.02,4212336.0
+40.844865,-73.93368,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02293.pdf'},47.0,0.03,1063194.0
+40.68813,-73.831491,Yes,,livery,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01625.pdf'},46.0,0.03,4198845.0
+40.684202,-73.978792,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02254.pdf'},68.0,0.02,3388735.0
+40.779639,-73.901658,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01326.pdf'},39.0,0.03,4000000.0
+40.816803,-73.862557,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02243.pdf'},58.0,0.02,2021426.0
+40.699233,-73.806771,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02647.pdf'},41.0,0.03,4005121.0
+40.711698,-73.94077,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01529.pdf'},36.0,0.03,3323056.0
+40.609261,-73.97277,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01475.pdf'},2.0,0.03,3336466.0
+40.644713,-74.00387,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01606.pdf'},9.0,0.03,3011990.0
+40.754266,-73.919855,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02637.pdf'},39.0,0.02,4011002.0
+40.756538,-73.90135,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02499.pdf'},39.0,0.01,4025323.0
+40.650685,-74.004241,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02330.pdf'},9.0,0.02,3017784.0
+40.947141,-74.120658,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02142.pdf'},,0.01,
+40.698578,-73.9927,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01636.pdf'},68.0,0.03,3001699.0
+40.663784,-73.99518,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02663.pdf'},9.0,0.02,3342418.0
+40.756839,-73.999141,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02508.pdf'},12.0,0.03,1012498.0
+40.633811,-73.992805,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00170.pdf'},2.0,0.03,3138059.0
+40.638477,-73.983333,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00014.pdf'},2.0,0.02,3124940.0
+40.515342,-74.244236,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01452.pdf'},15.0,0.03,5088714.0
+40.767126,-73.930037,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01264.pdf'},39.0,0.03,4005905.0
+40.74272,-73.926116,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02155.pdf'},53.0,0.01,4002622.0
+40.645542,-73.97025,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01930.pdf'},60.0,0.03,3117426.0
+40.607815,-73.9952,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02628.pdf'},1.0,0.03,3163374.0
+40.638787,-73.984991,Yes,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01559.pdf'},2.0,0.03,3123255.0
+40.760239,-73.801781,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02015.pdf'},22.0,0.03,4534600.0
+40.612302,-73.963221,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02861.pdf'},2.0,0.02,3175197.0
+40.751092,-73.983587,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01990.pdf'},11.0,0.02,1075696.0
+40.637596,-74.078195,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02517.pdf'},4.0,0.02,5014528.0
+40.797415,-73.93931,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01065.pdf'},7.0,0.03,1052548.0
+40.751092,-73.983587,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00552.pdf'},11.0,0.01,1075696.0
+40.578441,-73.958514,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02762.pdf'},21.0,0.02,3245415.0
+40.701178,-73.887797,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02145.pdf'},54.0,0.03,4090184.0
+40.963117,-73.85523,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02394.pdf'},,0.01,
+40.589334,-73.973739,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02489.pdf'},32.0,0.01,3195029.0
+40.720059,-73.993416,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02316.pdf'},70.0,0.03,1005662.0
+40.75273,-74.00641,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02870.pdf'},12.0,0.02,1079184.0
+40.745789,-73.94498,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00296.pdf'},53.0,0.02,4000708.0
+40.745993,-73.515605,Yes,,luxury limo,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00208.pdf'},,0.01,
+40.719179,-73.992121,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02817.pdf'},70.0,0.02,1005585.0
+40.739553,-73.936994,Yes,,luxury limo,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02095.pdf'},53.0,0.01,4436704.0
+40.629944,-73.99765,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01091.pdf'},2.0,0.03,3140719.0
+40.782244,-73.8456,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02167.pdf'},22.0,0.02,4098828.0
+40.841813,-73.884211,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02798.pdf'},35.0,0.01,2010623.0
+40.60493,-73.754284,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00429.pdf'},51.0,0.03,4297949.0
+40.70241,-73.817189,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01437.pdf'},46.0,0.03,4196415.0
+40.75273,-74.00641,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02888.pdf'},12.0,0.02,1079184.0
+40.74628,-73.95263,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02219.pdf'},53.0,0.03,4436610.0
+40.869265,-73.91584,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02892.pdf'},47.0,0.02,1064888.0
+40.592698,-73.948855,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00448.pdf'},32.0,0.02,3336740.0
+40.68254,-73.8359,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01745.pdf'},62.0,0.03,4202135.0
+40.836412,-73.70666,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02157.pdf'},,0.01,
+40.695811,-73.827203,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02522.pdf'},46.0,0.01,4539223.0
+40.759847,-73.943275,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02027.pdf'},39.0,0.01,4004354.0
+40.64816,-74.00679,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02352.pdf'},9.0,0.02,3011245.0
+40.746232,-73.942696,Not Reported,0,luxury limo,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02287.pdf'},53.0,0.0,4000696.0
+40.868198,-73.91923,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01536.pdf'},47.0,0.03,1064869.0
+40.745471,-73.929332,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02390.pdf'},53.0,0.03,4003160.0
+40.718001,-73.73506,Yes,,livery,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00031.pdf'},63.0,0.03,4231214.0
+40.781591,-73.91386,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02667.pdf'},39.0,0.01,4019650.0
+40.654091,-74.006819,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01985.pdf'},9.0,0.02,3250687.0
+40.599286,-73.95541,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00319.pdf'},32.0,0.03,3336572.0
+40.75273,-74.006408,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02883.pdf'},12.0,0.02,1079184.0
+40.603784,-73.97256,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02488.pdf'},1.0,0.03,3396857.0
+40.754967,-73.8047,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02831.pdf'},22.0,0.02,4537084.0
+40.710957,-73.793225,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01048.pdf'},25.0,0.03,4210146.0
+40.638477,-73.983333,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00236.pdf'},2.0,0.02,3124940.0
+40.749703,-73.945981,Yes,,black car,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02005.pdf'},53.0,0.02,
+40.671975,-74.01146,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02288.pdf'},14.0,0.03,3336703.0
+40.695014,-73.75095,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01700.pdf'},41.0,0.03,4238527.0
+40.675938,-73.815393,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01540.pdf'},62.0,0.03,4000000.0
+40.891525,-74.03396,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02767.pdf'},,0.01,
+40.871551,-73.86485,Yes,,livery,Yes,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01239.pdf'},29.0,0.03,2056272.0
+40.630098,-73.96582,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02346.pdf'},60.0,0.03,3178896.0
+40.752237,-73.86731,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02643.pdf'},65.0,0.03,4043963.0
+40.825287,-73.91052,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00850.pdf'},34.0,0.03,2001539.0
+40.712662,-73.78303,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B01600.pdf'},41.0,0.03,4212336.0
+40.751839,-73.991313,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02241.pdf'},11.0,0.01,1014414.0
+40.765173,-73.88592,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02599.pdf'},65.0,0.01,4023527.0
+40.588885,-73.947936,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00559.pdf'},32.0,0.03,3204451.0
+40.75273,-74.00641,No,,black car,No,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02876.pdf'},12.0,0.02,1079184.0
+40.752286,-73.826739,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02638.pdf'},22.0,0.02,4311736.0
+40.757077,-73.937504,Not Reported,,luxury limo,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00472.pdf'},39.0,0.01,4004428.0
+40.830331,-73.918318,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02552.pdf'},50.0,0.02,2002739.0
+40.823574,-73.867859,Not Reported,,black car,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02846.pdf'},58.0,0.02,2022639.0
+40.632004,-74.006658,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B02436.pdf'},10.0,0.03,3141376.0
+40.887173,-73.9066,Not Reported,,livery,Not Reported,{'url': 'http://www.nyc.gov/html/tlc/downloads/pdf/B00501.pdf'},48.0,0.03,2122978.0
