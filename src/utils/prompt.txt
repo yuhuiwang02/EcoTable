@@ -49,11 +49,11 @@ After you complete the above selection and confirm that the two tables "can be c
 
 ---
 
-{TABLE1_HTML}
+{TABLE1}
 
 ---
 
-{TABLE2_HTML}
+{TABLE2}
 
 ---
 

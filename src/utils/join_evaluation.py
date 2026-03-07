@@ -821,7 +821,7 @@ def run_join_evaluation(
 
     # Get prompt template path
     utils_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'utils')
-    prompt_template_path = os.path.join(utils_dir, 'prompt_en.txt')
+    prompt_template_path = os.path.join(utils_dir, 'prompt.txt')
 
     llm_verifier = LLMVerifier(
         api_key=api_key,

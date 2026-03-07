@@ -13,9 +13,6 @@ from typing import Dict, List, Tuple, Optional, Any
 import pandas as pd
 from openai import OpenAI
 
-# Import prompt templates
-from .prompts import PROMPTS as DEFAULT_PROMPTS
-
 
 class LLMVerifier:
     """LLM-based table join relationship verifier (supports conversation context)"""
@@ -54,7 +51,7 @@ class LLMVerifier:
             self.client = None
 
         # Load prompt templates
-        self.prompts = DEFAULT_PROMPTS.copy()
+        self.prompts = ""
 
         # If custom prompts are provided, override default values
         if custom_prompts:
@@ -319,8 +316,8 @@ class LLMVerifier:
         table_names = f"- Table 1: `{table1_display}`\n- Table 2: `{table2_display}`"
 
         prompt = self.prompt_template.replace("{TABLE_NAMES}", table_names)
-        prompt = prompt.replace("{TABLE1_HTML}", "### 【Table 1】\n" + table1_serialized)
-        prompt = prompt.replace("{TABLE2_HTML}", "### 【Table 2】\n" + table2_serialized)
+        prompt = prompt.replace("{TABLE1}", "### 【Table 1】\n" + table1_serialized)
+        prompt = prompt.replace("{TABLE2}", "### 【Table 2】\n" + table2_serialized)
         prompt = prompt.replace("{CANDIDATE_LIST}", candidate_list)
 
         # Initialize conversation
